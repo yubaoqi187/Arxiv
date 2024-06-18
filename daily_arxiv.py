@@ -186,8 +186,8 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Video_Classification"]                = "Video Classification"
-    keywords["MultiModal"]                 = "MultiModal"+"Modal fusion"
+    keywords["diffusion"]                = "Diffusion"
+    keywords["diffusion_medical"]                 = "Diffusion medical segmentation"
    
 
     for topic,keyword in keywords.items():
