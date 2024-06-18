@@ -186,8 +186,9 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["diffusion"]                = "Diffusion"
-    keywords["diffusion_medical"]                 = "Diffusion medical segmentation"
+    keywords["Diffusion"]                = "Diffusion"
+    keywords["Diffusion_Segment"]                 = "Diffusion AND segment"
+    keywords["Diffusion_Semi"]                 = "Diffusion AND semi-"
    
 
     for topic,keyword in keywords.items():
@@ -195,7 +196,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 20)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
