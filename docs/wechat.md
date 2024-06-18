@@ -9513,3 +9513,29 @@
 - 2022-06-06, **Condensation inversion and Witt equivalence via generalised orbifolds**, Vincentas Mulevicius et.al., Paper: [http://arxiv.org/abs/2206.02611v1](http://arxiv.org/abs/2206.02611v1)
 - 2022-06-06, **BehavePassDB: Benchmarking Mobile Behavioral Biometrics**, Giuseppe Stragapede et.al., Paper: [http://arxiv.org/abs/2206.02502v1](http://arxiv.org/abs/2206.02502v1)
 
+## diffusion
+
+- 2024-06-17, **Autoregressive Image Generation without Vector Quantization**, Tianhong Li et.al., Paper: [http://arxiv.org/abs/2406.11838v1](http://arxiv.org/abs/2406.11838v1)
+- 2024-06-17, **Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**, Bingqi Ma et.al., Paper: [http://arxiv.org/abs/2406.11831v1](http://arxiv.org/abs/2406.11831v1)
+- 2024-06-17, **MegaScenes: Scene-Level View Synthesis at Scale**, Joseph Tung et.al., Paper: [http://arxiv.org/abs/2406.11819v1](http://arxiv.org/abs/2406.11819v1)
+- 2024-06-17, **DiffMM: Multi-Modal Diffusion Model for Recommendation**, Yangqin Jiang et.al., Paper: [http://arxiv.org/abs/2406.11781v1](http://arxiv.org/abs/2406.11781v1)
+- 2024-06-17, **Simulation of bright and dark diffuse multiple scattering lines in high-flux synchrotron X-ray experiments**, M. B. Estradiote et.al., Paper: [http://arxiv.org/abs/2406.11764v1](http://arxiv.org/abs/2406.11764v1)
+- 2024-06-17, **Site-percolation transition of run-and-tumble particles**, Soumya K. Saha et.al., Paper: [http://arxiv.org/abs/2406.11726v1](http://arxiv.org/abs/2406.11726v1)
+- 2024-06-17, **Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**, Luan Thanh Trinh et.al., Paper: [http://arxiv.org/abs/2406.11713v1](http://arxiv.org/abs/2406.11713v1), Code: **[https://github.com/thanhluantrinh/lddgan](https://github.com/thanhluantrinh/lddgan)**
+- 2024-06-17, **Tackling the Curse of Dimensionality in Fractional and Tempered Fractional PDEs with Physics-Informed Neural Networks**, Zheyuan Hu et.al., Paper: [http://arxiv.org/abs/2406.11708v1](http://arxiv.org/abs/2406.11708v1)
+- 2024-06-17, **Diffusion Generative Modelling for Divide-and-Conquer MCMC**, C. Trojan et.al., Paper: [http://arxiv.org/abs/2406.11664v1](http://arxiv.org/abs/2406.11664v1)
+- 2024-06-17, **AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection**, Lingjie Kong et.al., Paper: [http://arxiv.org/abs/2406.11643v1](http://arxiv.org/abs/2406.11643v1)
+
+## diffusion_medical
+
+- 2024-06-17, **Autoregressive Image Generation without Vector Quantization**, Tianhong Li et.al., Paper: [http://arxiv.org/abs/2406.11838v1](http://arxiv.org/abs/2406.11838v1)
+- 2024-06-17, **OoDIS: Anomaly Instance Segmentation Benchmark**, Alexey Nekrasov et.al., Paper: [http://arxiv.org/abs/2406.11835v1](http://arxiv.org/abs/2406.11835v1)
+- 2024-06-17, **Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**, Bingqi Ma et.al., Paper: [http://arxiv.org/abs/2406.11831v1](http://arxiv.org/abs/2406.11831v1)
+- 2024-06-17, **MegaScenes: Scene-Level View Synthesis at Scale**, Joseph Tung et.al., Paper: [http://arxiv.org/abs/2406.11819v1](http://arxiv.org/abs/2406.11819v1)
+- 2024-06-17, **DiffMM: Multi-Modal Diffusion Model for Recommendation**, Yangqin Jiang et.al., Paper: [http://arxiv.org/abs/2406.11781v1](http://arxiv.org/abs/2406.11781v1)
+- 2024-06-17, **Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**, Huaiji Zhou et.al., Paper: [http://arxiv.org/abs/2406.11766v1](http://arxiv.org/abs/2406.11766v1)
+- 2024-06-17, **Simulation of bright and dark diffuse multiple scattering lines in high-flux synchrotron X-ray experiments**, M. B. Estradiote et.al., Paper: [http://arxiv.org/abs/2406.11764v1](http://arxiv.org/abs/2406.11764v1)
+- 2024-06-17, **Site-percolation transition of run-and-tumble particles**, Soumya K. Saha et.al., Paper: [http://arxiv.org/abs/2406.11726v1](http://arxiv.org/abs/2406.11726v1)
+- 2024-06-17, **Graph Neural Re-Ranking via Corpus Graph**, Andrea Giuseppe Di Francesco et.al., Paper: [http://arxiv.org/abs/2406.11720v1](http://arxiv.org/abs/2406.11720v1)
+- 2024-06-17, **Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**, Luan Thanh Trinh et.al., Paper: [http://arxiv.org/abs/2406.11713v1](http://arxiv.org/abs/2406.11713v1), Code: **[https://github.com/thanhluantrinh/lddgan](https://github.com/thanhluantrinh/lddgan)**
+
