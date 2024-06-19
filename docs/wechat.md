@@ -1,4 +1,4 @@
-> Updated on 2024.06.18
+> Updated on 2024.06.19
 
 ## Video_Classification
 
@@ -9549,7 +9549,7 @@
 - 2024-06-17, **Site-percolation transition of run-and-tumble particles**, Soumya K. Saha et.al., Paper: [http://arxiv.org/abs/2406.11726v1](http://arxiv.org/abs/2406.11726v1)
 - 2024-06-17, **Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**, Luan Thanh Trinh et.al., Paper: [http://arxiv.org/abs/2406.11713v1](http://arxiv.org/abs/2406.11713v1), Code: **[https://github.com/thanhluantrinh/lddgan](https://github.com/thanhluantrinh/lddgan)**
 - 2024-06-17, **Tackling the Curse of Dimensionality in Fractional and Tempered Fractional PDEs with Physics-Informed Neural Networks**, Zheyuan Hu et.al., Paper: [http://arxiv.org/abs/2406.11708v1](http://arxiv.org/abs/2406.11708v1)
-- 2024-06-17, **Diffusion Generative Modelling for Divide-and-Conquer MCMC**, C. Trojan et.al., Paper: [http://arxiv.org/abs/2406.11664v1](http://arxiv.org/abs/2406.11664v1)
+- 2024-06-17, **Diffusion Generative Modelling for Divide-and-Conquer MCMC**, C. Trojan et.al., Paper: [http://arxiv.org/abs/2406.11664v1](http://arxiv.org/abs/2406.11664v1), Code: **[https://github.com/ctrojan/DiffusionDnC](https://github.com/ctrojan/DiffusionDnC)**
 - 2024-06-17, **AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection**, Lingjie Kong et.al., Paper: [http://arxiv.org/abs/2406.11643v1](http://arxiv.org/abs/2406.11643v1)
 - 2024-06-17, **ChildDiffusion: Unlocking the Potential of Generative AI and Controllable Augmentations for Child Facial Data using Stable Diffusion and Large Language Models**, Muhammad Ali Farooq et.al., Paper: [http://arxiv.org/abs/2406.11592v1](http://arxiv.org/abs/2406.11592v1)
 - 2024-06-17, **Anomalous mass diffusion in a binary mixture and Rayleigh-Benard instability**, A. Barletta et.al., Paper: [http://arxiv.org/abs/2406.11578v1](http://arxiv.org/abs/2406.11578v1)
@@ -9581,7 +9581,7 @@
 - 2024-06-03, **Partial data inverse problems for reaction-diffusion and heat equations**, Ali Feizmohammadi et.al., Paper: [http://arxiv.org/abs/2406.01387v1](http://arxiv.org/abs/2406.01387v1)
 - 2024-06-11, **SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**, Qilong Zhangli et.al., Paper: [http://arxiv.org/abs/2406.01062v2](http://arxiv.org/abs/2406.01062v2)
 - 2024-06-02, **Diffusion Features to Bridge Domain Gap for Semantic Segmentation**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2406.00777v1](http://arxiv.org/abs/2406.00777v1)
-- 2024-05-31, **MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**, Shurong Yang et.al., Paper: [http://arxiv.org/abs/2405.20851v1](http://arxiv.org/abs/2405.20851v1), Code: **[https://github.com/megvii-research/megfaceanimate](https://github.com/megvii-research/megfaceanimate)**
+- 2024-06-18, **MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**, Shurong Yang et.al., Paper: [http://arxiv.org/abs/2405.20851v2](http://arxiv.org/abs/2405.20851v2), Code: **[https://github.com/megvii-research/megfaceanimate](https://github.com/megvii-research/megfaceanimate)**
 - 2024-05-30, **P-MSDiff: Parallel Multi-Scale Diffusion for Remote Sensing Image Segmentation**, Qi Zhang et.al., Paper: [http://arxiv.org/abs/2405.20443v1](http://arxiv.org/abs/2405.20443v1), Code: **[https://github.com/QiZhangsama/P-MSDiff](https://github.com/QiZhangsama/P-MSDiff)**
 - 2024-05-30, **Don't drop your samples! Coherence-aware training benefits Conditional diffusion**, Nicolas Dufour et.al., Paper: [http://arxiv.org/abs/2405.20324v1](http://arxiv.org/abs/2405.20324v1)
 
