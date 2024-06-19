@@ -9555,6 +9555,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**A Characterization of Semi-Involutory MDS Matrices**|Tapas Chatterjee et.al.|[2406.12842v1](http://arxiv.org/abs/2406.12842v1)|null|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839v1](http://arxiv.org/abs/2406.12839v1)|null|
+|**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835v1](http://arxiv.org/abs/2406.12835v1)|null|
+|**2024-06-18**|**Neural Approximate Mirror Maps for Constrained Diffusion Models**|Berthy T. Feng et.al.|[2406.12816v1](http://arxiv.org/abs/2406.12816v1)|null|
+|**2024-06-18**|**The Mathematics of Dots and Pixels: On the Theoretical Foundations of Image Halftoning**|Felix Krahmer et.al.|[2406.12760v1](http://arxiv.org/abs/2406.12760v1)|null|
+|**2024-06-18**|**Extracting Training Data from Unconditional Diffusion Models**|Yunhao Chen et.al.|[2406.12752v1](http://arxiv.org/abs/2406.12752v1)|null|
+|**2024-06-18**|**Using the Haken-Strobl-Reineker Model to Determine the Temperature Dependence of the Diffusion Coefficient**|William Barford et.al.|[2406.12750v1](http://arxiv.org/abs/2406.12750v1)|null|
+|**2024-06-18**|**Liouville results for semilinear integral equations with conical diffusion**|Isabeau Birindelli et.al.|[2406.12720v1](http://arxiv.org/abs/2406.12720v1)|null|
+|**2024-06-18**|**Concurrent Accretion and Migration of Giant Planets in their Natal Disks with Consistent Accretion Torque**|Ya-Ping Li et.al.|[2406.12716v1](http://arxiv.org/abs/2406.12716v1)|null|
+|**2024-06-18**|**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation**|Miseul Kim et.al.|[2406.12688v1](http://arxiv.org/abs/2406.12688v1)|null|
+|**2024-06-18**|**Sparsifying dimensionality reduction of PDE solution data with Bregman learning**|Tjeerd Jan Heeringa et.al.|[2406.12672v1](http://arxiv.org/abs/2406.12672v1)|null|
+|**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671v1](http://arxiv.org/abs/2406.12671v1)|null|
+|**2024-06-18**|**Solutions to a chemotaxis system with spatially heterogeneous diffusion sensitivity**|Gregor Flüchter et.al.|[2406.12633v1](http://arxiv.org/abs/2406.12633v1)|null|
+|**2024-06-18**|**Learning Diffusion at Lightspeed**|Antonio Terpin et.al.|[2406.12616v1](http://arxiv.org/abs/2406.12616v1)|null|
+|**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592v1](http://arxiv.org/abs/2406.12592v1)|null|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575v1](http://arxiv.org/abs/2406.12575v1)|null|
+|**2024-06-18**|**Measuring Information Diffusion in Code Review at Spotify**|Michael Dorner et.al.|[2406.12553v1](http://arxiv.org/abs/2406.12553v1)|null|
+|**2024-06-18**|**Variational Distillation of Diffusion Policies into Mixture of Experts**|Hongyi Zhou et.al.|[2406.12538v1](http://arxiv.org/abs/2406.12538v1)|null|
+|**2024-06-18**|**On the analysis of two-time correlation functions: equilibrium vs non-equilibrium systems**|Anastasia Ragulskaya et.al.|[2406.12520v1](http://arxiv.org/abs/2406.12520v1)|null|
+|**2024-06-18**|**Large Deviations of Piecewise-Deterministic-Markov-Processes with Application to Stochastic Calcium Waves**|Gaetan Barbet et.al.|[2406.12493v1](http://arxiv.org/abs/2406.12493v1)|null|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838v1](http://arxiv.org/abs/2406.11838v1)|null|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831v1](http://arxiv.org/abs/2406.11831v1)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819v1](http://arxiv.org/abs/2406.11819v1)|null|
