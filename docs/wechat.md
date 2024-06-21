@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-06-20, **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/abs/2406.14555v1), Code: **[https://github.com/xinchengshuai/awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing)**
+- 2024-06-20, **Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**, Eyal Michaeli et.al., Paper: [http://arxiv.org/abs/2406.14551v1](http://arxiv.org/abs/2406.14551v1), Code: **[https://github.com/eyalmichaeli/saspa-aug](https://github.com/eyalmichaeli/saspa-aug)**
+- 2024-06-20, **Consistency Models Made Easy**, Zhengyang Geng et.al., Paper: [http://arxiv.org/abs/2406.14548v1](http://arxiv.org/abs/2406.14548v1), Code: **[https://github.com/locuslab/ect](https://github.com/locuslab/ect)**
+- 2024-06-20, **Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**, Nikita Starodubcev et.al., Paper: [http://arxiv.org/abs/2406.14539v1](http://arxiv.org/abs/2406.14539v1)
+- 2024-06-20, **Formulation of Chimera Gradient Flows for Chemotaxis Systems with Indirect Signal Production and Degenerate Diffusion**, Yoshifumi Mimura et.al., Paper: [http://arxiv.org/abs/2406.14536v1](http://arxiv.org/abs/2406.14536v1)
+- 2024-06-20, **ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**, Jian Yao et.al., Paper: [http://arxiv.org/abs/2406.14519v1](http://arxiv.org/abs/2406.14519v1), Code: **[https://github.com/yaojian95/ForSEplus](https://github.com/yaojian95/ForSEplus)**
+- 2024-06-20, **V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**, Rotem Shalev-Arkushin et.al., Paper: [http://arxiv.org/abs/2406.14510v1](http://arxiv.org/abs/2406.14510v1)
+- 2024-06-20, **SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**, Josef Dai et.al., Paper: [http://arxiv.org/abs/2406.14477v1](http://arxiv.org/abs/2406.14477v1), Code: **[https://github.com/pku-alignment/safe-sora](https://github.com/pku-alignment/safe-sora)**
+- 2024-06-20, **Video Generation with Learned Action Prior**, Meenakshi Sarkar et.al., Paper: [http://arxiv.org/abs/2406.14436v1](http://arxiv.org/abs/2406.14436v1)
+- 2024-06-20, **CollaFuse: Collaborative Diffusion Models**, Simeon Allmendinger et.al., Paper: [http://arxiv.org/abs/2406.14429v1](http://arxiv.org/abs/2406.14429v1), Code: **[https://github.com/simeonallmendinger/collafuse](https://github.com/simeonallmendinger/collafuse)**
+- 2024-06-20, **Blow-up for a double nonlocal heat equation**, Raúl Ferreira et.al., Paper: [http://arxiv.org/abs/2406.14428v1](http://arxiv.org/abs/2406.14428v1)
+- 2024-06-20, **Active Diffusion Subsampling**, Oisin Nolan et.al., Paper: [http://arxiv.org/abs/2406.14388v1](http://arxiv.org/abs/2406.14388v1)
+- 2024-06-20, **Efficient parameterization of transferable Atomic Cluster Expansion for water**, Eslam Ibrahim et.al., Paper: [http://arxiv.org/abs/2406.14306v1](http://arxiv.org/abs/2406.14306v1)
+- 2024-06-20, **VLBiasBench: A Comprehensive Benchmark for Evaluating Bias in Large Vision-Language Model**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2406.14194v1](http://arxiv.org/abs/2406.14194v1), Code: **[https://github.com/xiangkui-cao/vlbiasbench](https://github.com/xiangkui-cao/vlbiasbench)**
+- 2024-06-20, **In Tree Structure Should Sentence Be Generated**, Yaguang Li et.al., Paper: [http://arxiv.org/abs/2406.14189v1](http://arxiv.org/abs/2406.14189v1), Code: **[https://github.com/arklyg/sentree](https://github.com/arklyg/sentree)**
+- 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1)
+- 2024-06-20, **Automated detection and mapping of crystal tilt using thermal diffuse scattering in transmission electron microscopy**, Mauricio Cattaneo et.al., Paper: [http://arxiv.org/abs/2406.14151v1](http://arxiv.org/abs/2406.14151v1)
+- 2024-06-20, **ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**, Zhongjie Duan et.al., Paper: [http://arxiv.org/abs/2406.14130v1](http://arxiv.org/abs/2406.14130v1)
+- 2024-06-20, **HeartBeat: Towards Controllable Echocardiography Video Synthesis with Multimodal Conditions-Guided Diffusion Models**, Xinrui Zhou et.al., Paper: [http://arxiv.org/abs/2406.14098v1](http://arxiv.org/abs/2406.14098v1)
+- 2024-06-20, **Bridging bulk and surface: An interacting particle system towards the field-road diffusion model**, Matthieu Alfaro et.al., Paper: [http://arxiv.org/abs/2406.14093v1](http://arxiv.org/abs/2406.14093v1)
 - 2024-06-18, **A Characterization of Semi-Involutory MDS Matrices**, Tapas Chatterjee et.al., Paper: [http://arxiv.org/abs/2406.12842v1](http://arxiv.org/abs/2406.12842v1)
 - 2024-06-18, **Evaluating the design space of diffusion-based generative models**, Yuqing Wang et.al., Paper: [http://arxiv.org/abs/2406.12839v1](http://arxiv.org/abs/2406.12839v1)
 - 2024-06-18, **Influence Maximization via Graph Neural Bandits**, Yuting Feng et.al., Paper: [http://arxiv.org/abs/2406.12835v1](http://arxiv.org/abs/2406.12835v1)
@@ -9584,6 +9604,10 @@
 
 ## Diffusion_Segment
 
+- 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1)
+- 2024-06-20, **Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**, Tingyi Lin et.al., Paper: [http://arxiv.org/abs/2406.13977v1](http://arxiv.org/abs/2406.13977v1)
+- 2024-06-20, **Hierarchical Micro-Segmentations for Zero-Trust Services via Large Language Model (LLM)-enhanced Graph Diffusion**, Yinqiu Liu et.al., Paper: [http://arxiv.org/abs/2406.13964v1](http://arxiv.org/abs/2406.13964v1)
+- 2024-06-19, **StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images**, Rushikesh Zawar et.al., Paper: [http://arxiv.org/abs/2406.13735v1](http://arxiv.org/abs/2406.13735v1)
 - 2024-06-16, **Statistical description of mobile oscillators in embryonic pattern formation**, Koichiro Uriu et.al., Paper: [http://arxiv.org/abs/2406.10936v1](http://arxiv.org/abs/2406.10936v1)
 - 2024-06-15, **GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**, Bharat Singh et.al., Paper: [http://arxiv.org/abs/2406.10722v1](http://arxiv.org/abs/2406.10722v1)
 - 2024-06-13, **SimGen: Simulator-conditioned Driving Scene Generation**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2406.09386v1](http://arxiv.org/abs/2406.09386v1)
