@@ -1,4 +1,4 @@
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 
 ## Diffusion
 
@@ -19,7 +19,7 @@
 |**2024-06-20**|**Efficient parameterization of transferable Atomic Cluster Expansion for water**|Eslam Ibrahim et.al.|[2406.14306v1](http://arxiv.org/abs/2406.14306v1)|null|
 |**2024-06-20**|**VLBiasBench: A Comprehensive Benchmark for Evaluating Bias in Large Vision-Language Model**|Jie Zhang et.al.|[2406.14194v1](http://arxiv.org/abs/2406.14194v1)|**[link](https://github.com/xiangkui-cao/vlbiasbench)**|
 |**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189v1](http://arxiv.org/abs/2406.14189v1)|**[link](https://github.com/arklyg/sentree)**|
-|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186v1](http://arxiv.org/abs/2406.14186v1)|null|
+|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186v1](http://arxiv.org/abs/2406.14186v1)|**[link](https://github.com/LiuTingWed/CriDiff)**|
 |**2024-06-20**|**Automated detection and mapping of crystal tilt using thermal diffuse scattering in transmission electron microscopy**|Mauricio Cattaneo et.al.|[2406.14151v1](http://arxiv.org/abs/2406.14151v1)|null|
 |**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130v1](http://arxiv.org/abs/2406.14130v1)|null|
 |**2024-06-20**|**HeartBeat: Towards Controllable Echocardiography Video Synthesis with Multimodal Conditions-Guided Diffusion Models**|Xinrui Zhou et.al.|[2406.14098v1](http://arxiv.org/abs/2406.14098v1)|null|
@@ -69,7 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186v1](http://arxiv.org/abs/2406.14186v1)|null|
+|**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186v1](http://arxiv.org/abs/2406.14186v1)|**[link](https://github.com/LiuTingWed/CriDiff)**|
 |**2024-06-20**|**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**|Tingyi Lin et.al.|[2406.13977v1](http://arxiv.org/abs/2406.13977v1)|null|
 |**2024-06-20**|**Hierarchical Micro-Segmentations for Zero-Trust Services via Large Language Model (LLM)-enhanced Graph Diffusion**|Yinqiu Liu et.al.|[2406.13964v1](http://arxiv.org/abs/2406.13964v1)|null|
 |**2024-06-19**|**StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images**|Rushikesh Zawar et.al.|[2406.13735v1](http://arxiv.org/abs/2406.13735v1)|null|
