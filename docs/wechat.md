@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-06-21, **Network-Based Optimal Control of Pollution Growth**, Fausto Gozzi et.al., Paper: [http://arxiv.org/abs/2406.15338v1](http://arxiv.org/abs/2406.15338v1)
+- 2024-06-21, **Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**, Nadav Orzech et.al., Paper: [http://arxiv.org/abs/2406.15331v1](http://arxiv.org/abs/2406.15331v1)
+- 2024-06-21, **Global existence of solutions to a nonlocal equation with degenerate anisotropic diffusion**, Maria Eckardt et.al., Paper: [http://arxiv.org/abs/2406.15318v1](http://arxiv.org/abs/2406.15318v1)
+- 2024-06-21, **Interacting phase fields yielding phase separation on surfaces**, Benjamin Lledos et.al., Paper: [http://arxiv.org/abs/2406.15300v1](http://arxiv.org/abs/2406.15300v1)
+- 2024-06-21, **Symmetry-controlled SrRuO3/SrTiO3/SrRuO3 magnetic tunnel junctions:Spin polarization and its relevance to tunneling magnetoresistance**, Kartik Samanta et.al., Paper: [http://arxiv.org/abs/2406.15290v1](http://arxiv.org/abs/2406.15290v1)
+- 2024-06-21, **The random walk of intermittently self-propelled particles**, Agniva Datta et.al., Paper: [http://arxiv.org/abs/2406.15277v1](http://arxiv.org/abs/2406.15277v1)
+- 2024-06-21, **You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**, Hongyu Chen et.al., Paper: [http://arxiv.org/abs/2406.15269v1](http://arxiv.org/abs/2406.15269v1)
+- 2024-06-21, **Can cosmic rays explain the high ionisation rates in the Galactic Centre?**, Sruthiranjani Ravikularaman et.al., Paper: [http://arxiv.org/abs/2406.15260v1](http://arxiv.org/abs/2406.15260v1)
+- 2024-06-21, **Drag reduction in surfactant-contaminated superhydrophobic channels at high Péclet numbers**, Samuel D. Tomlinson et.al., Paper: [http://arxiv.org/abs/2406.15251v1](http://arxiv.org/abs/2406.15251v1)
+- 2024-06-21, **Unconstrained dynamic gel swelling generates transient surface deformations**, Alyssa VanZanten et.al., Paper: [http://arxiv.org/abs/2406.15224v1](http://arxiv.org/abs/2406.15224v1)
+- 2024-06-21, **Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2406.15219v1](http://arxiv.org/abs/2406.15219v1)
+- 2024-06-21, **Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**, Ali Naseh et.al., Paper: [http://arxiv.org/abs/2406.15213v1](http://arxiv.org/abs/2406.15213v1)
+- 2024-06-21, **A thick reaction zone model for premixed flames in two-dimensional channels**, Prabakaran Rajamanickam et.al., Paper: [http://arxiv.org/abs/2406.15190v1](http://arxiv.org/abs/2406.15190v1)
+- 2024-06-21, **Dispersion of solute in straining flows and boundary layers**, Prabakaran Rajamanickam et.al., Paper: [http://arxiv.org/abs/2406.15162v1](http://arxiv.org/abs/2406.15162v1)
+- 2024-06-21, **Convolutional dynamical sampling and some new results**, Longxiu Huang et.al., Paper: [http://arxiv.org/abs/2406.15122v1](http://arxiv.org/abs/2406.15122v1)
+- 2024-06-21, **ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**, Xianlong Wang et.al., Paper: [http://arxiv.org/abs/2406.15093v1](http://arxiv.org/abs/2406.15093v1), Code: **[https://github.com/cgcl-codes/eclipse](https://github.com/cgcl-codes/eclipse)**
+- 2024-06-21, **A3D: Does Diffusion Dream about 3D Alignment?**, Savva Ignatyev et.al., Paper: [http://arxiv.org/abs/2406.15020v1](http://arxiv.org/abs/2406.15020v1)
+- 2024-06-21, **Phase-field simulations opening new horizons in corrosion research**, E. Martínez-Pañeda et.al., Paper: [http://arxiv.org/abs/2406.15013v1](http://arxiv.org/abs/2406.15013v1)
+- 2024-06-21, **Stability of positive radial steady states for the parabolic Hénon-Lane-Emden system**, Daniel Devine et.al., Paper: [http://arxiv.org/abs/2406.14997v1](http://arxiv.org/abs/2406.14997v1)
+- 2024-06-21, **Probabilistic and Differentiable Wireless Simulation with Geometric Transformers**, Thomas Hehn et.al., Paper: [http://arxiv.org/abs/2406.14995v1](http://arxiv.org/abs/2406.14995v1)
 - 2024-06-20, **A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**, Xincheng Shuai et.al., Paper: [http://arxiv.org/abs/2406.14555v1](http://arxiv.org/abs/2406.14555v1), Code: **[https://github.com/xinchengshuai/awesome-image-editing](https://github.com/xinchengshuai/awesome-image-editing)**
 - 2024-06-21, **Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**, Eyal Michaeli et.al., Paper: [http://arxiv.org/abs/2406.14551v2](http://arxiv.org/abs/2406.14551v2), Code: **[https://github.com/eyalmichaeli/saspa-aug](https://github.com/eyalmichaeli/saspa-aug)**
 - 2024-06-20, **Consistency Models Made Easy**, Zhengyang Geng et.al., Paper: [http://arxiv.org/abs/2406.14548v1](http://arxiv.org/abs/2406.14548v1), Code: **[https://github.com/locuslab/ect](https://github.com/locuslab/ect)**
@@ -9604,6 +9624,7 @@
 
 ## Diffusion_Segment
 
+- 2024-06-21, **Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2406.15219v1](http://arxiv.org/abs/2406.15219v1)
 - 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1), Code: **[https://github.com/LiuTingWed/CriDiff](https://github.com/LiuTingWed/CriDiff)**
 - 2024-06-20, **Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**, Tingyi Lin et.al., Paper: [http://arxiv.org/abs/2406.13977v1](http://arxiv.org/abs/2406.13977v1)
 - 2024-06-20, **Hierarchical Micro-Segmentations for Zero-Trust Services via Large Language Model (LLM)-enhanced Graph Diffusion**, Yinqiu Liu et.al., Paper: [http://arxiv.org/abs/2406.13964v1](http://arxiv.org/abs/2406.13964v1)
