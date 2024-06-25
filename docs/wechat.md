@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-06-24, **StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**, Chongjie Ye et.al., Paper: [http://arxiv.org/abs/2406.16864v1](http://arxiv.org/abs/2406.16864v1)
+- 2024-06-24, **FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2406.16863v1](http://arxiv.org/abs/2406.16863v1), Code: **[https://github.com/arthur-qiu/freetraj](https://github.com/arthur-qiu/freetraj)**
+- 2024-06-24, **Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**, Junbang Liang et.al., Paper: [http://arxiv.org/abs/2406.16862v1](http://arxiv.org/abs/2406.16862v1)
+- 2024-06-24, **General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**, Yue Jian et.al., Paper: [http://arxiv.org/abs/2406.16821v1](http://arxiv.org/abs/2406.16821v1)
+- 2024-06-24, **Damping effects of viscous dissipation on growth of symmetric instability**, Laur Ferris et.al., Paper: [http://arxiv.org/abs/2406.16818v1](http://arxiv.org/abs/2406.16818v1)
+- 2024-06-24, **ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**, Yufei Liu et.al., Paper: [http://arxiv.org/abs/2406.16815v1](http://arxiv.org/abs/2406.16815v1)
+- 2024-06-24, **3D distortion-free, reduced field of view diffusion-prepared GRE at 3T**, Sarah McElroy et.al., Paper: [http://arxiv.org/abs/2406.16809v1](http://arxiv.org/abs/2406.16809v1)
+- 2024-06-24, **Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**, Jinkun Hao et.al., Paper: [http://arxiv.org/abs/2406.16710v1](http://arxiv.org/abs/2406.16710v1)
+- 2024-06-24, **Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**, Min-Seop Kwak et.al., Paper: [http://arxiv.org/abs/2406.16695v1](http://arxiv.org/abs/2406.16695v1)
+- 2024-06-24, **Repulsive Score Distillation for Diverse Sampling of Diffusion Models**, Nicolas Zilberstein et.al., Paper: [http://arxiv.org/abs/2406.16683v1](http://arxiv.org/abs/2406.16683v1)
+- 2024-06-24, **Toward Fairer Face Recognition Datasets**, Alexandre Fournier-Mongieux et.al., Paper: [http://arxiv.org/abs/2406.16592v1](http://arxiv.org/abs/2406.16592v1)
+- 2024-06-24, **OAML: Outlier Aware Metric Learning for OOD Detection Enhancement**, Heng Gao et.al., Paper: [http://arxiv.org/abs/2406.16525v1](http://arxiv.org/abs/2406.16525v1)
+- 2024-06-24, **DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**, Aiwen Jiang et.al., Paper: [http://arxiv.org/abs/2406.16477v1](http://arxiv.org/abs/2406.16477v1)
+- 2024-06-24, **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**, Shuwei Shi et.al., Paper: [http://arxiv.org/abs/2406.16476v1](http://arxiv.org/abs/2406.16476v1)
+- 2024-06-24, **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**, Yichen Sun et.al., Paper: [http://arxiv.org/abs/2406.16333v1](http://arxiv.org/abs/2406.16333v1)
+- 2024-06-24, **DreamVoice: Text-Guided Voice Conversion**, Jiarui Hai et.al., Paper: [http://arxiv.org/abs/2406.16314v1](http://arxiv.org/abs/2406.16314v1)
+- 2024-06-24, **YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**, Sandeep Mishra et.al., Paper: [http://arxiv.org/abs/2406.16273v1](http://arxiv.org/abs/2406.16273v1)
+- 2024-06-24, **Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**, Zhiyuan Chang et.al., Paper: [http://arxiv.org/abs/2406.16272v1](http://arxiv.org/abs/2406.16272v1)
+- 2024-06-24, **Label-free mid-infrared photothermal microscopy revisits intracellular thermal dynamics: what do fluorescent nanothermometers measure?**, Keiichiro Toda et.al., Paper: [http://arxiv.org/abs/2406.16265v1](http://arxiv.org/abs/2406.16265v1)
+- 2024-06-24, **Video-Infinity: Distributed Long Video Generation**, Zhenxiong Tan et.al., Paper: [http://arxiv.org/abs/2406.16260v1](http://arxiv.org/abs/2406.16260v1)
 - 2024-06-21, **Network-Based Optimal Control of Pollution Growth**, Fausto Gozzi et.al., Paper: [http://arxiv.org/abs/2406.15338v1](http://arxiv.org/abs/2406.15338v1)
 - 2024-06-21, **Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**, Nadav Orzech et.al., Paper: [http://arxiv.org/abs/2406.15331v1](http://arxiv.org/abs/2406.15331v1)
 - 2024-06-21, **Global existence of solutions to a nonlocal equation with degenerate anisotropic diffusion**, Maria Eckardt et.al., Paper: [http://arxiv.org/abs/2406.15318v1](http://arxiv.org/abs/2406.15318v1)
@@ -9624,6 +9644,7 @@
 
 ## Diffusion_Segment
 
+- 2024-06-23, **UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**, Pengfei Zhang et.al., Paper: [http://arxiv.org/abs/2406.16129v1](http://arxiv.org/abs/2406.16129v1)
 - 2024-06-21, **Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2406.15219v1](http://arxiv.org/abs/2406.15219v1)
 - 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1), Code: **[https://github.com/LiuTingWed/CriDiff](https://github.com/LiuTingWed/CriDiff)**
 - 2024-06-20, **Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**, Tingyi Lin et.al., Paper: [http://arxiv.org/abs/2406.13977v1](http://arxiv.org/abs/2406.13977v1)
