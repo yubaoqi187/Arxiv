@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|null|
+|**2024-06-25**|**Fairness in Social Influence Maximization via Optimal Transport**|Shubham Chowdhary et.al.|[2406.17736v1](http://arxiv.org/abs/2406.17736v1)|null|
+|**2024-06-25**|**Extreme Diffusion Measures Statistical Fluctuations of the Environment**|Jacob Hass et.al.|[2406.17733v1](http://arxiv.org/abs/2406.17733v1)|null|
+|**2024-06-25**|**On Explicit Solutions for Coupled Reaction-Diffusion and Burgers-Type Equations with Variable Coefficients Through a Riccati System**|José M. Escorcia et.al.|[2406.17690v1](http://arxiv.org/abs/2406.17690v1)|null|
+|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|null|
+|**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683v1](http://arxiv.org/abs/2406.17683v1)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
+|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672v1](http://arxiv.org/abs/2406.17672v1)|null|
+|**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636v1](http://arxiv.org/abs/2406.17636v1)|null|
+|**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|**[link](https://github.com/maxiao0234/ttga)**|
+|**2024-06-25**|**Diffusion-based Adversarial Purification for Intrusion Detection**|Mohamed Amine Merzouk et.al.|[2406.17606v1](http://arxiv.org/abs/2406.17606v1)|null|
+|**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|**[link](https://github.com/imlixinyang/director3d)**|
+|**2024-06-25**|**Small-ball estimates for random walks on groups**|Tom Hutchcroft et.al.|[2406.17587v1](http://arxiv.org/abs/2406.17587v1)|null|
+|**2024-06-25**|**Anisotropic Brownian particles under resetting**|Subhasish Chaki et.al.|[2406.17550v1](http://arxiv.org/abs/2406.17550v1)|null|
+|**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547v1](http://arxiv.org/abs/2406.17547v1)|null|
+|**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541v1](http://arxiv.org/abs/2406.17541v1)|null|
+|**2024-06-25**|**Robust and effective ab initio molecular dynamics simulations on the GPU cloud infrastructure using the Schrödinger Materials Science Suite**|Alexandr Fonari et.al.|[2406.17510v1](http://arxiv.org/abs/2406.17510v1)|null|
+|**2024-06-25**|**The Tree of Diffusion Life: Evolutionary Embeddings to Understand the Generation Process of Diffusion Models**|Vidya Prasad et.al.|[2406.17462v1](http://arxiv.org/abs/2406.17462v1)|null|
+|**2024-06-25**|**Traveling waves in reaction-diffusion-convection equations with combustion nonlinearity**|Pavel Drábek et.al.|[2406.17410v1](http://arxiv.org/abs/2406.17410v1)|null|
+|**2024-06-25**|**GradCheck: Analyzing classifier guidance gradients for conditional diffusion sampling**|Philipp Vaeth et.al.|[2406.17399v1](http://arxiv.org/abs/2406.17399v1)|null|
 |**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864v1](http://arxiv.org/abs/2406.16864v1)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863v1](http://arxiv.org/abs/2406.16863v1)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862v1](http://arxiv.org/abs/2406.16862v1)|null|
@@ -109,6 +129,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|**[link](https://github.com/maxiao0234/ttga)**|
+|**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541v1](http://arxiv.org/abs/2406.17541v1)|null|
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219v1](http://arxiv.org/abs/2406.15219v1)|null|
 |**2024-06-20**|**CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**|Tingwei Liu et.al.|[2406.14186v1](http://arxiv.org/abs/2406.14186v1)|**[link](https://github.com/LiuTingWed/CriDiff)**|
