@@ -1,4 +1,4 @@
-> Updated on 2024.06.26
+> Updated on 2024.06.27
 
 ## Video_Classification
 
@@ -9548,7 +9548,7 @@
 - 2024-06-25, **Unified Auto-Encoding with Masked Diffusion**, Philippe Hansen-Estruch et.al., Paper: [http://arxiv.org/abs/2406.17688v1](http://arxiv.org/abs/2406.17688v1)
 - 2024-06-25, **Asymptotic Properties of Random Homology Induced by Diffusion Processes**, Artem Galkin et.al., Paper: [http://arxiv.org/abs/2406.17683v1](http://arxiv.org/abs/2406.17683v1)
 - 2024-06-25, **LaTable: Towards Large Tabular Models**, Boris van Breugel et.al., Paper: [http://arxiv.org/abs/2406.17673v1](http://arxiv.org/abs/2406.17673v1)
-- 2024-06-25, **SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**, Marco Comunita et.al., Paper: [http://arxiv.org/abs/2406.17672v1](http://arxiv.org/abs/2406.17672v1)
+- 2024-06-26, **SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**, Marco Comunità et.al., Paper: [http://arxiv.org/abs/2406.17672v2](http://arxiv.org/abs/2406.17672v2)
 - 2024-06-25, **Aligning Diffusion Models with Noise-Conditioned Perception**, Alexander Gambashidze et.al., Paper: [http://arxiv.org/abs/2406.17636v1](http://arxiv.org/abs/2406.17636v1)
 - 2024-06-25, **Test-Time Generative Augmentation for Medical Image Segmentation**, Xiao Ma et.al., Paper: [http://arxiv.org/abs/2406.17608v1](http://arxiv.org/abs/2406.17608v1), Code: **[https://github.com/maxiao0234/ttga](https://github.com/maxiao0234/ttga)**
 - 2024-06-25, **Diffusion-based Adversarial Purification for Intrusion Detection**, Mohamed Amine Merzouk et.al., Paper: [http://arxiv.org/abs/2406.17606v1](http://arxiv.org/abs/2406.17606v1)
