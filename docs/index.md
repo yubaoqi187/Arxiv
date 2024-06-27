@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
+|**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516v1](http://arxiv.org/abs/2406.18516v1)|**[link](https://github.com/kangliao929/noise-da)**|
+|**2024-06-26**|**Ground states of a nonlocal variational problem and Thomas-Fermi limit for the Choquard equation**|Damiano Greco et.al.|[2406.18472v1](http://arxiv.org/abs/2406.18472v1)|null|
+|**2024-06-26**|**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance**|Younghyun Kim et.al.|[2406.18459v1](http://arxiv.org/abs/2406.18459v1)|null|
+|**2024-06-26**|**How to Achieve High Spatial Resolution in Organic Optobioelectronic Devices?**|Luca Fabbri et.al.|[2406.18447v1](http://arxiv.org/abs/2406.18447v1)|null|
+|**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417v1](http://arxiv.org/abs/2406.18417v1)|null|
+|**2024-06-26**|**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis**|Janet Wang et.al.|[2406.18375v1](http://arxiv.org/abs/2406.18375v1)|null|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-26**|**Convergence to equilibrium for a degenerate three species reaction-diffusion system**|Saumyajit Das et.al.|[2406.18339v1](http://arxiv.org/abs/2406.18339v1)|null|
+|**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330v1](http://arxiv.org/abs/2406.18330v1)|null|
+|**2024-06-26**|**Generative artificial intelligence in ophthalmology: multimodal retinal images for the diagnosis of Alzheimer's disease with convolutional neural networks**|I. R. Slootweg et.al.|[2406.18247v1](http://arxiv.org/abs/2406.18247v1)|null|
+|**2024-06-26**|**Rebuttal of Morris' criticism of the diffusive compressible Euler model**|Magnus Svärd et.al.|[2406.18241v1](http://arxiv.org/abs/2406.18241v1)|null|
+|**2024-06-26**|**Near-limit H$_2$-O$_2$-N$_2$ combustion in nonpremixed counterflow mixing layers**|Jaime Carpio et.al.|[2406.18232v1](http://arxiv.org/abs/2406.18232v1)|null|
+|**2024-06-26**|**Probing the Extragalactic Background Light with the MAGIC telescopes**|R. Grau et.al.|[2406.18230v1](http://arxiv.org/abs/2406.18230v1)|null|
+|**2024-06-26**|**Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models**|Lars Doorenbos et.al.|[2406.18175v1](http://arxiv.org/abs/2406.18175v1)|**[link](https://github.com/larsdoorenbos/generate-spectra)**|
+|**2024-06-26**|**Human-Aware 3D Scene Generation with Spatially-constrained Diffusion Models**|Xiaolin Hong et.al.|[2406.18159v1](http://arxiv.org/abs/2406.18159v1)|null|
+|**2024-06-26**|**Composing Distributed Computations Through Task and Kernel Fusion**|Rohan Yadav et.al.|[2406.18109v1](http://arxiv.org/abs/2406.18109v1)|null|
+|**2024-06-26**|**The Smoluchowski-Kramers approximation for a system with arbitrary friction depending on both state and distribution**|Xueru Liu et.al.|[2406.18056v1](http://arxiv.org/abs/2406.18056v1)|null|
+|**2024-06-26**|**Leveraging Pre-trained Models for FF-to-FFPE Histopathological Image Translation**|Qilai Zhang et.al.|[2406.18054v1](http://arxiv.org/abs/2406.18054v1)|null|
+|**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037v1](http://arxiv.org/abs/2406.18037v1)|null|
 |**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763v1](http://arxiv.org/abs/2406.17763v1)|null|
 |**2024-06-25**|**Fairness in Social Influence Maximization via Optimal Transport**|Shubham Chowdhary et.al.|[2406.17736v1](http://arxiv.org/abs/2406.17736v1)|null|
 |**2024-06-25**|**Extreme Diffusion Measures Statistical Fluctuations of the Environment**|Jacob Hass et.al.|[2406.17733v1](http://arxiv.org/abs/2406.17733v1)|null|
@@ -133,6 +153,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
+|**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037v1](http://arxiv.org/abs/2406.18037v1)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-25**|**Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**|Felix Stillger et.al.|[2406.17541v1](http://arxiv.org/abs/2406.17541v1)|null|
 |**2024-06-23**|**UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**|Pengfei Zhang et.al.|[2406.16129v1](http://arxiv.org/abs/2406.16129v1)|null|
