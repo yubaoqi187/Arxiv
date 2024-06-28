@@ -1,4 +1,4 @@
-> Updated on 2024.06.27
+> Updated on 2024.06.28
 
 ## Video_Classification
 
@@ -9548,7 +9548,7 @@
 - 2024-06-26, **How to Achieve High Spatial Resolution in Organic Optobioelectronic Devices?**, Luca Fabbri et.al., Paper: [http://arxiv.org/abs/2406.18447v1](http://arxiv.org/abs/2406.18447v1)
 - 2024-06-26, **Towards diffusion models for large-scale sea-ice modelling**, Tobias Sebastian Finn et.al., Paper: [http://arxiv.org/abs/2406.18417v1](http://arxiv.org/abs/2406.18417v1)
 - 2024-06-26, **From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis**, Janet Wang et.al., Paper: [http://arxiv.org/abs/2406.18375v1](http://arxiv.org/abs/2406.18375v1)
-- 2024-06-26, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v1](http://arxiv.org/abs/2406.18361v1), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
+- 2024-06-27, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v2](http://arxiv.org/abs/2406.18361v2), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
 - 2024-06-26, **Convergence to equilibrium for a degenerate three species reaction-diffusion system**, Saumyajit Das et.al., Paper: [http://arxiv.org/abs/2406.18339v1](http://arxiv.org/abs/2406.18339v1)
 - 2024-06-26, **Molecular Diffusion Models with Virtual Receptors**, Matan Halfon et.al., Paper: [http://arxiv.org/abs/2406.18330v1](http://arxiv.org/abs/2406.18330v1)
 - 2024-06-26, **Generative artificial intelligence in ophthalmology: multimodal retinal images for the diagnosis of Alzheimer's disease with convolutional neural networks**, I. R. Slootweg et.al., Paper: [http://arxiv.org/abs/2406.18247v1](http://arxiv.org/abs/2406.18247v1)
@@ -9684,13 +9684,13 @@
 
 ## Diffusion_Segment
 
-- 2024-06-26, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v1](http://arxiv.org/abs/2406.18361v1), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
+- 2024-06-27, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v2](http://arxiv.org/abs/2406.18361v2), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
 - 2024-06-26, **Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**, Dunyuan Xu et.al., Paper: [http://arxiv.org/abs/2406.18037v1](http://arxiv.org/abs/2406.18037v1)
 - 2024-06-25, **Test-Time Generative Augmentation for Medical Image Segmentation**, Xiao Ma et.al., Paper: [http://arxiv.org/abs/2406.17608v1](http://arxiv.org/abs/2406.17608v1), Code: **[https://github.com/maxiao0234/ttga](https://github.com/maxiao0234/ttga)**
 - 2024-06-25, **Principal Component Clustering for Semantic Segmentation in Synthetic Data Generation**, Felix Stillger et.al., Paper: [http://arxiv.org/abs/2406.17541v1](http://arxiv.org/abs/2406.17541v1)
 - 2024-06-23, **UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery**, Pengfei Zhang et.al., Paper: [http://arxiv.org/abs/2406.16129v1](http://arxiv.org/abs/2406.16129v1)
 - 2024-06-21, **Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2406.15219v1](http://arxiv.org/abs/2406.15219v1)
-- 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1), Code: **[https://github.com/LiuTingWed/CriDiff](https://github.com/LiuTingWed/CriDiff)**
+- 2024-06-20, **CriDiff: Criss-cross Injection Diffusion Framework via Generative Pre-train for Prostate Segmentation**, Tingwei Liu et.al., Paper: [http://arxiv.org/abs/2406.14186v1](http://arxiv.org/abs/2406.14186v1)
 - 2024-06-20, **Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**, Tingyi Lin et.al., Paper: [http://arxiv.org/abs/2406.13977v1](http://arxiv.org/abs/2406.13977v1)
 - 2024-06-20, **Hierarchical Micro-Segmentations for Zero-Trust Services via Large Language Model (LLM)-enhanced Graph Diffusion**, Yinqiu Liu et.al., Paper: [http://arxiv.org/abs/2406.13964v1](http://arxiv.org/abs/2406.13964v1)
 - 2024-06-19, **StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images**, Rushikesh Zawar et.al., Paper: [http://arxiv.org/abs/2406.13735v1](http://arxiv.org/abs/2406.13735v1)
