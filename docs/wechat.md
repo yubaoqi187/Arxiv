@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-06-27, **Asymptotic Properties of Generalized Elephant Random Walks**, Krishanu Maulik et.al., Paper: [http://arxiv.org/abs/2406.19383v1](http://arxiv.org/abs/2406.19383v1)
+- 2024-06-27, **Spontaneous symmetry breaking in open quantum systems: strong, weak, and strong-to-weak**, Ding Gu et.al., Paper: [http://arxiv.org/abs/2406.19381v1](http://arxiv.org/abs/2406.19381v1)
+- 2024-06-27, **Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**, Jaehong Chung et.al., Paper: [http://arxiv.org/abs/2406.19333v1](http://arxiv.org/abs/2406.19333v1)
+- 2024-06-27, **Subtractive Training for Music Stem Insertion using Latent Diffusion Models**, Ivan Villa-Renteria et.al., Paper: [http://arxiv.org/abs/2406.19328v1](http://arxiv.org/abs/2406.19328v1)
+- 2024-06-27, **Vector Resonant Relaxation and Statistical Closure Theory. I. Direct Interaction Approximation**, Sofia Flores et.al., Paper: [http://arxiv.org/abs/2406.19306v1](http://arxiv.org/abs/2406.19306v1)
+- 2024-06-27, **Compositional Image Decomposition with Diffusion Models**, Jocelin Su et.al., Paper: [http://arxiv.org/abs/2406.19298v1](http://arxiv.org/abs/2406.19298v1)
+- 2024-06-27, **Advection Augmented Convolutional Neural Networks**, Niloufar Zakariaei et.al., Paper: [http://arxiv.org/abs/2406.19253v1](http://arxiv.org/abs/2406.19253v1)
+- 2024-06-27, **Diffuse interstellar bands in the near-infrared: Expanding the reddening range**, R. Castellanos et.al., Paper: [http://arxiv.org/abs/2406.19229v1](http://arxiv.org/abs/2406.19229v1)
+- 2024-06-27, **Numerical Analysis of the Complete Active-Space Extended Koopmans's Theorem**, Reza Hemmati et.al., Paper: [http://arxiv.org/abs/2406.19211v1](http://arxiv.org/abs/2406.19211v1)
+- 2024-06-27, **The case for Centaurus A as the main source of ultrahigh-energy cosmic rays**, Silvia Mollerach et.al., Paper: [http://arxiv.org/abs/2406.19199v1](http://arxiv.org/abs/2406.19199v1)
+- 2024-06-27, **Mechanical cell interactions on curved interfaces**, Pascal R. Buenzli et.al., Paper: [http://arxiv.org/abs/2406.19197v1](http://arxiv.org/abs/2406.19197v1)
+- 2024-06-27, **Existence of solution of a triangular degenerate reaction-diffusion system**, Saumyajit Das IIT Bombay et.al., Paper: [http://arxiv.org/abs/2406.19196v1](http://arxiv.org/abs/2406.19196v1)
+- 2024-06-27, **DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**, Hyun Joon Park et.al., Paper: [http://arxiv.org/abs/2406.19135v1](http://arxiv.org/abs/2406.19135v1), Code: **[https://github.com/winddori2002/dex-tts](https://github.com/winddori2002/dex-tts)**
+- 2024-06-27, **Coagulation-flocculation process on a lattice: Monte Carlo simulations**, V. Blavatska et.al., Paper: [http://arxiv.org/abs/2406.19115v1](http://arxiv.org/abs/2406.19115v1)
+- 2024-06-27, **Geometric heat pumping under continuous modulation in thermal diffusion**, Hao-Ran Yan et.al., Paper: [http://arxiv.org/abs/2406.19100v1](http://arxiv.org/abs/2406.19100v1)
+- 2024-06-27, **On the two-reactant one-step activation-energy asymptotics for steady, adiabatic, planar flames with Lewis numbers of unity**, Prabakaran Rajamanickam et.al., Paper: [http://arxiv.org/abs/2406.19095v1](http://arxiv.org/abs/2406.19095v1)
+- 2024-06-27, **Diffusive-thermal instabilities of a planar premixed flame aligned with a shear flow**, Joel Daou et.al., Paper: [http://arxiv.org/abs/2406.19093v1](http://arxiv.org/abs/2406.19093v1)
+- 2024-06-27, **Influences of stoichiometry on steadily propagating triple flames in counterflows**, Prabakaran Rajamanickam et.al., Paper: [http://arxiv.org/abs/2406.19090v1](http://arxiv.org/abs/2406.19090v1)
+- 2024-06-27, **Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties**, Wenzhu Luo et.al., Paper: [http://arxiv.org/abs/2406.19068v1](http://arxiv.org/abs/2406.19068v1)
+- 2024-06-27, **Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**, Jiangtong Tan et.al., Paper: [http://arxiv.org/abs/2406.19030v1](http://arxiv.org/abs/2406.19030v1)
 - 2024-06-26, **MultiDiff: Consistent Novel View Synthesis from a Single Image**, Norman Müller et.al., Paper: [http://arxiv.org/abs/2406.18524v1](http://arxiv.org/abs/2406.18524v1)
 - 2024-06-26, **Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**, Kang Liao et.al., Paper: [http://arxiv.org/abs/2406.18516v1](http://arxiv.org/abs/2406.18516v1), Code: **[https://github.com/kangliao929/noise-da](https://github.com/kangliao929/noise-da)**
 - 2024-06-26, **Ground states of a nonlocal variational problem and Thomas-Fermi limit for the Choquard equation**, Damiano Greco et.al., Paper: [http://arxiv.org/abs/2406.18472v1](http://arxiv.org/abs/2406.18472v1)
