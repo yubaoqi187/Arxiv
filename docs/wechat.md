@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-06-28, **Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**, Yicheng Chen et.al., Paper: [http://arxiv.org/abs/2406.20085v1](http://arxiv.org/abs/2406.20085v1)
+- 2024-06-28, **HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**, Hieu T. Nguyen et.al., Paper: [http://arxiv.org/abs/2406.20077v1](http://arxiv.org/abs/2406.20077v1)
+- 2024-06-28, **Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**, Xiantao Fan et.al., Paper: [http://arxiv.org/abs/2406.20047v1](http://arxiv.org/abs/2406.20047v1)
+- 2024-06-28, **HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**, Haykel Snoussi et.al., Paper: [http://arxiv.org/abs/2406.20042v1](http://arxiv.org/abs/2406.20042v1)
+- 2024-06-28, **Kinetics of Quantum Reaction-Diffusion systems**, Federico Gerbino et.al., Paper: [http://arxiv.org/abs/2406.20028v1](http://arxiv.org/abs/2406.20028v1)
+- 2024-06-28, **Information Entropy of the Financial Market: Modelling Random Processes Using Open Quantum Systems**, Will Hicks et.al., Paper: [http://arxiv.org/abs/2406.20027v1](http://arxiv.org/abs/2406.20027v1)
+- 2024-06-28, **Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case**, Artem Glova et.al., Paper: [http://arxiv.org/abs/2406.20018v1](http://arxiv.org/abs/2406.20018v1)
+- 2024-06-28, **On the Trade-off between Flatness and Optimization in Distributed Learning**, Ying Cao et.al., Paper: [http://arxiv.org/abs/2406.20006v1](http://arxiv.org/abs/2406.20006v1)
+- 2024-06-28, **The $L_μ-L_τ$ solution to the IceCube UHE neutrino deficit in light of NA64**, Leon M. G. de la Vega et.al., Paper: [http://arxiv.org/abs/2406.19968v1](http://arxiv.org/abs/2406.19968v1)
+- 2024-06-28, **RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization**, Bing Yang et.al., Paper: [http://arxiv.org/abs/2406.19959v1](http://arxiv.org/abs/2406.19959v1)
+- 2024-06-28, **The pressureless damped Euler-Riesz system in the critical regularity framework**, Meiling Chi et.al., Paper: [http://arxiv.org/abs/2406.19955v1](http://arxiv.org/abs/2406.19955v1)
+- 2024-06-28, **Water Evolution & Inventories of Super-Earths Orbiting Late M-Dwarfs**, Keavin Moore et.al., Paper: [http://arxiv.org/abs/2406.19923v1](http://arxiv.org/abs/2406.19923v1)
+- 2024-06-28, **Numerical saddle point finding for diffusive superconductor actions**, P. Virtanen et.al., Paper: [http://arxiv.org/abs/2406.19894v1](http://arxiv.org/abs/2406.19894v1)
+- 2024-06-28, **Complexity Scaling of Liquid Dynamics**, Ian M. Douglass et.al., Paper: [http://arxiv.org/abs/2406.19858v1](http://arxiv.org/abs/2406.19858v1)
+- 2024-06-28, **Charge transport in organic semiconductors from the mapping approach to surface hopping**, Johan E. Runeson et.al., Paper: [http://arxiv.org/abs/2406.19851v1](http://arxiv.org/abs/2406.19851v1)
+- 2024-06-28, **Deceptive Diffusion: Generating Synthetic Adversarial Examples**, Lucas Beerens et.al., Paper: [http://arxiv.org/abs/2406.19807v1](http://arxiv.org/abs/2406.19807v1)
+- 2024-06-28, **Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**, Wei Li et.al., Paper: [http://arxiv.org/abs/2406.19796v1](http://arxiv.org/abs/2406.19796v1), Code: **[https://github.com/jingyzhang/cgr](https://github.com/jingyzhang/cgr)**
+- 2024-06-28, **LCSim: A Large-Scale Controllable Traffic Simulator**, Yuheng Zhang et.al., Paper: [http://arxiv.org/abs/2406.19781v1](http://arxiv.org/abs/2406.19781v1)
+- 2024-06-28, **Structuring in Thin Films during Meniscus-Guided Deposition**, René de Bruijn et.al., Paper: [http://arxiv.org/abs/2406.19779v1](http://arxiv.org/abs/2406.19779v1)
+- 2024-06-28, **Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2406.19769v1](http://arxiv.org/abs/2406.19769v1)
 - 2024-06-27, **Asymptotic Properties of Generalized Elephant Random Walks**, Krishanu Maulik et.al., Paper: [http://arxiv.org/abs/2406.19383v1](http://arxiv.org/abs/2406.19383v1)
 - 2024-06-27, **Spontaneous symmetry breaking in open quantum systems: strong, weak, and strong-to-weak**, Ding Gu et.al., Paper: [http://arxiv.org/abs/2406.19381v1](http://arxiv.org/abs/2406.19381v1)
 - 2024-06-27, **Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**, Jaehong Chung et.al., Paper: [http://arxiv.org/abs/2406.19333v1](http://arxiv.org/abs/2406.19333v1)
@@ -9704,6 +9724,7 @@
 
 ## Diffusion_Segment
 
+- 2024-06-28, **Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**, Wei Li et.al., Paper: [http://arxiv.org/abs/2406.19796v1](http://arxiv.org/abs/2406.19796v1), Code: **[https://github.com/jingyzhang/cgr](https://github.com/jingyzhang/cgr)**
 - 2024-06-27, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v2](http://arxiv.org/abs/2406.18361v2), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
 - 2024-06-26, **Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**, Dunyuan Xu et.al., Paper: [http://arxiv.org/abs/2406.18037v1](http://arxiv.org/abs/2406.18037v1)
 - 2024-06-25, **Test-Time Generative Augmentation for Medical Image Segmentation**, Xiao Ma et.al., Paper: [http://arxiv.org/abs/2406.17608v1](http://arxiv.org/abs/2406.17608v1), Code: **[https://github.com/maxiao0234/ttga](https://github.com/maxiao0234/ttga)**
