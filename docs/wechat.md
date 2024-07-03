@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-02, **Magic Insert: Style-Aware Drag-and-Drop**, Nataniel Ruiz et.al., Paper: [http://arxiv.org/abs/2407.02489v1](http://arxiv.org/abs/2407.02489v1)
+- 2024-07-02, **Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**, Fei Shen et.al., Paper: [http://arxiv.org/abs/2407.02482v1](http://arxiv.org/abs/2407.02482v1)
+- 2024-07-02, **Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**, Yiwei Bao et.al., Paper: [http://arxiv.org/abs/2407.02478v1](http://arxiv.org/abs/2407.02478v1)
+- 2024-07-02, **Diffusion and pattern formation in spatial games**, Alexandre Champagne-Ruel et.al., Paper: [http://arxiv.org/abs/2407.02385v1](http://arxiv.org/abs/2407.02385v1)
+- 2024-07-02, **OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**, Kepan Nan et.al., Paper: [http://arxiv.org/abs/2407.02371v1](http://arxiv.org/abs/2407.02371v1)
+- 2024-07-02, **Hypersonic Boundary Layer Transition and Heat Loading**, Ahmad Peyvan et.al., Paper: [http://arxiv.org/abs/2407.02311v1](http://arxiv.org/abs/2407.02311v1)
+- 2024-07-02, **Turbulent Diffuse Molecular Media with Non-ideal Magnetohydrodynamics and Consistent Thermochemistry: Numerical Simulations and Dynamic Characteristics**, Nannan Yue et.al., Paper: [http://arxiv.org/abs/2407.02306v1](http://arxiv.org/abs/2407.02306v1)
+- 2024-07-02, **On the multicomponent reactive flows in moving domains**, Kuntal Bhandari et.al., Paper: [http://arxiv.org/abs/2407.02303v1](http://arxiv.org/abs/2407.02303v1)
+- 2024-07-02, **Solution of parameter-dependent diffusion equation in layered media**, Antti Autio et.al., Paper: [http://arxiv.org/abs/2407.02257v1](http://arxiv.org/abs/2407.02257v1)
+- 2024-07-02, **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**, Jian Ma et.al., Paper: [http://arxiv.org/abs/2407.02252v1](http://arxiv.org/abs/2407.02252v1), Code: **[https://github.com/oppo-mente-lab/glyphdraw2](https://github.com/oppo-mente-lab/glyphdraw2)**
+- 2024-07-02, **LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation**, Jiarui Xing et.al., Paper: [http://arxiv.org/abs/2407.02229v1](http://arxiv.org/abs/2407.02229v1)
+- 2024-07-02, **Interplay between MRI-based axon diameter and myelination estimates in macaque and human brain**, Ting Gong et.al., Paper: [http://arxiv.org/abs/2407.02227v1](http://arxiv.org/abs/2407.02227v1)
+- 2024-07-02, **Identification of a Spatially-Dependent Variable Order in One-Dimensional Subdiffusion**, Jiho Hong et.al., Paper: [http://arxiv.org/abs/2407.02193v1](http://arxiv.org/abs/2407.02193v1)
+- 2024-07-02, **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**, Jingjing Ren et.al., Paper: [http://arxiv.org/abs/2407.02158v1](http://arxiv.org/abs/2407.02158v1)
+- 2024-07-02, **Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**, Chunjing Xiao et.al., Paper: [http://arxiv.org/abs/2407.02143v1](http://arxiv.org/abs/2407.02143v1)
+- 2024-07-02, **Rossby wave instability in weakly ionized protoplanetary disks. I. azimuthal or vertical B-fields**, Can Cui et.al., Paper: [http://arxiv.org/abs/2407.02103v1](http://arxiv.org/abs/2407.02103v1)
+- 2024-07-02, **Cost-time trade-off in diffusion with stochastic return: optimal resetting potential and Pareto front**, Prashant Singh et.al., Paper: [http://arxiv.org/abs/2407.02071v1](http://arxiv.org/abs/2407.02071v1)
+- 2024-07-02, **Latent Diffusion Model for Generating Ensembles of Climate Simulations**, Johannes Meuer et.al., Paper: [http://arxiv.org/abs/2407.02070v1](http://arxiv.org/abs/2407.02070v1)
+- 2024-07-02, **Accompanied Singing Voice Synthesis with Fully Text-controlled Melody**, Ruiqi Li et.al., Paper: [http://arxiv.org/abs/2407.02049v1](http://arxiv.org/abs/2407.02049v1)
+- 2024-07-02, **ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2407.02040v1](http://arxiv.org/abs/2407.02040v1), Code: **[https://github.com/theericma/scaledreamer](https://github.com/theericma/scaledreamer)**
 - 2024-06-28, **Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**, Yicheng Chen et.al., Paper: [http://arxiv.org/abs/2406.20085v1](http://arxiv.org/abs/2406.20085v1)
 - 2024-06-28, **HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**, Hieu T. Nguyen et.al., Paper: [http://arxiv.org/abs/2406.20077v1](http://arxiv.org/abs/2406.20077v1)
 - 2024-06-28, **Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence**, Xiantao Fan et.al., Paper: [http://arxiv.org/abs/2406.20047v1](http://arxiv.org/abs/2406.20047v1)
@@ -9724,6 +9744,7 @@
 
 ## Diffusion_Segment
 
+- 2024-07-01, **Label-free Neural Semantic Image Synthesis**, Jiayi Wang et.al., Paper: [http://arxiv.org/abs/2407.01790v1](http://arxiv.org/abs/2407.01790v1)
 - 2024-06-28, **Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**, Wei Li et.al., Paper: [http://arxiv.org/abs/2406.19796v1](http://arxiv.org/abs/2406.19796v1), Code: **[https://github.com/jingyzhang/cgr](https://github.com/jingyzhang/cgr)**
 - 2024-06-27, **Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**, Tianyu Lin et.al., Paper: [http://arxiv.org/abs/2406.18361v2](http://arxiv.org/abs/2406.18361v2), Code: **[https://github.com/lin-tianyu/stable-diffusion-seg](https://github.com/lin-tianyu/stable-diffusion-seg)**
 - 2024-06-26, **Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**, Dunyuan Xu et.al., Paper: [http://arxiv.org/abs/2406.18037v1](http://arxiv.org/abs/2406.18037v1)
