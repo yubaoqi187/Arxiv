@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-05, **Two methods to analyse radial diffusion ensembles: the peril of space- and time- dependent diffusion**, Sarah N. Bentley et.al., Paper: [http://arxiv.org/abs/2407.04669v1](http://arxiv.org/abs/2407.04669v1)
+- 2024-07-05, **Strongly consistent low-dissipation WENO schemes for finite elements**, Joshua Vedral et.al., Paper: [http://arxiv.org/abs/2407.04646v1](http://arxiv.org/abs/2407.04646v1)
+- 2024-07-05, **Randomized Physics-Informed Neural Networks for Bayesian Data Assimilation**, Yifei Zong et.al., Paper: [http://arxiv.org/abs/2407.04617v1](http://arxiv.org/abs/2407.04617v1)
+- 2024-07-05, **An SDE Perspective on Stochastic Inertial Gradient Dynamics with Time-Dependent Viscosity and Geometric Damping**, Rodrigo Maulen-Soto et.al., Paper: [http://arxiv.org/abs/2407.04562v1](http://arxiv.org/abs/2407.04562v1)
+- 2024-07-05, **Structural Constraint Integration in Generative Model for Discovery of Quantum Material Candidates**, Ryotaro Okabe et.al., Paper: [http://arxiv.org/abs/2407.04557v1](http://arxiv.org/abs/2407.04557v1)
+- 2024-07-05, **More is Different: Mobile Ions Improve the Design Tolerances of Perovskite Solar Cells**, Lucy J. F. Hart et.al., Paper: [http://arxiv.org/abs/2407.04523v1](http://arxiv.org/abs/2407.04523v1)
+- 2024-07-05, **Unified continuous-time q-learning for mean-field game and mean-field control problems**, Xiaoli Wei et.al., Paper: [http://arxiv.org/abs/2407.04521v1](http://arxiv.org/abs/2407.04521v1)
+- 2024-07-05, **G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**, James Rowbottom et.al., Paper: [http://arxiv.org/abs/2407.04516v1](http://arxiv.org/abs/2407.04516v1)
+- 2024-07-05, **Analysis of SIR Reaction diffusion system with constant birth and death rate**, Yiting Yao et.al., Paper: [http://arxiv.org/abs/2407.04509v1](http://arxiv.org/abs/2407.04509v1)
+- 2024-07-05, **Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**, Kotaro Ikeda et.al., Paper: [http://arxiv.org/abs/2407.04495v1](http://arxiv.org/abs/2407.04495v1)
+- 2024-07-05, **PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**, Yinghua Yao et.al., Paper: [http://arxiv.org/abs/2407.04493v1](http://arxiv.org/abs/2407.04493v1)
+- 2024-07-05, **VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2407.04461v1](http://arxiv.org/abs/2407.04461v1)
+- 2024-07-05, **Elemental Abundances in And XIX From Coadded Spectra**, L. R. Cullinane et.al., Paper: [http://arxiv.org/abs/2407.04349v1](http://arxiv.org/abs/2407.04349v1)
+- 2024-07-05, **On a nonlinear nonlocal reaction-diffusion system applied to image restoration**, Yuhang Li et.al., Paper: [http://arxiv.org/abs/2407.04347v1](http://arxiv.org/abs/2407.04347v1)
+- 2024-07-05, **Kinetic theory of diffusion in a channel of varying cross section**, J. Javier Brey et.al., Paper: [http://arxiv.org/abs/2407.04300v1](http://arxiv.org/abs/2407.04300v1)
+- 2024-07-05, **Onsager-Machlup functional for stochastic differential equations with time-varying noise**, Xinze Zhang et.al., Paper: [http://arxiv.org/abs/2407.04290v1](http://arxiv.org/abs/2407.04290v1)
+- 2024-07-05, **Comparing metallicity correlations in nearby non-AGN and AGN-host galaxies**, Song-lin Li et.al., Paper: [http://arxiv.org/abs/2407.04252v1](http://arxiv.org/abs/2407.04252v1)
+- 2024-07-05, **GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**, Yuxuan Mu et.al., Paper: [http://arxiv.org/abs/2407.04237v1](http://arxiv.org/abs/2407.04237v1)
+- 2024-07-05, **T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models**, Zhongqi Wang et.al., Paper: [http://arxiv.org/abs/2407.04215v1](http://arxiv.org/abs/2407.04215v1), Code: **[https://github.com/robin-wzq/t2ishield](https://github.com/robin-wzq/t2ishield)**
+- 2024-07-05, **TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation**, Jian Qian et.al., Paper: [http://arxiv.org/abs/2407.04211v1](http://arxiv.org/abs/2407.04211v1)
 - 2024-07-03, **DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**, Yilun Xu et.al., Paper: [http://arxiv.org/abs/2407.03300v1](http://arxiv.org/abs/2407.03300v1)
 - 2024-07-03, **Improved Noise Schedule for Diffusion Training**, Tiankai Hang et.al., Paper: [http://arxiv.org/abs/2407.03297v1](http://arxiv.org/abs/2407.03297v1)
 - 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168v1](http://arxiv.org/abs/2407.03168v1), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
@@ -9764,6 +9784,7 @@
 
 ## Diffusion_Segment
 
+- 2024-07-03, **HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2407.03548v1](http://arxiv.org/abs/2407.03548v1), Code: **[https://github.com/takimailto/hidiff](https://github.com/takimailto/hidiff)**
 - 2024-07-03, **Modelling the mitigation of anti-vaccine opinion propagation to suppress epidemic spread: A computational approach**, Sarah Alahmadi et.al., Paper: [http://arxiv.org/abs/2407.02980v1](http://arxiv.org/abs/2407.02980v1)
 - 2024-07-01, **Label-free Neural Semantic Image Synthesis**, Jiayi Wang et.al., Paper: [http://arxiv.org/abs/2407.01790v1](http://arxiv.org/abs/2407.01790v1)
 - 2024-06-28, **Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**, Wei Li et.al., Paper: [http://arxiv.org/abs/2406.19796v1](http://arxiv.org/abs/2406.19796v1), Code: **[https://github.com/jingyzhang/cgr](https://github.com/jingyzhang/cgr)**
