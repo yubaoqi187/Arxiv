@@ -1,4 +1,4 @@
-> Updated on 2024.07.08
+> Updated on 2024.07.09
 
 ## Video_Classification
 
@@ -9550,7 +9550,7 @@
 - 2024-07-05, **Unified continuous-time q-learning for mean-field game and mean-field control problems**, Xiaoli Wei et.al., Paper: [http://arxiv.org/abs/2407.04521v1](http://arxiv.org/abs/2407.04521v1)
 - 2024-07-05, **G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**, James Rowbottom et.al., Paper: [http://arxiv.org/abs/2407.04516v1](http://arxiv.org/abs/2407.04516v1)
 - 2024-07-05, **Analysis of SIR Reaction diffusion system with constant birth and death rate**, Yiting Yao et.al., Paper: [http://arxiv.org/abs/2407.04509v1](http://arxiv.org/abs/2407.04509v1)
-- 2024-07-05, **Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**, Kotaro Ikeda et.al., Paper: [http://arxiv.org/abs/2407.04495v1](http://arxiv.org/abs/2407.04495v1)
+- 2024-07-08, **Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**, Kotaro Ikeda et.al., Paper: [http://arxiv.org/abs/2407.04495v2](http://arxiv.org/abs/2407.04495v2)
 - 2024-07-05, **PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**, Yinghua Yao et.al., Paper: [http://arxiv.org/abs/2407.04493v1](http://arxiv.org/abs/2407.04493v1)
 - 2024-07-05, **VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2407.04461v1](http://arxiv.org/abs/2407.04461v1)
 - 2024-07-05, **Elemental Abundances in And XIX From Coadded Spectra**, L. R. Cullinane et.al., Paper: [http://arxiv.org/abs/2407.04349v1](http://arxiv.org/abs/2407.04349v1)
