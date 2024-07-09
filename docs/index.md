@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191v1](http://arxiv.org/abs/2407.06191v1)|null|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187v1](http://arxiv.org/abs/2407.06187v1)|null|
+|**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174v1](http://arxiv.org/abs/2407.06174v1)|null|
+|**2024-07-08**|**Potential Based Diffusion Motion Planning**|Yunhao Luo et.al.|[2407.06169v1](http://arxiv.org/abs/2407.06169v1)|null|
+|**2024-07-08**|**Loewner traces driven by Levy processes**|Eveliina Peltola et.al.|[2407.06144v1](http://arxiv.org/abs/2407.06144v1)|null|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|**[link](https://github.com/gair-nlp/anole)**|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124v1](http://arxiv.org/abs/2407.06124v1)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109v1](http://arxiv.org/abs/2407.06109v1)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079v1](http://arxiv.org/abs/2407.06079v1)|null|
+|**2024-07-08**|**On the Consistency of Dynamic Wetting Boundary Conditions for the Navier-Stokes-Cahn-Hilliard Equations**|T. H. B. Demont et.al.|[2407.06049v1](http://arxiv.org/abs/2407.06049v1)|null|
+|**2024-07-08**|**Investigation of microstructural evolution of irradiation-induced defects in tungsten: an experimental-numerical approach**|Salahudeen Mohamed et.al.|[2407.06022v1](http://arxiv.org/abs/2407.06022v1)|null|
+|**2024-07-08**|**Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals**|Moritz Reuss et.al.|[2407.05996v1](http://arxiv.org/abs/2407.05996v1)|null|
+|**2024-07-08**|**On Bellman equations for continuous-time policy evaluation I: discretization and approximation**|Wenlong Mou et.al.|[2407.05966v1](http://arxiv.org/abs/2407.05966v1)|null|
+|**2024-07-08**|**Analysis and finite element approximation of a diffuse interface approach to the Stokes--Biot coupling**|Francis R. A. Aznaran et.al.|[2407.05949v1](http://arxiv.org/abs/2407.05949v1)|null|
+|**2024-07-08**|**Intelligent Routing as a Service (iRaaS)**|Saptarshi Ghosh et.al.|[2407.05901v1](http://arxiv.org/abs/2407.05901v1)|null|
+|**2024-07-08**|**Unconventional edge states in a two-leg ladder**|C. A. Downing et.al.|[2407.05888v1](http://arxiv.org/abs/2407.05888v1)|null|
+|**2024-07-08**|**Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling**|Lintao Zhang et.al.|[2407.05875v1](http://arxiv.org/abs/2407.05875v1)|**[link](https://github.com/linghuyuhangyuan/m2s)**|
+|**2024-07-08**|**Diffusive shock acceleration in relativistic, oblique shocks**|Allard Jan van Marle et.al.|[2407.05847v1](http://arxiv.org/abs/2407.05847v1)|null|
+|**2024-07-08**|**3D Vessel Graph Generation Using Denoising Diffusion**|Chinmay Prabhakar et.al.|[2407.05842v1](http://arxiv.org/abs/2407.05842v1)|null|
 |**2024-07-05**|**Two methods to analyse radial diffusion ensembles: the peril of space- and time- dependent diffusion**|Sarah N. Bentley et.al.|[2407.04669v1](http://arxiv.org/abs/2407.04669v1)|null|
 |**2024-07-05**|**Strongly consistent low-dissipation WENO schemes for finite elements**|Joshua Vedral et.al.|[2407.04646v1](http://arxiv.org/abs/2407.04646v1)|null|
 |**2024-07-05**|**Randomized Physics-Informed Neural Networks for Bayesian Data Assimilation**|Yifei Zong et.al.|[2407.04617v1](http://arxiv.org/abs/2407.04617v1)|null|
@@ -253,6 +273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352v1](http://arxiv.org/abs/2407.05352v1)|null|
+|**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323v1](http://arxiv.org/abs/2407.05323v1)|null|
 |**2024-07-03**|**HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**|Tao Chen et.al.|[2407.03548v1](http://arxiv.org/abs/2407.03548v1)|**[link](https://github.com/takimailto/hidiff)**|
 |**2024-07-03**|**Modelling the mitigation of anti-vaccine opinion propagation to suppress epidemic spread: A computational approach**|Sarah Alahmadi et.al.|[2407.02980v1](http://arxiv.org/abs/2407.02980v1)|null|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790v1](http://arxiv.org/abs/2407.01790v1)|null|
