@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-09, **ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**, Shaozhe Hao et.al., Paper: [http://arxiv.org/abs/2407.07077v1](http://arxiv.org/abs/2407.07077v1), Code: **[https://github.com/haoosz/conceptexpress](https://github.com/haoosz/conceptexpress)**
+- 2024-07-09, **Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**, Chuanrui Zhang et.al., Paper: [http://arxiv.org/abs/2407.06984v1](http://arxiv.org/abs/2407.06984v1)
+- 2024-07-09, **RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**, Bowen Zhang et.al., Paper: [http://arxiv.org/abs/2407.06938v1](http://arxiv.org/abs/2407.06938v1)
+- 2024-07-09, **HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**, Guian Fang et.al., Paper: [http://arxiv.org/abs/2407.06937v1](http://arxiv.org/abs/2407.06937v1), Code: **[https://github.com/enderfga/humanrefiner](https://github.com/enderfga/humanrefiner)**
+- 2024-07-09, **Dissipation enhancing properties for a class of Hamiltonian flows with closed streamlines**, Michele Dolce et.al., Paper: [http://arxiv.org/abs/2407.06884v1](http://arxiv.org/abs/2407.06884v1)
+- 2024-07-09, **Relation between asymptotic $L_p$-convergence and some classical modes of convergence**, Nuno J. Alves et.al., Paper: [http://arxiv.org/abs/2407.06830v1](http://arxiv.org/abs/2407.06830v1)
+- 2024-07-09, **AstroSpy: On detecting Fake Images in Astronomy via Joint Image-Spectral Representations**, Mohammed Talha Alam et.al., Paper: [http://arxiv.org/abs/2407.06817v1](http://arxiv.org/abs/2407.06817v1)
+- 2024-07-09, **A reaction-diffusion model for relapsing-remitting multiple sclerosis with a treatment term**, Romina Travaglini et.al., Paper: [http://arxiv.org/abs/2407.06802v1](http://arxiv.org/abs/2407.06802v1)
+- 2024-07-09, **Investigating the Kinetic Effects on Current Gradient-Driven Instabilities of Electron Current Layers via Particle-in-Cell Simulations**, Sushmita Mishra et.al., Paper: [http://arxiv.org/abs/2407.06799v1](http://arxiv.org/abs/2407.06799v1)
+- 2024-07-09, **Extinction profiles for the Sobolev critical fast diffusion equation in bounded domains. I. One bubble dynamics**, Tianling Jin et.al., Paper: [http://arxiv.org/abs/2407.06757v1](http://arxiv.org/abs/2407.06757v1)
+- 2024-07-09, **Predicting Mesoscopic Larmor Frequency Shifts in White Matter with Diffusion MRI -- An In-Silico Monte-Carlo Study**, Anders Dyhr Sandgaard et.al., Paper: [http://arxiv.org/abs/2407.06694v1](http://arxiv.org/abs/2407.06694v1)
+- 2024-07-09, **Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**, Fanyue Wei et.al., Paper: [http://arxiv.org/abs/2407.06642v1](http://arxiv.org/abs/2407.06642v1), Code: **[https://github.com/wfanyue/dpg-t2i-personalization](https://github.com/wfanyue/dpg-t2i-personalization)**
+- 2024-07-09, **Ensembled Cold-Diffusion Restorations for Unsupervised Anomaly Detection**, Sergio Naval Marimont et.al., Paper: [http://arxiv.org/abs/2407.06635v1](http://arxiv.org/abs/2407.06635v1)
+- 2024-07-09, **Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**, Yiran Yang et.al., Paper: [http://arxiv.org/abs/2407.06617v1](http://arxiv.org/abs/2407.06617v1)
+- 2024-07-09, **The influence of nitrogen ion implantation on the microstructure and chemical composition of a thin layer on the biodegradable Zn-0.8Mg-0.2Sr substrate**, Jan Pinc et.al., Paper: [http://arxiv.org/abs/2407.06616v1](http://arxiv.org/abs/2407.06616v1)
+- 2024-07-09, **VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**, Yibo Liu et.al., Paper: [http://arxiv.org/abs/2407.06516v1](http://arxiv.org/abs/2407.06516v1)
+- 2024-07-09, **A Generative Approach to Control Complex Physical Systems**, Long Wei et.al., Paper: [http://arxiv.org/abs/2407.06494v1](http://arxiv.org/abs/2407.06494v1)
+- 2024-07-09, **On the fractal dimension of non-Newtonian Hele-Shaw flow subject to Saffman-Taylor instability**, J. Adriazola et.al., Paper: [http://arxiv.org/abs/2407.06476v1](http://arxiv.org/abs/2407.06476v1)
+- 2024-07-09, **Sketch-Guided Scene Image Generation**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2407.06469v1](http://arxiv.org/abs/2407.06469v1)
+- 2024-07-08, **Enhanced pedestal transport driven by edge collisionality on Alcator C-Mod and its role in regulating H-mode pedestal gradients**, M. A. Miller et.al., Paper: [http://arxiv.org/abs/2407.06414v1](http://arxiv.org/abs/2407.06414v1)
 - 2024-07-08, **Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**, Zhangyang Qi et.al., Paper: [http://arxiv.org/abs/2407.06191v1](http://arxiv.org/abs/2407.06191v1)
 - 2024-07-08, **JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**, Yu Zeng et.al., Paper: [http://arxiv.org/abs/2407.06187v1](http://arxiv.org/abs/2407.06187v1)
 - 2024-07-08, **The Tug-of-War Between Deepfake Generation and Detection**, Hannah Lee et.al., Paper: [http://arxiv.org/abs/2407.06174v1](http://arxiv.org/abs/2407.06174v1)
@@ -9804,6 +9824,7 @@
 
 ## Diffusion_Segment
 
+- 2024-07-08, **FairDiff: Fair Segmentation with Point-Image Diffusion**, Wenyi Li et.al., Paper: [http://arxiv.org/abs/2407.06250v1](http://arxiv.org/abs/2407.06250v1)
 - 2024-07-07, **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**, Danni Yang et.al., Paper: [http://arxiv.org/abs/2407.05352v1](http://arxiv.org/abs/2407.05352v1)
 - 2024-07-07, **Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**, Chun-Mei Feng et.al., Paper: [http://arxiv.org/abs/2407.05323v1](http://arxiv.org/abs/2407.05323v1)
 - 2024-07-03, **HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**, Tao Chen et.al., Paper: [http://arxiv.org/abs/2407.03548v1](http://arxiv.org/abs/2407.03548v1), Code: **[https://github.com/takimailto/hidiff](https://github.com/takimailto/hidiff)**
