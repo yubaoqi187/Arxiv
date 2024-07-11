@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
+|**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873v1](http://arxiv.org/abs/2407.07873v1)|null|
+|**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
+|**2024-07-10**|**Generic Numerical Analysis of Stochastic Reaction Diffusion Model with applications in excitable media**|Yahya Alnashri et.al.|[2407.07834v1](http://arxiv.org/abs/2407.07834v1)|null|
+|**2024-07-10**|**Dynamical signatures of discontinuous phase transitions: How phase coexistence determines exponential versus power-law scaling**|Krzysztof Ptaszynski et.al.|[2407.07832v1](http://arxiv.org/abs/2407.07832v1)|null|
+|**2024-07-10**|**Universal and non-universal signatures in the scaling functions of critical variables**|Gianluca Teza et.al.|[2407.07782v1](http://arxiv.org/abs/2407.07782v1)|null|
+|**2024-07-10**|**Correlation of srf performance to oxygen diffusion length of medium temperature heat treated cavities**|C. Bate et.al.|[2407.07779v1](http://arxiv.org/abs/2407.07779v1)|null|
+|**2024-07-10**|**Challenges in modeling the dark matter halo of NGC 1052-DF2: Cored versus cuspy halo models**|K. Aditya et.al.|[2407.07770v1](http://arxiv.org/abs/2407.07770v1)|null|
+|**2024-07-10**|**Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations**|Pradeep Bajracharya et.al.|[2407.07674v1](http://arxiv.org/abs/2407.07674v1)|null|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667v1](http://arxiv.org/abs/2407.07667v1)|null|
+|**2024-07-10**|**Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce$_2$Zr$_2$O$_7$: No Apparent Octupolar Correlations Above $T = 0.05$ K**|E. M. Smith et.al.|[2407.07640v1](http://arxiv.org/abs/2407.07640v1)|null|
+|**2024-07-10**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614v1](http://arxiv.org/abs/2407.07614v1)|**[link](https://github.com/fusiming3/mars)**|
+|**2024-07-10**|**Collective Effects in Breath Figures**|Ambre Bouillant et.al.|[2407.07608v1](http://arxiv.org/abs/2407.07608v1)|null|
+|**2024-07-10**|**Extended gamma-ray emission from particle escape in pulsar wind nebulae -- Application to HESS J1809-193 and HESS J1825-137**|Pierrick Martin et.al.|[2407.07583v1](http://arxiv.org/abs/2407.07583v1)|null|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
+|**2024-07-10**|**Bilinear optimal control for chemotaxis model: The case of two-sidedly degenerate diffusion with Volume-Filling Effect**|Georges Chamoun et.al.|[2407.07519v1](http://arxiv.org/abs/2407.07519v1)|null|
+|**2024-07-10**|**Multi-modal Crowd Counting via a Broker Modality**|Haoliang Meng et.al.|[2407.07518v1](http://arxiv.org/abs/2407.07518v1)|**[link](https://github.com/henrycilence/broker-modality-crowd-counting)**|
+|**2024-07-10**|**Triangulum IV: A Possible Ultra-Diffuse Satellite of M33**|Itsuki Ogami et.al.|[2407.07481v1](http://arxiv.org/abs/2407.07481v1)|null|
+|**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461v1](http://arxiv.org/abs/2407.07461v1)|null|
+|**2024-07-10**|**Secondary Structure-Guided Novel Protein Sequence Generation with Latent Graph Diffusion**|Yutong Hu et.al.|[2407.07443v1](http://arxiv.org/abs/2407.07443v1)|**[link](https://github.com/riacd/cpdiffusion-ss)**|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077v1](http://arxiv.org/abs/2407.07077v1)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984v1](http://arxiv.org/abs/2407.06984v1)|null|
 |**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938v1](http://arxiv.org/abs/2407.06938v1)|null|
@@ -293,7 +313,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250v1](http://arxiv.org/abs/2407.06250v1)|null|
+|**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v1](http://arxiv.org/abs/2407.07295v1)|null|
+|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250v1](http://arxiv.org/abs/2407.06250v1)|**[link](https://github.com/wenyi-li/fairdiff)**|
 |**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352v1](http://arxiv.org/abs/2407.05352v1)|null|
 |**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323v1](http://arxiv.org/abs/2407.05323v1)|null|
 |**2024-07-03**|**HiDiff: Hybrid Diffusion Framework for Medical Image Segmentation**|Tao Chen et.al.|[2407.03548v1](http://arxiv.org/abs/2407.03548v1)|**[link](https://github.com/takimailto/hidiff)**|
