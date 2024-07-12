@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737v1](http://arxiv.org/abs/2407.08737v1)|**[link](https://github.com/mihirp1998/vader)**|
+|**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701v1](http://arxiv.org/abs/2407.08701v1)|null|
+|**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675v1](http://arxiv.org/abs/2407.08675v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
+|**2024-07-11**|**Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size**|Youssef Sultan et.al.|[2407.08513v1](http://arxiv.org/abs/2407.08513v1)|null|
+|**2024-07-11**|**Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Mode**|Yuxing Tian et.al.|[2407.08500v1](http://arxiv.org/abs/2407.08500v1)|null|
+|**2024-07-11**|**Killing versus catastrophes in birth-death processes and an application to population genetics**|Ellen Baake et.al.|[2407.08478v1](http://arxiv.org/abs/2407.08478v1)|null|
+|**2024-07-11**|**Propagation and non-reciprocity in time-modulated diffusion through the lens of high-order homogenization**|Marie Touboul et.al.|[2407.08456v1](http://arxiv.org/abs/2407.08456v1)|null|
+|**2024-07-11**|**A fitted space-time finite element method for an advection-diffusion problem with moving interfaces**|Quang Huy Nguyen et.al.|[2407.08439v1](http://arxiv.org/abs/2407.08439v1)|null|
+|**2024-07-11**|**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers**|Zhengbo Zhang et.al.|[2407.08394v1](http://arxiv.org/abs/2407.08394v1)|null|
+|**2024-07-11**|**Dissolution of variable-in-shape drug particles via the level-set method**|Emiliano Cristiani et.al.|[2407.08350v1](http://arxiv.org/abs/2407.08350v1)|null|
+|**2024-07-11**|**Wind Power Assessment based on Super-Resolution and Downscaling -- A Comparison of Deep Learning Methods**|Luca Schmidt et.al.|[2407.08259v1](http://arxiv.org/abs/2407.08259v1)|null|
+|**2024-07-11**|**Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling**|Noam Elata et.al.|[2407.08256v1](http://arxiv.org/abs/2407.08256v1)|null|
+|**2024-07-11**|**Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching**|Dongliang Cao et.al.|[2407.08244v1](http://arxiv.org/abs/2407.08244v1)|null|
+|**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231v1](http://arxiv.org/abs/2407.08231v1)|null|
+|**2024-07-11**|**The Cauchy problem for quasi-linear parabolic systems revisited**|Isabelle Gallagher et.al.|[2407.08226v1](http://arxiv.org/abs/2407.08226v1)|null|
+|**2024-07-11**|**Dynamical critical behavior of the two-dimensional three-state Potts model**|Erol Vatansever et.al.|[2407.08198v1](http://arxiv.org/abs/2407.08198v1)|null|
+|**2024-07-11**|**Performance-Barrier Event-Triggered Control of a Class of Reaction-Diffusion PDEs**|Bhathiya Rathnayake et.al.|[2407.08178v1](http://arxiv.org/abs/2407.08178v1)|null|
+|**2024-07-11**|**Generalized Diffusive Epidemic Process with Permanent Immunity in Two Dimensions**|V. R. Carvalho et.al.|[2407.08175v1](http://arxiv.org/abs/2407.08175v1)|null|
+|**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137v1](http://arxiv.org/abs/2407.08137v1)|null|
 |**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873v1](http://arxiv.org/abs/2407.07873v1)|null|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
