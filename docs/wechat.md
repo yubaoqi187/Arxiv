@@ -1,4 +1,4 @@
-> Updated on 2024.07.11
+> Updated on 2024.07.12
 
 ## Video_Classification
 
@@ -9552,7 +9552,7 @@
 - 2024-07-10, **Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations**, Pradeep Bajracharya et.al., Paper: [http://arxiv.org/abs/2407.07674v1](http://arxiv.org/abs/2407.07674v1)
 - 2024-07-10, **VEnhancer: Generative Space-Time Enhancement for Video Generation**, Jingwen He et.al., Paper: [http://arxiv.org/abs/2407.07667v1](http://arxiv.org/abs/2407.07667v1)
 - 2024-07-10, **Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce$_2$Zr$_2$O$_7$: No Apparent Octupolar Correlations Above $T = 0.05$ K**, E. M. Smith et.al., Paper: [http://arxiv.org/abs/2407.07640v1](http://arxiv.org/abs/2407.07640v1)
-- 2024-07-10, **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**, Wanggui He et.al., Paper: [http://arxiv.org/abs/2407.07614v1](http://arxiv.org/abs/2407.07614v1), Code: **[https://github.com/fusiming3/mars](https://github.com/fusiming3/mars)**
+- 2024-07-11, **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**, Wanggui He et.al., Paper: [http://arxiv.org/abs/2407.07614v2](http://arxiv.org/abs/2407.07614v2), Code: **[https://github.com/fusiming3/mars](https://github.com/fusiming3/mars)**
 - 2024-07-10, **Collective Effects in Breath Figures**, Ambre Bouillant et.al., Paper: [http://arxiv.org/abs/2407.07608v1](http://arxiv.org/abs/2407.07608v1)
 - 2024-07-10, **Extended gamma-ray emission from particle escape in pulsar wind nebulae -- Application to HESS J1809-193 and HESS J1825-137**, Pierrick Martin et.al., Paper: [http://arxiv.org/abs/2407.07583v1](http://arxiv.org/abs/2407.07583v1)
 - 2024-07-10, **IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**, Mingjin Zhang et.al., Paper: [http://arxiv.org/abs/2407.07520v1](http://arxiv.org/abs/2407.07520v1), Code: **[https://github.com/ipic-lab/irsam](https://github.com/ipic-lab/irsam)**
