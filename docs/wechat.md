@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-16, **Efficient Training with Denoised Neural Weights**, Yifan Gong et.al., Paper: [http://arxiv.org/abs/2407.11966v1](http://arxiv.org/abs/2407.11966v1)
+- 2024-07-16, **UrbanWorld: An Urban World Model for 3D City Generation**, Yu Shang et.al., Paper: [http://arxiv.org/abs/2407.11965v1](http://arxiv.org/abs/2407.11965v1)
+- 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
+- 2024-07-16, **Spatiotemporal dynamics of ionic reorganization near biological membrane interfaces**, Hyeongjoo Row et.al., Paper: [http://arxiv.org/abs/2407.11947v1](http://arxiv.org/abs/2407.11947v1)
+- 2024-07-16, **Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**, Leo Klarner et.al., Paper: [http://arxiv.org/abs/2407.11942v1](http://arxiv.org/abs/2407.11942v1), Code: **[https://github.com/leojklarner/context-guided-diffusion](https://github.com/leojklarner/context-guided-diffusion)**
+- 2024-07-16, **Revisiting primordial magnetic fields through 21-cm physics: Bounds and forecasts**, Arko Bhaumik et.al., Paper: [http://arxiv.org/abs/2407.11923v1](http://arxiv.org/abs/2407.11923v1)
+- 2024-07-16, **Energy dependence of the knee in the cosmic ray spectrum across the Milky Way**, C. Prevotat et.al., Paper: [http://arxiv.org/abs/2407.11911v1](http://arxiv.org/abs/2407.11911v1)
+- 2024-07-16, **Impact of coherent mode coupling on noise performance in elliptical aperture VCSELs for datacom**, Cristina Rimoldi et.al., Paper: [http://arxiv.org/abs/2407.11899v1](http://arxiv.org/abs/2407.11899v1)
+- 2024-07-16, **Single Layer Single Gradient Unlearning**, Zikui Cai et.al., Paper: [http://arxiv.org/abs/2407.11867v1](http://arxiv.org/abs/2407.11867v1)
+- 2024-07-16, **Navigating Munk's Abyssal Recipes: Reconciling the Paradoxes and Suggesting an Upwelling Mechanism for Bottom Water in a Flat-Bottom Ocean**, Lei Han et.al., Paper: [http://arxiv.org/abs/2407.11864v1](http://arxiv.org/abs/2407.11864v1)
+- 2024-07-16, **Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**, Vasco Ramos et.al., Paper: [http://arxiv.org/abs/2407.11814v1](http://arxiv.org/abs/2407.11814v1)
+- 2024-07-16, **Equilibrium and Non-Equilibrium diffusion approximation for the radiative transfer equation**, Elena Demattè et.al., Paper: [http://arxiv.org/abs/2407.11797v1](http://arxiv.org/abs/2407.11797v1)
+- 2024-07-16, **Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope**, Carlos D. Alas et.al., Paper: [http://arxiv.org/abs/2407.11758v1](http://arxiv.org/abs/2407.11758v1)
+- 2024-07-16, **Revolutionizing MRI Data Processing Using FSL: Preliminary Findings with the Fugaku Supercomputer**, Tianxiang Lyu et.al., Paper: [http://arxiv.org/abs/2407.11742v1](http://arxiv.org/abs/2407.11742v1)
+- 2024-07-16, **AutoFreeFem: Automatic code generation with FreeFEM++ and LaTex output for shape and topology optimization of non-linear multi-physics problems**, Grégoire Allaire et.al., Paper: [http://arxiv.org/abs/2407.11713v1](http://arxiv.org/abs/2407.11713v1)
+- 2024-07-16, **Crossover from Anomalous to Normal Diffusion: Ising Model with Stochastic Resetting**, Yashan Chen et.al., Paper: [http://arxiv.org/abs/2407.11708v1](http://arxiv.org/abs/2407.11708v1)
+- 2024-07-16, **Dynamics for a diffusive epidemic model with a free boundary: sharp asymptotic profile**, Xueping Li et.al., Paper: [http://arxiv.org/abs/2407.11702v1](http://arxiv.org/abs/2407.11702v1)
+- 2024-07-16, **Population synthesis of Thorne-Żytkow objects: Rejuvenated donors and unexplored progenitors in the common envelope formation channel**, K. Nathaniel et.al., Paper: [http://arxiv.org/abs/2407.11680v1](http://arxiv.org/abs/2407.11680v1)
+- 2024-07-16, **Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**, Dominik Winter et.al., Paper: [http://arxiv.org/abs/2407.11664v1](http://arxiv.org/abs/2407.11664v1)
+- 2024-07-16, **Magnetogram-to-Magnetogram: Generative Forecasting of Solar Evolution**, Francesco Pio Ramunno et.al., Paper: [http://arxiv.org/abs/2407.11659v1](http://arxiv.org/abs/2407.11659v1)
 - 2024-07-15, **Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**, Yongyuan Liang et.al., Paper: [http://arxiv.org/abs/2407.10973v1](http://arxiv.org/abs/2407.10973v1)
 - 2024-07-15, **InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**, Nirat Saini et.al., Paper: [http://arxiv.org/abs/2407.10958v1](http://arxiv.org/abs/2407.10958v1)
 - 2024-07-15, **IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**, Yuanhao Zhai et.al., Paper: [http://arxiv.org/abs/2407.10937v1](http://arxiv.org/abs/2407.10937v1), Code: **[https://github.com/yhZhai/idol](https://github.com/yhZhai/idol)**
@@ -9904,6 +9924,9 @@
 
 ## Diffusion_Segment
 
+- 2024-07-16, **Revolutionizing MRI Data Processing Using FSL: Preliminary Findings with the Fugaku Supercomputer**, Tianxiang Lyu et.al., Paper: [http://arxiv.org/abs/2407.11742v1](http://arxiv.org/abs/2407.11742v1)
+- 2024-07-16, **Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**, Dominik Winter et.al., Paper: [http://arxiv.org/abs/2407.11664v1](http://arxiv.org/abs/2407.11664v1)
+- 2024-07-16, **DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**, Guillermo Jimenez-Perez et.al., Paper: [http://arxiv.org/abs/2407.11594v1](http://arxiv.org/abs/2407.11594v1)
 - 2024-07-15, **WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**, Zijian He et.al., Paper: [http://arxiv.org/abs/2407.10625v1](http://arxiv.org/abs/2407.10625v1)
 - 2024-07-14, **Thyroidiomics: An Automated Pipeline for Segmentation and Classification of Thyroid Pathologies from Scintigraphy Images**, Maziar Sabouri et.al., Paper: [http://arxiv.org/abs/2407.10336v1](http://arxiv.org/abs/2407.10336v1), Code: **[https://github.com/ahxmeds/thyroidiomics](https://github.com/ahxmeds/thyroidiomics)**
 - 2024-07-13, **DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2407.09918v1](http://arxiv.org/abs/2407.09918v1), Code: **[https://github.com/cuhk-aim-group/diffrect](https://github.com/cuhk-aim-group/diffrect)**
