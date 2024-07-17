@@ -1,4 +1,4 @@
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 
 ## Diffusion
 
@@ -8,7 +8,7 @@
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958v1](http://arxiv.org/abs/2407.10958v1)|null|
 |**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937v1](http://arxiv.org/abs/2407.10937v1)|**[link](https://github.com/yhZhai/idol)**|
 |**2024-07-15**|**On the Cyclostationary Linear Inverse Models: A Mathematical Insight and Implication**|Justin Lien et.al.|[2407.10931v1](http://arxiv.org/abs/2407.10931v1)|null|
-|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-16**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|**[link](https://github.com/explainableml/datadream)**|
 |**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897v1](http://arxiv.org/abs/2407.10897v1)|null|
 |**2024-07-15**|**R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection**|Zheyuan Zhou et.al.|[2407.10862v1](http://arxiv.org/abs/2407.10862v1)|null|
 |**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856v1](http://arxiv.org/abs/2407.10856v1)|null|
@@ -16,7 +16,7 @@
 |**2024-07-15**|**The effective diffusion constant of stochastic processes with spatially periodic noise**|Stefano Giordano et.al.|[2407.10813v1](http://arxiv.org/abs/2407.10813v1)|null|
 |**2024-07-15**|**Near-deterministic quantum search algorithm without phase control**|Zhen Wang et.al.|[2407.10748v1](http://arxiv.org/abs/2407.10748v1)|null|
 |**2024-07-15**|**When Synthetic Traces Hide Real Content: Analysis of Stable Diffusion Image Laundering**|Sara Mandelli et.al.|[2407.10736v1](http://arxiv.org/abs/2407.10736v1)|null|
-|**2024-07-15**|**Impact of electron spectra on morphology of pulsar halo**|YingYing Guo et.al.|[2407.10705v1](http://arxiv.org/abs/2407.10705v1)|null|
+|**2024-07-16**|**Impact of electron spectra on morphology of pulsar halos at ultra-high energies**|YingYing Guo et.al.|[2407.10705v2](http://arxiv.org/abs/2407.10705v2)|null|
 |**2024-07-15**|**Towards Robust Event-based Networks for Nighttime via Unpaired Day-to-Night Event Translation**|Yuhwan Jeong et.al.|[2407.10703v1](http://arxiv.org/abs/2407.10703v1)|**[link](https://github.com/jeongyh98/udnet)**|
 |**2024-07-15**|**Conditional Guided Generative Diffusion for Particle Accelerator Beam Diagnostics**|Alexander Scheinker et.al.|[2407.10693v1](http://arxiv.org/abs/2407.10693v1)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683v1](http://arxiv.org/abs/2407.10683v1)|null|
