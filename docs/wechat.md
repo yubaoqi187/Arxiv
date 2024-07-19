@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-18, **Large deviations of Dyson Brownian motion on the circle and multiradial SLE0+**, Osama Abuzaid et.al., Paper: [http://arxiv.org/abs/2407.13762v1](http://arxiv.org/abs/2407.13762v1)
+- 2024-07-18, **Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**, Boyang Deng et.al., Paper: [http://arxiv.org/abs/2407.13759v1](http://arxiv.org/abs/2407.13759v1)
+- 2024-07-18, **LogoSticker: Inserting Logos into Diffusion Models for Customized Generation**, Mingkang Zhu et.al., Paper: [http://arxiv.org/abs/2407.13752v1](http://arxiv.org/abs/2407.13752v1)
+- 2024-07-18, **Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**, Masatoshi Uehara et.al., Paper: [http://arxiv.org/abs/2407.13734v1](http://arxiv.org/abs/2407.13734v1)
+- 2024-07-18, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v1](http://arxiv.org/abs/2407.13675v1)
+- 2024-07-18, **Are the surface abundance structures stable in rapidly rotating Ap star 56 Ari?**, I. Potravnov et.al., Paper: [http://arxiv.org/abs/2407.13645v1](http://arxiv.org/abs/2407.13645v1)
+- 2024-07-18, **Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**, Xiaoyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.13642v1](http://arxiv.org/abs/2407.13642v1)
+- 2024-07-18, **Training-free Composite Scene Generation for Layout-to-Image Synthesis**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2407.13609v1](http://arxiv.org/abs/2407.13609v1)
+- 2024-07-18, **Functional Renormalization Group analysis of the quark-condensation pattern on the Fermi surface: A simple effective-model approach**, Kie Sang Jeong et.al., Paper: [http://arxiv.org/abs/2407.13589v1](http://arxiv.org/abs/2407.13589v1)
+- 2024-07-18, **The long way of a viscous vortex dipole**, Michele Dolce et.al., Paper: [http://arxiv.org/abs/2407.13562v1](http://arxiv.org/abs/2407.13562v1)
+- 2024-07-18, **Analytic structure of diffusive correlation functions**, Sašo Grozdanov et.al., Paper: [http://arxiv.org/abs/2407.13550v1](http://arxiv.org/abs/2407.13550v1)
+- 2024-07-18, **DiffuX2CT: Diffusion Learning to Reconstruct CT Images from Biplanar X-Rays**, Xuhui Liu et.al., Paper: [http://arxiv.org/abs/2407.13545v1](http://arxiv.org/abs/2407.13545v1)
+- 2024-07-18, **EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models**, Nan Lin et.al., Paper: [http://arxiv.org/abs/2407.13538v1](http://arxiv.org/abs/2407.13538v1)
+- 2024-07-18, **Fundamental Visual Navigation Algorithms: Indirect Sequential, Biased Diffusive, & Direct Pathing**, Patrick Govoni et.al., Paper: [http://arxiv.org/abs/2407.13535v1](http://arxiv.org/abs/2407.13535v1)
+- 2024-07-18, **Entropy factorization via curvature**, Pietro Caputo et.al., Paper: [http://arxiv.org/abs/2407.13457v1](http://arxiv.org/abs/2407.13457v1)
+- 2024-07-18, **A uniquely solvable and positivity-preserving finite difference scheme for the Flory-Huggins-Cahn-Hilliard equation with dynamical boundary condition**, Yunzhuo Guo et.al., Paper: [http://arxiv.org/abs/2407.13453v1](http://arxiv.org/abs/2407.13453v1)
+- 2024-07-18, **All Roads Lead to Rome? Exploring Representational Similarities Between Latent Spaces of Generative Image Models**, Charumathi Badrinath et.al., Paper: [http://arxiv.org/abs/2407.13449v1](http://arxiv.org/abs/2407.13449v1)
+- 2024-07-18, **Numerical Study of Approximation Techniques for the Temporal Weights to the DWR Method**, Marius Paul Bruchhäuser et.al., Paper: [http://arxiv.org/abs/2407.13418v1](http://arxiv.org/abs/2407.13418v1)
+- 2024-07-18, **Interface-induced turbulence in viscous binary fluid mixtures**, Nadia Bihari Padhan et.al., Paper: [http://arxiv.org/abs/2407.13393v1](http://arxiv.org/abs/2407.13393v1)
+- 2024-07-18, **Sampling from mixture distributions based on regime-switching diffusions**, M. V. Tretyakov et.al., Paper: [http://arxiv.org/abs/2407.13389v1](http://arxiv.org/abs/2407.13389v1)
 - 2024-07-17, **SMooDi: Stylized Motion Diffusion Model**, Lei Zhong et.al., Paper: [http://arxiv.org/abs/2407.12783v1](http://arxiv.org/abs/2407.12783v1)
 - 2024-07-17, **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**, Sherwin Bahmani et.al., Paper: [http://arxiv.org/abs/2407.12781v1](http://arxiv.org/abs/2407.12781v1)
 - 2024-07-17, **Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**, Matthew Tivnan et.al., Paper: [http://arxiv.org/abs/2407.12780v1](http://arxiv.org/abs/2407.12780v1)
@@ -9944,6 +9964,9 @@
 
 ## Diffusion_Segment
 
+- 2024-07-18, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v1](http://arxiv.org/abs/2407.13675v1)
+- 2024-07-18, **Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**, Xiaoyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.13642v1](http://arxiv.org/abs/2407.13642v1)
+- 2024-07-17, **Denoising Diffusions in Latent Space for Medical Image Segmentation**, Fahim Ahmed Zaman et.al., Paper: [http://arxiv.org/abs/2407.12952v1](http://arxiv.org/abs/2407.12952v1)
 - 2024-07-17, **Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2407.12678v1](http://arxiv.org/abs/2407.12678v1)
 - 2024-07-17, **Leveraging the Mahalanobis Distance to enhance Unsupervised Brain MRI Anomaly Detection**, Finn Behrendt et.al., Paper: [http://arxiv.org/abs/2407.12474v1](http://arxiv.org/abs/2407.12474v1), Code: **[https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection](https://github.com/FinnBehrendt/Mahalanobis-Unsupervised-Anomaly-Detection)**
 - 2024-07-17, **HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**, Xintao Lv et.al., Paper: [http://arxiv.org/abs/2407.12371v1](http://arxiv.org/abs/2407.12371v1)
