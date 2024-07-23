@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 
 ## Diffusion
 
@@ -471,7 +471,7 @@ layout: default
 |**2024-07-13**|**DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation**|Xinyu Liu et.al.|[2407.09918v1](http://arxiv.org/abs/2407.09918v1)|**[link](https://github.com/cuhk-aim-group/diffrect)**|
 |**2024-07-12**|**Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**|Julian Wyatt et.al.|[2407.09192v1](http://arxiv.org/abs/2407.09192v1)|null|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
-|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v1](http://arxiv.org/abs/2407.07295v1)|**[link](https://github.com/jianqingzheng/def_diff_rec)**|
+|**2024-07-21**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295v2](http://arxiv.org/abs/2407.07295v2)|**[link](https://github.com/jianqingzheng/def_diff_rec)**|
 |**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250v1](http://arxiv.org/abs/2407.06250v1)|**[link](https://github.com/wenyi-li/fairdiff)**|
 |**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352v1](http://arxiv.org/abs/2407.05352v1)|null|
 |**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323v1](http://arxiv.org/abs/2407.05323v1)|null|
