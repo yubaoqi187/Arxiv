@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-23, **Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**, Fabio Tosi et.al., Paper: [http://arxiv.org/abs/2407.16698v1](http://arxiv.org/abs/2407.16698v1), Code: **[https://github.com/fabiotosi92/diffusion4robustdepth](https://github.com/fabiotosi92/diffusion4robustdepth)**
+- 2024-07-23, **DIISC-V: Variations in H$α$-to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**, Mansi Padave et.al., Paper: [http://arxiv.org/abs/2407.16690v1](http://arxiv.org/abs/2407.16690v1)
+- 2024-07-23, **Uncountable Infinite Exact Solutions to the FitzHugh-Nagumo Model**, Shahid Sultan Ali Ramji et.al., Paper: [http://arxiv.org/abs/2407.16678v1](http://arxiv.org/abs/2407.16678v1)
+- 2024-07-23, **From Imitation to Refinement -- Residual RL for Precise Visual Assembly**, Lars Ankile et.al., Paper: [http://arxiv.org/abs/2407.16677v1](http://arxiv.org/abs/2407.16677v1)
+- 2024-07-23, **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2407.16655v1](http://arxiv.org/abs/2407.16655v1)
+- 2024-07-23, **The role of meridional flow in the generation of solar/stellar magnetic fields and cycles**, Vindya Vashishth et.al., Paper: [http://arxiv.org/abs/2407.16620v1](http://arxiv.org/abs/2407.16620v1)
+- 2024-07-23, **Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2407.16564v1](http://arxiv.org/abs/2407.16564v1), Code: **[https://github.com/fundwotsai2001/ap-adapter](https://github.com/fundwotsai2001/ap-adapter)**
+- 2024-07-23, **Free boundary limits of coupled bulk-surface models for receptor-ligand interactions on evolving domains**, Amal Alphonse et.al., Paper: [http://arxiv.org/abs/2407.16522v1](http://arxiv.org/abs/2407.16522v1)
+- 2024-07-23, **DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**, Zhenyu Xie et.al., Paper: [http://arxiv.org/abs/2407.16511v1](http://arxiv.org/abs/2407.16511v1)
+- 2024-07-23, **qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**, Shishuai Wang et.al., Paper: [http://arxiv.org/abs/2407.16477v1](http://arxiv.org/abs/2407.16477v1)
+- 2024-07-23, **MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**, Youngmin Oh et.al., Paper: [http://arxiv.org/abs/2407.16448v1](http://arxiv.org/abs/2407.16448v1), Code: **[https://github.com/visualaikhu/monowad](https://github.com/visualaikhu/monowad)**
+- 2024-07-23, **Data-Driven Optimal Feedback Laws via Kernel Mean Embeddings**, Petar Bevanda et.al., Paper: [http://arxiv.org/abs/2407.16407v1](http://arxiv.org/abs/2407.16407v1)
+- 2024-07-23, **On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**, Deniz Daum et.al., Paper: [http://arxiv.org/abs/2407.16405v1](http://arxiv.org/abs/2407.16405v1), Code: **[https://github.com/compai-lab/2024-miccai-dgm-daum](https://github.com/compai-lab/2024-miccai-dgm-daum)**
+- 2024-07-23, **A new numerical scheme for Itô stochastic differential equations based on Wick-type Wong-Zakai arguments**, Alberto Lanconelli et.al., Paper: [http://arxiv.org/abs/2407.16399v1](http://arxiv.org/abs/2407.16399v1)
+- 2024-07-23, **Recent IceCube Results: Diffuse Flux, Point Sources and Dark Matter**, Minjin Jeong et.al., Paper: [http://arxiv.org/abs/2407.16371v1](http://arxiv.org/abs/2407.16371v1)
+- 2024-07-23, **Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**, Maciej Wodziński et.al., Paper: [http://arxiv.org/abs/2407.16292v1](http://arxiv.org/abs/2407.16292v1)
+- 2024-07-23, **DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**, Zizheng Yan et.al., Paper: [http://arxiv.org/abs/2407.16260v1](http://arxiv.org/abs/2407.16260v1)
+- 2024-07-23, **Self-Reasoning Assistant Learning for non-Abelian Gauge Fields Design**, Jinyang Sun et.al., Paper: [http://arxiv.org/abs/2407.16255v1](http://arxiv.org/abs/2407.16255v1)
+- 2024-07-23, **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2407.16224v1](http://arxiv.org/abs/2407.16224v1)
+- 2024-07-23, **Diff-Shadow: Global-guided Diffusion Model for Shadow Removal**, Jinting Luo et.al., Paper: [http://arxiv.org/abs/2407.16214v1](http://arxiv.org/abs/2407.16214v1)
 - 2024-07-22, **Artist: Aesthetically Controllable Text-Driven Stylization without Training**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.15842v1](http://arxiv.org/abs/2407.15842v1)
 - 2024-07-22, **Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**, Vikash Sehwag et.al., Paper: [http://arxiv.org/abs/2407.15811v1](http://arxiv.org/abs/2407.15811v1)
 - 2024-07-22, **Diffusion Model Based Resource Allocation Strategy in Ultra-Reliable Wireless Networked Control Systems**, Amirhassan Babazadeh Darabi et.al., Paper: [http://arxiv.org/abs/2407.15784v1](http://arxiv.org/abs/2407.15784v1)
@@ -10004,6 +10024,7 @@
 
 ## Diffusion_Segment
 
+- 2024-07-23, **No Re-Train, More Gain: Upgrading Backbones with Diffusion Model for Few-Shot Segmentation**, Shuai Chen et.al., Paper: [http://arxiv.org/abs/2407.16182v1](http://arxiv.org/abs/2407.16182v1)
 - 2024-07-22, **Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**, Silvio Galesso et.al., Paper: [http://arxiv.org/abs/2407.15739v1](http://arxiv.org/abs/2407.15739v1), Code: **[https://github.com/lmb-freiburg/diffusion-for-ood](https://github.com/lmb-freiburg/diffusion-for-ood)**
 - 2024-07-21, **Anchored Diffusion for Video Face Reenactment**, Idan Kligvasser et.al., Paper: [http://arxiv.org/abs/2407.15153v1](http://arxiv.org/abs/2407.15153v1)
 - 2024-07-21, **Diffusion Models for Unsupervised Anomaly Detection in Fetal Brain Ultrasound**, Hanna Mykula et.al., Paper: [http://arxiv.org/abs/2407.15119v1](http://arxiv.org/abs/2407.15119v1)
