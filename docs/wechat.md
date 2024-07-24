@@ -1,4 +1,4 @@
-> Updated on 2024.07.23
+> Updated on 2024.07.24
 
 ## Video_Classification
 
@@ -9552,8 +9552,8 @@
 - 2024-07-22, **Particle Based Inference for Continuous-Discrete State Space Models**, Christopher Stanton et.al., Paper: [http://arxiv.org/abs/2407.15666v1](http://arxiv.org/abs/2407.15666v1)
 - 2024-07-22, **DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**, Jiahang Tu et.al., Paper: [http://arxiv.org/abs/2407.15661v1](http://arxiv.org/abs/2407.15661v1), Code: **[https://github.com/ttuhamg/driveditfit](https://github.com/ttuhamg/driveditfit)**
 - 2024-07-22, **Coupled dynamics in binary mixtures of colloidal Yukawa systems**, Daniel Weidig et.al., Paper: [http://arxiv.org/abs/2407.15659v1](http://arxiv.org/abs/2407.15659v1)
-- 2024-07-22, **Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2407.15642v1](http://arxiv.org/abs/2407.15642v1), Code: **[https://github.com/maxin-cn/Cinemo](https://github.com/maxin-cn/Cinemo)**
-- 2024-07-22, **A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**, Karim Kadry et.al., Paper: [http://arxiv.org/abs/2407.15631v1](http://arxiv.org/abs/2407.15631v1)
+- 2024-07-23, **Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2407.15642v2](http://arxiv.org/abs/2407.15642v2), Code: **[https://github.com/maxin-cn/Cinemo](https://github.com/maxin-cn/Cinemo)**
+- 2024-07-23, **A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control**, Karim Kadry et.al., Paper: [http://arxiv.org/abs/2407.15631v2](http://arxiv.org/abs/2407.15631v2)
 - 2024-07-22, **StylusAI: Stylistic Adaptation for Robust German Handwritten Text Generation**, Nauman Riaz et.al., Paper: [http://arxiv.org/abs/2407.15608v1](http://arxiv.org/abs/2407.15608v1)
 - 2024-07-22, **Discrete Flow Matching**, Itai Gat et.al., Paper: [http://arxiv.org/abs/2407.15595v1](http://arxiv.org/abs/2407.15595v1)
 - 2024-07-22, **Large deviations for generalized backward stochastic differential equations**, Yawen Liu et.al., Paper: [http://arxiv.org/abs/2407.15584v1](http://arxiv.org/abs/2407.15584v1)
@@ -10011,7 +10011,7 @@
 - 2024-07-19, **Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**, Seonghui Min et.al., Paper: [http://arxiv.org/abs/2407.14434v1](http://arxiv.org/abs/2407.14434v1)
 - 2024-07-19, **Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**, Hyun-Jic Oh et.al., Paper: [http://arxiv.org/abs/2407.14426v1](http://arxiv.org/abs/2407.14426v1)
 - 2024-07-19, **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**, Kun Zhao et.al., Paper: [http://arxiv.org/abs/2407.14326v1](http://arxiv.org/abs/2407.14326v1)
-- 2024-07-18, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v1](http://arxiv.org/abs/2407.13675v1), Code: **[https://github.com/zimingzhong/MeshSegmenter](https://github.com/zimingzhong/MeshSegmenter)**
+- 2024-07-23, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v2](http://arxiv.org/abs/2407.13675v2), Code: **[https://github.com/zimingzhong/MeshSegmenter](https://github.com/zimingzhong/MeshSegmenter)**
 - 2024-07-18, **Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**, Xiaoyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.13642v1](http://arxiv.org/abs/2407.13642v1)
 - 2024-07-17, **Denoising Diffusions in Latent Space for Medical Image Segmentation**, Fahim Ahmed Zaman et.al., Paper: [http://arxiv.org/abs/2407.12952v1](http://arxiv.org/abs/2407.12952v1)
 - 2024-07-17, **Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2407.12678v1](http://arxiv.org/abs/2407.12678v1), Code: **[https://github.com/arcadelab/counterfactual_diffusion](https://github.com/arcadelab/counterfactual_diffusion)**
@@ -10022,7 +10022,7 @@
 - 2024-07-16, **Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**, Dominik Winter et.al., Paper: [http://arxiv.org/abs/2407.11664v1](http://arxiv.org/abs/2407.11664v1)
 - 2024-07-16, **DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**, Guillermo Jimenez-Perez et.al., Paper: [http://arxiv.org/abs/2407.11594v1](http://arxiv.org/abs/2407.11594v1)
 - 2024-07-15, **WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**, Zijian He et.al., Paper: [http://arxiv.org/abs/2407.10625v1](http://arxiv.org/abs/2407.10625v1)
-- 2024-07-14, **Thyroidiomics: An Automated Pipeline for Segmentation and Classification of Thyroid Pathologies from Scintigraphy Images**, Maziar Sabouri et.al., Paper: [http://arxiv.org/abs/2407.10336v1](http://arxiv.org/abs/2407.10336v1), Code: **[https://github.com/ahxmeds/thyroidiomics](https://github.com/ahxmeds/thyroidiomics)**
+- 2024-07-22, **Thyroidiomics: An Automated Pipeline for Segmentation and Classification of Thyroid Pathologies from Scintigraphy Images**, Maziar Sabouri et.al., Paper: [http://arxiv.org/abs/2407.10336v2](http://arxiv.org/abs/2407.10336v2), Code: **[https://github.com/ahxmeds/thyroidiomics](https://github.com/ahxmeds/thyroidiomics)**
 - 2024-07-13, **DiffRect: Latent Diffusion Label Rectification for Semi-supervised Medical Image Segmentation**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2407.09918v1](http://arxiv.org/abs/2407.09918v1), Code: **[https://github.com/cuhk-aim-group/diffrect](https://github.com/cuhk-aim-group/diffrect)**
 - 2024-07-12, **Salt & Pepper Heatmaps: Diffusion-informed Landmark Detection Strategy**, Julian Wyatt et.al., Paper: [http://arxiv.org/abs/2407.09192v1](http://arxiv.org/abs/2407.09192v1)
 - 2024-07-10, **IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**, Mingjin Zhang et.al., Paper: [http://arxiv.org/abs/2407.07520v1](http://arxiv.org/abs/2407.07520v1), Code: **[https://github.com/ipic-lab/irsam](https://github.com/ipic-lab/irsam)**
