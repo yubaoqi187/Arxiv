@@ -1,4 +1,4 @@
-> Updated on 2024.07.24
+> Updated on 2024.07.25
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2024-07-23, **From Imitation to Refinement -- Residual RL for Precise Visual Assembly**, Lars Ankile et.al., Paper: [http://arxiv.org/abs/2407.16677v1](http://arxiv.org/abs/2407.16677v1)
 - 2024-07-23, **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2407.16655v1](http://arxiv.org/abs/2407.16655v1)
 - 2024-07-23, **The role of meridional flow in the generation of solar/stellar magnetic fields and cycles**, Vindya Vashishth et.al., Paper: [http://arxiv.org/abs/2407.16620v1](http://arxiv.org/abs/2407.16620v1)
-- 2024-07-23, **Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2407.16564v1](http://arxiv.org/abs/2407.16564v1), Code: **[https://github.com/fundwotsai2001/ap-adapter](https://github.com/fundwotsai2001/ap-adapter)**
+- 2024-07-24, **Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2407.16564v2](http://arxiv.org/abs/2407.16564v2), Code: **[https://github.com/fundwotsai2001/ap-adapter](https://github.com/fundwotsai2001/ap-adapter)**
 - 2024-07-23, **Free boundary limits of coupled bulk-surface models for receptor-ligand interactions on evolving domains**, Amal Alphonse et.al., Paper: [http://arxiv.org/abs/2407.16522v1](http://arxiv.org/abs/2407.16522v1)
 - 2024-07-23, **DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**, Zhenyu Xie et.al., Paper: [http://arxiv.org/abs/2407.16511v1](http://arxiv.org/abs/2407.16511v1)
 - 2024-07-23, **qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**, Shishuai Wang et.al., Paper: [http://arxiv.org/abs/2407.16477v1](http://arxiv.org/abs/2407.16477v1)
@@ -9556,7 +9556,7 @@
 - 2024-07-23, **On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**, Deniz Daum et.al., Paper: [http://arxiv.org/abs/2407.16405v1](http://arxiv.org/abs/2407.16405v1), Code: **[https://github.com/compai-lab/2024-miccai-dgm-daum](https://github.com/compai-lab/2024-miccai-dgm-daum)**
 - 2024-07-23, **A new numerical scheme for Itô stochastic differential equations based on Wick-type Wong-Zakai arguments**, Alberto Lanconelli et.al., Paper: [http://arxiv.org/abs/2407.16399v1](http://arxiv.org/abs/2407.16399v1)
 - 2024-07-23, **Recent IceCube Results: Diffuse Flux, Point Sources and Dark Matter**, Minjin Jeong et.al., Paper: [http://arxiv.org/abs/2407.16371v1](http://arxiv.org/abs/2407.16371v1)
-- 2024-07-23, **Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**, Maciej Wodziński et.al., Paper: [http://arxiv.org/abs/2407.16292v1](http://arxiv.org/abs/2407.16292v1)
+- 2024-07-24, **Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney**, Maciej Wodziński et.al., Paper: [http://arxiv.org/abs/2407.16292v2](http://arxiv.org/abs/2407.16292v2)
 - 2024-07-23, **DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**, Zizheng Yan et.al., Paper: [http://arxiv.org/abs/2407.16260v1](http://arxiv.org/abs/2407.16260v1)
 - 2024-07-23, **Self-Reasoning Assistant Learning for non-Abelian Gauge Fields Design**, Jinyang Sun et.al., Paper: [http://arxiv.org/abs/2407.16255v1](http://arxiv.org/abs/2407.16255v1)
 - 2024-07-23, **OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2407.16224v1](http://arxiv.org/abs/2407.16224v1)
