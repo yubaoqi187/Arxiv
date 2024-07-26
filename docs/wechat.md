@@ -1,4 +1,4 @@
-> Updated on 2024.07.25
+> Updated on 2024.07.26
 
 ## Video_Classification
 
@@ -9549,7 +9549,7 @@
 - 2024-07-24, **Optimal Control of a Reaction-Diffusion Epidemic Model with Noncompliance**, Marcelo Bongarti et.al., Paper: [http://arxiv.org/abs/2407.17298v1](http://arxiv.org/abs/2407.17298v1)
 - 2024-07-24, **Hybrid-PFC: coupling the phase-field crystal model and its amplitude-equation formulation**, Maik Punke et.al., Paper: [http://arxiv.org/abs/2407.17283v1](http://arxiv.org/abs/2407.17283v1)
 - 2024-07-24, **Stochastic Aggregation Diffusion-Equation : Analysis via Dirichlet Forms**, Jaouad Bourabiaa et.al., Paper: [http://arxiv.org/abs/2407.17239v1](http://arxiv.org/abs/2407.17239v1)
-- 2024-07-24, **LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**, Wanggong Yang et.al., Paper: [http://arxiv.org/abs/2407.17229v1](http://arxiv.org/abs/2407.17229v1)
+- 2024-07-25, **LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**, Wanggong Yang et.al., Paper: [http://arxiv.org/abs/2407.17229v2](http://arxiv.org/abs/2407.17229v2)
 - 2024-07-24, **Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning**, Yilie Huang et.al., Paper: [http://arxiv.org/abs/2407.17226v1](http://arxiv.org/abs/2407.17226v1)
 - 2024-07-24, **The Bifurcation Growth Rate for the Robust Pattern Formation in the Reaction-Diffusion System on the Growing Domain**, Shin Nishihara et.al., Paper: [http://arxiv.org/abs/2407.17217v1](http://arxiv.org/abs/2407.17217v1)
 - 2024-07-24, **Metal accretion scars may be common on magnetic, polluted white dwarfs**, S. Bagnulo et.al., Paper: [http://arxiv.org/abs/2407.17196v1](http://arxiv.org/abs/2407.17196v1)
@@ -10053,7 +10053,7 @@
 - 2024-07-19, **Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**, Seonghui Min et.al., Paper: [http://arxiv.org/abs/2407.14434v1](http://arxiv.org/abs/2407.14434v1)
 - 2024-07-19, **Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**, Hyun-Jic Oh et.al., Paper: [http://arxiv.org/abs/2407.14426v1](http://arxiv.org/abs/2407.14426v1)
 - 2024-07-19, **Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**, Kun Zhao et.al., Paper: [http://arxiv.org/abs/2407.14326v1](http://arxiv.org/abs/2407.14326v1)
-- 2024-07-23, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v2](http://arxiv.org/abs/2407.13675v2), Code: **[https://github.com/zimingzhong/MeshSegmenter](https://github.com/zimingzhong/MeshSegmenter)**
+- 2024-07-25, **MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**, Ziming Zhong et.al., Paper: [http://arxiv.org/abs/2407.13675v3](http://arxiv.org/abs/2407.13675v3), Code: **[https://github.com/zimingzhong/MeshSegmenter](https://github.com/zimingzhong/MeshSegmenter)**
 - 2024-07-18, **Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**, Xiaoyu Zhu et.al., Paper: [http://arxiv.org/abs/2407.13642v1](http://arxiv.org/abs/2407.13642v1)
 - 2024-07-17, **Denoising Diffusions in Latent Space for Medical Image Segmentation**, Fahim Ahmed Zaman et.al., Paper: [http://arxiv.org/abs/2407.12952v1](http://arxiv.org/abs/2407.12952v1)
 - 2024-07-17, **Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**, Yiqing Shen et.al., Paper: [http://arxiv.org/abs/2407.12678v1](http://arxiv.org/abs/2407.12678v1), Code: **[https://github.com/arcadelab/counterfactual_diffusion](https://github.com/arcadelab/counterfactual_diffusion)**
