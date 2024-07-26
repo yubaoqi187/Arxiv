@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-25, **RegionDrag: Fast Region-Based Image Editing with Diffusion Models**, Jingyi Lu et.al., Paper: [http://arxiv.org/abs/2407.18247v1](http://arxiv.org/abs/2407.18247v1)
+- 2024-07-25, **VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**, Orest Kupyn et.al., Paper: [http://arxiv.org/abs/2407.18245v1](http://arxiv.org/abs/2407.18245v1)
+- 2024-07-25, **$A+A \to A$, $\; \; B+A \to A$**, Roger Tribe et.al., Paper: [http://arxiv.org/abs/2407.18212v1](http://arxiv.org/abs/2407.18212v1)
+- 2024-07-25, **Chemically reactive and aging macromolecular mixtures II: Phase separation and coarsening**, Ruoyao Zhang et.al., Paper: [http://arxiv.org/abs/2407.18171v1](http://arxiv.org/abs/2407.18171v1)
+- 2024-07-25, **Solvability and optimal control of a multi-species Cahn-Hilliard-Keller-Segel tumor growth model**, Pierluigi Colli et.al., Paper: [http://arxiv.org/abs/2407.18162v1](http://arxiv.org/abs/2407.18162v1)
+- 2024-07-25, **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**, Roberto Di Via et.al., Paper: [http://arxiv.org/abs/2407.18125v1](http://arxiv.org/abs/2407.18125v1)
+- 2024-07-25, **Testing non-local gravity through Ultra-Diffuse Galaxies kinematics**, Filippo Bouchè et.al., Paper: [http://arxiv.org/abs/2407.18084v1](http://arxiv.org/abs/2407.18084v1)
+- 2024-07-25, **Equation of state of Bose gases beyond the universal regime**, Marti Planasdemunt et.al., Paper: [http://arxiv.org/abs/2407.18059v1](http://arxiv.org/abs/2407.18059v1)
+- 2024-07-25, **AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**, Junho Park et.al., Paper: [http://arxiv.org/abs/2407.18034v1](http://arxiv.org/abs/2407.18034v1)
+- 2024-07-25, **Three-dimensional exponential mixing and ideal kinematic dynamo with randomized ABC flows**, Michele Coti Zelati et.al., Paper: [http://arxiv.org/abs/2407.18028v1](http://arxiv.org/abs/2407.18028v1)
+- 2024-07-25, **Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2407.18026v1](http://arxiv.org/abs/2407.18026v1)
+- 2024-07-25, **Self-Supervision Improves Diffusion Models for Tabular Data Imputation**, Yixin Liu et.al., Paper: [http://arxiv.org/abs/2407.18013v1](http://arxiv.org/abs/2407.18013v1), Code: **[https://github.com/yixinliu233/simpdm](https://github.com/yixinliu233/simpdm)**
+- 2024-07-25, **Lightweight Language-driven Grasp Detection using Conditional Consistency Model**, Nghia Nguyen et.al., Paper: [http://arxiv.org/abs/2407.17967v1](http://arxiv.org/abs/2407.17967v1)
+- 2024-07-25, **A robust and time-parallel preconditioner for parabolic reconstruction problems using Isogeometric Analysis**, Kent-Andre Mardal et.al., Paper: [http://arxiv.org/abs/2407.17964v1](http://arxiv.org/abs/2407.17964v1)
+- 2024-07-25, **BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2407.17952v1](http://arxiv.org/abs/2407.17952v1)
+- 2024-07-25, **Application of boundary functionals of random processes in statistical physics**, V. V. Ryazanov et.al., Paper: [http://arxiv.org/abs/2407.17934v1](http://arxiv.org/abs/2407.17934v1)
+- 2024-07-25, **Guided Latent Slot Diffusion for Object-Centric Learning**, Krishnakant Singh et.al., Paper: [http://arxiv.org/abs/2407.17929v1](http://arxiv.org/abs/2407.17929v1)
+- 2024-07-25, **Asymptotic behavior of a semilinear problem in heat conduction with long time memory and non-local diffusion**, Jiaohui Xu et.al., Paper: [http://arxiv.org/abs/2407.17923v1](http://arxiv.org/abs/2407.17923v1)
+- 2024-07-25, **ReCorD: Reasoning and Correcting Diffusion for HOI Generation**, Jian-Yu Jiang-Lin et.al., Paper: [http://arxiv.org/abs/2407.17911v1](http://arxiv.org/abs/2407.17911v1)
+- 2024-07-25, **Amortized Posterior Sampling with Diffusion Prior Distillation**, Abbas Mammadov et.al., Paper: [http://arxiv.org/abs/2407.17907v1](http://arxiv.org/abs/2407.17907v1)
 - 2024-07-24, **SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**, Yiming Xie et.al., Paper: [http://arxiv.org/abs/2407.17470v1](http://arxiv.org/abs/2407.17470v1)
 - 2024-07-24, **Gender disparities in the dissemination and acquisition of scientific knowledge**, Chiara Zappalà et.al., Paper: [http://arxiv.org/abs/2407.17441v1](http://arxiv.org/abs/2407.17441v1)
 - 2024-07-24, **CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**, Paul Goyes-Peñafiel et.al., Paper: [http://arxiv.org/abs/2407.17402v1](http://arxiv.org/abs/2407.17402v1)
@@ -10044,6 +10064,10 @@
 
 ## Diffusion_Segment
 
+- 2024-07-25, **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**, Roberto Di Via et.al., Paper: [http://arxiv.org/abs/2407.18125v1](http://arxiv.org/abs/2407.18125v1)
+- 2024-07-25, **Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2407.18026v1](http://arxiv.org/abs/2407.18026v1)
+- 2024-07-25, **Guided Latent Slot Diffusion for Object-Centric Learning**, Krishnakant Singh et.al., Paper: [http://arxiv.org/abs/2407.17929v1](http://arxiv.org/abs/2407.17929v1)
+- 2024-07-25, **Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**, Xiaodan Xing et.al., Paper: [http://arxiv.org/abs/2407.17882v1](http://arxiv.org/abs/2407.17882v1)
 - 2024-07-24, **A Coupled Diffusion Approximation for Spatiotemporal Hemodynamic Response and Deoxygenated Blood Volume Fraction in Microcirculation**, Maryam Samavaki et.al., Paper: [http://arxiv.org/abs/2407.17082v1](http://arxiv.org/abs/2407.17082v1)
 - 2024-07-23, **No Re-Train, More Gain: Upgrading Backbones with Diffusion Model for Few-Shot Segmentation**, Shuai Chen et.al., Paper: [http://arxiv.org/abs/2407.16182v1](http://arxiv.org/abs/2407.16182v1)
 - 2024-07-22, **Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**, Silvio Galesso et.al., Paper: [http://arxiv.org/abs/2407.15739v1](http://arxiv.org/abs/2407.15739v1), Code: **[https://github.com/lmb-freiburg/diffusion-for-ood](https://github.com/lmb-freiburg/diffusion-for-ood)**
