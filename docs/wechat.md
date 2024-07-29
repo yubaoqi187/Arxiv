@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-26, **SHIC: Shape-Image Correspondences with no Keypoint Supervision**, Aleksandar Shtedritski et.al., Paper: [http://arxiv.org/abs/2407.18907v1](http://arxiv.org/abs/2407.18907v1)
+- 2024-07-26, **Asymptotic behavior of a diffused interface volume-preserving mean curvature flow**, Matteo Bonforte et.al., Paper: [http://arxiv.org/abs/2407.18868v1](http://arxiv.org/abs/2407.18868v1)
+- 2024-07-26, **Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**, Yuze Zheng et.al., Paper: [http://arxiv.org/abs/2407.18854v1](http://arxiv.org/abs/2407.18854v1)
+- 2024-07-26, **Disentangling competing interactions in disordered materials using interaction space modelling**, Ella M. Schmidt et.al., Paper: [http://arxiv.org/abs/2407.18815v1](http://arxiv.org/abs/2407.18815v1)
+- 2024-07-26, **Locomotion of Active Polymerlike Worms in Porous Media**, Rosa Sinaasappel et.al., Paper: [http://arxiv.org/abs/2407.18805v1](http://arxiv.org/abs/2407.18805v1)
+- 2024-07-26, **Log-Concave Coupling for Sampling Neural Net Posteriors**, Curtis McDonald et.al., Paper: [http://arxiv.org/abs/2407.18802v1](http://arxiv.org/abs/2407.18802v1)
+- 2024-07-26, **Revision of calcium and scandium abundances in Am stars based on NLTE calculations and comparison with diffusion stellar evolution models**, L. I. Mashonkina et.al., Paper: [http://arxiv.org/abs/2407.18736v1](http://arxiv.org/abs/2407.18736v1)
+- 2024-07-26, **Global dynamics of a two-stage structured diffusive population model in time-periodic and spatially heterogeneous environments**, H. M. Gueguezo et.al., Paper: [http://arxiv.org/abs/2407.18669v1](http://arxiv.org/abs/2407.18669v1)
+- 2024-07-26, **Adversarial Robustification via Text-to-Image Diffusion Models**, Daewon Choi et.al., Paper: [http://arxiv.org/abs/2407.18658v1](http://arxiv.org/abs/2407.18658v1), Code: **[https://github.com/choidae1/robustify-t2i](https://github.com/choidae1/robustify-t2i)**
+- 2024-07-26, **Mean-field control of non exchangeable systems**, Anna De Crescenzo et.al., Paper: [http://arxiv.org/abs/2407.18635v1](http://arxiv.org/abs/2407.18635v1)
+- 2024-07-26, **Denoising Lévy Probabilistic Models**, Dario Shariatian et.al., Paper: [http://arxiv.org/abs/2407.18609v1](http://arxiv.org/abs/2407.18609v1)
+- 2024-07-26, **LinguaLinker: Audio-Driven Portraits Animation with Implicit Facial Control Enhancement**, Rui Zhang et.al., Paper: [http://arxiv.org/abs/2407.18595v1](http://arxiv.org/abs/2407.18595v1)
+- 2024-07-26, **Diffusion in driven periodic systems: from weak to strong damping regimes**, I. G. Marchenko et.al., Paper: [http://arxiv.org/abs/2407.18592v1](http://arxiv.org/abs/2407.18592v1)
+- 2024-07-26, **How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**, Amirhosein Toosi et.al., Paper: [http://arxiv.org/abs/2407.18555v1](http://arxiv.org/abs/2407.18555v1)
+- 2024-07-26, **Answerability Fields: Answerable Location Estimation via Diffusion Models**, Daichi Azuma et.al., Paper: [http://arxiv.org/abs/2407.18497v1](http://arxiv.org/abs/2407.18497v1)
+- 2024-07-26, **Diffusion-Driven Semantic Communication for Generative Models with Bandwidth Constraints**, Lei Guo et.al., Paper: [http://arxiv.org/abs/2407.18468v1](http://arxiv.org/abs/2407.18468v1)
+- 2024-07-26, **Lensless fiber endomicroscopic phase imaging with speckle-conditioned diffusion model**, Zhaoqing Chen et.al., Paper: [http://arxiv.org/abs/2407.18456v1](http://arxiv.org/abs/2407.18456v1)
+- 2024-07-25, **Diffusion-based subsurface multiphysics monitoring and forecasting**, Xinquan Huang et.al., Paper: [http://arxiv.org/abs/2407.18426v1](http://arxiv.org/abs/2407.18426v1)
+- 2024-07-25, **Fujita phenomena in nonlinear fractional Rayleigh-Stokes equations**, Yiming Jiang et.al., Paper: [http://arxiv.org/abs/2407.18425v1](http://arxiv.org/abs/2407.18425v1)
+- 2024-07-25, **Stochastic Instabilities of the Diffusive Memristor**, Amir Akther et.al., Paper: [http://arxiv.org/abs/2407.18368v1](http://arxiv.org/abs/2407.18368v1)
 - 2024-07-25, **RegionDrag: Fast Region-Based Image Editing with Diffusion Models**, Jingyi Lu et.al., Paper: [http://arxiv.org/abs/2407.18247v1](http://arxiv.org/abs/2407.18247v1)
 - 2024-07-25, **VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**, Orest Kupyn et.al., Paper: [http://arxiv.org/abs/2407.18245v1](http://arxiv.org/abs/2407.18245v1)
 - 2024-07-25, **$A+A \to A$, $\; \; B+A \to A$**, Roger Tribe et.al., Paper: [http://arxiv.org/abs/2407.18212v1](http://arxiv.org/abs/2407.18212v1)
@@ -10064,6 +10084,8 @@
 
 ## Diffusion_Segment
 
+- 2024-07-26, **How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**, Amirhosein Toosi et.al., Paper: [http://arxiv.org/abs/2407.18555v1](http://arxiv.org/abs/2407.18555v1)
+- 2024-07-26, **Lensless fiber endomicroscopic phase imaging with speckle-conditioned diffusion model**, Zhaoqing Chen et.al., Paper: [http://arxiv.org/abs/2407.18456v1](http://arxiv.org/abs/2407.18456v1)
 - 2024-07-25, **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**, Roberto Di Via et.al., Paper: [http://arxiv.org/abs/2407.18125v1](http://arxiv.org/abs/2407.18125v1)
 - 2024-07-25, **Segmentation-guided MRI reconstruction for meaningfully diverse reconstructions**, Jan Nikolas Morshuis et.al., Paper: [http://arxiv.org/abs/2407.18026v1](http://arxiv.org/abs/2407.18026v1), Code: **[https://github.com/nikolasmorshuis/sgr](https://github.com/nikolasmorshuis/sgr)**
 - 2024-07-25, **Guided Latent Slot Diffusion for Object-Centric Learning**, Krishnakant Singh et.al., Paper: [http://arxiv.org/abs/2407.17929v1](http://arxiv.org/abs/2407.17929v1)
