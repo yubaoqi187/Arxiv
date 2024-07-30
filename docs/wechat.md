@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-07-29, **Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**, Ekaterina Iakovleva et.al., Paper: [http://arxiv.org/abs/2407.20232v1](http://arxiv.org/abs/2407.20232v1)
+- 2024-07-29, **cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**, Alexander Scheinker et.al., Paper: [http://arxiv.org/abs/2407.20218v1](http://arxiv.org/abs/2407.20218v1)
+- 2024-07-29, **On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**, Samy Kaci et.al., Paper: [http://arxiv.org/abs/2407.20186v1](http://arxiv.org/abs/2407.20186v1)
+- 2024-07-29, **LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**, Zhenqi He et.al., Paper: [http://arxiv.org/abs/2407.20172v1](http://arxiv.org/abs/2407.20172v1), Code: **[https://github.com/bugs-creator/latentartifusion](https://github.com/bugs-creator/latentartifusion)**
+- 2024-07-29, **Diffusion Feedback Helps CLIP See Better**, Wenxuan Wang et.al., Paper: [http://arxiv.org/abs/2407.20171v1](http://arxiv.org/abs/2407.20171v1)
+- 2024-07-29, **A unified framework for $N$-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities**, M. ten Eikelder et.al., Paper: [http://arxiv.org/abs/2407.20145v1](http://arxiv.org/abs/2407.20145v1)
+- 2024-07-29, **DDAP: Dual-Domain Anti-Personalization against Text-to-Image Diffusion Models**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2407.20141v1](http://arxiv.org/abs/2407.20141v1)
+- 2024-07-29, **Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**, Liyuan Mao et.al., Paper: [http://arxiv.org/abs/2407.20109v1](http://arxiv.org/abs/2407.20109v1)
+- 2024-07-29, **Generative Diffusion Model Bootstraps Zero-shot Classification of Fetal Ultrasound Images In Underrepresented African Populations**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2407.20072v1](http://arxiv.org/abs/2407.20072v1)
+- 2024-07-29, **ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**, Delyan Boychev et.al., Paper: [http://arxiv.org/abs/2407.20020v1](http://arxiv.org/abs/2407.20020v1), Code: **[https://github.com/delyan-boychev/imaginet](https://github.com/delyan-boychev/imaginet)**
+- 2024-07-29, **MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**, Chencan Fu et.al., Paper: [http://arxiv.org/abs/2407.19976v1](http://arxiv.org/abs/2407.19976v1)
+- 2024-07-29, **From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks**, Jacob Sam et.al., Paper: [http://arxiv.org/abs/2407.19970v1](http://arxiv.org/abs/2407.19970v1)
+- 2024-07-29, **Inspecting binary-neutron-star mergers as production sites of high-energy neutrinos**, Simone Rossoni et.al., Paper: [http://arxiv.org/abs/2407.19957v1](http://arxiv.org/abs/2407.19957v1)
+- 2024-07-29, **FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion Models**, Mingzhao Yang et.al., Paper: [http://arxiv.org/abs/2407.19953v1](http://arxiv.org/abs/2407.19953v1)
+- 2024-07-29, **Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**, Shiyuan Li et.al., Paper: [http://arxiv.org/abs/2407.19944v1](http://arxiv.org/abs/2407.19944v1)
+- 2024-07-29, **FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**, Yu Lu et.al., Paper: [http://arxiv.org/abs/2407.19918v1](http://arxiv.org/abs/2407.19918v1)
+- 2024-07-29, **A feasible dose-volume estimation of radiotherapy treatment with optimal transport using a concept for transportation of Ricci-flat time-varying dose-volume**, Yusuke Anetai et.al., Paper: [http://arxiv.org/abs/2407.19876v1](http://arxiv.org/abs/2407.19876v1)
+- 2024-07-29, **Inspection paradox and jump detection in glassy systems**, Simone Pigolotti et.al., Paper: [http://arxiv.org/abs/2407.19873v1](http://arxiv.org/abs/2407.19873v1)
+- 2024-07-29, **Fractional cross-diffusion in a bounded domain: existence, weak-strong uniqueness, and long-time asymptotics**, Nicola De Nitti et.al., Paper: [http://arxiv.org/abs/2407.19824v1](http://arxiv.org/abs/2407.19824v1)
+- 2024-07-29, **Detecting Unsafe Behavior in Neural Network Imitation Policies for Caregiving Robotics**, Andrii Tytarenko et.al., Paper: [http://arxiv.org/abs/2407.19819v1](http://arxiv.org/abs/2407.19819v1)
 - 2024-07-26, **SHIC: Shape-Image Correspondences with no Keypoint Supervision**, Aleksandar Shtedritski et.al., Paper: [http://arxiv.org/abs/2407.18907v1](http://arxiv.org/abs/2407.18907v1)
 - 2024-07-26, **Asymptotic behavior of a diffused interface volume-preserving mean curvature flow**, Matteo Bonforte et.al., Paper: [http://arxiv.org/abs/2407.18868v1](http://arxiv.org/abs/2407.18868v1)
 - 2024-07-26, **Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**, Yuze Zheng et.al., Paper: [http://arxiv.org/abs/2407.18854v1](http://arxiv.org/abs/2407.18854v1)
@@ -10084,6 +10104,9 @@
 
 ## Diffusion_Segment
 
+- 2024-07-29, **Diffusion Feedback Helps CLIP See Better**, Wenxuan Wang et.al., Paper: [http://arxiv.org/abs/2407.20171v1](http://arxiv.org/abs/2407.20171v1)
+- 2024-07-28, **White Matter Geometry-Guided Score-Based Diffusion Model for Tissue Microstructure Imputation in Tractography Imaging**, Yui Lo et.al., Paper: [http://arxiv.org/abs/2407.19460v1](http://arxiv.org/abs/2407.19460v1)
+- 2024-07-27, **Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**, Penghui Wen et.al., Paper: [http://arxiv.org/abs/2407.19244v1](http://arxiv.org/abs/2407.19244v1), Code: **[https://github.com/ph-w2000/sdm](https://github.com/ph-w2000/sdm)**
 - 2024-07-26, **How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**, Amirhosein Toosi et.al., Paper: [http://arxiv.org/abs/2407.18555v1](http://arxiv.org/abs/2407.18555v1)
 - 2024-07-26, **Lensless fiber endomicroscopic phase imaging with speckle-conditioned diffusion model**, Zhaoqing Chen et.al., Paper: [http://arxiv.org/abs/2407.18456v1](http://arxiv.org/abs/2407.18456v1)
 - 2024-07-25, **Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images**, Roberto Di Via et.al., Paper: [http://arxiv.org/abs/2407.18125v1](http://arxiv.org/abs/2407.18125v1)
