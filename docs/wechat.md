@@ -1,4 +1,4 @@
-> Updated on 2024.07.30
+> Updated on 2024.07.31
 
 ## Video_Classification
 
@@ -9542,7 +9542,7 @@
 ## Diffusion
 
 - 2024-07-29, **Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**, Ekaterina Iakovleva et.al., Paper: [http://arxiv.org/abs/2407.20232v1](http://arxiv.org/abs/2407.20232v1)
-- 2024-07-29, **cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**, Alexander Scheinker et.al., Paper: [http://arxiv.org/abs/2407.20218v1](http://arxiv.org/abs/2407.20218v1)
+- 2024-07-30, **cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**, Alexander Scheinker et.al., Paper: [http://arxiv.org/abs/2407.20218v2](http://arxiv.org/abs/2407.20218v2)
 - 2024-07-29, **On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**, Samy Kaci et.al., Paper: [http://arxiv.org/abs/2407.20186v1](http://arxiv.org/abs/2407.20186v1)
 - 2024-07-29, **LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**, Zhenqi He et.al., Paper: [http://arxiv.org/abs/2407.20172v1](http://arxiv.org/abs/2407.20172v1), Code: **[https://github.com/bugs-creator/latentartifusion](https://github.com/bugs-creator/latentartifusion)**
 - 2024-07-29, **Diffusion Feedback Helps CLIP See Better**, Wenxuan Wang et.al., Paper: [http://arxiv.org/abs/2407.20171v1](http://arxiv.org/abs/2407.20171v1)
