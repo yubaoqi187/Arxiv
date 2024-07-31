@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Matting by Generation**|Zhixiang Wang et.al.|[2407.21017v1](http://arxiv.org/abs/2407.21017v1)|null|
+|**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016v1](http://arxiv.org/abs/2407.21016v1)|**[link](https://github.com/ylingfeng/add-sd)**|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982v1](http://arxiv.org/abs/2407.20982v1)|null|
+|**2024-07-30**|**Explicit solution to an optimal two-player switching game in infinite horizon**|Brahim El Asri et.al.|[2407.20913v1](http://arxiv.org/abs/2407.20913v1)|null|
+|**2024-07-30**|**Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisition**|Yuancheng Jiang et.al.|[2407.20904v1](http://arxiv.org/abs/2407.20904v1)|null|
+|**2024-07-30**|**Optimizing Charge Transport Simulation for Deep Learning Enhanced Spatial Resolution of the MÖNCH Detector**|X. Xie et.al.|[2407.20841v1](http://arxiv.org/abs/2407.20841v1)|null|
+|**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836v1](http://arxiv.org/abs/2407.20836v1)|null|
+|**2024-07-30**|**A second-order Mean Field Games model with controlled diffusion**|Vincenzo Ignazio et.al.|[2407.20826v1](http://arxiv.org/abs/2407.20826v1)|null|
+|**2024-07-30**|**A discussion on the critical electric Rayleigh number for AC electrokinetic flow of binary fluids in a divergent microchannel**|Jinan Pang et.al.|[2407.20803v1](http://arxiv.org/abs/2407.20803v1)|null|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798v1](http://arxiv.org/abs/2407.20798v1)|null|
+|**2024-07-30**|**The Interplay Between Collisionless Magnetic Reconnection and Turbulence**|J. E. Stawarz et.al.|[2407.20787v1](http://arxiv.org/abs/2407.20787v1)|null|
+|**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756v1](http://arxiv.org/abs/2407.20756v1)|**[link](https://github.com/starriver030515/synthvlm)**|
+|**2024-07-30**|**Convection in the active layer speeds up permafrost thaw in coarse grained soils**|Marta Magnani et.al.|[2407.20714v1](http://arxiv.org/abs/2407.20714v1)|null|
+|**2024-07-30**|**Patterns in soil organic carbon dynamics: integrating microbial activity, chemotaxis and data-driven approaches**|Angela Monti et.al.|[2407.20625v1](http://arxiv.org/abs/2407.20625v1)|null|
+|**2024-07-30**|**Escape of an Active Ring from an Attractive Surface: Behaving Like a Self-Propelled Brownian Particle**|Bin Tang et.al.|[2407.20613v1](http://arxiv.org/abs/2407.20613v1)|null|
+|**2024-07-30**|**Joint Diffusion Processes as an Inductive Bias in Sheaf Neural Networks**|Ferran Hernandez Caralt et.al.|[2407.20597v1](http://arxiv.org/abs/2407.20597v1)|null|
+|**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592v1](http://arxiv.org/abs/2407.20592v1)|null|
+|**2024-07-30**|**DiffusionCounterfactuals: Inferring High-dimensional Counterfactuals with Guidance of Causal Representations**|Jiageng Zhu et.al.|[2407.20553v1](http://arxiv.org/abs/2407.20553v1)|null|
+|**2024-07-30**|**Inspecting neutrino flavor instabilities during proto-neutron star cooling phase in supernova: I. Spherically symmetric model**|Masamichi Zaizen et.al.|[2407.20548v1](http://arxiv.org/abs/2407.20548v1)|null|
+|**2024-07-30**|**Extragalactic Stellar Tidal Streams in the Dark Energy Survey**|Juan Miro-Carretero et.al.|[2407.20483v1](http://arxiv.org/abs/2407.20483v1)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|null|
 |**2024-07-30**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v2](http://arxiv.org/abs/2407.20218v2)|null|
 |**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186v1](http://arxiv.org/abs/2407.20186v1)|null|
@@ -569,6 +589,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception**|Konstantinos Tzevelekakis et.al.|[2407.20336v1](http://arxiv.org/abs/2407.20336v1)|null|
+|**2024-07-24**|**A length-scale insensitive cohesive phase-field interface model: application to concurrent bulk and interface fracture simulation in Lithium-ion battery materials**|Wan-Xin Chen et.al.|[2407.20259v1](http://arxiv.org/abs/2407.20259v1)|null|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
 |**2024-07-28**|**White Matter Geometry-Guided Score-Based Diffusion Model for Tissue Microstructure Imputation in Tractography Imaging**|Yui Lo et.al.|[2407.19460v1](http://arxiv.org/abs/2407.19460v1)|null|
 |**2024-07-27**|**Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**|Penghui Wen et.al.|[2407.19244v1](http://arxiv.org/abs/2407.19244v1)|**[link](https://github.com/ph-w2000/sdm)**|
