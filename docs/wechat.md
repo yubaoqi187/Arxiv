@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-01, **Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**, Yixiao Wang et.al., Paper: [http://arxiv.org/abs/2408.00766v1](http://arxiv.org/abs/2408.00766v1)
+- 2024-08-01, **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**, Susung Hong et.al., Paper: [http://arxiv.org/abs/2408.00760v1](http://arxiv.org/abs/2408.00760v1)
+- 2024-08-01, **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**, Gilad Deutch et.al., Paper: [http://arxiv.org/abs/2408.00735v1](http://arxiv.org/abs/2408.00735v1)
+- 2024-08-01, **ISDE with logarithmic interaction and characteristic polynomials**, Theodoros Assiotis et.al., Paper: [http://arxiv.org/abs/2408.00717v1](http://arxiv.org/abs/2408.00717v1)
+- 2024-08-01, **MotionFix: Text-Driven 3D Human Motion Editing**, Nikos Athanasiou et.al., Paper: [http://arxiv.org/abs/2408.00712v1](http://arxiv.org/abs/2408.00712v1)
+- 2024-08-01, **Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification**, Soban Nasir Lone et.al., Paper: [http://arxiv.org/abs/2408.00681v1](http://arxiv.org/abs/2408.00681v1)
+- 2024-08-01, **Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**, Michael Baur et.al., Paper: [http://arxiv.org/abs/2408.00634v1](http://arxiv.org/abs/2408.00634v1)
+- 2024-08-01, **Generalised BBGKY hierarchy for near-integrable dynamics**, Leonardo Biagetti et.al., Paper: [http://arxiv.org/abs/2408.00593v1](http://arxiv.org/abs/2408.00593v1)
+- 2024-08-01, **Conditional Independence in Stationary Diffusions**, Tobias Boege et.al., Paper: [http://arxiv.org/abs/2408.00583v1](http://arxiv.org/abs/2408.00583v1)
+- 2024-08-01, **Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion**, Martin Redmann et.al., Paper: [http://arxiv.org/abs/2408.00581v1](http://arxiv.org/abs/2408.00581v1)
+- 2024-08-01, **Propagation of Enzyme-driven Active Fluctuations in Crowded Milieu**, Rik Chakraborty et.al., Paper: [http://arxiv.org/abs/2408.00578v1](http://arxiv.org/abs/2408.00578v1)
+- 2024-08-01, **Stochastic gravitational wave background from cosmological neutrino-dominated accretion flows**, Yun-Feng Wei et.al., Paper: [http://arxiv.org/abs/2408.00546v1](http://arxiv.org/abs/2408.00546v1)
+- 2024-08-01, **Illustrating Classic Brazilian Books using a Text-To-Image Diffusion Model**, Felipe Mahlow et.al., Paper: [http://arxiv.org/abs/2408.00544v1](http://arxiv.org/abs/2408.00544v1)
+- 2024-08-01, **A new approach for encoding code and assisting code understanding**, Mengdan Fan et.al., Paper: [http://arxiv.org/abs/2408.00521v1](http://arxiv.org/abs/2408.00521v1)
+- 2024-08-01, **Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**, Chu Zhao et.al., Paper: [http://arxiv.org/abs/2408.00490v1](http://arxiv.org/abs/2408.00490v1)
+- 2024-08-01, **Space-Time Isogeometric Method for a Nonlocal Parabolic Problem**, Sudhakar Chaudhary et.al., Paper: [http://arxiv.org/abs/2408.00450v1](http://arxiv.org/abs/2408.00450v1)
+- 2024-08-01, **Goal-Oriented Semantic Communication for Wireless Image Transmission via Stable Diffusion**, Nan Li et.al., Paper: [http://arxiv.org/abs/2408.00428v1](http://arxiv.org/abs/2408.00428v1)
+- 2024-08-01, **Towards Reliable Advertising Image Generation Using Human Feedback**, Zhenbang Du et.al., Paper: [http://arxiv.org/abs/2408.00418v1](http://arxiv.org/abs/2408.00418v1)
+- 2024-08-01, **Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems**, Lise-Marie Imbert-Gérard et.al., Paper: [http://arxiv.org/abs/2408.00392v1](http://arxiv.org/abs/2408.00392v1)
+- 2024-08-01, **Deepfake Media Forensics: State of the Art and Challenges Ahead**, Irene Amerini et.al., Paper: [http://arxiv.org/abs/2408.00388v1](http://arxiv.org/abs/2408.00388v1)
 - 2024-07-31, **Detecting, Explaining, and Mitigating Memorization in Diffusion Models**, Yuxin Wen et.al., Paper: [http://arxiv.org/abs/2407.21720v1](http://arxiv.org/abs/2407.21720v1)
 - 2024-07-31, **Dephasing-assisted transport in a tight-binding chain with a linear potential**, Samuel L. Jacob et.al., Paper: [http://arxiv.org/abs/2407.21715v1](http://arxiv.org/abs/2407.21715v1)
 - 2024-07-31, **Tora: Trajectory-oriented Diffusion Transformer for Video Generation**, Zhenghao Zhang et.al., Paper: [http://arxiv.org/abs/2407.21705v1](http://arxiv.org/abs/2407.21705v1)
@@ -10144,6 +10164,9 @@
 
 ## Diffusion_Segment
 
+- 2024-08-01, **A Simple Background Augmentation Method for Object Detection with Diffusion Model**, Yuhang Li et.al., Paper: [http://arxiv.org/abs/2408.00350v1](http://arxiv.org/abs/2408.00350v1)
+- 2024-08-01, **Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**, Sungmin Kang et.al., Paper: [http://arxiv.org/abs/2408.00347v1](http://arxiv.org/abs/2408.00347v1)
+- 2024-07-31, **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie et.al., Paper: [http://arxiv.org/abs/2408.00106v1](http://arxiv.org/abs/2408.00106v1)
 - 2024-07-29, **Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception**, Konstantinos Tzevelekakis et.al., Paper: [http://arxiv.org/abs/2407.20336v1](http://arxiv.org/abs/2407.20336v1)
 - 2024-07-24, **A length-scale insensitive cohesive phase-field interface model: application to concurrent bulk and interface fracture simulation in Lithium-ion battery materials**, Wan-Xin Chen et.al., Paper: [http://arxiv.org/abs/2407.20259v1](http://arxiv.org/abs/2407.20259v1)
 - 2024-07-29, **Diffusion Feedback Helps CLIP See Better**, Wenxuan Wang et.al., Paper: [http://arxiv.org/abs/2407.20171v1](http://arxiv.org/abs/2407.20171v1)
