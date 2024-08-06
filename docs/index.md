@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 
 ## Diffusion
 
@@ -21,7 +21,7 @@ layout: default
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014v1](http://arxiv.org/abs/2408.01014v1)|null|
 |**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998v1](http://arxiv.org/abs/2408.00998v1)|null|
 |**2024-08-01**|**Stop-and-go waves reconstruction via iterative refinement**|Junyi Ji et.al.|[2408.00941v1](http://arxiv.org/abs/2408.00941v1)|null|
-|**2024-08-01**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v1](http://arxiv.org/abs/2408.00938v1)|null|
+|**2024-08-05**|**CIResDiff: A Clinically-Informed Residual Diffusion Model for Predicting Idiopathic Pulmonary Fibrosis Progression**|Caiwen Jiang et.al.|[2408.00938v2](http://arxiv.org/abs/2408.00938v2)|null|
 |**2024-08-01**|**Unveiling the bi-stable character of stealthy hydrogen-air flames**|Ruben Palomeque-Santiago et.al.|[2408.00893v1](http://arxiv.org/abs/2408.00893v1)|null|
 |**2024-08-01**|**Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis**|Zhe Wang et.al.|[2408.00891v1](http://arxiv.org/abs/2408.00891v1)|null|
 |**2024-08-01**|**Magnetic reconnection and plasma transport in the presence of plasma turbulence**|Allen H Boozer et.al.|[2408.00875v1](http://arxiv.org/abs/2408.00875v1)|null|
