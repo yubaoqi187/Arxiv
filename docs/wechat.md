@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-05, **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2408.02657v1](http://arxiv.org/abs/2408.02657v1)
+- 2024-08-05, **Ionic-electronic transistors small signal AC admittance: Theory and experiment**, Juan Bisquert et.al., Paper: [http://arxiv.org/abs/2408.02648v1](http://arxiv.org/abs/2408.02648v1)
+- 2024-08-05, **Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**, Alessandro Della Pia et.al., Paper: [http://arxiv.org/abs/2408.02630v1](http://arxiv.org/abs/2408.02630v1)
+- 2024-08-05, **A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**, Cody R. Drisko et.al., Paper: [http://arxiv.org/abs/2408.02621v1](http://arxiv.org/abs/2408.02621v1)
+- 2024-08-05, **LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**, Yunxiang Fu et.al., Paper: [http://arxiv.org/abs/2408.02615v1](http://arxiv.org/abs/2408.02615v1)
+- 2024-08-05, **Superradiant emission stimulated by vortex-antivortex pair production in layered superconductors**, Ahmad Sheikhzada et.al., Paper: [http://arxiv.org/abs/2408.02610v1](http://arxiv.org/abs/2408.02610v1)
+- 2024-08-05, **Rossby wave instability in weakly ionized protoplanetary disks. II. radial B-fields**, Can Cui et.al., Paper: [http://arxiv.org/abs/2408.02556v1](http://arxiv.org/abs/2408.02556v1)
+- 2024-08-05, **Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**, Tongtong Feng et.al., Paper: [http://arxiv.org/abs/2408.02408v1](http://arxiv.org/abs/2408.02408v1)
+- 2024-08-05, **Networks of Pendula with Diffusive Interactions**, Riccardo Bonetto et.al., Paper: [http://arxiv.org/abs/2408.02352v1](http://arxiv.org/abs/2408.02352v1)
+- 2024-08-05, **Nonlocal particle approximation for linear and fast diffusion equations**, José Antonio Carrillo et.al., Paper: [http://arxiv.org/abs/2408.02345v1](http://arxiv.org/abs/2408.02345v1)
+- 2024-08-05, **Microscale chemical imaging to characterize and quantify corrosion processes at the metal-electrolyte interface**, Cristhiana C. Albert et.al., Paper: [http://arxiv.org/abs/2408.02327v1](http://arxiv.org/abs/2408.02327v1)
+- 2024-08-05, **A Sharp Convergence Theory for The Probability Flow ODEs of Diffusion Models**, Gen Li et.al., Paper: [http://arxiv.org/abs/2408.02320v1](http://arxiv.org/abs/2408.02320v1)
+- 2024-08-05, **Star Formation, Nebulae, and Active Galactic Nuclei in CLASH Brightest Cluster Galaxies. I. Dependence on Core Entropy of Intracluster Medium**, Arsen Levitskiy et.al., Paper: [http://arxiv.org/abs/2408.02305v1](http://arxiv.org/abs/2408.02305v1)
+- 2024-08-05, **Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**, Muhammad Abdullah Jamal et.al., Paper: [http://arxiv.org/abs/2408.02245v1](http://arxiv.org/abs/2408.02245v1)
+- 2024-08-05, **Existence, Stability and Optimal Drug Dosage for a Reaction-Diffusion System Arising in a Cancer Treatment**, Jeff Morgan et.al., Paper: [http://arxiv.org/abs/2408.02227v1](http://arxiv.org/abs/2408.02227v1)
+- 2024-08-05, **ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative Generation**, Jack Lu et.al., Paper: [http://arxiv.org/abs/2408.02226v1](http://arxiv.org/abs/2408.02226v1)
+- 2024-08-05, **Small dispersion asymptotics for an SPDE in two space dimensions using triple increments**, Yozo Tonaki et.al., Paper: [http://arxiv.org/abs/2408.02224v1](http://arxiv.org/abs/2408.02224v1)
+- 2024-08-04, **SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**, Vladimir Zeković et.al., Paper: [http://arxiv.org/abs/2408.02084v1](http://arxiv.org/abs/2408.02084v1)
+- 2024-08-04, **LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**, Dwij Mehta et.al., Paper: [http://arxiv.org/abs/2408.02078v1](http://arxiv.org/abs/2408.02078v1)
+- 2024-08-04, **Step Saver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation**, Jean Yu et.al., Paper: [http://arxiv.org/abs/2408.02054v1](http://arxiv.org/abs/2408.02054v1)
 - 2024-08-02, **Conditional LoRA Parameter Generation**, Xiaolong Jin et.al., Paper: [http://arxiv.org/abs/2408.01415v1](http://arxiv.org/abs/2408.01415v1)
 - 2024-08-02, **Harmonized connectome resampling for variance in voxel sizes**, Elyssa M. McMaster et.al., Paper: [http://arxiv.org/abs/2408.01351v1](http://arxiv.org/abs/2408.01351v1)
 - 2024-08-02, **TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**, Dong Huo et.al., Paper: [http://arxiv.org/abs/2408.01291v1](http://arxiv.org/abs/2408.01291v1)
@@ -10182,6 +10202,11 @@
 
 ## Diffusion_Segment
 
+- 2024-08-05, **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2408.02657v1](http://arxiv.org/abs/2408.02657v1)
+- 2024-08-05, **Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**, Muhammad Abdullah Jamal et.al., Paper: [http://arxiv.org/abs/2408.02245v1](http://arxiv.org/abs/2408.02245v1)
+- 2024-08-04, **LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**, Dwij Mehta et.al., Paper: [http://arxiv.org/abs/2408.02078v1](http://arxiv.org/abs/2408.02078v1)
+- 2024-08-04, **Faster Diffusion Action Segmentation**, Shuaibing Wang et.al., Paper: [http://arxiv.org/abs/2408.02024v1](http://arxiv.org/abs/2408.02024v1)
+- 2024-08-04, **AnomalySD: Few-Shot Multi-Class Anomaly Detection with Stable Diffusion Model**, Zhenyu Yan et.al., Paper: [http://arxiv.org/abs/2408.01960v1](http://arxiv.org/abs/2408.01960v1)
 - 2024-08-01, **A Simple Background Augmentation Method for Object Detection with Diffusion Model**, Yuhang Li et.al., Paper: [http://arxiv.org/abs/2408.00350v1](http://arxiv.org/abs/2408.00350v1)
 - 2024-08-01, **Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**, Sungmin Kang et.al., Paper: [http://arxiv.org/abs/2408.00347v1](http://arxiv.org/abs/2408.00347v1)
 - 2024-07-31, **WAS: Dataset and Methods for Artistic Text Segmentation**, Xudong Xie et.al., Paper: [http://arxiv.org/abs/2408.00106v1](http://arxiv.org/abs/2408.00106v1)
