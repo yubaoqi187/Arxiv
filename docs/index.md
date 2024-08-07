@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
+|**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311v1](http://arxiv.org/abs/2408.03311v1)|null|
+|**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302v1](http://arxiv.org/abs/2408.03302v1)|null|
+|**2024-08-06**|**Photonic Mpemba effect**|Stefano Longhi et.al.|[2408.03296v1](http://arxiv.org/abs/2408.03296v1)|null|
+|**2024-08-06**|**Ultra-thin strain-relieving Si$_{1-x}$Ge$_x$ layers enabling III-V epitaxy on Si**|Trevor R. Smith et.al.|[2408.03253v1](http://arxiv.org/abs/2408.03253v1)|null|
+|**2024-08-06**|**Optimizing Density Functional Theory for Strain-Dependent Magnetic Properties of MnBi$_2$Te$_4$ with Diffusion Monte Carlo**|Swarnava Ghosh et.al.|[2408.03248v1](http://arxiv.org/abs/2408.03248v1)|null|
+|**2024-08-06**|**Image Quality Transfer of Diffusion MRI Guided By High-Resolution Structural MRI**|Alp G. Cicimen et.al.|[2408.03216v1](http://arxiv.org/abs/2408.03216v1)|null|
+|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209v1](http://arxiv.org/abs/2408.03209v1)|null|
+|**2024-08-06**|**Phase field simulations of thermal annealing for all-small molecule organic solar cells**|Yasin Ameslon et.al.|[2408.03190v1](http://arxiv.org/abs/2408.03190v1)|null|
+|**2024-08-06**|**Propagation phenomena for a reaction-diffusion-advection model in a heterogeneous environment**|Xing Liang et.al.|[2408.03187v1](http://arxiv.org/abs/2408.03187v1)|null|
+|**2024-08-06**|**Correlation emergence in two coupled simulated limit order books**|Dominic Bauer et.al.|[2408.03181v1](http://arxiv.org/abs/2408.03181v1)|null|
+|**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178v1](http://arxiv.org/abs/2408.03178v1)|null|
+|**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
+|**2024-08-06**|**Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots**|Arun N. Sivakumar et.al.|[2408.03059v1](http://arxiv.org/abs/2408.03059v1)|null|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035v1](http://arxiv.org/abs/2408.03035v1)|null|
+|**2024-08-06**|**Generalized autocorrelation function in the family of deterministic and stochastic anomalous diffusion processes**|Muhammad Tayyab et.al.|[2408.02989v1](http://arxiv.org/abs/2408.02989v1)|null|
+|**2024-08-06**|**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond**|Jichuan Zhang et.al.|[2408.02983v1](http://arxiv.org/abs/2408.02983v1)|null|
+|**2024-08-06**|**Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator**|Xinghao Dong et.al.|[2408.02965v1](http://arxiv.org/abs/2408.02965v1)|null|
+|**2024-08-06**|**Slowly generated anomalously large nuclear field in bulk n-AlGaAs**|A. Shen et.al.|[2408.02956v1](http://arxiv.org/abs/2408.02956v1)|null|
+|**2024-08-06**|**Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise**|Zhihui Liu et.al.|[2408.02935v1](http://arxiv.org/abs/2408.02935v1)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
 |**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648v1](http://arxiv.org/abs/2408.02648v1)|null|
 |**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630v1](http://arxiv.org/abs/2408.02630v1)|null|
@@ -671,6 +691,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035v1](http://arxiv.org/abs/2408.03035v1)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245v1](http://arxiv.org/abs/2408.02245v1)|null|
 |**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078v1](http://arxiv.org/abs/2408.02078v1)|null|
