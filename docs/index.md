@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 
 ## Diffusion
 
@@ -23,7 +23,7 @@ layout: default
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
 |**2024-08-06**|**Learning to Turn: Diffusion Imitation for Robust Row Turning in Under-Canopy Robots**|Arun N. Sivakumar et.al.|[2408.03059v1](http://arxiv.org/abs/2408.03059v1)|null|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035v1](http://arxiv.org/abs/2408.03035v1)|null|
-|**2024-08-06**|**Generalized autocorrelation function in the family of deterministic and stochastic anomalous diffusion processes**|Muhammad Tayyab et.al.|[2408.02989v1](http://arxiv.org/abs/2408.02989v1)|null|
+|**2024-08-07**|**Generalized autocorrelation function in the family of deterministic and stochastic anomalous diffusion processes**|Muhammad Tayyab et.al.|[2408.02989v2](http://arxiv.org/abs/2408.02989v2)|null|
 |**2024-08-06**|**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond**|Jichuan Zhang et.al.|[2408.02983v1](http://arxiv.org/abs/2408.02983v1)|null|
 |**2024-08-06**|**Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator**|Xinghao Dong et.al.|[2408.02965v1](http://arxiv.org/abs/2408.02965v1)|null|
 |**2024-08-06**|**Slowly generated anomalously large nuclear field in bulk n-AlGaAs**|A. Shen et.al.|[2408.02956v1](http://arxiv.org/abs/2408.02956v1)|null|
@@ -692,7 +692,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035v1](http://arxiv.org/abs/2408.03035v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245v1](http://arxiv.org/abs/2408.02245v1)|null|
 |**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078v1](http://arxiv.org/abs/2408.02078v1)|null|
 |**2024-08-04**|**Faster Diffusion Action Segmentation**|Shuaibing Wang et.al.|[2408.02024v1](http://arxiv.org/abs/2408.02024v1)|null|
@@ -702,7 +702,7 @@ layout: default
 |**2024-07-31**|**WAS: Dataset and Methods for Artistic Text Segmentation**|Xudong Xie et.al.|[2408.00106v1](http://arxiv.org/abs/2408.00106v1)|null|
 |**2024-07-29**|**Sun Off, Lights On: Photorealistic Monocular Nighttime Simulation for Robust Semantic Perception**|Konstantinos Tzevelekakis et.al.|[2407.20336v1](http://arxiv.org/abs/2407.20336v1)|null|
 |**2024-07-24**|**A length-scale insensitive cohesive phase-field interface model: application to concurrent bulk and interface fracture simulation in Lithium-ion battery materials**|Wan-Xin Chen et.al.|[2407.20259v1](http://arxiv.org/abs/2407.20259v1)|null|
-|**2024-08-06**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v2](http://arxiv.org/abs/2407.20171v2)|null|
+|**2024-08-06**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v2](http://arxiv.org/abs/2407.20171v2)|**[link](https://github.com/baaivision/diva)**|
 |**2024-07-28**|**White Matter Geometry-Guided Score-Based Diffusion Model for Tissue Microstructure Imputation in Tractography Imaging**|Yui Lo et.al.|[2407.19460v1](http://arxiv.org/abs/2407.19460v1)|null|
 |**2024-07-27**|**Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**|Penghui Wen et.al.|[2407.19244v1](http://arxiv.org/abs/2407.19244v1)|**[link](https://github.com/ph-w2000/sdm)**|
 |**2024-07-26**|**How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**|Amirhosein Toosi et.al.|[2407.18555v1](http://arxiv.org/abs/2407.18555v1)|null|
