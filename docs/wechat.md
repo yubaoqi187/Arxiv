@@ -9541,6 +9541,25 @@
 
 ## Diffusion
 
+- 2024-08-07, **Dynamical patterns in active-passive particle mixtures with non-reciprocal interactions: Exact hydrodynamic analysis**, James Mason et.al., Paper: [http://arxiv.org/abs/2408.03932v1](http://arxiv.org/abs/2408.03932v1)
+- 2024-08-07, **Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**, Ludwig Hruza et.al., Paper: [http://arxiv.org/abs/2408.03917v1](http://arxiv.org/abs/2408.03917v1)
+- 2024-08-07, **Disorder-induced delocalization and reentrance in a Chern-Hopf insulator**, Soumya Bera et.al., Paper: [http://arxiv.org/abs/2408.03908v1](http://arxiv.org/abs/2408.03908v1)
+- 2024-08-07, **A first-order hyperbolic reformulation of the Cahn-Hilliard equation**, Firas Dhaouadi et.al., Paper: [http://arxiv.org/abs/2408.03862v1](http://arxiv.org/abs/2408.03862v1)
+- 2024-08-07, **Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**, Guoqing Zhu et.al., Paper: [http://arxiv.org/abs/2408.03748v1](http://arxiv.org/abs/2408.03748v1), Code: **[https://github.com/lengmo1996/ECDM](https://github.com/lengmo1996/ECDM)**
+- 2024-08-07, **Flexible Bayesian Last Layer Models Using Implicit Priors and Diffusion Posterior Sampling**, Jian Xu et.al., Paper: [http://arxiv.org/abs/2408.03746v1](http://arxiv.org/abs/2408.03746v1)
+- 2024-08-07, **Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**, Markus Ditlev Sjøgren Olsen et.al., Paper: [http://arxiv.org/abs/2408.03654v1](http://arxiv.org/abs/2408.03654v1)
+- 2024-08-07, **Superdiffusion of energetic particles at shocks: A Lévy Flight model for acceleration**, Sophie Aerdker et.al., Paper: [http://arxiv.org/abs/2408.03638v1](http://arxiv.org/abs/2408.03638v1)
+- 2024-08-07, **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**, Kien T. Pham et.al., Paper: [http://arxiv.org/abs/2408.03637v1](http://arxiv.org/abs/2408.03637v1)
+- 2024-08-07, **"The Strength of Weak Ties" Varies Across Viral Channels**, Shan Huang et.al., Paper: [http://arxiv.org/abs/2408.03579v1](http://arxiv.org/abs/2408.03579v1)
+- 2024-08-07, **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods**, Onkar Susladkar et.al., Paper: [http://arxiv.org/abs/2408.03558v1](http://arxiv.org/abs/2408.03558v1), Code: **[https://github.com/onkarsus13/d2styler](https://github.com/onkarsus13/d2styler)**
+- 2024-08-07, **Dirichlet forms of diffusion processes on Thoma simplex**, Sergei Korotkikh et.al., Paper: [http://arxiv.org/abs/2408.03553v1](http://arxiv.org/abs/2408.03553v1)
+- 2024-08-07, **A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging**, Yinxi Pan et.al., Paper: [http://arxiv.org/abs/2408.03496v1](http://arxiv.org/abs/2408.03496v1)
+- 2024-08-06, **Mathematical study of a new Navier-Stokes-alpha model with nonlinear filter equation -- Part I**, Manuel Fernando Cortez et.al., Paper: [http://arxiv.org/abs/2408.03481v1](http://arxiv.org/abs/2408.03481v1)
+- 2024-08-06, **Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**, Shane A. McQuarrie et.al., Paper: [http://arxiv.org/abs/2408.03455v1](http://arxiv.org/abs/2408.03455v1)
+- 2024-08-06, **Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**, Bruno Sauvalle et.al., Paper: [http://arxiv.org/abs/2408.03433v1](http://arxiv.org/abs/2408.03433v1)
+- 2024-08-06, **A TVD neural network closure and application to turbulent combustion**, Seung Won Suh et.al., Paper: [http://arxiv.org/abs/2408.03413v1](http://arxiv.org/abs/2408.03413v1)
+- 2024-08-06, **Attacks and Defenses for Generative Diffusion Models: A Comprehensive Survey**, Vu Tuan Truong et.al., Paper: [http://arxiv.org/abs/2408.03400v1](http://arxiv.org/abs/2408.03400v1)
+- 2024-08-06, **The ALMA-CRISTAL Survey: Spatial extent of [CII] line emission in star-forming galaxies at $z=4-6$**, Ryota Ikeda et.al., Paper: [http://arxiv.org/abs/2408.03374v1](http://arxiv.org/abs/2408.03374v1)
 - 2024-08-06, **MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**, Xiaofeng Mao et.al., Paper: [http://arxiv.org/abs/2408.03312v1](http://arxiv.org/abs/2408.03312v1)
 - 2024-08-06, **Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**, Francine R. Marleau et.al., Paper: [http://arxiv.org/abs/2408.03311v1](http://arxiv.org/abs/2408.03311v1)
 - 2024-08-06, **TextIM: Part-aware Interactive Motion Synthesis from Text**, Siyuan Fan et.al., Paper: [http://arxiv.org/abs/2408.03302v1](http://arxiv.org/abs/2408.03302v1)
@@ -10222,6 +10241,7 @@
 
 ## Diffusion_Segment
 
+- 2024-08-06, **Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**, Bruno Sauvalle et.al., Paper: [http://arxiv.org/abs/2408.03433v1](http://arxiv.org/abs/2408.03433v1)
 - 2024-08-06, **Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**, Van Phi Nguyen et.al., Paper: [http://arxiv.org/abs/2408.03035v1](http://arxiv.org/abs/2408.03035v1)
 - 2024-08-05, **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2408.02657v1](http://arxiv.org/abs/2408.02657v1), Code: **[https://github.com/alpha-vllm/lumina-mgpt](https://github.com/alpha-vllm/lumina-mgpt)**
 - 2024-08-05, **Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**, Muhammad Abdullah Jamal et.al., Paper: [http://arxiv.org/abs/2408.02245v1](http://arxiv.org/abs/2408.02245v1)
