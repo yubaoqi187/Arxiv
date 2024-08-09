@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-08, **Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**, Ruining Li et.al., Paper: [http://arxiv.org/abs/2408.04631v1](http://arxiv.org/abs/2408.04631v1)
+- 2024-08-08, **Regularized Unconstrained Weakly Submodular Maximization**, Yanhui Zhu et.al., Paper: [http://arxiv.org/abs/2408.04620v1](http://arxiv.org/abs/2408.04620v1)
+- 2024-08-08, **An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**, Chance Hoskinson et.al., Paper: [http://arxiv.org/abs/2408.04611v1](http://arxiv.org/abs/2408.04611v1)
+- 2024-08-08, **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**, Qirui Jiao et.al., Paper: [http://arxiv.org/abs/2408.04594v1](http://arxiv.org/abs/2408.04594v1), Code: **[https://github.com/modelscope/data-juicer](https://github.com/modelscope/data-juicer)**
+- 2024-08-08, **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**, Yongzhi Xu et.al., Paper: [http://arxiv.org/abs/2408.04567v1](http://arxiv.org/abs/2408.04567v1)
+- 2024-08-08, **Local and global existence for the stochastic Prandtl equation driven by multiplicative noises in two and three dimensions**, Ya-Guang Wang et.al., Paper: [http://arxiv.org/abs/2408.04546v1](http://arxiv.org/abs/2408.04546v1)
+- 2024-08-08, **Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**, Cong Liu et.al., Paper: [http://arxiv.org/abs/2408.04521v1](http://arxiv.org/abs/2408.04521v1)
+- 2024-08-08, **Diffusive hydrodynamics from long-range correlations**, Friedrich Hübner et.al., Paper: [http://arxiv.org/abs/2408.04502v1](http://arxiv.org/abs/2408.04502v1)
+- 2024-08-08, **Extrinsic Orbital Hall Effect: Interplay Between Diffusive and Intrinsic Transport**, Alessandro Veneri et.al., Paper: [http://arxiv.org/abs/2408.04492v1](http://arxiv.org/abs/2408.04492v1)
+- 2024-08-08, **Random Walk Diffusion for Efficient Large-Scale Graph Generation**, Tobias Bernecker et.al., Paper: [http://arxiv.org/abs/2408.04461v1](http://arxiv.org/abs/2408.04461v1)
+- 2024-08-08, **Modeling information spread across networks with communities using a multitype branching process framework**, Alina Dubovskaya et.al., Paper: [http://arxiv.org/abs/2408.04456v1](http://arxiv.org/abs/2408.04456v1)
+- 2024-08-08, **Frustrated charge density wave and quasi-long-range bond-orientational order in the magnetic kagome FeGe**, D. Subires et.al., Paper: [http://arxiv.org/abs/2408.04452v1](http://arxiv.org/abs/2408.04452v1)
+- 2024-08-08, **Chirality-dependent spin polarization in diffusive metals: linear and quadratic responses**, Yusuke Kato et.al., Paper: [http://arxiv.org/abs/2408.04450v1](http://arxiv.org/abs/2408.04450v1)
+- 2024-08-08, **Surface potentials of conductors in electrolyte solutions**, Olga I. Vinogradova et.al., Paper: [http://arxiv.org/abs/2408.04434v1](http://arxiv.org/abs/2408.04434v1)
+- 2024-08-08, **Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**, Julen Urain et.al., Paper: [http://arxiv.org/abs/2408.04380v1](http://arxiv.org/abs/2408.04380v1)
+- 2024-08-08, **InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**, Xin-Yi Yu et.al., Paper: [http://arxiv.org/abs/2408.04249v1](http://arxiv.org/abs/2408.04249v1)
+- 2024-08-08, **LLDif: Diffusion Models for Low-light Emotion Recognition**, Zhifeng Wang et.al., Paper: [http://arxiv.org/abs/2408.04235v1](http://arxiv.org/abs/2408.04235v1)
+- 2024-08-08, **Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**, Ahmad Arrabi et.al., Paper: [http://arxiv.org/abs/2408.04224v1](http://arxiv.org/abs/2408.04224v1), Code: **[https://gitlab.com/vail-uvm/gpg2a](https://gitlab.com/vail-uvm/gpg2a)**
+- 2024-08-08, **Connective Viewpoints of Signal-to-Noise Diffusion Models**, Khanh Doan et.al., Paper: [http://arxiv.org/abs/2408.04221v1](http://arxiv.org/abs/2408.04221v1)
+- 2024-08-08, **Diffusion Guided Language Modeling**, Justin Lovelace et.al., Paper: [http://arxiv.org/abs/2408.04220v1](http://arxiv.org/abs/2408.04220v1), Code: **[https://github.com/justinlovelace/diffusion-guided-lm](https://github.com/justinlovelace/diffusion-guided-lm)**
 - 2024-08-07, **Dynamical patterns in active-passive particle mixtures with non-reciprocal interactions: Exact hydrodynamic analysis**, James Mason et.al., Paper: [http://arxiv.org/abs/2408.03932v1](http://arxiv.org/abs/2408.03932v1)
 - 2024-08-07, **Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**, Ludwig Hruza et.al., Paper: [http://arxiv.org/abs/2408.03917v1](http://arxiv.org/abs/2408.03917v1)
 - 2024-08-07, **Disorder-induced delocalization and reentrance in a Chern-Hopf insulator**, Soumya Bera et.al., Paper: [http://arxiv.org/abs/2408.03908v1](http://arxiv.org/abs/2408.03908v1)
@@ -10241,6 +10261,8 @@
 
 ## Diffusion_Segment
 
+- 2024-08-08, **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**, Yongzhi Xu et.al., Paper: [http://arxiv.org/abs/2408.04567v1](http://arxiv.org/abs/2408.04567v1)
+- 2024-08-08, **Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**, Ahmad Arrabi et.al., Paper: [http://arxiv.org/abs/2408.04224v1](http://arxiv.org/abs/2408.04224v1), Code: **[https://gitlab.com/vail-uvm/gpg2a](https://gitlab.com/vail-uvm/gpg2a)**
 - 2024-08-06, **Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**, Bruno Sauvalle et.al., Paper: [http://arxiv.org/abs/2408.03433v1](http://arxiv.org/abs/2408.03433v1)
 - 2024-08-06, **Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**, Van Phi Nguyen et.al., Paper: [http://arxiv.org/abs/2408.03035v1](http://arxiv.org/abs/2408.03035v1)
 - 2024-08-05, **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2408.02657v1](http://arxiv.org/abs/2408.02657v1), Code: **[https://github.com/alpha-vllm/lumina-mgpt](https://github.com/alpha-vllm/lumina-mgpt)**
