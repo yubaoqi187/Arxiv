@@ -1,4 +1,4 @@
-> Updated on 2024.08.11
+> Updated on 2024.08.12
 
 ## Video_Classification
 
@@ -9544,10 +9544,10 @@
 - 2024-08-08, **Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**, Ruining Li et.al., Paper: [http://arxiv.org/abs/2408.04631v1](http://arxiv.org/abs/2408.04631v1)
 - 2024-08-08, **Regularized Unconstrained Weakly Submodular Maximization**, Yanhui Zhu et.al., Paper: [http://arxiv.org/abs/2408.04620v1](http://arxiv.org/abs/2408.04620v1)
 - 2024-08-08, **An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**, Chance Hoskinson et.al., Paper: [http://arxiv.org/abs/2408.04611v1](http://arxiv.org/abs/2408.04611v1)
-- 2024-08-08, **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**, Qirui Jiao et.al., Paper: [http://arxiv.org/abs/2408.04594v1](http://arxiv.org/abs/2408.04594v1), Code: **[https://github.com/modelscope/data-juicer](https://github.com/modelscope/data-juicer)**
+- 2024-08-09, **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**, Qirui Jiao et.al., Paper: [http://arxiv.org/abs/2408.04594v2](http://arxiv.org/abs/2408.04594v2), Code: **[https://github.com/modelscope/data-juicer](https://github.com/modelscope/data-juicer)**
 - 2024-08-08, **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**, Yongzhi Xu et.al., Paper: [http://arxiv.org/abs/2408.04567v1](http://arxiv.org/abs/2408.04567v1)
 - 2024-08-08, **Local and global existence for the stochastic Prandtl equation driven by multiplicative noises in two and three dimensions**, Ya-Guang Wang et.al., Paper: [http://arxiv.org/abs/2408.04546v1](http://arxiv.org/abs/2408.04546v1)
-- 2024-08-08, **Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**, Cong Liu et.al., Paper: [http://arxiv.org/abs/2408.04521v1](http://arxiv.org/abs/2408.04521v1)
+- 2024-08-09, **Electrical resistivity, thermal conductivity, and viscosity of Fe-H alloys at Earth's core conditions**, Cong Liu et.al., Paper: [http://arxiv.org/abs/2408.04521v2](http://arxiv.org/abs/2408.04521v2)
 - 2024-08-08, **Diffusive hydrodynamics from long-range correlations**, Friedrich Hübner et.al., Paper: [http://arxiv.org/abs/2408.04502v1](http://arxiv.org/abs/2408.04502v1)
 - 2024-08-08, **Extrinsic Orbital Hall Effect: Interplay Between Diffusive and Intrinsic Transport**, Alessandro Veneri et.al., Paper: [http://arxiv.org/abs/2408.04492v1](http://arxiv.org/abs/2408.04492v1)
 - 2024-08-08, **Random Walk Diffusion for Efficient Large-Scale Graph Generation**, Tobias Bernecker et.al., Paper: [http://arxiv.org/abs/2408.04461v1](http://arxiv.org/abs/2408.04461v1)
