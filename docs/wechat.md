@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-12, **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, Chris Lu et.al., Paper: [http://arxiv.org/abs/2408.06292v1](http://arxiv.org/abs/2408.06292v1), Code: **[https://github.com/sakanaai/ai-scientist](https://github.com/sakanaai/ai-scientist)**
+- 2024-08-12, **3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**, Jaydeep Rade et.al., Paper: [http://arxiv.org/abs/2408.06244v1](http://arxiv.org/abs/2408.06244v1)
+- 2024-08-12, **Singular limit and convergence rate via projection method in a model for plant-growth dynamics with autotoxicity**, Jeff Morgan et.al., Paper: [http://arxiv.org/abs/2408.06177v1](http://arxiv.org/abs/2408.06177v1)
+- 2024-08-12, **Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**, Taewon Kang et.al., Paper: [http://arxiv.org/abs/2408.06157v1](http://arxiv.org/abs/2408.06157v1)
+- 2024-08-12, **Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**, Ioannis Romanelis et.al., Paper: [http://arxiv.org/abs/2408.06145v1](http://arxiv.org/abs/2408.06145v1)
+- 2024-08-12, **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**, Zhuoyi Yang et.al., Paper: [http://arxiv.org/abs/2408.06072v1](http://arxiv.org/abs/2408.06072v1), Code: **[https://github.com/thudm/cogvideo](https://github.com/thudm/cogvideo)**
+- 2024-08-12, **ControlNeXt: Powerful and Efficient Control for Image and Video Generation**, Bohao Peng et.al., Paper: [http://arxiv.org/abs/2408.06070v1](http://arxiv.org/abs/2408.06070v1), Code: **[https://github.com/dvlab-research/controlnext](https://github.com/dvlab-research/controlnext)**
+- 2024-08-12, **BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training**, Xuanpu Zhang et.al., Paper: [http://arxiv.org/abs/2408.06047v1](http://arxiv.org/abs/2408.06047v1), Code: **[https://github.com/little-misfit/boow-vton](https://github.com/little-misfit/boow-vton)**
+- 2024-08-12, **Gradient flow for a class of diffusion equations with Dirichlet boundary data**, Matthias Erbar et.al., Paper: [http://arxiv.org/abs/2408.05987v1](http://arxiv.org/abs/2408.05987v1)
+- 2024-08-12, **Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**, Haifan Gong et.al., Paper: [http://arxiv.org/abs/2408.05985v1](http://arxiv.org/abs/2408.05985v1)
+- 2024-08-12, **Global weak solutions to a fractional Cahn-Hilliard cross-diffusion system in lymphangiogenesis**, Ansgar Jüngel et.al., Paper: [http://arxiv.org/abs/2408.05972v1](http://arxiv.org/abs/2408.05972v1)
+- 2024-08-12, **Exciton diffusion in two-dimensional chiral perovskites**, Sophia Terres et.al., Paper: [http://arxiv.org/abs/2408.05946v1](http://arxiv.org/abs/2408.05946v1)
+- 2024-08-12, **UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**, Junjie He et.al., Paper: [http://arxiv.org/abs/2408.05939v1](http://arxiv.org/abs/2408.05939v1)
+- 2024-08-12, **Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation**, Utkarsh Nath et.al., Paper: [http://arxiv.org/abs/2408.05938v1](http://arxiv.org/abs/2408.05938v1)
+- 2024-08-12, **A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**, Taehong Moon et.al., Paper: [http://arxiv.org/abs/2408.05927v1](http://arxiv.org/abs/2408.05927v1)
+- 2024-08-12, **Lifetime of edge modes at rough surfaces of chiral superconductors**, Seiji Higashitani et.al., Paper: [http://arxiv.org/abs/2408.05925v1](http://arxiv.org/abs/2408.05925v1)
+- 2024-08-12, **HcNet: Image Modeling with Heat Conduction Equation**, Zhemin Zhang et.al., Paper: [http://arxiv.org/abs/2408.05901v1](http://arxiv.org/abs/2408.05901v1), Code: **[https://github.com/zheminzhang1/hcnet](https://github.com/zheminzhang1/hcnet)**
+- 2024-08-12, **Classifier Guidance Enhances Diffusion-based Adversarial Purification by Preserving Predictive Information**, Mingkun Zhang et.al., Paper: [http://arxiv.org/abs/2408.05900v1](http://arxiv.org/abs/2408.05900v1)
+- 2024-08-12, **Simulating the dynamics of NV^- formation in diamond in the presence of carbon self-interstitials**, Guangzhao Chen et.al., Paper: [http://arxiv.org/abs/2408.05881v1](http://arxiv.org/abs/2408.05881v1)
+- 2024-08-11, **LaWa: Using Latent Space for In-Generation Image Watermarking**, Ahmad Rezaei et.al., Paper: [http://arxiv.org/abs/2408.05868v1](http://arxiv.org/abs/2408.05868v1)
 - 2024-08-09, **Multi-Garment Customized Model Generation**, Yichen Liu et.al., Paper: [http://arxiv.org/abs/2408.05206v1](http://arxiv.org/abs/2408.05206v1)
 - 2024-08-09, **Galactic Gas Models Strongly Affect the Determination of the Diffusive Halo Height**, Pedro De La Torre Luque et.al., Paper: [http://arxiv.org/abs/2408.05179v1](http://arxiv.org/abs/2408.05179v1)
 - 2024-08-09, **Hidden curved spaces in Bosonic Kitaev model**, Chenwei Lv et.al., Paper: [http://arxiv.org/abs/2408.05132v1](http://arxiv.org/abs/2408.05132v1)
@@ -10281,10 +10301,12 @@
 
 ## Diffusion_Segment
 
+- 2024-08-12, **Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**, Haifan Gong et.al., Paper: [http://arxiv.org/abs/2408.05985v1](http://arxiv.org/abs/2408.05985v1)
+- 2024-08-10, **Multimodal generative semantic communication based on latent diffusion model**, Weiqi Fu et.al., Paper: [http://arxiv.org/abs/2408.05455v1](http://arxiv.org/abs/2408.05455v1)
 - 2024-08-08, **Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**, Yongzhi Xu et.al., Paper: [http://arxiv.org/abs/2408.04567v1](http://arxiv.org/abs/2408.04567v1)
 - 2024-08-08, **Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**, Ahmad Arrabi et.al., Paper: [http://arxiv.org/abs/2408.04224v1](http://arxiv.org/abs/2408.04224v1), Code: **[https://gitlab.com/vail-uvm/gpg2a](https://gitlab.com/vail-uvm/gpg2a)**
 - 2024-08-06, **Hybrid diffusion models: combining supervised and generative pretraining for label-efficient fine-tuning of segmentation models**, Bruno Sauvalle et.al., Paper: [http://arxiv.org/abs/2408.03433v1](http://arxiv.org/abs/2408.03433v1)
-- 2024-08-06, **Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**, Van Phi Nguyen et.al., Paper: [http://arxiv.org/abs/2408.03035v1](http://arxiv.org/abs/2408.03035v1)
+- 2024-08-06, **Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**, Van Phi Nguyen et.al., Paper: [http://arxiv.org/abs/2408.03035v1](http://arxiv.org/abs/2408.03035v1), Code: **[https://github.com/gungui98/echo-free](https://github.com/gungui98/echo-free)**
 - 2024-08-05, **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2408.02657v1](http://arxiv.org/abs/2408.02657v1), Code: **[https://github.com/alpha-vllm/lumina-mgpt](https://github.com/alpha-vllm/lumina-mgpt)**
 - 2024-08-05, **Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**, Muhammad Abdullah Jamal et.al., Paper: [http://arxiv.org/abs/2408.02245v1](http://arxiv.org/abs/2408.02245v1)
 - 2024-08-04, **LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**, Dwij Mehta et.al., Paper: [http://arxiv.org/abs/2408.02078v1](http://arxiv.org/abs/2408.02078v1)
