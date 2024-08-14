@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Imagen 3**|Imagen-Team-Google et.al.|[2408.07009v1](http://arxiv.org/abs/2408.07009v1)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995v1](http://arxiv.org/abs/2408.06995v1)|null|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963v1](http://arxiv.org/abs/2408.06963v1)|null|
+|**2024-08-13**|**Spherical-oblate shape coexistence in $^{94}$Zr from a model-independent analysis**|N. Marchini et.al.|[2408.06940v1](http://arxiv.org/abs/2408.06940v1)|null|
+|**2024-08-13**|**Global well-posedness of the 3D primitive equations with horizontal viscosity and vertical diffusivity II: close to $H^1$ initial data**|Chongsheng Cao et.al.|[2408.06932v1](http://arxiv.org/abs/2408.06932v1)|null|
+|**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883v1](http://arxiv.org/abs/2408.06883v1)|null|
+|**2024-08-13**|**Dwellers in the Deep: Biological Consequences of Dark Oxygen**|Manasvi Lingam et.al.|[2408.06841v1](http://arxiv.org/abs/2408.06841v1)|null|
+|**2024-08-13**|**Geotree of Geodetector: An Anatomy of Knowledge Diffusion of a Novel Statistic**|Yuting Liang et.al.|[2408.06839v1](http://arxiv.org/abs/2408.06839v1)|null|
+|**2024-08-13**|**Extreme events in locally coupled bursting neurons**|Ardhanareeswaran R Sree et.al.|[2408.06805v1](http://arxiv.org/abs/2408.06805v1)|null|
+|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740v1](http://arxiv.org/abs/2408.06740v1)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701v1](http://arxiv.org/abs/2408.06701v1)|null|
+|**2024-08-13**|**DC3DO: Diffusion Classifier for 3D Objects**|Nursena Koprucu et.al.|[2408.06693v1](http://arxiv.org/abs/2408.06693v1)|null|
+|**2024-08-13**|**Nonthermal driving forces in cells revealed by nonequilibrium fluctuations**|Yuika Ueda et.al.|[2408.06683v1](http://arxiv.org/abs/2408.06683v1)|null|
+|**2024-08-13**|**Leveraging Priors via Diffusion Bridge for Time Series Generation**|Jinseong Park et.al.|[2408.06672v1](http://arxiv.org/abs/2408.06672v1)|null|
+|**2024-08-13**|**ComGPT: Detecting Local Community Structure with Large Language Models**|Li Ni et.al.|[2408.06658v1](http://arxiv.org/abs/2408.06658v1)|null|
+|**2024-08-13**|**Strang splitting structure-preserving high-order compact difference schemes for nonlinear convection diffusion equations**|Baolin Kuang et.al.|[2408.06655v1](http://arxiv.org/abs/2408.06655v1)|null|
+|**2024-08-13**|**Intricate Evaporation Dynamics in Different Multi-Droplet Configurations**|Hari Govindha A. et.al.|[2408.06649v1](http://arxiv.org/abs/2408.06649v1)|null|
+|**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646v1](http://arxiv.org/abs/2408.06646v1)|null|
+|**2024-08-13**|**Gaussian mixture Taylor approximations of risk measures constrained by PDEs with Gaussian random field inputs**|Dingcheng Luo et.al.|[2408.06615v1](http://arxiv.org/abs/2408.06615v1)|null|
+|**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614v1](http://arxiv.org/abs/2408.06614v1)|null|
 |**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292v1](http://arxiv.org/abs/2408.06292v1)|**[link](https://github.com/sakanaai/ai-scientist)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244v1](http://arxiv.org/abs/2408.06244v1)|null|
 |**2024-08-12**|**Singular limit and convergence rate via projection method in a model for plant-growth dynamics with autotoxicity**|Jeff Morgan et.al.|[2408.06177v1](http://arxiv.org/abs/2408.06177v1)|null|
@@ -766,6 +786,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**|Olivia N Murray et.al.|[2408.06403v1](http://arxiv.org/abs/2408.06403v1)|null|
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985v1](http://arxiv.org/abs/2408.05985v1)|null|
 |**2024-08-10**|**Multimodal generative semantic communication based on latent diffusion model**|Weiqi Fu et.al.|[2408.05455v1](http://arxiv.org/abs/2408.05455v1)|null|
 |**2024-08-08**|**Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches**|Yongzhi Xu et.al.|[2408.04567v1](http://arxiv.org/abs/2408.04567v1)|null|
