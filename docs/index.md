@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636v1](http://arxiv.org/abs/2408.07636v1)|null|
+|**2024-08-14**|**Anisotropic Diffusion Model of Communication in 2D Biofilm**|Yanahan Paramalingam et.al.|[2408.07626v1](http://arxiv.org/abs/2408.07626v1)|null|
+|**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547v1](http://arxiv.org/abs/2408.07547v1)|**[link](https://github.com/sh-lee-prml/periodwave)**|
+|**2024-08-14**|**DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**|Erez Yosef et.al.|[2408.07541v1](http://arxiv.org/abs/2408.07541v1)|null|
+|**2024-08-14**|**DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**|Yuanbo Zhou et.al.|[2408.07516v1](http://arxiv.org/abs/2408.07516v1)|null|
+|**2024-08-14**|**Front propagation in hybrid reaction-diffusion epidemic models with spatial heterogeneity**|Quentin Griette et.al.|[2408.07501v1](http://arxiv.org/abs/2408.07501v1)|null|
+|**2024-08-14**|**DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency**|Xiaojing Zhong et.al.|[2408.07481v1](http://arxiv.org/abs/2408.07481v1)|null|
+|**2024-08-14**|**One Step Diffusion-based Super-Resolution with Time-Aware Distillation**|Xiao He et.al.|[2408.07476v1](http://arxiv.org/abs/2408.07476v1)|**[link](https://github.com/learninghx/tad-sr)**|
+|**2024-08-14**|**Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models**|Jean-Marie Lemercier et.al.|[2408.07472v1](http://arxiv.org/abs/2408.07472v1)|null|
+|**2024-08-14**|**Diffuse Interface Model for Two-Phase Flows on Evolving Surfaces with Different Densities: Global Well-Posedness**|Helmut Abels et.al.|[2408.07449v1](http://arxiv.org/abs/2408.07449v1)|null|
+|**2024-08-14**|**Vacancy diffusion and the hydrodynamics of crystals**|Joel Mabillard et.al.|[2408.07399v1](http://arxiv.org/abs/2408.07399v1)|null|
+|**2024-08-14**|**Existence and local asymptotics for a system of cross-diffusion equations with nonlocal Cahn-Hilliard terms**|Elisa Davoli et.al.|[2408.07396v1](http://arxiv.org/abs/2408.07396v1)|null|
+|**2024-08-14**|**Mixing of active scalars due to random shock waves in two dimensions**|Joaquim P. Jossy et.al.|[2408.07357v1](http://arxiv.org/abs/2408.07357v1)|null|
+|**2024-08-14**|**Longtime behaviors of an epidemic model with nonlocal diffusions and a free boundary: spreading-vanishing dichotomy**|Xueping Li et.al.|[2408.07356v1](http://arxiv.org/abs/2408.07356v1)|null|
+|**2024-08-14**|**KIND: Knowledge Integration and Diversion in Diffusion Models**|Yucheng Xie et.al.|[2408.07337v1](http://arxiv.org/abs/2408.07337v1)|null|
+|**2024-08-14**|**Connecting Dreams with Visual Brainstorming Instruction**|Yasheng Sun et.al.|[2408.07317v1](http://arxiv.org/abs/2408.07317v1)|null|
+|**2024-08-14**|**Realization of time-reversal invariant photonic topological Anderson insulators**|Xiao-Dong Chen et.al.|[2408.07267v1](http://arxiv.org/abs/2408.07267v1)|null|
+|**2024-08-14**|**Numerical analysis of a class of penalty discontinuous Galerkin methods for nonlocal diffusion problems**|Qiang Du et.al.|[2408.07261v1](http://arxiv.org/abs/2408.07261v1)|null|
+|**2024-08-14**|**MorphFader: Enabling Fine-grained Controllable Morphing with Text-to-Audio Models**|Purnima Kamath et.al.|[2408.07260v1](http://arxiv.org/abs/2408.07260v1)|null|
+|**2024-08-14**|**GRIF-DM: Generation of Rich Impression Fonts using Diffusion Models**|Lei Kang et.al.|[2408.07259v1](http://arxiv.org/abs/2408.07259v1)|**[link](https://github.com/leitro/grif-dm)**|
 |**2024-08-13**|**Imagen 3**|Imagen-Team-Google et.al.|[2408.07009v1](http://arxiv.org/abs/2408.07009v1)|null|
 |**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995v1](http://arxiv.org/abs/2408.06995v1)|null|
 |**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963v1](http://arxiv.org/abs/2408.06963v1)|null|
@@ -790,6 +810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116v1](http://arxiv.org/abs/2408.07116v1)|null|
 |**2024-08-12**|**From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**|Olivia N Murray et.al.|[2408.06403v1](http://arxiv.org/abs/2408.06403v1)|null|
 |**2024-08-12**|**Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**|Haifan Gong et.al.|[2408.05985v1](http://arxiv.org/abs/2408.05985v1)|null|
 |**2024-08-10**|**Multimodal generative semantic communication based on latent diffusion model**|Weiqi Fu et.al.|[2408.05455v1](http://arxiv.org/abs/2408.05455v1)|null|
