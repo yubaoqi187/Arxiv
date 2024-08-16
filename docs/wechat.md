@@ -1,4 +1,4 @@
-> Updated on 2024.08.15
+> Updated on 2024.08.16
 
 ## Video_Classification
 
@@ -9545,7 +9545,7 @@
 - 2024-08-14, **Anisotropic Diffusion Model of Communication in 2D Biofilm**, Yanahan Paramalingam et.al., Paper: [http://arxiv.org/abs/2408.07626v1](http://arxiv.org/abs/2408.07626v1)
 - 2024-08-14, **PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**, Sang-Hoon Lee et.al., Paper: [http://arxiv.org/abs/2408.07547v1](http://arxiv.org/abs/2408.07547v1), Code: **[https://github.com/sh-lee-prml/periodwave](https://github.com/sh-lee-prml/periodwave)**
 - 2024-08-14, **DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model**, Erez Yosef et.al., Paper: [http://arxiv.org/abs/2408.07541v1](http://arxiv.org/abs/2408.07541v1)
-- 2024-08-14, **DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**, Yuanbo Zhou et.al., Paper: [http://arxiv.org/abs/2408.07516v1](http://arxiv.org/abs/2408.07516v1)
+- 2024-08-15, **DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution**, Yuanbo Zhou et.al., Paper: [http://arxiv.org/abs/2408.07516v2](http://arxiv.org/abs/2408.07516v2)
 - 2024-08-14, **Front propagation in hybrid reaction-diffusion epidemic models with spatial heterogeneity**, Quentin Griette et.al., Paper: [http://arxiv.org/abs/2408.07501v1](http://arxiv.org/abs/2408.07501v1)
 - 2024-08-14, **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency**, Xiaojing Zhong et.al., Paper: [http://arxiv.org/abs/2408.07481v1](http://arxiv.org/abs/2408.07481v1)
 - 2024-08-14, **One Step Diffusion-based Super-Resolution with Time-Aware Distillation**, Xiao He et.al., Paper: [http://arxiv.org/abs/2408.07476v1](http://arxiv.org/abs/2408.07476v1), Code: **[https://github.com/learninghx/tad-sr](https://github.com/learninghx/tad-sr)**
