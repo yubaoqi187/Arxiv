@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-16, **Homogenization of Poisson-Nernst-Planck equations for multiple species in a porous medium**, Apratim Bhattacharya et.al., Paper: [http://arxiv.org/abs/2408.08831v1](http://arxiv.org/abs/2408.08831v1)
+- 2024-08-16, **PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**, Guangyi Wang et.al., Paper: [http://arxiv.org/abs/2408.08822v1](http://arxiv.org/abs/2408.08822v1)
+- 2024-08-16, **Accurate wave velocity measurement from diffuse wave fields**, Melody Png et.al., Paper: [http://arxiv.org/abs/2408.08756v1](http://arxiv.org/abs/2408.08756v1)
+- 2024-08-16, **Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**, Sanchayan Vivekananthan et.al., Paper: [http://arxiv.org/abs/2408.08751v1](http://arxiv.org/abs/2408.08751v1)
+- 2024-08-16, **Photoluminescence decay of mobile carriers influenced by imperfect quenching at particle surfaces with subdiffusive spread**, Ryuzi Katoh et.al., Paper: [http://arxiv.org/abs/2408.08692v1](http://arxiv.org/abs/2408.08692v1)
+- 2024-08-16, **An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**, Peiming Guo et.al., Paper: [http://arxiv.org/abs/2408.08650v1](http://arxiv.org/abs/2408.08650v1)
+- 2024-08-16, **Modeling the Neonatal Brain Development Using Implicit Neural Representations**, Florentin Bieder et.al., Paper: [http://arxiv.org/abs/2408.08647v1](http://arxiv.org/abs/2408.08647v1)
+- 2024-08-16, **Sampling effects on Lasso estimation of drift functions in high-dimensional diffusion processes**, Chiara Amorino et.al., Paper: [http://arxiv.org/abs/2408.08638v1](http://arxiv.org/abs/2408.08638v1)
+- 2024-08-16, **Reference-free Axial Super-resolution of 3D Microscopy Images using Implicit Neural Representation with a 2D Diffusion Prior**, Kyungryun Lee et.al., Paper: [http://arxiv.org/abs/2408.08616v1](http://arxiv.org/abs/2408.08616v1), Code: **[https://github.com/hvcl/inr-diffusion](https://github.com/hvcl/inr-diffusion)**
+- 2024-08-16, **Generative Dataset Distillation Based on Diffusion Model**, Duo Su et.al., Paper: [http://arxiv.org/abs/2408.08610v1](http://arxiv.org/abs/2408.08610v1), Code: **[https://github.com/guang000/banko](https://github.com/guang000/banko)**
+- 2024-08-16, **Formation of the interstellar sugar precursor, (Z)-1,2-ethenediol, through radical reactions on dust grains**, Juan Carlos del Valle et.al., Paper: [http://arxiv.org/abs/2408.08608v1](http://arxiv.org/abs/2408.08608v1)
+- 2024-08-16, **Search for the jet-induced diffusion wake in the quark-gluon plasma via measurements of jet-track correlations in photon-jet events in Pb+Pb collisions at $\sqrt{\mathrm{s}_{\mathrm{NN}}}$ = 5.02 TeV with the ATLAS detector**, ATLAS Collaboration et.al., Paper: [http://arxiv.org/abs/2408.08599v1](http://arxiv.org/abs/2408.08599v1)
+- 2024-08-16, **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**, Xiucheng Wang et.al., Paper: [http://arxiv.org/abs/2408.08593v1](http://arxiv.org/abs/2408.08593v1), Code: **[https://github.com/unic-lab/radiodiff](https://github.com/unic-lab/radiodiff)**
+- 2024-08-16, **Mechanistic Modeling of Lipid Nanoparticle Formation for the Delivery of Nucleic Acid Therapeutics**, Pavan K. Inguva et.al., Paper: [http://arxiv.org/abs/2408.08577v1](http://arxiv.org/abs/2408.08577v1)
+- 2024-08-16, **A New Chinese Landscape Paintings Generation Model based on Stable Diffusion using DreamBooth**, Yujia Gu et.al., Paper: [http://arxiv.org/abs/2408.08561v1](http://arxiv.org/abs/2408.08561v1)
+- 2024-08-16, **Linear combinations of latents in diffusion models: interpolation and beyond**, Erik Bodin et.al., Paper: [http://arxiv.org/abs/2408.08558v1](http://arxiv.org/abs/2408.08558v1)
+- 2024-08-16, **Inverse design with conditional cascaded diffusion models**, Milad Habibi et.al., Paper: [http://arxiv.org/abs/2408.08526v1](http://arxiv.org/abs/2408.08526v1)
+- 2024-08-16, **GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization**, Kang Du et.al., Paper: [http://arxiv.org/abs/2408.08524v1](http://arxiv.org/abs/2408.08524v1), Code: **[https://github.com/dukang/gs-id](https://github.com/dukang/gs-id)**
+- 2024-08-16, **Visual-Friendly Concept Protection via Selective Adversarial Perturbations**, Xiaoyue Mi et.al., Paper: [http://arxiv.org/abs/2408.08518v1](http://arxiv.org/abs/2408.08518v1), Code: **[https://github.com/KululuMi/VCPro](https://github.com/KululuMi/VCPro)**
+- 2024-08-16, **Fluctuations in Wasserstein dynamics on Graphs**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2408.08505v1](http://arxiv.org/abs/2408.08505v1)
 - 2024-08-15, **Understanding the Local Geometry of Generative Model Manifolds**, Ahmed Imtiaz Humayun et.al., Paper: [http://arxiv.org/abs/2408.08307v1](http://arxiv.org/abs/2408.08307v1)
 - 2024-08-15, **Accelerated Image-Aware Generative Diffusion Modeling**, Tanmay Asthana et.al., Paper: [http://arxiv.org/abs/2408.08306v1](http://arxiv.org/abs/2408.08306v1)
 - 2024-08-15, **Solutions and stochastic averaging for delay-path-dependent stochastic variational inequalities in infinite dimensions**, Ning Ning et.al., Paper: [http://arxiv.org/abs/2408.08277v1](http://arxiv.org/abs/2408.08277v1)
@@ -10355,6 +10375,7 @@
 
 ## Diffusion_Segment
 
+- 2024-08-16, **Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**, Sanchayan Vivekananthan et.al., Paper: [http://arxiv.org/abs/2408.08751v1](http://arxiv.org/abs/2408.08751v1)
 - 2024-08-13, **Generative Photomontage**, Sean J. Liu et.al., Paper: [http://arxiv.org/abs/2408.07116v1](http://arxiv.org/abs/2408.07116v1)
 - 2024-08-12, **From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**, Olivia N Murray et.al., Paper: [http://arxiv.org/abs/2408.06403v1](http://arxiv.org/abs/2408.06403v1)
 - 2024-08-12, **Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models**, Haifan Gong et.al., Paper: [http://arxiv.org/abs/2408.05985v1](http://arxiv.org/abs/2408.05985v1)
