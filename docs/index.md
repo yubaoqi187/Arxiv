@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198v1](http://arxiv.org/abs/2408.10198v1)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195v1](http://arxiv.org/abs/2408.10195v1)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168v1](http://arxiv.org/abs/2408.10168v1)|null|
+|**2024-08-19**|**Stacking Polymorphism of PtSe$_{2}$: Its Implication to Layer-dependent Metal-insulator Transitions**|Jeonghwan Ahn et.al.|[2408.10156v1](http://arxiv.org/abs/2408.10156v1)|null|
+|**2024-08-19**|**Solution landscape of reaction-diffusion systems reveals a nonlinear mechanism and spatial robustness of pattern formation**|Shuonan Wu et.al.|[2408.10095v1](http://arxiv.org/abs/2408.10095v1)|null|
+|**2024-08-19**|**Ocean Circulation on Tide-locked Lava Worlds, Part II: Scalings**|Yanhong Lai et.al.|[2408.09985v1](http://arxiv.org/abs/2408.09985v1)|null|
+|**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904v1](http://arxiv.org/abs/2408.09904v1)|null|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896v1](http://arxiv.org/abs/2408.09896v1)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-19**|**Transport coefficients of the heavy quark in the domain of the non-perturbative and non-eikonal gluon radiation**|Surasree Mazumder et.al.|[2408.09824v1](http://arxiv.org/abs/2408.09824v1)|null|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822v1](http://arxiv.org/abs/2408.09822v1)|null|
+|**2024-08-19**|**Latent Diffusion for Guided Document Table Generation**|Syed Jawwad Haider Hamdani et.al.|[2408.09800v1](http://arxiv.org/abs/2408.09800v1)|null|
+|**2024-08-19**|**Unsupervised Composable Representations for Audio**|Giovanni Bindi et.al.|[2408.09792v1](http://arxiv.org/abs/2408.09792v1)|null|
+|**2024-08-19**|**Propagating the prior from shallow to deep with a pre-trained velocity-model Generative Transformer network**|Randy Harsuko et.al.|[2408.09767v1](http://arxiv.org/abs/2408.09767v1)|null|
+|**2024-08-19**|**Effect of the background flow on the motility induced phase separation**|Soni D. Prajapati et.al.|[2408.09763v1](http://arxiv.org/abs/2408.09763v1)|null|
+|**2024-08-19**|**Non-isothermal diffuse interface model for phase transition and interface evolution**|Chun Liu et.al.|[2408.09749v1](http://arxiv.org/abs/2408.09749v1)|null|
+|**2024-08-19**|**Diff2CT: Diffusion Learning to Reconstruct Spine CT from Biplanar X-Rays**|Zhi Qiao et.al.|[2408.09731v1](http://arxiv.org/abs/2408.09731v1)|null|
+|**2024-08-19**|**Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models**|Cong Fu et.al.|[2408.09730v1](http://arxiv.org/abs/2408.09730v1)|null|
+|**2024-08-19**|**Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering**|Ruofan Liang et.al.|[2408.09702v1](http://arxiv.org/abs/2408.09702v1)|null|
+|**2024-08-19**|**A robust hybridizable discontinuous Galerkin scheme with harmonic averaging technique for steady state of real-world semiconductor devices**|Qingyuan Shi et.al.|[2408.09692v1](http://arxiv.org/abs/2408.09692v1)|null|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650v1](http://arxiv.org/abs/2408.09650v1)|**[link](https://github.com/eashanadhikarla/expomamba)**|
 |**2024-08-16**|**Homogenization of Poisson-Nernst-Planck equations for multiple species in a porous medium**|Apratim Bhattacharya et.al.|[2408.08831v1](http://arxiv.org/abs/2408.08831v1)|null|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822v1](http://arxiv.org/abs/2408.08822v1)|null|
 |**2024-08-16**|**Accurate wave velocity measurement from diffuse wave fields**|Melody Png et.al.|[2408.08756v1](http://arxiv.org/abs/2408.08756v1)|null|
@@ -844,6 +864,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-17**|**Depth-guided Texture Diffusion for Image Semantic Segmentation**|Wei Sun et.al.|[2408.09097v1](http://arxiv.org/abs/2408.09097v1)|null|
 |**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751v1](http://arxiv.org/abs/2408.08751v1)|null|
 |**2024-08-16**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116v2](http://arxiv.org/abs/2408.07116v2)|null|
 |**2024-08-12**|**From Diagnostic CT to DTI Tractography labels: Using Deep Learning for Corticospinal Tract Injury Assessment and Outcome Prediction in Intracerebral Haemorrhage**|Olivia N Murray et.al.|[2408.06403v1](http://arxiv.org/abs/2408.06403v1)|null|
