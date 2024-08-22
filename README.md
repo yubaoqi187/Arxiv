@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810v1](http://arxiv.org/abs/2408.11810v1)|null|
+|**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785v1](http://arxiv.org/abs/2408.11785v1)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
+|**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767v1](http://arxiv.org/abs/2408.11767v1)|null|
+|**2024-08-21**|**Modeling multiband SEDs and light curves of BL Lacertae using a time-dependent shock-in-jet model**|Rukaiya Khatoon et.al.|[2408.11763v1](http://arxiv.org/abs/2408.11763v1)|null|
+|**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744v1](http://arxiv.org/abs/2408.11744v1)|null|
+|**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721v1](http://arxiv.org/abs/2408.11721v1)|null|
+|**2024-08-21**|**FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting**|Liyao Jiang et.al.|[2408.11706v1](http://arxiv.org/abs/2408.11706v1)|null|
+|**2024-08-21**|**The off-equilibrium Kinetic Ising model: The Metric Case**|Luca Di Carlo et.al.|[2408.11690v1](http://arxiv.org/abs/2408.11690v1)|null|
+|**2024-08-21**|**Plug-in estimation of Schrödinger bridges**|Aram-Alexandre Pooladian et.al.|[2408.11686v1](http://arxiv.org/abs/2408.11686v1)|**[link](https://github.com/apooladian/sinkhornbridge)**|
+|**2024-08-21**|**Reconstruction of reverberation theory in a diffuse sound field by using reflection orders**|Toshiki Hanyu et.al.|[2408.11670v1](http://arxiv.org/abs/2408.11670v1)|null|
+|**2024-08-21**|**Variability and stellar pulsation incidence in Am/Fm stars using TESS and Gaia data**|Oliver Durfeldt-Pedros et.al.|[2408.11657v1](http://arxiv.org/abs/2408.11657v1)|null|
+|**2024-08-21**|**Moderate deviation principles for a reaction diffusion model in non-equilibrium**|Linjie Zhao et.al.|[2408.11633v1](http://arxiv.org/abs/2408.11633v1)|null|
+|**2024-08-21**|**Achieving specific yet transient bonds between anisotropic colloids**|Muraleedharapai Mayarani et.al.|[2408.11569v1](http://arxiv.org/abs/2408.11569v1)|null|
+|**2024-08-21**|**Improved moduli of continuity for degenerate phase transitions**|Ugo Gianazza et.al.|[2408.11555v1](http://arxiv.org/abs/2408.11555v1)|null|
+|**2024-08-21**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553v1](http://arxiv.org/abs/2408.11553v1)|**[link](https://github.com/nyf8/anydesign)**|
+|**2024-08-21**|**Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential**|Salvatore Romano et.al.|[2408.11538v1](http://arxiv.org/abs/2408.11538v1)|null|
+|**2024-08-21**|**Imagining from Images with an AI Storytelling Tool**|Edirlei Soares de Lima et.al.|[2408.11517v1](http://arxiv.org/abs/2408.11517v1)|null|
+|**2024-08-21**|**Re-evaluation of the cosmic-ray ionization rate in diffuse clouds**|M. Obolentseva et.al.|[2408.11511v1](http://arxiv.org/abs/2408.11511v1)|null|
+|**2024-08-21**|**Transition route to elastic and elasto-inertial turbulence in polymer channel flows**|Miguel Beneitez et.al.|[2408.11508v1](http://arxiv.org/abs/2408.11508v1)|null|
+|**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485v1](http://arxiv.org/abs/2408.11485v1)|null|
 |**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039v1](http://arxiv.org/abs/2408.11039v1)|null|
 |**2024-08-20**|**A new perspective on the learning dynamics for a class of learning problems via averaged gradient systems coupled with diffusion-transmutation processes**|Getachew K. Befekadu et.al.|[2408.11005v1](http://arxiv.org/abs/2408.11005v1)|null|
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001v1](http://arxiv.org/abs/2408.11001v1)|null|
@@ -880,6 +900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553v1](http://arxiv.org/abs/2408.11553v1)|**[link](https://github.com/nyf8/anydesign)**|
 |**2024-08-20**|**Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**|Hojat Asgariandehkordi et.al.|[2408.10987v1](http://arxiv.org/abs/2408.10987v1)|null|
 |**2024-08-20**|**Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond**|Chiara Stuardi et.al.|[2408.10871v1](http://arxiv.org/abs/2408.10871v1)|null|
 |**2024-08-17**|**Depth-guided Texture Diffusion for Image Semantic Segmentation**|Wei Sun et.al.|[2408.09097v1](http://arxiv.org/abs/2408.09097v1)|null|
