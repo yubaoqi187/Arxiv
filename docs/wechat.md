@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-22, **Very Extended Ionized Gas Discovered around NGC 1068 with the Circumgalactic H$α$ Spectrograph**, Nicole Melso et.al., Paper: [http://arxiv.org/abs/2408.12597v1](http://arxiv.org/abs/2408.12597v1)
+- 2024-08-22, **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**, Can Qin et.al., Paper: [http://arxiv.org/abs/2408.12590v1](http://arxiv.org/abs/2408.12590v1)
+- 2024-08-22, **Real-Time Video Generation with Pyramid Attention Broadcast**, Xuanlei Zhao et.al., Paper: [http://arxiv.org/abs/2408.12588v1](http://arxiv.org/abs/2408.12588v1), Code: **[https://github.com/nus-hpc-ai-lab/opendit](https://github.com/nus-hpc-ai-lab/opendit)**
+- 2024-08-22, **ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**, Lujia Zhong et.al., Paper: [http://arxiv.org/abs/2408.12561v1](http://arxiv.org/abs/2408.12561v1), Code: **[https://github.com/lujiazho/ssprop](https://github.com/lujiazho/ssprop)**
+- 2024-08-22, **Detecting random bifurcations via rigorous enclosures of large deviations rate functions**, Alexandra Blessing et.al., Paper: [http://arxiv.org/abs/2408.12556v1](http://arxiv.org/abs/2408.12556v1)
+- 2024-08-22, **Neural Fields and Noise-Induced Patterns in Neurons on Large Disordered Networks**, Daniele Avitabile et.al., Paper: [http://arxiv.org/abs/2408.12540v1](http://arxiv.org/abs/2408.12540v1)
+- 2024-08-22, **Spectral eigenfunction decomposition of a Fokker-Planck operator for relativistic heavy-ion collisions**, A. Rizzi et.al., Paper: [http://arxiv.org/abs/2408.12532v1](http://arxiv.org/abs/2408.12532v1)
+- 2024-08-22, **Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2408.12528v1](http://arxiv.org/abs/2408.12528v1), Code: **[https://github.com/showlab/show-o](https://github.com/showlab/show-o)**
+- 2024-08-22, **FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**, Jue Wang et.al., Paper: [http://arxiv.org/abs/2408.12429v1](http://arxiv.org/abs/2408.12429v1), Code: **[https://github.com/a-new-b/flex_edit](https://github.com/a-new-b/flex_edit)**
+- 2024-08-22, **4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**, Kaihui Cheng et.al., Paper: [http://arxiv.org/abs/2408.12419v1](http://arxiv.org/abs/2408.12419v1)
+- 2024-08-22, **CODE: Confident Ordinary Differential Editing**, Bastien van Delft et.al., Paper: [http://arxiv.org/abs/2408.12418v1](http://arxiv.org/abs/2408.12418v1), Code: **[https://github.com/vita-epfl/code](https://github.com/vita-epfl/code)**
+- 2024-08-22, **Dynamic PDB: A New Dataset and a SE(3) Model Extension by Integrating Dynamic Behaviors and Physical Properties in Protein Structures**, Ce Liu et.al., Paper: [http://arxiv.org/abs/2408.12413v1](http://arxiv.org/abs/2408.12413v1)
+- 2024-08-22, **Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**, Ádám Tibor Czapp et.al., Paper: [http://arxiv.org/abs/2408.12392v1](http://arxiv.org/abs/2408.12392v1)
+- 2024-08-22, **LCM-SVC: Latent Diffusion Model Based Singing Voice Conversion with Inference Acceleration via Latent Consistency Distillation**, Shihao Chen et.al., Paper: [http://arxiv.org/abs/2408.12354v1](http://arxiv.org/abs/2408.12354v1)
+- 2024-08-22, **GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections**, Shiyue Zhang et.al., Paper: [http://arxiv.org/abs/2408.12352v1](http://arxiv.org/abs/2408.12352v1)
+- 2024-08-22, **VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding**, Yujie Liang et.al., Paper: [http://arxiv.org/abs/2408.12340v1](http://arxiv.org/abs/2408.12340v1)
+- 2024-08-22, **Physics of the low momentum diffusivity regime in tokamaks and its experimental applicability**, Haomin Sun et.al., Paper: [http://arxiv.org/abs/2408.12331v1](http://arxiv.org/abs/2408.12331v1)
+- 2024-08-22, **Analysis of linear elliptic equations with general drifts and $L^1$-zero-order terms**, Haesung Lee et.al., Paper: [http://arxiv.org/abs/2408.12295v1](http://arxiv.org/abs/2408.12295v1)
+- 2024-08-22, **Variance reduction of diffusion model's gradients with Taylor approximation-based control variate**, Paul Jeha et.al., Paper: [http://arxiv.org/abs/2408.12270v1](http://arxiv.org/abs/2408.12270v1)
+- 2024-08-22, **Scalable Autoregressive Image Generation with Mamba**, Haopeng Li et.al., Paper: [http://arxiv.org/abs/2408.12245v1](http://arxiv.org/abs/2408.12245v1), Code: **[https://github.com/hp-l33/aim](https://github.com/hp-l33/aim)**
 - 2024-08-21, **Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**, Chun-Yen Shih et.al., Paper: [http://arxiv.org/abs/2408.11810v1](http://arxiv.org/abs/2408.11810v1)
 - 2024-08-21, **Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**, Haipeng Zhou et.al., Paper: [http://arxiv.org/abs/2408.11785v1](http://arxiv.org/abs/2408.11785v1), Code: **[https://github.com/haipengzhou856/tbgdiff](https://github.com/haipengzhou856/tbgdiff)**
 - 2024-08-21, **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**, Daniele Malitesta et.al., Paper: [http://arxiv.org/abs/2408.11767v1](http://arxiv.org/abs/2408.11767v1)
@@ -10435,6 +10455,7 @@
 
 ## Diffusion_Segment
 
+- 2024-08-22, **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**, Can Qin et.al., Paper: [http://arxiv.org/abs/2408.12590v1](http://arxiv.org/abs/2408.12590v1)
 - 2024-08-21, **AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**, Yunfang Niu et.al., Paper: [http://arxiv.org/abs/2408.11553v1](http://arxiv.org/abs/2408.11553v1), Code: **[https://github.com/nyf8/anydesign](https://github.com/nyf8/anydesign)**
 - 2024-08-20, **Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models**, Hojat Asgariandehkordi et.al., Paper: [http://arxiv.org/abs/2408.10987v1](http://arxiv.org/abs/2408.10987v1)
 - 2024-08-20, **Radio U-Net: a convolutional neural network to detect diffuse radio sources in galaxy clusters and beyond**, Chiara Stuardi et.al., Paper: [http://arxiv.org/abs/2408.10871v1](http://arxiv.org/abs/2408.10871v1)
