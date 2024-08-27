@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-26, **Relativistic spin hydrodynamics with momentum and spin-dependent relaxation time**, Samapan Bhadury et.al., Paper: [http://arxiv.org/abs/2408.14462v1](http://arxiv.org/abs/2408.14462v1)
+- 2024-08-26, **An optimization-based coupling of reduced order models with efficient reduced adjoint basis generation approach**, Elizabeth Hawkins et.al., Paper: [http://arxiv.org/abs/2408.14450v1](http://arxiv.org/abs/2408.14450v1)
+- 2024-08-26, **DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**, Jinhyeok Yang et.al., Paper: [http://arxiv.org/abs/2408.14423v1](http://arxiv.org/abs/2408.14423v1)
+- 2024-08-26, **Consistent diffusion matrix estimation from population time series**, Aden Forrow et.al., Paper: [http://arxiv.org/abs/2408.14408v1](http://arxiv.org/abs/2408.14408v1)
+- 2024-08-26, **Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics**, Zefang Liu et.al., Paper: [http://arxiv.org/abs/2408.14404v1](http://arxiv.org/abs/2408.14404v1), Code: **[https://github.com/zefang-liu/neuralplasmaode](https://github.com/zefang-liu/neuralplasmaode)**
+- 2024-08-26, **GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**, Peiyan Li et.al., Paper: [http://arxiv.org/abs/2408.14368v1](http://arxiv.org/abs/2408.14368v1)
+- 2024-08-26, **From irregular to regular eutectic growth in the Al-Al3Ni system: in situ observations during directional solidification**, Paul Chao et.al., Paper: [http://arxiv.org/abs/2408.14346v1](http://arxiv.org/abs/2408.14346v1)
+- 2024-08-26, **On the origin of the $10^7$ K hot emitting gas in the Circumgalactic medium of the Milky Way**, Mukesh Singh Bisht et.al., Paper: [http://arxiv.org/abs/2408.14344v1](http://arxiv.org/abs/2408.14344v1)
+- 2024-08-26, **Foundation Models for Music: A Survey**, Yinghao Ma et.al., Paper: [http://arxiv.org/abs/2408.14340v1](http://arxiv.org/abs/2408.14340v1), Code: **[https://github.com/nicolaus625/fm4music](https://github.com/nicolaus625/fm4music)**
+- 2024-08-26, **Streamline tractography of the fetal brain in utero with machine learning**, Weide Liu et.al., Paper: [http://arxiv.org/abs/2408.14326v1](http://arxiv.org/abs/2408.14326v1)
+- 2024-08-26, **Volume-preserving mean-curvature flow as a singular limit of a diffusion-aggregation equation**, Antoine Mellet et.al., Paper: [http://arxiv.org/abs/2408.14309v1](http://arxiv.org/abs/2408.14309v1)
+- 2024-08-26, **Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks**, Gang Qu et.al., Paper: [http://arxiv.org/abs/2408.14254v1](http://arxiv.org/abs/2408.14254v1)
+- 2024-08-26, **Isolated singularities of solutions of a 2-D diffusion equation with mixed reaction**, Yimei Li et.al., Paper: [http://arxiv.org/abs/2408.14246v1](http://arxiv.org/abs/2408.14246v1)
+- 2024-08-26, **TC-PDM: Temporally Consistent Patch Diffusion Models for Infrared-to-Visible Video Translation**, Anh-Dzung Doan et.al., Paper: [http://arxiv.org/abs/2408.14227v1](http://arxiv.org/abs/2408.14227v1)
+- 2024-08-26, **MagicMan: Generative Novel View Synthesis of Humans with 3D-Aware Diffusion and Iterative Refinement**, Xu He et.al., Paper: [http://arxiv.org/abs/2408.14211v1](http://arxiv.org/abs/2408.14211v1)
+- 2024-08-26, **SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**, Trung Dao et.al., Paper: [http://arxiv.org/abs/2408.14176v1](http://arxiv.org/abs/2408.14176v1)
+- 2024-08-26, **Conditioning to avoid zero via a class of concave functions for one-dimensional diffusions**, Kosuke Yamato et.al., Paper: [http://arxiv.org/abs/2408.14163v1](http://arxiv.org/abs/2408.14163v1)
+- 2024-08-26, **Cosmic dance in the Shapley Concentration Core II. The uGMRT-MeerKAT view of filaments in the brightest cluster galaxies and tailed radio galaxies in the A3528 cluster complex**, G. Di Gennaro et.al., Paper: [http://arxiv.org/abs/2408.14142v1](http://arxiv.org/abs/2408.14142v1)
+- 2024-08-26, **Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**, Chaohua Shi et.al., Paper: [http://arxiv.org/abs/2408.14135v1](http://arxiv.org/abs/2408.14135v1)
+- 2024-08-26, **Large diffuse dwarfs in the dynamically cold triple system**, I. D. Karachentsev et.al., Paper: [http://arxiv.org/abs/2408.14128v1](http://arxiv.org/abs/2408.14128v1)
 - 2024-08-23, **How Diffusion Models Learn to Factorize and Compose**, Qiyao Liang et.al., Paper: [http://arxiv.org/abs/2408.13256v1](http://arxiv.org/abs/2408.13256v1)
 - 2024-08-23, **LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**, Shuai Yang et.al., Paper: [http://arxiv.org/abs/2408.13252v1](http://arxiv.org/abs/2408.13252v1)
 - 2024-08-23, **CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2408.13239v1](http://arxiv.org/abs/2408.13239v1)
@@ -10475,6 +10495,7 @@
 
 ## Diffusion_Segment
 
+- 2024-08-26, **Streamline tractography of the fetal brain in utero with machine learning**, Weide Liu et.al., Paper: [http://arxiv.org/abs/2408.14326v1](http://arxiv.org/abs/2408.14326v1)
 - 2024-08-23, **Image Segmentation in Foundation Model Era: A Survey**, Tianfei Zhou et.al., Paper: [http://arxiv.org/abs/2408.12957v1](http://arxiv.org/abs/2408.12957v1)
 - 2024-08-23, **State-of-the-Art Fails in the Art of Damage Detection**, Daniela Ivanova et.al., Paper: [http://arxiv.org/abs/2408.12953v1](http://arxiv.org/abs/2408.12953v1)
 - 2024-08-22, **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**, Can Qin et.al., Paper: [http://arxiv.org/abs/2408.12590v1](http://arxiv.org/abs/2408.12590v1)
