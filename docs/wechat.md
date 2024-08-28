@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-27, **GenRec: Unifying Video Generation and Recognition with Diffusion Models**, Zejia Weng et.al., Paper: [http://arxiv.org/abs/2408.15241v1](http://arxiv.org/abs/2408.15241v1)
+- 2024-08-27, **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2408.15239v1](http://arxiv.org/abs/2408.15239v1)
+- 2024-08-27, **Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**, Xuan Xu et.al., Paper: [http://arxiv.org/abs/2408.15218v1](http://arxiv.org/abs/2408.15218v1)
+- 2024-08-27, **On latent dynamics learning in nonlinear reduced order modeling**, Nicola Farenga et.al., Paper: [http://arxiv.org/abs/2408.15183v1](http://arxiv.org/abs/2408.15183v1)
+- 2024-08-27, **Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**, Santosh Chhetri et.al., Paper: [http://arxiv.org/abs/2408.15157v1](http://arxiv.org/abs/2408.15157v1)
+- 2024-08-27, **Linearization of finite-strain poro-visco-elasticity with degenerate mobility**, Willem J. M. van Oosterhout et.al., Paper: [http://arxiv.org/abs/2408.15151v1](http://arxiv.org/abs/2408.15151v1)
+- 2024-08-27, **DIFR3CT: Latent Diffusion for Probabilistic 3D CT Reconstruction from Few Planar X-Rays**, Yiran Sun et.al., Paper: [http://arxiv.org/abs/2408.15118v1](http://arxiv.org/abs/2408.15118v1), Code: **[https://github.com/yransun/difr3ct](https://github.com/yransun/difr3ct)**
+- 2024-08-27, **Constrained Diffusion Models via Dual Training**, Shervin Khalafi et.al., Paper: [http://arxiv.org/abs/2408.15094v1](http://arxiv.org/abs/2408.15094v1)
+- 2024-08-27, **Conditioning the logistic continuous-state branching process on non-extinction via its total progeny**, Clément Foucart et.al., Paper: [http://arxiv.org/abs/2408.14993v1](http://arxiv.org/abs/2408.14993v1)
+- 2024-08-27, **LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2408.14977v1](http://arxiv.org/abs/2408.14977v1)
+- 2024-08-27, **MegActor-$Σ$: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**, Shurong Yang et.al., Paper: [http://arxiv.org/abs/2408.14975v1](http://arxiv.org/abs/2408.14975v1)
+- 2024-08-27, **Adaptive Mesh Construction for the Numerical Solution of Stochastic Differential Equations with Markovian Switching**, Cónall Kelly et.al., Paper: [http://arxiv.org/abs/2408.14931v1](http://arxiv.org/abs/2408.14931v1)
+- 2024-08-27, **Targetin the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders**, Maciej J. Karcz et.al., Paper: [http://arxiv.org/abs/2408.14928v1](http://arxiv.org/abs/2408.14928v1)
+- 2024-08-27, **Stochastic quantum models for the dynamics of power grids**, Pierrick Guichard et.al., Paper: [http://arxiv.org/abs/2408.14921v1](http://arxiv.org/abs/2408.14921v1)
+- 2024-08-27, **Diffuse Interface Energies with Microscopic Heterogeneities: Homogenization and Rare Events**, Peter S. Morfe et.al., Paper: [http://arxiv.org/abs/2408.14914v1](http://arxiv.org/abs/2408.14914v1)
+- 2024-08-27, **A nonlinear phase-field model of corrosion with charging kinetics of electric double layer**, M. Makuch et.al., Paper: [http://arxiv.org/abs/2408.14905v1](http://arxiv.org/abs/2408.14905v1)
+- 2024-08-27, **MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation**, Hyunwoo Kim et.al., Paper: [http://arxiv.org/abs/2408.14899v1](http://arxiv.org/abs/2408.14899v1)
+- 2024-08-27, **Source Count Distribution of Fermi LAT Gamma-Ray Blazars Using Novel Nonparametric Methods**, Xuhang Yin et.al., Paper: [http://arxiv.org/abs/2408.14877v1](http://arxiv.org/abs/2408.14877v1)
+- 2024-08-27, **Phase sinks and sources around two-dimensional periodic-wave solutions of reaction-diffusion-advection systems**, Benjamin Melinand et.al., Paper: [http://arxiv.org/abs/2408.14869v1](http://arxiv.org/abs/2408.14869v1)
+- 2024-08-27, **DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**, Yusuke Yoshiyasu et.al., Paper: [http://arxiv.org/abs/2408.14860v1](http://arxiv.org/abs/2408.14860v1)
 - 2024-08-26, **Relativistic spin hydrodynamics with momentum and spin-dependent relaxation time**, Samapan Bhadury et.al., Paper: [http://arxiv.org/abs/2408.14462v1](http://arxiv.org/abs/2408.14462v1)
 - 2024-08-26, **An optimization-based coupling of reduced order models with efficient reduced adjoint basis generation approach**, Elizabeth Hawkins et.al., Paper: [http://arxiv.org/abs/2408.14450v1](http://arxiv.org/abs/2408.14450v1)
 - 2024-08-27, **DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**, Jinhyeok Yang et.al., Paper: [http://arxiv.org/abs/2408.14423v2](http://arxiv.org/abs/2408.14423v2)
@@ -10495,6 +10515,7 @@
 
 ## Diffusion_Segment
 
+- 2024-08-27, **LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2408.14977v1](http://arxiv.org/abs/2408.14977v1)
 - 2024-08-26, **Streamline tractography of the fetal brain in utero with machine learning**, Weide Liu et.al., Paper: [http://arxiv.org/abs/2408.14326v1](http://arxiv.org/abs/2408.14326v1)
 - 2024-08-23, **Image Segmentation in Foundation Model Era: A Survey**, Tianfei Zhou et.al., Paper: [http://arxiv.org/abs/2408.12957v1](http://arxiv.org/abs/2408.12957v1)
 - 2024-08-23, **State-of-the-Art Fails in the Art of Damage Detection**, Daniela Ivanova et.al., Paper: [http://arxiv.org/abs/2408.12953v1](http://arxiv.org/abs/2408.12953v1)
