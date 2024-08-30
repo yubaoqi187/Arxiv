@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-08-29, **ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2408.16767v1](http://arxiv.org/abs/2408.16767v1)
+- 2024-08-29, **CSGO: Content-Style Composition in Text-to-Image Generation**, Peng Xing et.al., Paper: [http://arxiv.org/abs/2408.16766v1](http://arxiv.org/abs/2408.16766v1)
+- 2024-08-29, **A Score-Based Density Formula, with Applications in Diffusion Generative Models**, Gen Li et.al., Paper: [http://arxiv.org/abs/2408.16765v1](http://arxiv.org/abs/2408.16765v1)
+- 2024-08-29, **UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**, Simone Foti et.al., Paper: [http://arxiv.org/abs/2408.16762v1](http://arxiv.org/abs/2408.16762v1), Code: **[https://github.com/simofoti/uv3-ted](https://github.com/simofoti/uv3-ted)**
+- 2024-08-29, **Non-detection of Neutrinos from the BOAT: Improved Constraints on the Parameters of GRB 221009A**, P. Veres et.al., Paper: [http://arxiv.org/abs/2408.16748v1](http://arxiv.org/abs/2408.16748v1)
+- 2024-08-29, **A VLA Study of Newly-Discovered Southern Latitude Non-Thermal Filaments in the Galactic Center: Polarimetric and Magnetic Field Properties**, Dylan M. Pare et.al., Paper: [http://arxiv.org/abs/2408.16745v1](http://arxiv.org/abs/2408.16745v1)
+- 2024-08-29, **Porous medium type reaction-diffusion equation: large time behaviors and regularity of free boundary**, Qingyou He et.al., Paper: [http://arxiv.org/abs/2408.16718v1](http://arxiv.org/abs/2408.16718v1)
+- 2024-08-29, **Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**, Quentin Malé et.al., Paper: [http://arxiv.org/abs/2408.16709v1](http://arxiv.org/abs/2408.16709v1)
+- 2024-08-29, **One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**, Anisha Jain et.al., Paper: [http://arxiv.org/abs/2408.16704v1](http://arxiv.org/abs/2408.16704v1)
+- 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
+- 2024-08-29, **Dynamics of switching processes: general results and applications to intermittent active motion**, Ion Santra et.al., Paper: [http://arxiv.org/abs/2408.16643v1](http://arxiv.org/abs/2408.16643v1)
+- 2024-08-29, **RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**, Zhuan Shi et.al., Paper: [http://arxiv.org/abs/2408.16634v1](http://arxiv.org/abs/2408.16634v1)
+- 2024-08-29, **A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**, Yankun Hong et.al., Paper: [http://arxiv.org/abs/2408.16626v1](http://arxiv.org/abs/2408.16626v1)
+- 2024-08-29, **Deep extragalactic HI survey of the COSMOS field with FAST**, Hengxing Pan et.al., Paper: [http://arxiv.org/abs/2408.16597v1](http://arxiv.org/abs/2408.16597v1)
+- 2024-08-29, **GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**, Xiangchen Yin et.al., Paper: [http://arxiv.org/abs/2408.16540v1](http://arxiv.org/abs/2408.16540v1)
+- 2024-08-29, **A Simple and Generalist Approach for Panoptic Segmentation**, Nedyalko Prisadnikov et.al., Paper: [http://arxiv.org/abs/2408.16504v1](http://arxiv.org/abs/2408.16504v1)
+- 2024-08-29, **Diffusive transport of a 2-D magnetized dusty plasma cloud**, Aman Singh Katariya et.al., Paper: [http://arxiv.org/abs/2408.16484v1](http://arxiv.org/abs/2408.16484v1)
+- 2024-08-29, **Spiking Diffusion Models**, Jiahang Cao et.al., Paper: [http://arxiv.org/abs/2408.16467v1](http://arxiv.org/abs/2408.16467v1), Code: **[https://github.com/andycao1125/sdm](https://github.com/andycao1125/sdm)**
+- 2024-08-29, **HYGENE: A Diffusion-based Hypergraph Generation Method**, Dorian Gailhard et.al., Paper: [http://arxiv.org/abs/2408.16457v1](http://arxiv.org/abs/2408.16457v1)
+- 2024-08-29, **What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer**, Chaeyeon Chung et.al., Paper: [http://arxiv.org/abs/2408.16450v1](http://arxiv.org/abs/2408.16450v1)
 - 2024-08-28, **TEDRA: Text-based Editing of Dynamic and Photoreal Actors**, Basavaraj Sunagad et.al., Paper: [http://arxiv.org/abs/2408.15995v1](http://arxiv.org/abs/2408.15995v1)
 - 2024-08-28, **Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**, Shengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2408.15991v1](http://arxiv.org/abs/2408.15991v1), Code: **[https://github.com/syzhang0805/disback](https://github.com/syzhang0805/disback)**
 - 2024-08-28, **Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**, Hairou Yu et.al., Paper: [http://arxiv.org/abs/2408.15945v1](http://arxiv.org/abs/2408.15945v1)
@@ -10535,6 +10555,8 @@
 
 ## Diffusion_Segment
 
+- 2024-08-29, **A Simple and Generalist Approach for Panoptic Segmentation**, Nedyalko Prisadnikov et.al., Paper: [http://arxiv.org/abs/2408.16504v1](http://arxiv.org/abs/2408.16504v1)
+- 2024-08-29, **Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**, Sizhe Hu et.al., Paper: [http://arxiv.org/abs/2408.16258v1](http://arxiv.org/abs/2408.16258v1)
 - 2024-08-27, **LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2408.14977v1](http://arxiv.org/abs/2408.14977v1)
 - 2024-08-26, **Streamline tractography of the fetal brain in utero with machine learning**, Weide Liu et.al., Paper: [http://arxiv.org/abs/2408.14326v1](http://arxiv.org/abs/2408.14326v1)
 - 2024-08-23, **Image Segmentation in Foundation Model Era: A Survey**, Tianfei Zhou et.al., Paper: [http://arxiv.org/abs/2408.12957v1](http://arxiv.org/abs/2408.12957v1)
