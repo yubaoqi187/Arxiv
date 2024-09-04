@@ -15,13 +15,13 @@
 |**2024-08-30**|**Shock-driven amorphization and melt in Fe$_2$O$_3$**|Céline Crépisson et.al.|[2408.17204v1](http://arxiv.org/abs/2408.17204v1)|null|
 |**2024-08-30**|**Excitation and spatial study of a prestellar cluster towards G+0.693-0.027 in the Galactic centre**|L. Colzi et.al.|[2408.17141v1](http://arxiv.org/abs/2408.17141v1)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131v1](http://arxiv.org/abs/2408.17131v1)|null|
-|**2024-08-30**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095v1](http://arxiv.org/abs/2408.17095v1)|null|
+|**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095v2](http://arxiv.org/abs/2408.17095v2)|null|
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064v2](http://arxiv.org/abs/2408.17064v2)|null|
 |**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060v1](http://arxiv.org/abs/2408.17060v1)|null|
 |**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046v1](http://arxiv.org/abs/2408.17046v1)|null|
 |**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965v1](http://arxiv.org/abs/2408.16965v1)|**[link](https://github.com/dewenzeng/clsp)**|
 |**2024-08-29**|**Revising Multimodal VAEs with Diffusion Decoders**|Daniel Wesego et.al.|[2408.16883v1](http://arxiv.org/abs/2408.16883v1)|null|
-|**2024-08-29**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845v1](http://arxiv.org/abs/2408.16845v1)|null|
+|**2024-09-02**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845v2](http://arxiv.org/abs/2408.16845v2)|null|
 |**2024-08-29**|**Mapping AGN winds: a connection between radio-mode AGN and the AGN feedback cycle**|Marco Albán et.al.|[2408.16831v1](http://arxiv.org/abs/2408.16831v1)|null|
 |**2024-08-29**|**Intensity mapping of intergalactic Lyman-$α$ haloes before reionization**|Hamsa Padmanabhan et.al.|[2408.16820v1](http://arxiv.org/abs/2408.16820v1)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767v1](http://arxiv.org/abs/2408.16767v1)|null|
