@@ -1,4 +1,4 @@
-> Updated on 2024.09.05
+> Updated on 2024.09.06
 
 ## Video_Classification
 
@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-05, **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**, Yunze Man et.al., Paper: [http://arxiv.org/abs/2409.03757v1](http://arxiv.org/abs/2409.03757v1), Code: **[https://github.com/yunzeman/lexicon3d](https://github.com/yunzeman/lexicon3d)**
+- 2024-09-05, **DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**, Wenliang Zhao et.al., Paper: [http://arxiv.org/abs/2409.03755v1](http://arxiv.org/abs/2409.03755v1), Code: **[https://github.com/wl-zhao/dc-solver](https://github.com/wl-zhao/dc-solver)**
+- 2024-09-05, **ArtiFade: Learning to Generate High-quality Subject from Blemished Images**, Shuya Yang et.al., Paper: [http://arxiv.org/abs/2409.03745v1](http://arxiv.org/abs/2409.03745v1)
+- 2024-09-05, **Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation**, Slava Elizarov et.al., Paper: [http://arxiv.org/abs/2409.03718v1](http://arxiv.org/abs/2409.03718v1)
+- 2024-09-05, **RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**, Benzhi Wang et.al., Paper: [http://arxiv.org/abs/2409.03644v1](http://arxiv.org/abs/2409.03644v1)
+- 2024-09-05, **DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**, Hsing-Hang Chou et.al., Paper: [http://arxiv.org/abs/2409.03636v1](http://arxiv.org/abs/2409.03636v1)
+- 2024-09-05, **Critical transition between intensive and extensive active droplets**, Jonathan Bauermann et.al., Paper: [http://arxiv.org/abs/2409.03629v1](http://arxiv.org/abs/2409.03629v1)
+- 2024-09-05, **TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**, Bernardo Biesseck et.al., Paper: [http://arxiv.org/abs/2409.03600v1](http://arxiv.org/abs/2409.03600v1), Code: **[https://github.com/bovifocr/tcdiff](https://github.com/bovifocr/tcdiff)**
+- 2024-09-05, **Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**, Yucong Zhang et.al., Paper: [http://arxiv.org/abs/2409.03597v1](http://arxiv.org/abs/2409.03597v1)
+- 2024-09-05, **Curvature dependent dynamics of a bacterium confined in a giant unilamellar vesicle**, Olivia Vincent et.al., Paper: [http://arxiv.org/abs/2409.03578v1](http://arxiv.org/abs/2409.03578v1)
+- 2024-09-05, **Organized Grouped Discrete Representation for Object-Centric Learning**, Rongzhen Zhao et.al., Paper: [http://arxiv.org/abs/2409.03553v1](http://arxiv.org/abs/2409.03553v1)
+- 2024-09-05, **DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**, Qianlong Xiang et.al., Paper: [http://arxiv.org/abs/2409.03550v1](http://arxiv.org/abs/2409.03550v1)
+- 2024-09-05, **Blended Latent Diffusion under Attention Control for Real-World Video Editing**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2409.03514v1](http://arxiv.org/abs/2409.03514v1)
+- 2024-09-05, **ScreenMark: Watermarking Arbitrary Visual Content on Screen**, Xiujian Liang et.al., Paper: [http://arxiv.org/abs/2409.03487v1](http://arxiv.org/abs/2409.03487v1)
+- 2024-09-05, **Dynamics of Small Solid Particles on Substrates of Arbitrary Topography**, Quan Zhao et.al., Paper: [http://arxiv.org/abs/2409.03468v1](http://arxiv.org/abs/2409.03468v1)
+- 2024-09-05, **Emergence of regularity for limit points of McKean-Vlasov particle systems**, Robert Alexander Crowell et.al., Paper: [http://arxiv.org/abs/2409.03459v1](http://arxiv.org/abs/2409.03459v1)
+- 2024-09-05, **LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**, Hanyang Yu et.al., Paper: [http://arxiv.org/abs/2409.03456v1](http://arxiv.org/abs/2409.03456v1)
+- 2024-09-05, **Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**, Pei Wang et.al., Paper: [http://arxiv.org/abs/2409.03455v1](http://arxiv.org/abs/2409.03455v1)
+- 2024-09-05, **KAN See In the Dark**, Aoxiang Ning et.al., Paper: [http://arxiv.org/abs/2409.03404v1](http://arxiv.org/abs/2409.03404v1), Code: **[https://github.com/axning/ksid](https://github.com/axning/ksid)**
+- 2024-09-05, **Grand-potential phase field simulations of droplet growth and sedimentation in a two-phase ternary fluid**, Werner Verdier et.al., Paper: [http://arxiv.org/abs/2409.03401v1](http://arxiv.org/abs/2409.03401v1)
 - 2024-09-04, **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2409.02919v1](http://arxiv.org/abs/2409.02919v1), Code: **[https://github.com/Liuxinyv/HiPrompt](https://github.com/Liuxinyv/HiPrompt)**
 - 2024-09-04, **Gravitational radiation from binary systems in Unimodular gravity**, Indranil Chakraborty et.al., Paper: [http://arxiv.org/abs/2409.02909v1](http://arxiv.org/abs/2409.02909v1)
 - 2024-09-04, **Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**, Kaiwen Zheng et.al., Paper: [http://arxiv.org/abs/2409.02908v1](http://arxiv.org/abs/2409.02908v1)
@@ -10595,6 +10615,10 @@
 
 ## Diffusion_Segment
 
+- 2024-09-05, **Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**, Yunze Man et.al., Paper: [http://arxiv.org/abs/2409.03757v1](http://arxiv.org/abs/2409.03757v1), Code: **[https://github.com/yunzeman/lexicon3d](https://github.com/yunzeman/lexicon3d)**
+- 2024-09-05, **Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**, Yucong Zhang et.al., Paper: [http://arxiv.org/abs/2409.03597v1](http://arxiv.org/abs/2409.03597v1)
+- 2024-09-05, **Organized Grouped Discrete Representation for Object-Centric Learning**, Rongzhen Zhao et.al., Paper: [http://arxiv.org/abs/2409.03553v1](http://arxiv.org/abs/2409.03553v1)
+- 2024-09-05, **iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**, Lin Sun et.al., Paper: [http://arxiv.org/abs/2409.03209v1](http://arxiv.org/abs/2409.03209v1), Code: **[https://github.com/linsun449/iseg.code](https://github.com/linsun449/iseg.code)**
 - 2024-09-03, **DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**, Wenbo Hu et.al., Paper: [http://arxiv.org/abs/2409.02095v1](http://arxiv.org/abs/2409.02095v1)
 - 2024-09-02, **From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model**, Xiaojie Xu et.al., Paper: [http://arxiv.org/abs/2409.01014v1](http://arxiv.org/abs/2409.01014v1)
 - 2024-09-01, **Diffusion based multi-domain neuroimaging harmonization method with preservation of anatomical details**, Haoyu Lan et.al., Paper: [http://arxiv.org/abs/2409.00807v1](http://arxiv.org/abs/2409.00807v1)
