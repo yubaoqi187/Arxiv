@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 
 ## Diffusion
 
@@ -1087,7 +1087,7 @@ layout: default
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597v1](http://arxiv.org/abs/2409.03597v1)|null|
 |**2024-09-05**|**Organized Grouped Discrete Representation for Object-Centric Learning**|Rongzhen Zhao et.al.|[2409.03553v1](http://arxiv.org/abs/2409.03553v1)|null|
-|**2024-09-05**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209v1](http://arxiv.org/abs/2409.03209v1)|**[link](https://github.com/linsun449/iseg.code)**|
+|**2024-09-06**|**iSeg: An Iterative Refinement-based Framework for Training-free Segmentation**|Lin Sun et.al.|[2409.03209v2](http://arxiv.org/abs/2409.03209v2)|**[link](https://github.com/linsun449/iseg.code)**|
 |**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095v1](http://arxiv.org/abs/2409.02095v1)|null|
 |**2024-09-02**|**From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model**|Xiaojie Xu et.al.|[2409.01014v1](http://arxiv.org/abs/2409.01014v1)|null|
 |**2024-09-01**|**Diffusion based multi-domain neuroimaging harmonization method with preservation of anatomical details**|Haoyu Lan et.al.|[2409.00807v1](http://arxiv.org/abs/2409.00807v1)|null|
