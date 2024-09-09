@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429v1](http://arxiv.org/abs/2409.04429v1)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424v1](http://arxiv.org/abs/2409.04424v1)|null|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384v1](http://arxiv.org/abs/2409.04384v1)|null|
+|**2024-09-06**|**Exploring nuclear structure with multiparticle azimuthal correlations at the LHC**|ALICE Collaboration et.al.|[2409.04343v1](http://arxiv.org/abs/2409.04343v1)|null|
+|**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339v1](http://arxiv.org/abs/2409.04339v1)|null|
+|**2024-09-06**|**Random effects estimation in a fractional diffusion model based on continuous observations**|Nesrine Chebli et.al.|[2409.04331v1](http://arxiv.org/abs/2409.04331v1)|null|
+|**2024-09-06**|**Time-dependent dynamics in the confined lattice Lorentz gas**|A. Squarcini et.al.|[2409.04293v1](http://arxiv.org/abs/2409.04293v1)|null|
+|**2024-09-06**|**Dimensional crossover via confinement in the lattice Lorentz gas**|A. Squarcini et.al.|[2409.04289v1](http://arxiv.org/abs/2409.04289v1)|null|
+|**2024-09-06**|**Electromagnetic field assisted exciton diffusion in moiré superlattices**|A. M. Shentsev et.al.|[2409.04284v1](http://arxiv.org/abs/2409.04284v1)|null|
+|**2024-09-06**|**Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids**|Harish Srinivasan et.al.|[2409.04199v1](http://arxiv.org/abs/2409.04199v1)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|null|
+|**2024-09-06**|**Automated detection of exploding granules with SDO/HMI data**|J. Ballot et.al.|[2409.04158v1](http://arxiv.org/abs/2409.04158v1)|null|
+|**2024-09-06**|**A diffusion Monte Carlo calculation of fully heavy pentaquarks**|M. C. Gordillo et.al.|[2409.04130v1](http://arxiv.org/abs/2409.04130v1)|null|
+|**2024-09-06**|**$[C_{2}mim][CH_{3}SO_{3}]$ -- A Suitable New Heat Transfer Fluid? Part 2: Thermophysical Properties of Its Mixtures with Water**|Francisco E. B. Bioucas et.al.|[2409.04070v1](http://arxiv.org/abs/2409.04070v1)|null|
+|**2024-09-06**|**Classical $\mathbb{Z}_2$ spin liquid on the generalized four-color Kitaev model**|Han Yan et.al.|[2409.04061v1](http://arxiv.org/abs/2409.04061v1)|null|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
+|**2024-09-06**|**Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task**|Jing Wang et.al.|[2409.04005v1](http://arxiv.org/abs/2409.04005v1)|**[link](https://github.com/360cvgroup/qihoo-t2x)**|
+|**2024-09-06**|**One-Shot Diffusion Mimicker for Handwritten Text Generation**|Gang Dai et.al.|[2409.04004v1](http://arxiv.org/abs/2409.04004v1)|**[link](https://github.com/dailenson/one-dm)**|
+|**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003v1](http://arxiv.org/abs/2409.04003v1)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
+|**2024-09-06**|**The LBT Satellites of Nearby Galaxies Survey (LBT-SONG): The Diffuse Satellite Population of Local Volume Hosts**|A. Bianca Davis et.al.|[2409.03999v1](http://arxiv.org/abs/2409.03999v1)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**|Wenliang Zhao et.al.|[2409.03755v1](http://arxiv.org/abs/2409.03755v1)|**[link](https://github.com/wl-zhao/dc-solver)**|
 |**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745v1](http://arxiv.org/abs/2409.03745v1)|null|
