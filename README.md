@@ -1,4 +1,4 @@
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 
 ## Diffusion
 
@@ -23,7 +23,7 @@
 |**2024-09-11**|**CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals**|Weixiang Gao et.al.|[2409.07271v1](http://arxiv.org/abs/2409.07271v1)|**[link](https://github.com/gaovix/ccfexp)**|
 |**2024-09-11**|**Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models**|Sanoojan Baliah et.al.|[2409.07269v1](http://arxiv.org/abs/2409.07269v1)|**[link](https://github.com/sanoojan/reface)**|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255v1](http://arxiv.org/abs/2409.07255v1)|null|
-|**2024-09-11**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253v1](http://arxiv.org/abs/2409.07253v1)|null|
+|**2024-09-12**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253v2](http://arxiv.org/abs/2409.07253v2)|null|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633v1](http://arxiv.org/abs/2409.06633v1)|null|
 |**2024-09-10**|**A surprising regularizing effect of the nonlinear semigroup associated to the semilinear heat equation and applications to reaction diffusion systems**|Said Kouachi et.al.|[2409.06606v1](http://arxiv.org/abs/2409.06606v1)|null|
 |**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451v1](http://arxiv.org/abs/2409.06451v1)|null|
@@ -1164,10 +1164,10 @@
 |**2024-09-11**|**EVENet: Evidence-based Ensemble Learning for Uncertainty-aware Brain Parcellation Using Diffusion MRI**|Chenjun Li et.al.|[2409.07020v1](http://arxiv.org/abs/2409.07020v1)|**[link](https://github.com/chenjun-li/evenet)**|
 |**2024-09-11**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003v1](http://arxiv.org/abs/2409.07003v1)|null|
 |**2024-09-10**|**RATNUS: Rapid, Automatic Thalamic Nuclei Segmentation using Multimodal MRI inputs**|Anqi Feng et.al.|[2409.06897v1](http://arxiv.org/abs/2409.06897v1)|null|
-|**2024-08-26**|**Detailed delineation of the fetal brain in diffusion MRI via multi-task learning**|Davood Karimi et.al.|[2409.06716v1](http://arxiv.org/abs/2409.06716v1)|null|
+|**2024-09-12**|**Detailed delineation of the fetal brain in diffusion MRI via multi-task learning**|Davood Karimi et.al.|[2409.06716v2](http://arxiv.org/abs/2409.06716v2)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183v1](http://arxiv.org/abs/2409.06183v1)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
 |**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074v1](http://arxiv.org/abs/2409.06074v1)|null|
-|**2024-09-09**|**Enhanced Generative Data Augmentation for Semantic Segmentation via Stronger Guidance**|Quang-Huy Che et.al.|[2409.06002v1](http://arxiv.org/abs/2409.06002v1)|null|
+|**2024-09-12**|**Enhanced Generative Data Augmentation for Semantic Segmentation via Stronger Guidance**|Quang-Huy Che et.al.|[2409.06002v2](http://arxiv.org/abs/2409.06002v2)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757v1](http://arxiv.org/abs/2409.03757v1)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597v1](http://arxiv.org/abs/2409.03597v1)|null|
 |**2024-09-10**|**Organized Grouped Discrete Representation for Object-Centric Learning**|Rongzhen Zhao et.al.|[2409.03553v2](http://arxiv.org/abs/2409.03553v2)|null|
@@ -1179,7 +1179,7 @@
 |**2024-08-29**|**A Simple and Generalist Approach for Panoptic Segmentation**|Nedyalko Prisadnikov et.al.|[2408.16504v1](http://arxiv.org/abs/2408.16504v1)|null|
 |**2024-08-29**|**Advancing Architectural Floorplan Design with Geometry-enhanced Graph Diffusion**|Sizhe Hu et.al.|[2408.16258v1](http://arxiv.org/abs/2408.16258v1)|null|
 |**2024-08-27**|**LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**|Weidong Guo et.al.|[2408.14977v1](http://arxiv.org/abs/2408.14977v1)|null|
-|**2024-08-26**|**Streamline tractography of the fetal brain in utero with machine learning**|Weide Liu et.al.|[2408.14326v1](http://arxiv.org/abs/2408.14326v1)|null|
+|**2024-08-26**|**Streamline tractography of the fetal brain in utero with machine learning**|Weide Liu et.al.|[2408.14326v1](http://arxiv.org/abs/2408.14326v1)|**[link](https://github.com/liuweide01/mlft)**|
 |**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957v1](http://arxiv.org/abs/2408.12957v1)|null|
 |**2024-08-23**|**State-of-the-Art Fails in the Art of Damage Detection**|Daniela Ivanova et.al.|[2408.12953v1](http://arxiv.org/abs/2408.12953v1)|null|
 |**2024-08-31**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590v2](http://arxiv.org/abs/2408.12590v2)|null|
