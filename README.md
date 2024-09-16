@@ -1,4 +1,4 @@
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 
 ## Diffusion
 
@@ -1184,7 +1184,7 @@
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251v1](http://arxiv.org/abs/2409.08251v1)|null|
 |**2024-09-11**|**Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**|Yingling Lu et.al.|[2409.07238v1](http://arxiv.org/abs/2409.07238v1)|**[link](https://github.com/lydia-yllu/diff-vps)**|
 |**2024-09-11**|**EVENet: Evidence-based Ensemble Learning for Uncertainty-aware Brain Parcellation Using Diffusion MRI**|Chenjun Li et.al.|[2409.07020v1](http://arxiv.org/abs/2409.07020v1)|**[link](https://github.com/chenjun-li/evenet)**|
-|**2024-09-11**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003v1](http://arxiv.org/abs/2409.07003v1)|null|
+|**2024-09-13**|**ODYSSEE: Oyster Detection Yielded by Sensor Systems on Edge Electronics**|Xiaomin Lin et.al.|[2409.07003v2](http://arxiv.org/abs/2409.07003v2)|null|
 |**2024-09-10**|**RATNUS: Rapid, Automatic Thalamic Nuclei Segmentation using Multimodal MRI inputs**|Anqi Feng et.al.|[2409.06897v1](http://arxiv.org/abs/2409.06897v1)|null|
 |**2024-09-12**|**Detailed delineation of the fetal brain in diffusion MRI via multi-task learning**|Davood Karimi et.al.|[2409.06716v2](http://arxiv.org/abs/2409.06716v2)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183v1](http://arxiv.org/abs/2409.06183v1)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
