@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-13, **Oxygen Abundance Throughout the Dwarf Starburst IC 10**, Maren Cosens et.al., Paper: [http://arxiv.org/abs/2409.09020v1](http://arxiv.org/abs/2409.09020v1)
+- 2024-09-13, **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2409.09016v1](http://arxiv.org/abs/2409.09016v1), Code: **[https://github.com/OpenDriveLab/CLOVER](https://github.com/OpenDriveLab/CLOVER)**
+- 2024-09-13, **Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**, Antonio Rodríguez et.al., Paper: [http://arxiv.org/abs/2409.08992v1](http://arxiv.org/abs/2409.08992v1)
+- 2024-09-13, **User Identity Linkage on Social Networks: A Review of Modern Techniques and Applications**, Caterina Senette et.al., Paper: [http://arxiv.org/abs/2409.08966v1](http://arxiv.org/abs/2409.08966v1)
+- 2024-09-13, **A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**, Yohan Poirier-Ginter et.al., Paper: [http://arxiv.org/abs/2409.08947v1](http://arxiv.org/abs/2409.08947v1)
+- 2024-09-13, **Neural network Approximations for Reaction-Diffusion Equations -- Homogeneous Neumann Boundary Conditions and Long-time Integrations**, Eddel Elí Ojeda Avilés et.al., Paper: [http://arxiv.org/abs/2409.08941v1](http://arxiv.org/abs/2409.08941v1)
+- 2024-09-13, **Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**, Guojun Liang et.al., Paper: [http://arxiv.org/abs/2409.08917v1](http://arxiv.org/abs/2409.08917v1), Code: **[https://github.com/gorgen2020/LSSDM_imputation](https://github.com/gorgen2020/LSSDM_imputation)**
+- 2024-09-13, **Tracing the impacts of Mount Pinatubo eruption on global climate using spatially-varying changepoint detection**, Samantha Shi-Jun et.al., Paper: [http://arxiv.org/abs/2409.08908v1](http://arxiv.org/abs/2409.08908v1)
+- 2024-09-13, **Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**, Nebiyou Yismaw et.al., Paper: [http://arxiv.org/abs/2409.08906v1](http://arxiv.org/abs/2409.08906v1)
+- 2024-09-13, **Quantitative propagation of chaos for non-exchangeable diffusions via first-passage percolation**, Daniel Lacker et.al., Paper: [http://arxiv.org/abs/2409.08882v1](http://arxiv.org/abs/2409.08882v1)
+- 2024-09-13, **Theory of phonon angular momentum transport across smooth interfaces between crystals**, Yuta Suzuki et.al., Paper: [http://arxiv.org/abs/2409.08874v1](http://arxiv.org/abs/2409.08874v1)
+- 2024-09-13, **Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**, Carles Domingo-Enrich et.al., Paper: [http://arxiv.org/abs/2409.08861v1](http://arxiv.org/abs/2409.08861v1)
+- 2024-09-13, **InstantDrag: Improving Interactivity in Drag-based Image Editing**, Joonghyuk Shin et.al., Paper: [http://arxiv.org/abs/2409.08857v1](http://arxiv.org/abs/2409.08857v1)
+- 2024-09-13, **Effective diffusion along the backbone of combs with finite-span 1D and 2D fingers**, Giovanni Bettarini et.al., Paper: [http://arxiv.org/abs/2409.08855v1](http://arxiv.org/abs/2409.08855v1)
+- 2024-09-13, **DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)**, Yun Su Jeong et.al., Paper: [http://arxiv.org/abs/2409.08850v1](http://arxiv.org/abs/2409.08850v1)
+- 2024-09-13, **Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen**, Maciej Sikora et.al., Paper: [http://arxiv.org/abs/2409.08799v1](http://arxiv.org/abs/2409.08799v1)
+- 2024-09-13, **Community-based fact-checking reduces the spread of misleading posts on social media**, Yuwei Chuai et.al., Paper: [http://arxiv.org/abs/2409.08781v1](http://arxiv.org/abs/2409.08781v1)
+- 2024-09-13, **Diffusion and Spectroscopy of H$_2$ in Myoglobin**, Jiri Käser et.al., Paper: [http://arxiv.org/abs/2409.08737v1](http://arxiv.org/abs/2409.08737v1)
+- 2024-09-13, **DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**, Jiawei Du et.al., Paper: [http://arxiv.org/abs/2409.08731v1](http://arxiv.org/abs/2409.08731v1)
+- 2024-09-13, **Mean square displacement of intruders in freely cooling multicomponent granular mixtures**, Rubén Gómez González et.al., Paper: [http://arxiv.org/abs/2409.08726v1](http://arxiv.org/abs/2409.08726v1)
 - 2024-09-12, **DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**, Thomas Hanwen Zhu et.al., Paper: [http://arxiv.org/abs/2409.08278v1](http://arxiv.org/abs/2409.08278v1)
 - 2024-09-12, **Click2Mask: Local Editing with Dynamic Mask Generation**, Omer Regev et.al., Paper: [http://arxiv.org/abs/2409.08272v1](http://arxiv.org/abs/2409.08272v1)
 - 2024-09-12, **DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**, Runjia Li et.al., Paper: [http://arxiv.org/abs/2409.08271v1](http://arxiv.org/abs/2409.08271v1)
