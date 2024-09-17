@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-16, **Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**, Noah Buchanan et.al., Paper: [http://arxiv.org/abs/2409.10494v1](http://arxiv.org/abs/2409.10494v1)
+- 2024-09-16, **SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**, Qi Qian et.al., Paper: [http://arxiv.org/abs/2409.10476v1](http://arxiv.org/abs/2409.10476v1)
+- 2024-09-16, **MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**, Lehong Wu et.al., Paper: [http://arxiv.org/abs/2409.10473v1](http://arxiv.org/abs/2409.10473v1)
+- 2024-09-16, **Mamba-ST: State Space Model for Efficient Style Transfer**, Filippo Botti et.al., Paper: [http://arxiv.org/abs/2409.10385v1](http://arxiv.org/abs/2409.10385v1)
+- 2024-09-16, **Taming Diffusion Models for Image Restoration: A Review**, Ziwei Luo et.al., Paper: [http://arxiv.org/abs/2409.10353v1](http://arxiv.org/abs/2409.10353v1)
+- 2024-09-16, **Fairness, not Emotion, Drives Socioeconomic Decision Making**, Rudra Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2409.10322v1](http://arxiv.org/abs/2409.10322v1)
+- 2024-09-16, **Controllability and Inverse Problems for Parabolic Systems with Dynamic Boundary Conditions**, S. E. Chorfi et.al., Paper: [http://arxiv.org/abs/2409.10302v1](http://arxiv.org/abs/2409.10302v1)
+- 2024-09-16, **On Synthetic Texture Datasets: Challenges, Creation, and Curation**, Blaine Hoak et.al., Paper: [http://arxiv.org/abs/2409.10297v1](http://arxiv.org/abs/2409.10297v1)
+- 2024-09-16, **ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**, Jiahao Yuan et.al., Paper: [http://arxiv.org/abs/2409.10289v1](http://arxiv.org/abs/2409.10289v1)
+- 2024-09-16, **DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2409.10281v1](http://arxiv.org/abs/2409.10281v1)
+- 2024-09-16, **Exploring Multifractal Critical Phases in Two-Dimensional Quasiperiodic Systems**, Chao Yang et.al., Paper: [http://arxiv.org/abs/2409.10254v1](http://arxiv.org/abs/2409.10254v1)
+- 2024-09-16, **bayesCureRateModel: Bayesian Cure Rate Modeling for Time to Event Data in R**, Panagiotis Papastamoulis et.al., Paper: [http://arxiv.org/abs/2409.10221v1](http://arxiv.org/abs/2409.10221v1)
+- 2024-09-16, **Low surface brightness dwarf galaxies and their globular cluster populations around the low-density environment of our closest S0 NGC3115**, Marco A. Canossa-Gosteinski et.al., Paper: [http://arxiv.org/abs/2409.10205v1](http://arxiv.org/abs/2409.10205v1)
+- 2024-09-16, **SteeredMarigold: Steering Diffusion Towards Depth Completion of Largely Incomplete Depth Maps**, Jakub Gregorek et.al., Paper: [http://arxiv.org/abs/2409.10202v1](http://arxiv.org/abs/2409.10202v1)
+- 2024-09-16, **RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**, Başak Melis Öcal et.al., Paper: [http://arxiv.org/abs/2409.10180v1](http://arxiv.org/abs/2409.10180v1)
+- 2024-09-16, **Aggregation-diffusion in heterogeneous environments**, Jonathan R. Potts et.al., Paper: [http://arxiv.org/abs/2409.10147v1](http://arxiv.org/abs/2409.10147v1)
+- 2024-09-16, **PSHuman: Photorealistic Single-view Human Reconstruction using Cross-Scale Diffusion**, Peng Li et.al., Paper: [http://arxiv.org/abs/2409.10141v1](http://arxiv.org/abs/2409.10141v1)
+- 2024-09-16, **Asymptotic stability of the composite wave of rarefaction wave and contact wave to nonlinear viscoelasticity model with non-convex flux**, Zhenhua Guo et.al., Paper: [http://arxiv.org/abs/2409.10125v1](http://arxiv.org/abs/2409.10125v1)
+- 2024-09-16, **Nonlinear nonlocal reaction-diffusion problem with local reaction**, Aníbal Rodríguez-Bernal et.al., Paper: [http://arxiv.org/abs/2409.10110v1](http://arxiv.org/abs/2409.10110v1)
+- 2024-09-16, **Smart Resetting: An Energy-Efficient Strategy for Stochastic Search Processes**, Ofir Tal-Friedman et.al., Paper: [http://arxiv.org/abs/2409.10108v1](http://arxiv.org/abs/2409.10108v1)
 - 2024-09-13, **Oxygen Abundance Throughout the Dwarf Starburst IC 10**, Maren Cosens et.al., Paper: [http://arxiv.org/abs/2409.09020v1](http://arxiv.org/abs/2409.09020v1)
 - 2024-09-13, **Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2409.09016v1](http://arxiv.org/abs/2409.09016v1), Code: **[https://github.com/OpenDriveLab/CLOVER](https://github.com/OpenDriveLab/CLOVER)**
 - 2024-09-13, **Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$-XY ferromagnet**, Antonio Rodríguez et.al., Paper: [http://arxiv.org/abs/2409.08992v1](http://arxiv.org/abs/2409.08992v1)
@@ -10735,6 +10755,7 @@
 
 ## Diffusion_Segment
 
+- 2024-09-16, **Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**, Alexander Koch et.al., Paper: [http://arxiv.org/abs/2409.10089v1](http://arxiv.org/abs/2409.10089v1)
 - 2024-09-12, **Click2Mask: Local Editing with Dynamic Mask Generation**, Omer Regev et.al., Paper: [http://arxiv.org/abs/2409.08272v1](http://arxiv.org/abs/2409.08272v1)
 - 2024-09-12, **Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**, Hongyu Li et.al., Paper: [http://arxiv.org/abs/2409.08251v1](http://arxiv.org/abs/2409.08251v1)
 - 2024-09-11, **Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**, Yingling Lu et.al., Paper: [http://arxiv.org/abs/2409.07238v1](http://arxiv.org/abs/2409.07238v1), Code: **[https://github.com/lydia-yllu/diff-vps](https://github.com/lydia-yllu/diff-vps)**
