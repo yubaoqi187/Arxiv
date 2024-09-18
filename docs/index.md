@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion**|Zhenwei Wang et.al.|[2409.11406v1](http://arxiv.org/abs/2409.11406v1)|null|
+|**2024-09-17**|**A lattice Boltzmann method for Biot's consolidation model of linear poroelasticity**|Stephan B. Lunowa et.al.|[2409.11382v1](http://arxiv.org/abs/2409.11382v1)|null|
+|**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380v1](http://arxiv.org/abs/2409.11380v1)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367v1](http://arxiv.org/abs/2409.11367v1)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355v1](http://arxiv.org/abs/2409.11355v1)|null|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|**[link](https://github.com/vectorspacelab/omnigen)**|
+|**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315v1](http://arxiv.org/abs/2409.11315v1)|null|
+|**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292v1](http://arxiv.org/abs/2409.11292v1)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219v1](http://arxiv.org/abs/2409.11219v1)|null|
+|**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195v1](http://arxiv.org/abs/2409.11195v1)|null|
+|**2024-09-17**|**High-Resolution Speech Restoration with Latent Diffusion Model**|Tushar Dhyani et.al.|[2409.11145v1](http://arxiv.org/abs/2409.11145v1)|null|
+|**2024-09-17**|**Regularisation by multiplicative noise for reaction-diffusion equations**|Konstantinos Dareiotis et.al.|[2409.11130v1](http://arxiv.org/abs/2409.11130v1)|null|
+|**2024-09-17**|**In-situ measurements of light diffusion in an optically dense atomic ensemble**|Antoine Glicenstein et.al.|[2409.11117v1](http://arxiv.org/abs/2409.11117v1)|null|
+|**2024-09-17**|**Prospects for detecting cosmic filaments in Lyman-alpha emission across redshifts $z=2-5$**|Yizhou Liu et.al.|[2409.11088v1](http://arxiv.org/abs/2409.11088v1)|null|
+|**2024-09-17**|**TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation**|Yansong Wu et.al.|[2409.11047v1](http://arxiv.org/abs/2409.11047v1)|null|
+|**2024-09-17**|**Physical conditions in Centaurus A's northern filaments II: Does the HCO$^+$ emission highlight the presence of shocks?**|Quentin Salomé et.al.|[2409.11031v1](http://arxiv.org/abs/2409.11031v1)|null|
+|**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011v1](http://arxiv.org/abs/2409.11011v1)|null|
+|**2024-09-17**|**MM2Latent: Text-to-facial image generation and editing in GANs with multimodal assistance**|Debin Meng et.al.|[2409.11010v1](http://arxiv.org/abs/2409.11010v1)|**[link](https://github.com/open-debin/mm2latent)**|
+|**2024-09-17**|**Uncertainty Analysis of Limit Cycle Oscillations in Nonlinear Dynamical Systems with the Fourier Generalized Polynomial Chaos Expansion**|Lars de Jong et.al.|[2409.11006v1](http://arxiv.org/abs/2409.11006v1)|null|
+|**2024-09-17**|**Edge-based Denoising Image Compression**|Ryugo Morita et.al.|[2409.10978v1](http://arxiv.org/abs/2409.10978v1)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494v1](http://arxiv.org/abs/2409.10494v1)|null|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476v1](http://arxiv.org/abs/2409.10476v1)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473v1](http://arxiv.org/abs/2409.10473v1)|null|
@@ -1224,6 +1244,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169v1](http://arxiv.org/abs/2409.11169v1)|null|
+|**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011v1](http://arxiv.org/abs/2409.11011v1)|null|
+|**2024-09-16**|**Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?**|Kaleb Kassaw et.al.|[2409.10775v1](http://arxiv.org/abs/2409.10775v1)|null|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089v1](http://arxiv.org/abs/2409.10089v1)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272v1](http://arxiv.org/abs/2409.08272v1)|null|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251v1](http://arxiv.org/abs/2409.08251v1)|null|
