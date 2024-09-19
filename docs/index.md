@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|**[link](https://github.com/florinshen/vista3d)**|
+|**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192v1](http://arxiv.org/abs/2409.12192v1)|null|
+|**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189v1](http://arxiv.org/abs/2409.12189v1)|null|
+|**2024-09-18**|**Blind Deconvolution on Graphs: Exact and Stable Recovery**|Chang Ye et.al.|[2409.12164v1](http://arxiv.org/abs/2409.12164v1)|null|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140v1](http://arxiv.org/abs/2409.12140v1)|null|
+|**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099v1](http://arxiv.org/abs/2409.12099v1)|null|
+|**2024-09-18**|**Uncovering liquid-substrate fluctuation effects on crystal growth and disordered hyperuniformity of two-dimensional materials**|S. K. Mkhonta et.al.|[2409.12090v1](http://arxiv.org/abs/2409.12090v1)|null|
+|**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078v1](http://arxiv.org/abs/2409.12078v1)|null|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024v1](http://arxiv.org/abs/2409.12024v1)|null|
+|**2024-09-18**|**On some singularly perturbed elliptic systems modeling partial segregation, Part 1: uniform Hölder estimates and basic properties of the limits**|Nicola Soave et.al.|[2409.11976v1](http://arxiv.org/abs/2409.11976v1)|null|
+|**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920v1](http://arxiv.org/abs/2409.11920v1)|null|
+|**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904v1](http://arxiv.org/abs/2409.11904v1)|null|
+|**2024-09-18**|**High stability 2D electron gases formed in Si3N4/Al//KTaO3 heterostructures: synthesis and in-depth interfacial characterization**|E. A. Martínez et.al.|[2409.11893v1](http://arxiv.org/abs/2409.11893v1)|null|
+|**2024-09-18**|**ABHINAW: A method for Automatic Evaluation of Typography within AI-Generated Images**|Abhinaw Jagtap et.al.|[2409.11874v1](http://arxiv.org/abs/2409.11874v1)|null|
+|**2024-09-18**|**Physically-Based Photometric Bundle Adjustment in Non-Lambertian Environments**|Lei Cheng et.al.|[2409.11854v1](http://arxiv.org/abs/2409.11854v1)|null|
+|**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835v1](http://arxiv.org/abs/2409.11835v1)|null|
+|**2024-09-18**|**Thermal transport in long-range interacting harmonic chains perturbed by long-range conservative noise**|Francesco Andreucci et.al.|[2409.11832v1](http://arxiv.org/abs/2409.11832v1)|null|
+|**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831v1](http://arxiv.org/abs/2409.11831v1)|null|
+|**2024-09-18**|**Optical Label-Free Microscopy Characterization of Dielectric Nanoparticles**|Berenice Garcia Rodriguez et.al.|[2409.11810v1](http://arxiv.org/abs/2409.11810v1)|null|
+|**2024-09-18**|**Global well-posedness of the nonhomogeneous incompressible Navier-Stokes-Cahn-Hilliard system with Landau Potential**|Nie Rui et.al.|[2409.11775v1](http://arxiv.org/abs/2409.11775v1)|null|
 |**2024-09-17**|**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion**|Zhenwei Wang et.al.|[2409.11406v1](http://arxiv.org/abs/2409.11406v1)|null|
 |**2024-09-17**|**A lattice Boltzmann method for Biot's consolidation model of linear poroelasticity**|Stephan B. Lunowa et.al.|[2409.11382v1](http://arxiv.org/abs/2409.11382v1)|null|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380v1](http://arxiv.org/abs/2409.11380v1)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
@@ -1244,6 +1264,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024v1](http://arxiv.org/abs/2409.12024v1)|null|
 |**2024-09-13**|**MAISI: Medical AI for Synthetic Imaging**|Pengfei Guo et.al.|[2409.11169v1](http://arxiv.org/abs/2409.11169v1)|null|
 |**2024-09-17**|**Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**|Emile Saillard et.al.|[2409.11011v1](http://arxiv.org/abs/2409.11011v1)|null|
 |**2024-09-16**|**Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?**|Kaleb Kassaw et.al.|[2409.10775v1](http://arxiv.org/abs/2409.10775v1)|null|
