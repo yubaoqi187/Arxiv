@@ -1,4 +1,4 @@
-> Updated on 2024.09.19
+> Updated on 2024.09.20
 
 ## Video_Classification
 
@@ -9550,7 +9550,7 @@
 - 2024-09-18, **Uncovering liquid-substrate fluctuation effects on crystal growth and disordered hyperuniformity of two-dimensional materials**, S. K. Mkhonta et.al., Paper: [http://arxiv.org/abs/2409.12090v1](http://arxiv.org/abs/2409.12090v1)
 - 2024-09-18, **Denoising diffusion models for high-resolution microscopy image restoration**, Pamela Osuna-Vargas et.al., Paper: [http://arxiv.org/abs/2409.12078v1](http://arxiv.org/abs/2409.12078v1)
 - 2024-09-18, **LEMON: Localized Editing with Mesh Optimization and Neural Shaders**, Furkan Mert Algan et.al., Paper: [http://arxiv.org/abs/2409.12024v1](http://arxiv.org/abs/2409.12024v1)
-- 2024-09-18, **On some singularly perturbed elliptic systems modeling partial segregation, Part 1: uniform Hölder estimates and basic properties of the limits**, Nicola Soave et.al., Paper: [http://arxiv.org/abs/2409.11976v1](http://arxiv.org/abs/2409.11976v1)
+- 2024-09-19, **On some singularly perturbed elliptic systems modeling partial segregation: uniform Hölder estimates and basic properties of the limits**, Nicola Soave et.al., Paper: [http://arxiv.org/abs/2409.11976v2](http://arxiv.org/abs/2409.11976v2)
 - 2024-09-18, **Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**, Lorenzo Mandelli et.al., Paper: [http://arxiv.org/abs/2409.11920v1](http://arxiv.org/abs/2409.11920v1)
 - 2024-09-18, **Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**, Dimitrios Christodoulou et.al., Paper: [http://arxiv.org/abs/2409.11904v1](http://arxiv.org/abs/2409.11904v1)
 - 2024-09-18, **High stability 2D electron gases formed in Si3N4/Al//KTaO3 heterostructures: synthesis and in-depth interfacial characterization**, E. A. Martínez et.al., Paper: [http://arxiv.org/abs/2409.11893v1](http://arxiv.org/abs/2409.11893v1)
@@ -10796,7 +10796,7 @@
 ## Diffusion_Segment
 
 - 2024-09-18, **LEMON: Localized Editing with Mesh Optimization and Neural Shaders**, Furkan Mert Algan et.al., Paper: [http://arxiv.org/abs/2409.12024v1](http://arxiv.org/abs/2409.12024v1)
-- 2024-09-13, **MAISI: Medical AI for Synthetic Imaging**, Pengfei Guo et.al., Paper: [http://arxiv.org/abs/2409.11169v1](http://arxiv.org/abs/2409.11169v1)
+- 2024-09-13, **MAISI: Medical AI for Synthetic Imaging**, Pengfei Guo et.al., Paper: [http://arxiv.org/abs/2409.11169v1](http://arxiv.org/abs/2409.11169v1), Code: **[https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi)**
 - 2024-09-17, **Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**, Emile Saillard et.al., Paper: [http://arxiv.org/abs/2409.11011v1](http://arxiv.org/abs/2409.11011v1)
 - 2024-09-16, **Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?**, Kaleb Kassaw et.al., Paper: [http://arxiv.org/abs/2409.10775v1](http://arxiv.org/abs/2409.10775v1)
 - 2024-09-16, **Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**, Alexander Koch et.al., Paper: [http://arxiv.org/abs/2409.10089v1](http://arxiv.org/abs/2409.10089v1)
