@@ -1,4 +1,4 @@
-> Updated on 2024.09.25
+> Updated on 2024.09.26
 
 ## Video_Classification
 
@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-24, **MonoFormer: One Transformer for Both Diffusion and Autoregression**, Chuyang Zhao et.al., Paper: [http://arxiv.org/abs/2409.16280v1](http://arxiv.org/abs/2409.16280v1)
+- 2024-09-24, **Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**, Utkarsh A. Mishra et.al., Paper: [http://arxiv.org/abs/2409.16275v1](http://arxiv.org/abs/2409.16275v1)
+- 2024-09-24, **Exactly solvable stochastic spectator**, Masazumi Honda et.al., Paper: [http://arxiv.org/abs/2409.16272v1](http://arxiv.org/abs/2409.16272v1)
+- 2024-09-24, **MaskBit: Embedding-free Image Generation via Bit Tokens**, Mark Weber et.al., Paper: [http://arxiv.org/abs/2409.16211v1](http://arxiv.org/abs/2409.16211v1)
+- 2024-09-24, **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**, Yifang Men et.al., Paper: [http://arxiv.org/abs/2409.16160v1](http://arxiv.org/abs/2409.16160v1)
+- 2024-09-24, **Spreading dynamics of a Fisher-KPP nonlocal diffusion model with a free boundary**, Lei Li et.al., Paper: [http://arxiv.org/abs/2409.16101v1](http://arxiv.org/abs/2409.16101v1)
+- 2024-09-24, **Cloudy modeling suggests a diversity of ionization mechanisms for diffuse extraplanar gas**, R. P. V. Rautio et.al., Paper: [http://arxiv.org/abs/2409.16062v1](http://arxiv.org/abs/2409.16062v1)
+- 2024-09-24, **Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields**, Viren Tyagi et.al., Paper: [http://arxiv.org/abs/2409.16051v1](http://arxiv.org/abs/2409.16051v1)
+- 2024-09-24, **Transient bubble rising in the presence of a surfactant at very low concentrations**, D. Fernández-Martínez et.al., Paper: [http://arxiv.org/abs/2409.16029v1](http://arxiv.org/abs/2409.16029v1)
+- 2024-09-24, **PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**, Mingyo Seo et.al., Paper: [http://arxiv.org/abs/2409.16012v1](http://arxiv.org/abs/2409.16012v1)
+- 2024-09-24, **Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification**, Leire Benito-Del-Valle et.al., Paper: [http://arxiv.org/abs/2409.16002v1](http://arxiv.org/abs/2409.16002v1), Code: **[https://github.com/leirebv/synthetic_histopathology_dataset](https://github.com/leirebv/synthetic_histopathology_dataset)**
+- 2024-09-25, **Effective interface laws for fluid flow and solute transport through thin reactive porous layers**, Markus Gahn et.al., Paper: [http://arxiv.org/abs/2409.16000v2](http://arxiv.org/abs/2409.16000v2)
+- 2024-09-24, **Improvements to SDXL in NovelAI Diffusion V3**, Juan Ossa et.al., Paper: [http://arxiv.org/abs/2409.15997v1](http://arxiv.org/abs/2409.15997v1)
+- 2024-09-24, **Particles in Relativistic MHD Jets II: Bridging Jet Dynamics with Multi-waveband Non-Thermal Emission Signatures**, Ravi Pratap Dubey et.al., Paper: [http://arxiv.org/abs/2409.15983v1](http://arxiv.org/abs/2409.15983v1)
+- 2024-09-24, **A Probabilistic Approach to Shape Derivatives**, Luka Schlegel et.al., Paper: [http://arxiv.org/abs/2409.15967v1](http://arxiv.org/abs/2409.15967v1)
+- 2024-09-24, **ASD-Diffusion: Anomalous Sound Detection with Diffusion Models**, Fengrun Zhang et.al., Paper: [http://arxiv.org/abs/2409.15957v1](http://arxiv.org/abs/2409.15957v1)
+- 2024-09-24, **Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions**, Maria Vasilyeva et.al., Paper: [http://arxiv.org/abs/2409.15952v1](http://arxiv.org/abs/2409.15952v1)
+- 2024-09-24, **Identifying early tumour states in a Cahn-Hilliard-reaction-diffusion model**, Abramo Agosti et.al., Paper: [http://arxiv.org/abs/2409.15925v1](http://arxiv.org/abs/2409.15925v1)
+- 2024-09-24, **The interplay between membrane viscosity and ligand-binding receptor kinetics in lipid bilayers**, Chiara Bernard et.al., Paper: [http://arxiv.org/abs/2409.15896v1](http://arxiv.org/abs/2409.15896v1)
+- 2024-09-24, **Unsupervised dMRI Artifact Detection via Angular Resolution Enhancement and Cycle Consistency Learning**, Sheng Chen et.al., Paper: [http://arxiv.org/abs/2409.15883v1](http://arxiv.org/abs/2409.15883v1)
 - 2024-09-18, **Vista3D: Unravel the 3D Darkside of a Single Image**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2409.12193v1](http://arxiv.org/abs/2409.12193v1), Code: **[https://github.com/florinshen/vista3d](https://github.com/florinshen/vista3d)**
 - 2024-09-18, **DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**, Zichen Jeff Cui et.al., Paper: [http://arxiv.org/abs/2409.12192v1](http://arxiv.org/abs/2409.12192v1)
 - 2024-09-18, **Massively Multi-Person 3D Human Motion Forecasting with Scene Context**, Felix B Mueller et.al., Paper: [http://arxiv.org/abs/2409.12189v1](http://arxiv.org/abs/2409.12189v1)
@@ -10795,6 +10815,14 @@
 
 ## Diffusion_Segment
 
+- 2024-09-24, **PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**, Mingyo Seo et.al., Paper: [http://arxiv.org/abs/2409.16012v1](http://arxiv.org/abs/2409.16012v1)
+- 2024-09-23, **LoVA: Long-form Video-to-Audio Generation**, Xin Cheng et.al., Paper: [http://arxiv.org/abs/2409.15157v1](http://arxiv.org/abs/2409.15157v1)
+- 2024-09-23, **Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer**, Minh Bui et.al., Paper: [http://arxiv.org/abs/2409.15117v1](http://arxiv.org/abs/2409.15117v1)
+- 2024-09-23, **Video-to-Audio Generation with Fine-grained Temporal Semantics**, Yuchen Hu et.al., Paper: [http://arxiv.org/abs/2409.14709v1](http://arxiv.org/abs/2409.14709v1)
+- 2024-09-23, **Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**, Ankit Dhiman et.al., Paper: [http://arxiv.org/abs/2409.14677v1](http://arxiv.org/abs/2409.14677v1)
+- 2024-09-20, **Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2409.13661v1](http://arxiv.org/abs/2409.13661v1)
+- 2024-09-20, **Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring**, Francis Ogoke et.al., Paper: [http://arxiv.org/abs/2409.13171v1](http://arxiv.org/abs/2409.13171v1)
+- 2024-09-19, **BGDB: Bernoulli-Gaussian Decision Block with Improved Denoising Diffusion Probabilistic Models**, Chengkun Sun et.al., Paper: [http://arxiv.org/abs/2409.13116v1](http://arxiv.org/abs/2409.13116v1)
 - 2024-09-18, **LEMON: Localized Editing with Mesh Optimization and Neural Shaders**, Furkan Mert Algan et.al., Paper: [http://arxiv.org/abs/2409.12024v1](http://arxiv.org/abs/2409.12024v1)
 - 2024-09-13, **MAISI: Medical AI for Synthetic Imaging**, Pengfei Guo et.al., Paper: [http://arxiv.org/abs/2409.11169v1](http://arxiv.org/abs/2409.11169v1), Code: **[https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi](https://github.com/Project-MONAI/tutorials/tree/main/generation/maisi)**
 - 2024-09-17, **Enhanced segmentation of femoral bone metastasis in CT scans of patients using synthetic data generation with 3D diffusion models**, Emile Saillard et.al., Paper: [http://arxiv.org/abs/2409.11011v1](http://arxiv.org/abs/2409.11011v1)
