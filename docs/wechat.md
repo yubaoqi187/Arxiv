@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-25, **DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2409.17145v1](http://arxiv.org/abs/2409.17145v1)
+- 2024-09-25, **Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**, Xinfeng Wei et.al., Paper: [http://arxiv.org/abs/2409.17104v1](http://arxiv.org/abs/2409.17104v1)
+- 2024-09-25, **Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**, Pascal A. Noti et.al., Paper: [http://arxiv.org/abs/2409.17101v1](http://arxiv.org/abs/2409.17101v1)
+- 2024-09-25, **Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification**, Xinrui Zhou et.al., Paper: [http://arxiv.org/abs/2409.17091v1](http://arxiv.org/abs/2409.17091v1)
+- 2024-09-25, **Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**, Aiping Zhang et.al., Paper: [http://arxiv.org/abs/2409.17058v1](http://arxiv.org/abs/2409.17058v1), Code: **[https://github.com/arctichare105/s3diff](https://github.com/arctichare105/s3diff)**
+- 2024-09-25, **ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis**, Fangshuo Zhou et.al., Paper: [http://arxiv.org/abs/2409.17049v1](http://arxiv.org/abs/2409.17049v1), Code: **[https://github.com/fangshuoz/controlcity](https://github.com/fangshuoz/controlcity)**
+- 2024-09-25, **GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**, Phillip Mueller et.al., Paper: [http://arxiv.org/abs/2409.17045v1](http://arxiv.org/abs/2409.17045v1)
+- 2024-09-25, **Cloud technologies, firm growth and industry concentration: Evidence from France**, Bernardo Caldarola et.al., Paper: [http://arxiv.org/abs/2409.17035v1](http://arxiv.org/abs/2409.17035v1)
+- 2024-09-25, **Decomposition of Friction Coefficients to Analyze Hydration Effects on a C$_{60}$(OH)$_{\rm n}$**, Tomoya Iwashita et.al., Paper: [http://arxiv.org/abs/2409.17028v1](http://arxiv.org/abs/2409.17028v1)
+- 2024-09-25, **Single Image, Any Face: Generalisable 3D Face Generation**, Wenqing Wang et.al., Paper: [http://arxiv.org/abs/2409.16990v1](http://arxiv.org/abs/2409.16990v1)
+- 2024-09-25, **A gas rich cosmic web revealed by partitioning the missing baryons**, Liam Connor et.al., Paper: [http://arxiv.org/abs/2409.16952v1](http://arxiv.org/abs/2409.16952v1)
+- 2024-09-25, **Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion**, Vineet Punyamoorty et.al., Paper: [http://arxiv.org/abs/2409.16950v1](http://arxiv.org/abs/2409.16950v1)
+- 2024-09-25, **DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling**, Kyuheon Jung et.al., Paper: [http://arxiv.org/abs/2409.16949v1](http://arxiv.org/abs/2409.16949v1), Code: **[https://github.com/kkyuhun94/dalda](https://github.com/kkyuhun94/dalda)**
+- 2024-09-25, **Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**, Hongliang Zhong et.al., Paper: [http://arxiv.org/abs/2409.16938v1](http://arxiv.org/abs/2409.16938v1), Code: **[https://github.com/jiutongbro/multiview_inpaint](https://github.com/jiutongbro/multiview_inpaint)**
+- 2024-09-25, **Towards Unified 3D Hair Reconstruction from Single-View Portraits**, Yujian Zheng et.al., Paper: [http://arxiv.org/abs/2409.16863v1](http://arxiv.org/abs/2409.16863v1)
+- 2024-09-25, **A Versatile and Differentiable Hand-Object Interaction Representation**, Théo Morales et.al., Paper: [http://arxiv.org/abs/2409.16855v1](http://arxiv.org/abs/2409.16855v1)
+- 2024-09-25, **ESO 137-001 -- a jellyfish galaxy model**, B. Vollmer et.al., Paper: [http://arxiv.org/abs/2409.16846v1](http://arxiv.org/abs/2409.16846v1)
+- 2024-09-25, **A parametric framework for kernel-based dynamic mode decomposition using deep learning**, Konstantinos Kevopoulos et.al., Paper: [http://arxiv.org/abs/2409.16817v1](http://arxiv.org/abs/2409.16817v1)
+- 2024-09-25, **On the large amplitude solution of the Boltzmann equation with large external potential and boundary effects**, Jong-in Kim et.al., Paper: [http://arxiv.org/abs/2409.16814v1](http://arxiv.org/abs/2409.16814v1)
+- 2024-09-25, **Analytical assessment of workers' safety concerning direct and indirect ways of getting infected by dangerous pathogen**, Krzysztof Domino et.al., Paper: [http://arxiv.org/abs/2409.16809v1](http://arxiv.org/abs/2409.16809v1)
 - 2024-09-24, **MonoFormer: One Transformer for Both Diffusion and Autoregression**, Chuyang Zhao et.al., Paper: [http://arxiv.org/abs/2409.16280v1](http://arxiv.org/abs/2409.16280v1)
 - 2024-09-24, **Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph**, Utkarsh A. Mishra et.al., Paper: [http://arxiv.org/abs/2409.16275v1](http://arxiv.org/abs/2409.16275v1)
 - 2024-09-24, **Exactly solvable stochastic spectator**, Masazumi Honda et.al., Paper: [http://arxiv.org/abs/2409.16272v1](http://arxiv.org/abs/2409.16272v1)
