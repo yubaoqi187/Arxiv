@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-09-26, **FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**, Wenliang Zhao et.al., Paper: [http://arxiv.org/abs/2409.18128v1](http://arxiv.org/abs/2409.18128v1), Code: **[https://github.com/shiml20/flowturbo](https://github.com/shiml20/flowturbo)**
+- 2024-09-26, **Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**, Jing He et.al., Paper: [http://arxiv.org/abs/2409.18124v1](http://arxiv.org/abs/2409.18124v1)
+- 2024-09-26, **EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2409.18114v1](http://arxiv.org/abs/2409.18114v1)
+- 2024-09-26, **StackGen: Generating Stable Structures from Silhouettes via Diffusion**, Luzhe Sun et.al., Paper: [http://arxiv.org/abs/2409.18098v1](http://arxiv.org/abs/2409.18098v1)
+- 2024-09-26, **DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2409.18092v1](http://arxiv.org/abs/2409.18092v1)
+- 2024-09-26, **Stable Video Portraits**, Mirela Ostrek et.al., Paper: [http://arxiv.org/abs/2409.18083v1](http://arxiv.org/abs/2409.18083v1)
+- 2024-09-26, **The radio halo in PLCKESZ G171.94 $-$ 40.65: Beacon of merging activity**, Ramananda Santra et.al., Paper: [http://arxiv.org/abs/2409.18075v1](http://arxiv.org/abs/2409.18075v1)
+- 2024-09-26, **Low Photon Number Non-Invasive Imaging Through Time-Varying Diffusers**, Adrian Makowski et.al., Paper: [http://arxiv.org/abs/2409.18072v1](http://arxiv.org/abs/2409.18072v1)
+- 2024-09-26, **Radio-FIR correlation- A probe into cosmic ray propagation in the nearby galaxy IC 342**, M. R. Nasirzadeh et.al., Paper: [http://arxiv.org/abs/2409.17999v1](http://arxiv.org/abs/2409.17999v1)
+- 2024-09-26, **Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**, Zhian Ruan et.al., Paper: [http://arxiv.org/abs/2409.17997v1](http://arxiv.org/abs/2409.17997v1)
+- 2024-09-26, **PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging**, Xin Cai et.al., Paper: [http://arxiv.org/abs/2409.17996v1](http://arxiv.org/abs/2409.17996v1)
+- 2024-09-26, **Joint Localization and Planning using Diffusion**, L. Lao Beyer et.al., Paper: [http://arxiv.org/abs/2409.17995v1](http://arxiv.org/abs/2409.17995v1)
+- 2024-09-26, **Nonparametric Inference Framework for Time-dependent Epidemic Models**, Son Luu et.al., Paper: [http://arxiv.org/abs/2409.17968v1](http://arxiv.org/abs/2409.17968v1)
+- 2024-09-26, **CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors**, Linye Lyu et.al., Paper: [http://arxiv.org/abs/2409.17963v1](http://arxiv.org/abs/2409.17963v1)
+- 2024-09-26, **Relativistic diffusion model for hadron production in p-Pb collisions at the LHC**, Philipp Schulz et.al., Paper: [http://arxiv.org/abs/2409.17960v1](http://arxiv.org/abs/2409.17960v1)
+- 2024-09-26, **Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**, Hengrui Gu et.al., Paper: [http://arxiv.org/abs/2409.17928v1](http://arxiv.org/abs/2409.17928v1)
+- 2024-09-26, **Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**, Qihan Huang et.al., Paper: [http://arxiv.org/abs/2409.17920v1](http://arxiv.org/abs/2409.17920v1)
+- 2024-09-26, **Nonlinear stability of periodic wave trains in the FitzHugh-Nagumo system against fully nonlocalized perturbations**, Joannis Alexopoulos et.al., Paper: [http://arxiv.org/abs/2409.17859v1](http://arxiv.org/abs/2409.17859v1)
+- 2024-09-26, **Physics-aligned Schrödinger bridge**, Zeyu Li et.al., Paper: [http://arxiv.org/abs/2409.17825v1](http://arxiv.org/abs/2409.17825v1)
+- 2024-09-26, **Continual learning with task specialist**, Indu Solomon et.al., Paper: [http://arxiv.org/abs/2409.17806v1](http://arxiv.org/abs/2409.17806v1)
 - 2024-09-25, **DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2409.17145v1](http://arxiv.org/abs/2409.17145v1)
 - 2024-09-25, **Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**, Xinfeng Wei et.al., Paper: [http://arxiv.org/abs/2409.17104v1](http://arxiv.org/abs/2409.17104v1)
 - 2024-09-25, **Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**, Pascal A. Noti et.al., Paper: [http://arxiv.org/abs/2409.17101v1](http://arxiv.org/abs/2409.17101v1)
@@ -10835,6 +10855,7 @@
 
 ## Diffusion_Segment
 
+- 2024-09-26, **Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule**, Hongtao Huang et.al., Paper: [http://arxiv.org/abs/2409.17566v1](http://arxiv.org/abs/2409.17566v1)
 - 2024-09-24, **PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**, Mingyo Seo et.al., Paper: [http://arxiv.org/abs/2409.16012v1](http://arxiv.org/abs/2409.16012v1)
 - 2024-09-23, **LoVA: Long-form Video-to-Audio Generation**, Xin Cheng et.al., Paper: [http://arxiv.org/abs/2409.15157v1](http://arxiv.org/abs/2409.15157v1)
 - 2024-09-23, **Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer**, Minh Bui et.al., Paper: [http://arxiv.org/abs/2409.15117v1](http://arxiv.org/abs/2409.15117v1)
