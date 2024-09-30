@@ -1,9 +1,29 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959v1](http://arxiv.org/abs/2409.18959v1)|null|
+|**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932v1](http://arxiv.org/abs/2409.18932v1)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924v1](http://arxiv.org/abs/2409.18924v1)|null|
+|**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899v1](http://arxiv.org/abs/2409.18899v1)|null|
+|**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897v1](http://arxiv.org/abs/2409.18897v1)|null|
+|**2024-09-27**|**Explainable Artifacts for Synthetic Western Blot Source Attribution**|João Phillipe Cardenuto et.al.|[2409.18881v1](http://arxiv.org/abs/2409.18881v1)|null|
+|**2024-09-27**|**CemiFace: Center-based Semi-hard Synthetic Face Generation for Face Recognition**|Zhonglin Sun et.al.|[2409.18876v1](http://arxiv.org/abs/2409.18876v1)|null|
+|**2024-09-27**|**Emu3: Next-Token Prediction is All You Need**|Xinlong Wang et.al.|[2409.18869v1](http://arxiv.org/abs/2409.18869v1)|null|
+|**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828v1](http://arxiv.org/abs/2409.18828v1)|null|
+|**2024-09-27**|**Photometry and kinematics of dwarf galaxies from the Apertif HI survey**|Barbara Šiljeg et.al.|[2409.18825v1](http://arxiv.org/abs/2409.18825v1)|null|
+|**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804v1](http://arxiv.org/abs/2409.18804v1)|null|
+|**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761v1](http://arxiv.org/abs/2409.18761v1)|null|
+|**2024-09-27**|**Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation**|Kun Wu et.al.|[2409.18707v1](http://arxiv.org/abs/2409.18707v1)|null|
+|**2024-09-27**|**Unsupervised Fingerphoto Presentation Attack Detection With Diffusion Models**|Hailin Li et.al.|[2409.18636v1](http://arxiv.org/abs/2409.18636v1)|null|
+|**2024-09-27**|**Structure-preserving scheme for fractional nonlinear diffusion equations**|Hélène Hivert et.al.|[2409.18629v1](http://arxiv.org/abs/2409.18629v1)|null|
+|**2024-09-27**|**Enhanced Drug Delivery via Localization-Enabled Relaying in Molecular Communication Nanonetworks**|Ethungshan Shitiri et.al.|[2409.18616v1](http://arxiv.org/abs/2409.18616v1)|null|
+|**2024-09-27**|**A quantum algorithm for advection-diffusion equation by a probabilistic imaginary-time evolution operator**|Xinchi Huang et.al.|[2409.18559v1](http://arxiv.org/abs/2409.18559v1)|null|
+|**2024-09-27**|**MIMII-Gen: Generative Modeling Approach for Simulated Evaluation of Anomalous Sound Detection System**|Harsh Purohit et.al.|[2409.18542v1](http://arxiv.org/abs/2409.18542v1)|null|
+|**2024-09-27**|**Token Caching for Diffusion Transformer Acceleration**|Jinming Lou et.al.|[2409.18523v1](http://arxiv.org/abs/2409.18523v1)|null|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128v1](http://arxiv.org/abs/2409.18128v1)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114v1](http://arxiv.org/abs/2409.18114v1)|null|
@@ -1320,10 +1340,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256v1](http://arxiv.org/abs/2409.18256v1)|null|
 |**2024-09-26**|**Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule**|Hongtao Huang et.al.|[2409.17566v1](http://arxiv.org/abs/2409.17566v1)|null|
 |**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012v1](http://arxiv.org/abs/2409.16012v1)|null|
 |**2024-09-23**|**LoVA: Long-form Video-to-Audio Generation**|Xin Cheng et.al.|[2409.15157v1](http://arxiv.org/abs/2409.15157v1)|null|
-|**2024-09-23**|**Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer**|Minh Bui et.al.|[2409.15117v1](http://arxiv.org/abs/2409.15117v1)|null|
+|**2024-09-27**|**Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer**|Minh Bui et.al.|[2409.15117v2](http://arxiv.org/abs/2409.15117v2)|null|
 |**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709v1](http://arxiv.org/abs/2409.14709v1)|null|
 |**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677v1](http://arxiv.org/abs/2409.14677v1)|null|
 |**2024-09-20**|**Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models**|Luciano Baresi et.al.|[2409.13661v1](http://arxiv.org/abs/2409.13661v1)|null|
