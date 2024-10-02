@@ -1,4 +1,4 @@
-> Updated on 2024.10.01
+> Updated on 2024.10.02
 
 ## Video_Classification
 
@@ -9552,12 +9552,12 @@
 - 2024-09-30, **Topology affects diffusion dynamics of ring polymers in dilute solutions**, Prabeen Kumar Pattnayak et.al., Paper: [http://arxiv.org/abs/2409.20386v1](http://arxiv.org/abs/2409.20386v1)
 - 2024-09-30, **Symbol-based multilevel block $τ$ preconditioners for multilevel block Toeplitz systems: GLT-based analysis and applications**, Sean Y. Hon et.al., Paper: [http://arxiv.org/abs/2409.20363v1](http://arxiv.org/abs/2409.20363v1)
 - 2024-09-30, **A mean field Jacobi process for modeling sustainable tourism**, Hidekazu Yoshioka et.al., Paper: [http://arxiv.org/abs/2409.20347v1](http://arxiv.org/abs/2409.20347v1)
-- 2024-09-30, **Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**, Osama Mustafa et.al., Paper: [http://arxiv.org/abs/2409.20340v1](http://arxiv.org/abs/2409.20340v1)
+- 2024-10-01, **Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization**, Osama Mustafa et.al., Paper: [http://arxiv.org/abs/2409.20340v2](http://arxiv.org/abs/2409.20340v2)
 - 2024-09-30, **Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation**, Yuran Wang et.al., Paper: [http://arxiv.org/abs/2409.20332v1](http://arxiv.org/abs/2409.20332v1)
 - 2024-09-30, **Control of a Lotka-Volterra System with Weak Competition**, Maicon Sonego et.al., Paper: [http://arxiv.org/abs/2409.20279v1](http://arxiv.org/abs/2409.20279v1)
 - 2024-09-30, **Combing physics-based and data-driven predictions for quantitatively accurate models that extrapolate well; with application to DIII-D, AUG, and ITER tokamak fusion reactors**, Joseph Abbate et.al., Paper: [http://arxiv.org/abs/2409.20256v1](http://arxiv.org/abs/2409.20256v1)
 - 2024-09-30, **PerCo (SD): Open Perceptual Compression**, Nikolai Körber et.al., Paper: [http://arxiv.org/abs/2409.20255v1](http://arxiv.org/abs/2409.20255v1), Code: **[https://github.com/Nikolai10/PerCo](https://github.com/Nikolai10/PerCo)**
-- 2024-09-30, **Melody Is All You Need For Music Generation**, Shaopeng Wei et.al., Paper: [http://arxiv.org/abs/2409.20196v1](http://arxiv.org/abs/2409.20196v1)
+- 2024-09-30, **Melody Is All You Need For Music Generation**, Shaopeng Wei et.al., Paper: [http://arxiv.org/abs/2409.20196v1](http://arxiv.org/abs/2409.20196v1), Code: **[https://github.com/shaopengw/Awesome-Music-Generation](https://github.com/shaopengw/Awesome-Music-Generation)**
 - 2024-09-30, **Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**, Hongkai Zheng et.al., Paper: [http://arxiv.org/abs/2409.20175v1](http://arxiv.org/abs/2409.20175v1)
 - 2024-09-30, **Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**, Fulong Ma et.al., Paper: [http://arxiv.org/abs/2409.20164v1](http://arxiv.org/abs/2409.20164v1)
 - 2024-09-30, **GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**, Yangtao Chen et.al., Paper: [http://arxiv.org/abs/2409.20154v1](http://arxiv.org/abs/2409.20154v1)
