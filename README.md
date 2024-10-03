@@ -1,4 +1,4 @@
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 
 ## Diffusion
 
@@ -23,7 +23,7 @@
 |**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196v1](http://arxiv.org/abs/2409.20196v1)|**[link](https://github.com/shaopengw/Awesome-Music-Generation)**|
 |**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175v1](http://arxiv.org/abs/2409.20175v1)|null|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164v1](http://arxiv.org/abs/2409.20164v1)|null|
-|**2024-09-30**|**GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**|Yangtao Chen et.al.|[2409.20154v1](http://arxiv.org/abs/2409.20154v1)|null|
+|**2024-10-02**|**GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**|Yangtao Chen et.al.|[2409.20154v2](http://arxiv.org/abs/2409.20154v2)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964v1](http://arxiv.org/abs/2409.18964v1)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959v1](http://arxiv.org/abs/2409.18959v1)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932v1](http://arxiv.org/abs/2409.18932v1)|null|
@@ -1362,7 +1362,7 @@
 |---|---|---|---|---|
 |**2024-09-30**|**Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation**|Yuran Wang et.al.|[2409.20332v1](http://arxiv.org/abs/2409.20332v1)|null|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164v1](http://arxiv.org/abs/2409.20164v1)|null|
-|**2024-09-28**|**Efficient Semantic Diffusion Architectures for Model Training on Synthetic Echocardiograms**|David Stojanovski et.al.|[2409.19371v1](http://arxiv.org/abs/2409.19371v1)|null|
+|**2024-09-28**|**Efficient Semantic Diffusion Architectures for Model Training on Synthetic Echocardiograms**|David Stojanovski et.al.|[2409.19371v1](http://arxiv.org/abs/2409.19371v1)|**[link](https://github.com/david-stojanovski/EDMLX)**|
 |**2024-09-26**|**Amodal Instance Segmentation with Diffusion Shape Prior Estimation**|Minh Tran et.al.|[2409.18256v1](http://arxiv.org/abs/2409.18256v1)|null|
 |**2024-09-26**|**Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule**|Hongtao Huang et.al.|[2409.17566v1](http://arxiv.org/abs/2409.17566v1)|null|
 |**2024-09-24**|**PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**|Mingyo Seo et.al.|[2409.16012v1](http://arxiv.org/abs/2409.16012v1)|null|
