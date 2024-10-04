@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|null|
+|**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737v1](http://arxiv.org/abs/2410.02737v1)|null|
+|**2024-10-03**|**NETS: A Non-Equilibrium Transport Sampler**|Michael S. Albergo et.al.|[2410.02711v1](http://arxiv.org/abs/2410.02711v1)|null|
+|**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710v1](http://arxiv.org/abs/2410.02710v1)|null|
+|**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
+|**2024-10-03**|**GUD: Generation with Unified Diffusion**|Mathis Gerdes et.al.|[2410.02667v1](http://arxiv.org/abs/2410.02667v1)|null|
+|**2024-10-03**|**AGN STROM 2: X. The origin of the interband continuum delays in Mrk 817**|Hagai Netzer et.al.|[2410.02652v1](http://arxiv.org/abs/2410.02652v1)|null|
+|**2024-10-03**|**Undesirable Memorization in Large Language Models: A Survey**|Ali Satvaty et.al.|[2410.02650v1](http://arxiv.org/abs/2410.02650v1)|null|
+|**2024-10-03**|**Efficient calibration of the shifted square-root diffusion model to credit default swap spreads using asymptotic approximations**|Ankush Agarwal et.al.|[2410.02645v1](http://arxiv.org/abs/2410.02645v1)|null|
+|**2024-10-03**|**Diffusion-based Extreme Image Compression with Compressed Feature Initialization**|Zhiyuan Li et.al.|[2410.02640v1](http://arxiv.org/abs/2410.02640v1)|**[link](https://github.com/huai-chang/rdeic)**|
+|**2024-10-03**|**Homoclinic snaking of contact defects in reaction-diffusion equations**|Timothy Roberts et.al.|[2410.02621v1](http://arxiv.org/abs/2410.02621v1)|null|
+|**2024-10-03**|**Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting**|Sergei Kholkin et.al.|[2410.02601v1](http://arxiv.org/abs/2410.02601v1)|null|
+|**2024-10-03**|**BEBOP VI. Enabling the detection of circumbinary planets orbiting double-lined binaries with the DOLBY method of radial-velocity extraction**|Lalitha Sairam et.al.|[2410.02573v1](http://arxiv.org/abs/2410.02573v1)|null|
+|**2024-10-03**|**NestedMorph: Enhancing Deformable Medical Image Registration with Nested Attention Mechanisms**|Gurucharan Marthi Krishna Kumar et.al.|[2410.02550v1](http://arxiv.org/abs/2410.02550v1)|null|
+|**2024-10-03**|**Local Flow Matching Generative Models**|Chen Xu et.al.|[2410.02548v1](http://arxiv.org/abs/2410.02548v1)|null|
+|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543v1](http://arxiv.org/abs/2410.02543v1)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
+|**2024-10-03**|**SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation**|Mucong Ding et.al.|[2410.02512v1](http://arxiv.org/abs/2410.02512v1)|null|
+|**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491v1](http://arxiv.org/abs/2410.02491v1)|null|
+|**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483v1](http://arxiv.org/abs/2410.02483v1)|null|
+|**2024-10-03**|**Free Stein Kernel and Moments maps**|Charles-Philippe Diez et.al.|[2410.02470v1](http://arxiv.org/abs/2410.02470v1)|null|
 |**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807v1](http://arxiv.org/abs/2410.01807v1)|null|
 |**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801v1](http://arxiv.org/abs/2410.01801v1)|null|
 |**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796v1](http://arxiv.org/abs/2410.01796v1)|null|
@@ -1380,6 +1400,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v1](http://arxiv.org/abs/2410.02369v1)|null|
+|**2024-10-02**|**Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data**|Sreyan Ghosh et.al.|[2410.02056v1](http://arxiv.org/abs/2410.02056v1)|null|
 |**2024-09-30**|**Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation**|Yuran Wang et.al.|[2409.20332v1](http://arxiv.org/abs/2409.20332v1)|null|
 |**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164v1](http://arxiv.org/abs/2409.20164v1)|null|
 |**2024-09-28**|**Efficient Semantic Diffusion Architectures for Model Training on Synthetic Echocardiograms**|David Stojanovski et.al.|[2409.19371v1](http://arxiv.org/abs/2409.19371v1)|**[link](https://github.com/david-stojanovski/EDMLX)**|
