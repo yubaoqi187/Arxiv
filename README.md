@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|null|
+|**2024-10-04**|**Connecting Lyman-$α$ and ionizing photon escape in the Sunburst Arc**|M. Riley Owens et.al.|[2410.03660v1](http://arxiv.org/abs/2410.03660v1)|null|
+|**2024-10-04**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655v1](http://arxiv.org/abs/2410.03655v1)|null|
+|**2024-10-04**|**Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models**|Chumeng Liang et.al.|[2410.03640v1](http://arxiv.org/abs/2410.03640v1)|**[link](https://github.com/caradryanl/copymark)**|
+|**2024-10-04**|**Stabilizing the Consistent Quasidiffusion Method with Linear Prolongation**|Dean Wang et.al.|[2410.03605v1](http://arxiv.org/abs/2410.03605v1)|null|
+|**2024-10-04**|**How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework**|Yinuo Ren et.al.|[2410.03601v1](http://arxiv.org/abs/2410.03601v1)|null|
+|**2024-10-04**|**Free boundary problem governed by a non-linear diffusion-convection equation with Neumann condition**|Adriana C. Briozzo et.al.|[2410.03564v1](http://arxiv.org/abs/2410.03564v1)|null|
+|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558v1](http://arxiv.org/abs/2410.03558v1)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
+|**2024-10-04**|**Seizure freedom after surgical resection of diffusion-weighted MRI abnormalities**|Jonathan Horsley et.al.|[2410.03548v1](http://arxiv.org/abs/2410.03548v1)|null|
+|**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et.al.|[2410.03494v1](http://arxiv.org/abs/2410.03494v1)|**[link](https://github.com/wenhao-gao/synformer)**|
+|**2024-10-04**|**VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**|Han Lin et.al.|[2410.03478v1](http://arxiv.org/abs/2410.03478v1)|null|
+|**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463v1](http://arxiv.org/abs/2410.03463v1)|null|
+|**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459v1](http://arxiv.org/abs/2410.03459v1)|null|
+|**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456v1](http://arxiv.org/abs/2410.03456v1)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441v1](http://arxiv.org/abs/2410.03441v1)|null|
+|**2024-10-04**|**Assessing many-body methods on the potential energy surface of the (H$_2$)$_2$ hydrogen dimer**|Damian Contant et.al.|[2410.03410v1](http://arxiv.org/abs/2410.03410v1)|null|
+|**2024-10-04**|**The scaling behaviour of localised and extended states in one-dimensional tight-binding models with disorder**|Luca Schaefer et.al.|[2410.03405v1](http://arxiv.org/abs/2410.03405v1)|null|
+|**2024-10-04**|**Latent Abstractions in Generative Diffusion Models**|Giulio Franzese et.al.|[2410.03368v1](http://arxiv.org/abs/2410.03368v1)|null|
+|**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355v1](http://arxiv.org/abs/2410.03355v1)|null|
+|**2024-10-04**|**Audio-Agent: Leveraging LLMs For Audio Generation, Editing and Composition**|Zixuan Wang et.al.|[2410.03335v1](http://arxiv.org/abs/2410.03335v1)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740v1](http://arxiv.org/abs/2410.02740v1)|null|
 |**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737v1](http://arxiv.org/abs/2410.02737v1)|null|
 |**2024-10-03**|**NETS: A Non-Equilibrium Transport Sampler**|Michael S. Albergo et.al.|[2410.02711v1](http://arxiv.org/abs/2410.02711v1)|null|
@@ -1400,6 +1420,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558v1](http://arxiv.org/abs/2410.03558v1)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
+|**2024-10-04**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187v1](http://arxiv.org/abs/2410.03187v1)|null|
+|**2024-09-19**|**KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation**|Zhihao Zhao et.al.|[2410.02808v1](http://arxiv.org/abs/2410.02808v1)|null|
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v2](http://arxiv.org/abs/2410.02369v2)|null|
 |**2024-10-02**|**Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data**|Sreyan Ghosh et.al.|[2410.02056v1](http://arxiv.org/abs/2410.02056v1)|null|
