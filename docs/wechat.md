@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-07, **DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2410.05260v1](http://arxiv.org/abs/2410.05260v1)
+- 2024-10-07, **GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.05259v1](http://arxiv.org/abs/2410.05259v1)
+- 2024-10-07, **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2410.05255v1](http://arxiv.org/abs/2410.05255v1), Code: **[https://github.com/dwanzhang-ai/seppo](https://github.com/dwanzhang-ai/seppo)**
+- 2024-10-07, **Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**, J. F. Parisi et.al., Paper: [http://arxiv.org/abs/2410.05238v1](http://arxiv.org/abs/2410.05238v1)
+- 2024-10-07, **DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**, Yongtai Zhuo et.al., Paper: [http://arxiv.org/abs/2410.05234v1](http://arxiv.org/abs/2410.05234v1)
+- 2024-10-07, **Presto! Distilling Steps and Layers for Accelerating Music Generation**, Zachary Novack et.al., Paper: [http://arxiv.org/abs/2410.05167v1](http://arxiv.org/abs/2410.05167v1)
+- 2024-10-07, **A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**, Mengjian Hua et.al., Paper: [http://arxiv.org/abs/2410.05163v1](http://arxiv.org/abs/2410.05163v1)
+- 2024-10-07, **Formation of Anisotropic Polarons in Antimony Selenide**, Yijie Shi et.al., Paper: [http://arxiv.org/abs/2410.05155v1](http://arxiv.org/abs/2410.05155v1)
+- 2024-10-07, **Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**, Siyuan Hou et.al., Paper: [http://arxiv.org/abs/2410.05151v1](http://arxiv.org/abs/2410.05151v1)
+- 2024-10-07, **Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**, Timofey Efimov et.al., Paper: [http://arxiv.org/abs/2410.05143v1](http://arxiv.org/abs/2410.05143v1)
+- 2024-10-07, **Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**, Ayano Hiranaka et.al., Paper: [http://arxiv.org/abs/2410.05116v1](http://arxiv.org/abs/2410.05116v1)
+- 2024-10-07, **DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**, Nidhi Mathihalli et.al., Paper: [http://arxiv.org/abs/2410.05097v1](http://arxiv.org/abs/2410.05097v1), Code: **[https://github.com/arclab-mit/space-nvs](https://github.com/arclab-mit/space-nvs)**
+- 2024-10-07, **Localization transitions in quadratic systems without quantum chaos**, Mateusz Lisiecki et.al., Paper: [http://arxiv.org/abs/2410.05075v1](http://arxiv.org/abs/2410.05075v1)
+- 2024-10-07, **HE-Drive: Human-Like End-to-End Driving with Vision Language Models**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2410.05051v1](http://arxiv.org/abs/2410.05051v1)
+- 2024-10-07, **A nodally bound-preserving discontinuous Galerkin method for the drift-diffusion equation**, Gabriel R. Barrenechea et.al., Paper: [http://arxiv.org/abs/2410.05040v1](http://arxiv.org/abs/2410.05040v1)
+- 2024-10-07, **Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**, Jinwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.05027v1](http://arxiv.org/abs/2410.05027v1)
+- 2024-10-07, **Revealing Directions for Text-guided 3D Face Editing**, Zhuo Chen et.al., Paper: [http://arxiv.org/abs/2410.04965v1](http://arxiv.org/abs/2410.04965v1)
+- 2024-10-07, **Kermack-McKendrick type models for epidemics with nonlocal aggregation terms**, Marco Di Francesco et.al., Paper: [http://arxiv.org/abs/2410.04947v1](http://arxiv.org/abs/2410.04947v1)
+- 2024-10-07, **PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2410.04939v1](http://arxiv.org/abs/2410.04939v1), Code: **[https://github.com/sijieaaa/prfusion](https://github.com/sijieaaa/prfusion)**
+- 2024-10-07, **Quasi-continuity method for mean-field diffusions: large deviations and central limit theorem**, Louis-Pierre Chaintron et.al., Paper: [http://arxiv.org/abs/2410.04935v1](http://arxiv.org/abs/2410.04935v1)
 - 2024-10-04, **Estimating Body and Hand Motion in an Ego-sensed World**, Brent Yi et.al., Paper: [http://arxiv.org/abs/2410.03665v1](http://arxiv.org/abs/2410.03665v1)
 - 2024-10-04, **Connecting Lyman-$α$ and ionizing photon escape in the Sunburst Arc**, M. Riley Owens et.al., Paper: [http://arxiv.org/abs/2410.03660v1](http://arxiv.org/abs/2410.03660v1)
 - 2024-10-04, **Geometric Representation Condition Improves Equivariant Molecule Generation**, Zian Li et.al., Paper: [http://arxiv.org/abs/2410.03655v1](http://arxiv.org/abs/2410.03655v1)
@@ -10955,6 +10975,10 @@
 
 ## Diffusion_Segment
 
+- 2024-10-07, **Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**, Jinwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.05027v1](http://arxiv.org/abs/2410.05027v1)
+- 2024-10-07, **Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**, Oliver Schad et.al., Paper: [http://arxiv.org/abs/2410.04843v1](http://arxiv.org/abs/2410.04843v1)
+- 2024-10-06, **AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation**, Dewei Hu et.al., Paper: [http://arxiv.org/abs/2410.04648v1](http://arxiv.org/abs/2410.04648v1), Code: **[https://github.com/deweihu/adaptdiff](https://github.com/deweihu/adaptdiff)**
+- 2024-10-06, **RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**, Yuyang Miao et.al., Paper: [http://arxiv.org/abs/2410.04366v1](http://arxiv.org/abs/2410.04366v1)
 - 2024-10-04, **Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**, Benyuan Meng et.al., Paper: [http://arxiv.org/abs/2410.03558v1](http://arxiv.org/abs/2410.03558v1), Code: **[https://github.com/darkbblue/generic-diffusion-feature](https://github.com/darkbblue/generic-diffusion-feature)**
 - 2024-10-04, **Autonomous Character-Scene Interaction Synthesis from Text Instruction**, Nan Jiang et.al., Paper: [http://arxiv.org/abs/2410.03187v1](http://arxiv.org/abs/2410.03187v1)
 - 2024-09-19, **KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation**, Zhihao Zhao et.al., Paper: [http://arxiv.org/abs/2410.02808v1](http://arxiv.org/abs/2410.02808v1)
