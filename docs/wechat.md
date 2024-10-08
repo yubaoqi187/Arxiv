@@ -1,4 +1,4 @@
-> Updated on 2024.10.07
+> Updated on 2024.10.08
 
 ## Video_Classification
 
@@ -10964,7 +10964,7 @@
 - 2024-09-30, **Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation**, Yuran Wang et.al., Paper: [http://arxiv.org/abs/2409.20332v1](http://arxiv.org/abs/2409.20332v1)
 - 2024-09-30, **Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**, Fulong Ma et.al., Paper: [http://arxiv.org/abs/2409.20164v1](http://arxiv.org/abs/2409.20164v1)
 - 2024-09-28, **Efficient Semantic Diffusion Architectures for Model Training on Synthetic Echocardiograms**, David Stojanovski et.al., Paper: [http://arxiv.org/abs/2409.19371v1](http://arxiv.org/abs/2409.19371v1), Code: **[https://github.com/david-stojanovski/EDMLX](https://github.com/david-stojanovski/EDMLX)**
-- 2024-09-26, **Amodal Instance Segmentation with Diffusion Shape Prior Estimation**, Minh Tran et.al., Paper: [http://arxiv.org/abs/2409.18256v1](http://arxiv.org/abs/2409.18256v1)
+- 2024-10-04, **Amodal Instance Segmentation with Diffusion Shape Prior Estimation**, Minh Tran et.al., Paper: [http://arxiv.org/abs/2409.18256v2](http://arxiv.org/abs/2409.18256v2)
 - 2024-09-26, **Flexiffusion: Segment-wise Neural Architecture Search for Flexible Denoising Schedule**, Hongtao Huang et.al., Paper: [http://arxiv.org/abs/2409.17566v1](http://arxiv.org/abs/2409.17566v1)
 - 2024-09-24, **PRESTO: Fast motion planning using diffusion models based on key-configuration environment representation**, Mingyo Seo et.al., Paper: [http://arxiv.org/abs/2409.16012v1](http://arxiv.org/abs/2409.16012v1)
 - 2024-09-23, **LoVA: Long-form Video-to-Audio Generation**, Xin Cheng et.al., Paper: [http://arxiv.org/abs/2409.15157v1](http://arxiv.org/abs/2409.15157v1)
