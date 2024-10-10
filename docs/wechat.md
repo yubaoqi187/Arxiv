@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-09, **Simulating realistic self-interacting dark matter models including small and large-angle scattering**, Cenanda Arido et.al., Paper: [http://arxiv.org/abs/2410.07175v1](http://arxiv.org/abs/2410.07175v1)
+- 2024-10-09, **IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**, Xinchen Zhang et.al., Paper: [http://arxiv.org/abs/2410.07171v1](http://arxiv.org/abs/2410.07171v1), Code: **[https://github.com/yangling0818/itercomp](https://github.com/yangling0818/itercomp)**
+- 2024-10-09, **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.07164v1](http://arxiv.org/abs/2410.07164v1)
+- 2024-10-09, **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**, Bowen Jin et.al., Paper: [http://arxiv.org/abs/2410.07157v1](http://arxiv.org/abs/2410.07157v1)
+- 2024-10-09, **Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2410.07155v1](http://arxiv.org/abs/2410.07155v1), Code: **[https://github.com/yangling0818/trans4d](https://github.com/yangling0818/trans4d)**
+- 2024-10-09, **Measuring Minority Carrier Diffusion Length Using High-Injection Scanning Photocurrent Microscopy**, Xiujun Lian et.al., Paper: [http://arxiv.org/abs/2410.07089v1](http://arxiv.org/abs/2410.07089v1)
+- 2024-10-09, **FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation**, Yishu Li et.al., Paper: [http://arxiv.org/abs/2410.07078v1](http://arxiv.org/abs/2410.07078v1)
+- 2024-10-09, **A short proof of diffusivity for the directed polymers in the weak disorder phase**, Hubert Lacoin et.al., Paper: [http://arxiv.org/abs/2410.07068v1](http://arxiv.org/abs/2410.07068v1)
+- 2024-10-09, **Active fluids form system-spanning filamentary networks**, Paarth Gulati et.al., Paper: [http://arxiv.org/abs/2410.07058v1](http://arxiv.org/abs/2410.07058v1)
+- 2024-10-09, **Transients by Black Hole Formation from Red Supergiants: Impact of Dense Circumstellar Matter**, Daichi Tsuna et.al., Paper: [http://arxiv.org/abs/2410.07055v1](http://arxiv.org/abs/2410.07055v1)
+- 2024-10-09, **Effect of different stickiness between icy and silicate particles on carbon depletion in protoplanetary disks**, Tamami Okamoto et.al., Paper: [http://arxiv.org/abs/2410.07047v1](http://arxiv.org/abs/2410.07047v1)
+- 2024-10-09, **Exploring Magnetic Fields in Molecular Clouds through Denoising Diffusion Probabilistic Models**, Duo Xu et.al., Paper: [http://arxiv.org/abs/2410.07032v1](http://arxiv.org/abs/2410.07032v1)
+- 2024-10-09, **Moving-mesh non-ideal magnetohydrodynamical simulations of the collapse of cloud cores to protostars**, Alexander C. Mayer et.al., Paper: [http://arxiv.org/abs/2410.07016v1](http://arxiv.org/abs/2410.07016v1)
+- 2024-10-09, **Fluid flow generates bacterial conjugation hotspots by increasing the rate of shear-driven cell-cell encounters**, Matti Zbinden et.al., Paper: [http://arxiv.org/abs/2410.07012v1](http://arxiv.org/abs/2410.07012v1)
+- 2024-10-09, **The Cosmological Optical Convergence: Extragalactic Background Light from TeV Gamma Rays**, Lucas Gréaux et.al., Paper: [http://arxiv.org/abs/2410.07011v1](http://arxiv.org/abs/2410.07011v1)
+- 2024-10-09, **A Diffusion-based Xray2MRI Model: Generating Pseudo-MRI Volumes From one Single X-ray**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2410.06997v1](http://arxiv.org/abs/2410.06997v1)
+- 2024-10-09, **Local stability of differential rotation in magnetised radiation zones and the solar tachocline**, Robert W. Dymott et.al., Paper: [http://arxiv.org/abs/2410.06989v1](http://arxiv.org/abs/2410.06989v1)
+- 2024-10-09, **Cosmic Ray-Driven Galactic Winds with Resolved ISM and Ion-Neutral Damping**, Brandon Sike et.al., Paper: [http://arxiv.org/abs/2410.06988v1](http://arxiv.org/abs/2410.06988v1)
+- 2024-10-09, **Diffusion Density Estimators**, Akhil Premkumar et.al., Paper: [http://arxiv.org/abs/2410.06986v1](http://arxiv.org/abs/2410.06986v1)
+- 2024-10-09, **Jointly Generating Multi-view Consistent PBR Textures using Collaborative Control**, Shimon Vainer et.al., Paper: [http://arxiv.org/abs/2410.06985v1](http://arxiv.org/abs/2410.06985v1)
 - 2024-10-07, **DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2410.05260v1](http://arxiv.org/abs/2410.05260v1)
 - 2024-10-07, **GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.05259v1](http://arxiv.org/abs/2410.05259v1)
 - 2024-10-07, **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2410.05255v1](http://arxiv.org/abs/2410.05255v1), Code: **[https://github.com/dwanzhang-ai/seppo](https://github.com/dwanzhang-ai/seppo)**
@@ -10975,6 +10995,7 @@
 
 ## Diffusion_Segment
 
+- 2024-10-08, **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**, Sha Guo et.al., Paper: [http://arxiv.org/abs/2410.06149v1](http://arxiv.org/abs/2410.06149v1)
 - 2024-10-07, **Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**, Jinwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.05027v1](http://arxiv.org/abs/2410.05027v1)
 - 2024-10-07, **Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**, Oliver Schad et.al., Paper: [http://arxiv.org/abs/2410.04843v1](http://arxiv.org/abs/2410.04843v1)
 - 2024-10-06, **AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation**, Dewei Hu et.al., Paper: [http://arxiv.org/abs/2410.04648v1](http://arxiv.org/abs/2410.04648v1), Code: **[https://github.com/deweihu/adaptdiff](https://github.com/deweihu/adaptdiff)**
