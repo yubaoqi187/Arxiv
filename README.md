@@ -1,4 +1,4 @@
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 
 ## Diffusion
 
@@ -8,9 +8,9 @@
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259v1](http://arxiv.org/abs/2410.05259v1)|null|
 |**2024-10-07**|**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**|Daoan Zhang et.al.|[2410.05255v1](http://arxiv.org/abs/2410.05255v1)|**[link](https://github.com/dwanzhang-ai/seppo)**|
 |**2024-10-07**|**Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**|J. F. Parisi et.al.|[2410.05238v1](http://arxiv.org/abs/2410.05238v1)|null|
-|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234v1](http://arxiv.org/abs/2410.05234v1)|null|
+|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234v1](http://arxiv.org/abs/2410.05234v1)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-07**|**Presto! Distilling Steps and Layers for Accelerating Music Generation**|Zachary Novack et.al.|[2410.05167v1](http://arxiv.org/abs/2410.05167v1)|null|
-|**2024-10-07**|**A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**|Mengjian Hua et.al.|[2410.05163v1](http://arxiv.org/abs/2410.05163v1)|null|
+|**2024-10-08**|**A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**|Mengjian Hua et.al.|[2410.05163v2](http://arxiv.org/abs/2410.05163v2)|null|
 |**2024-10-07**|**Formation of Anisotropic Polarons in Antimony Selenide**|Yijie Shi et.al.|[2410.05155v1](http://arxiv.org/abs/2410.05155v1)|null|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151v1](http://arxiv.org/abs/2410.05151v1)|null|
 |**2024-10-07**|**Leveraging Multimodal Diffusion Models to Accelerate Imaging with Side Information**|Timofey Efimov et.al.|[2410.05143v1](http://arxiv.org/abs/2410.05143v1)|null|
@@ -1445,7 +1445,7 @@
 |**2024-10-06**|**AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation**|Dewei Hu et.al.|[2410.04648v1](http://arxiv.org/abs/2410.04648v1)|**[link](https://github.com/deweihu/adaptdiff)**|
 |**2024-10-06**|**RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals**|Yuyang Miao et.al.|[2410.04366v1](http://arxiv.org/abs/2410.04366v1)|null|
 |**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558v1](http://arxiv.org/abs/2410.03558v1)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
-|**2024-10-04**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187v1](http://arxiv.org/abs/2410.03187v1)|null|
+|**2024-10-08**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187v2](http://arxiv.org/abs/2410.03187v2)|null|
 |**2024-09-19**|**KLDD: Kalman Filter based Linear Deformable Diffusion Model in Retinal Image Segmentation**|Zhihao Zhao et.al.|[2410.02808v1](http://arxiv.org/abs/2410.02808v1)|null|
 |**2024-10-03**|**ControlAR: Controllable Image Generation with Autoregressive Models**|Zongming Li et.al.|[2410.02705v1](http://arxiv.org/abs/2410.02705v1)|**[link](https://github.com/hustvl/controlar)**|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369v2](http://arxiv.org/abs/2410.02369v2)|null|
