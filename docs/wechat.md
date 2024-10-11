@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
+- 2024-10-10, **DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**, Xiaoxiao He et.al., Paper: [http://arxiv.org/abs/2410.08207v1](http://arxiv.org/abs/2410.08207v1)
+- 2024-10-10, **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**, Shanyan Guan et.al., Paper: [http://arxiv.org/abs/2410.08192v1](http://arxiv.org/abs/2410.08192v1)
+- 2024-10-10, **DifFRelight: Diffusion-Based Facial Performance Relighting**, Mingming He et.al., Paper: [http://arxiv.org/abs/2410.08188v1](http://arxiv.org/abs/2410.08188v1)
+- 2024-10-10, **Scaling Laws For Diffusion Transformers**, Zhengyang Liang et.al., Paper: [http://arxiv.org/abs/2410.08184v1](http://arxiv.org/abs/2410.08184v1)
+- 2024-10-10, **ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**, Zitian Zhang et.al., Paper: [http://arxiv.org/abs/2410.08168v1](http://arxiv.org/abs/2410.08168v1)
+- 2024-10-10, **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**, Jiatao Gu et.al., Paper: [http://arxiv.org/abs/2410.08159v1](http://arxiv.org/abs/2410.08159v1)
+- 2024-10-10, **Progressive Autoregressive Video Diffusion Models**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2410.08151v1](http://arxiv.org/abs/2410.08151v1)
+- 2024-10-10, **Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**, Jarrid Rector-Brooks et.al., Paper: [http://arxiv.org/abs/2410.08134v1](http://arxiv.org/abs/2410.08134v1)
+- 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
+- 2024-10-10, **Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**, Vinith M. Suriyakumar et.al., Paper: [http://arxiv.org/abs/2410.08074v1](http://arxiv.org/abs/2410.08074v1)
+- 2024-10-10, **Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2410.08001v1](http://arxiv.org/abs/2410.08001v1)
+- 2024-10-10, **LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**, Marcel Grimmer et.al., Paper: [http://arxiv.org/abs/2410.07988v1](http://arxiv.org/abs/2410.07988v1), Code: **[https://github.com/dasec/ladimo](https://github.com/dasec/ladimo)**
+- 2024-10-10, **AI Surrogate Model for Distributed Computing Workloads**, David K. Park et.al., Paper: [http://arxiv.org/abs/2410.07940v1](http://arxiv.org/abs/2410.07940v1)
+- 2024-10-10, **Three-point functions from a Schwinger-Keldysh effective action, resummed in derivatives**, Navid Abbasi et.al., Paper: [http://arxiv.org/abs/2410.07929v1](http://arxiv.org/abs/2410.07929v1)
+- 2024-10-10, **Quantum Algorithm for the Advection-Diffusion Equation with Optimal Success Probability**, Paul Over et.al., Paper: [http://arxiv.org/abs/2410.07909v1](http://arxiv.org/abs/2410.07909v1)
+- 2024-10-10, **Fidelity of the acoustic control of single photon scattering with semiconductor quantum dots**, Rafał A. Bogaczewicz et.al., Paper: [http://arxiv.org/abs/2410.07902v1](http://arxiv.org/abs/2410.07902v1)
+- 2024-10-10, **Homogeneous Nucleation of Undercooled Al-Ni melts via a Machine-Learned Interaction Potential**, Johannes Sandberg et.al., Paper: [http://arxiv.org/abs/2410.07886v1](http://arxiv.org/abs/2410.07886v1)
+- 2024-10-10, **Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**, Abhishek Mandal et.al., Paper: [http://arxiv.org/abs/2410.07884v1](http://arxiv.org/abs/2410.07884v1)
+- 2024-10-10, **FDDM: Frequency-Decomposed Diffusion Model for Rectum Cancer Dose Prediction in Radiotherapy**, Xin Liao et.al., Paper: [http://arxiv.org/abs/2410.07876v1](http://arxiv.org/abs/2410.07876v1)
 - 2024-10-09, **Simulating realistic self-interacting dark matter models including small and large-angle scattering**, Cenanda Arido et.al., Paper: [http://arxiv.org/abs/2410.07175v1](http://arxiv.org/abs/2410.07175v1)
 - 2024-10-09, **IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**, Xinchen Zhang et.al., Paper: [http://arxiv.org/abs/2410.07171v1](http://arxiv.org/abs/2410.07171v1), Code: **[https://github.com/yangling0818/itercomp](https://github.com/yangling0818/itercomp)**
 - 2024-10-09, **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.07164v1](http://arxiv.org/abs/2410.07164v1)
@@ -10995,6 +11015,9 @@
 
 ## Diffusion_Segment
 
+- 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
+- 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
+- 2024-10-10, **Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**, Danush Kumar Venkatesh et.al., Paper: [http://arxiv.org/abs/2410.07753v1](http://arxiv.org/abs/2410.07753v1)
 - 2024-10-08, **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**, Sha Guo et.al., Paper: [http://arxiv.org/abs/2410.06149v1](http://arxiv.org/abs/2410.06149v1)
 - 2024-10-07, **Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**, Jinwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.05027v1](http://arxiv.org/abs/2410.05027v1)
 - 2024-10-07, **Real-time cardiac cine MRI -- A comparison of a diffusion probabilistic model with alternative state-of-the-art image reconstruction techniques for undersampled spiral acquisitions**, Oliver Schad et.al., Paper: [http://arxiv.org/abs/2410.04843v1](http://arxiv.org/abs/2410.04843v1)
