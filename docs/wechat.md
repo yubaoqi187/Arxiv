@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
+- 2024-10-11, **Linear Convergence of Diffusion Models Under the Manifold Hypothesis**, Peter Potaptchik et.al., Paper: [http://arxiv.org/abs/2410.09046v1](http://arxiv.org/abs/2410.09046v1)
+- 2024-10-11, **Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**, Ling Yang et.al., Paper: [http://arxiv.org/abs/2410.09009v1](http://arxiv.org/abs/2410.09009v1), Code: **[https://github.com/yangling0818/semanticsds-3d](https://github.com/yangling0818/semanticsds-3d)**
+- 2024-10-11, **Macrotransport of active particles in periodic channels and fields: rectification and dispersion**, Zhiwei Peng et.al., Paper: [http://arxiv.org/abs/2410.09007v1](http://arxiv.org/abs/2410.09007v1)
+- 2024-10-11, **WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**, Hanchen Wang et.al., Paper: [http://arxiv.org/abs/2410.09002v1](http://arxiv.org/abs/2410.09002v1)
+- 2024-10-11, **Revised Point-Spread Functions for the Atmospheric Imaging Assembly onboard the Solar Dynamics Observatory**, Stefan Hofmeister et.al., Paper: [http://arxiv.org/abs/2410.08967v1](http://arxiv.org/abs/2410.08967v1)
+- 2024-10-11, **DiffPO: A causal diffusion model for learning distributions of potential outcomes**, Yuchen Ma et.al., Paper: [http://arxiv.org/abs/2410.08924v1](http://arxiv.org/abs/2410.08924v1)
+- 2024-10-11, **An End-to-End Deep Learning Method for Solving Nonlocal Allen-Cahn and Cahn-Hilliard Phase-Field Models**, Yuwei Geng et.al., Paper: [http://arxiv.org/abs/2410.08914v1](http://arxiv.org/abs/2410.08914v1)
+- 2024-10-11, **Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2410.08894v1](http://arxiv.org/abs/2410.08894v1)
+- 2024-10-11, **Simulating anisotropic diffusion processes with smoothed particle hydrodynamics**, Xiaojing Tang et.al., Paper: [http://arxiv.org/abs/2410.08888v1](http://arxiv.org/abs/2410.08888v1)
+- 2024-10-11, **Coherent X-rays reveal anomalous molecular diffusion and cage effects in crowded protein solutions**, Anita Girelli et.al., Paper: [http://arxiv.org/abs/2410.08873v1](http://arxiv.org/abs/2410.08873v1)
+- 2024-10-11, **The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy**, Nicolaï Gouraud et.al., Paper: [http://arxiv.org/abs/2410.08846v1](http://arxiv.org/abs/2410.08846v1)
+- 2024-10-11, **The Burgers-FKPP advection-reaction-diffusion equation with cut-off**, Nikola Popovic et.al., Paper: [http://arxiv.org/abs/2410.08763v1](http://arxiv.org/abs/2410.08763v1)
+- 2024-10-11, **Who should fight the spread of fake news?**, Diana Riazi et.al., Paper: [http://arxiv.org/abs/2410.08753v1](http://arxiv.org/abs/2410.08753v1)
+- 2024-10-11, **A Flexible GMRES Solver with Reduced Order Model Enhanced Synthetic Acceleration Preconditioenr for Parametric Radiative Transfer Equation**, Zhichao Peng et.al., Paper: [http://arxiv.org/abs/2410.08735v1](http://arxiv.org/abs/2410.08735v1)
+- 2024-10-11, **Losing dimensions: Geometric memorization in generative diffusion**, Beatrice Achilli et.al., Paper: [http://arxiv.org/abs/2410.08727v1](http://arxiv.org/abs/2410.08727v1)
+- 2024-10-11, **Distillation of Discrete Diffusion through Dimensional Correlations**, Satoshi Hayakawa et.al., Paper: [http://arxiv.org/abs/2410.08709v1](http://arxiv.org/abs/2410.08709v1)
+- 2024-10-11, **Filaments in and between galaxy clusters at low and mid-frequency with the SKA telescope**, Valentina Vacca et.al., Paper: [http://arxiv.org/abs/2410.08697v1](http://arxiv.org/abs/2410.08697v1)
+- 2024-10-11, **Gait Sequence Upsampling using Diffusion Models for single LiDAR sensors**, Jeongho Ahn et.al., Paper: [http://arxiv.org/abs/2410.08680v1](http://arxiv.org/abs/2410.08680v1)
+- 2024-10-11, **E-Motion: Future Motion Simulation via Event Sequence Diffusion**, Song Wu et.al., Paper: [http://arxiv.org/abs/2410.08649v1](http://arxiv.org/abs/2410.08649v1)
 - 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
 - 2024-10-10, **DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**, Xiaoxiao He et.al., Paper: [http://arxiv.org/abs/2410.08207v1](http://arxiv.org/abs/2410.08207v1)
 - 2024-10-10, **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**, Shanyan Guan et.al., Paper: [http://arxiv.org/abs/2410.08192v1](http://arxiv.org/abs/2410.08192v1)
@@ -11015,6 +11035,7 @@
 
 ## Diffusion_Segment
 
+- 2024-10-11, **Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2410.08894v1](http://arxiv.org/abs/2410.08894v1)
 - 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
 - 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
 - 2024-10-10, **Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**, Danush Kumar Venkatesh et.al., Paper: [http://arxiv.org/abs/2410.07753v1](http://arxiv.org/abs/2410.07753v1), Code: **[https://gitlab.com/nct_tso_public/muli-class-image-synthesis](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**
