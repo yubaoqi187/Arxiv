@@ -1,4 +1,4 @@
-> Updated on 2024.10.13
+> Updated on 2024.10.14
 
 ## Video_Classification
 
@@ -9552,7 +9552,7 @@
 - 2024-10-10, **Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**, Jarrid Rector-Brooks et.al., Paper: [http://arxiv.org/abs/2410.08134v1](http://arxiv.org/abs/2410.08134v1)
 - 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
 - 2024-10-10, **Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**, Vinith M. Suriyakumar et.al., Paper: [http://arxiv.org/abs/2410.08074v1](http://arxiv.org/abs/2410.08074v1)
-- 2024-10-10, **Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2410.08001v1](http://arxiv.org/abs/2410.08001v1)
+- 2024-10-11, **Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation**, Qingwen Bu et.al., Paper: [http://arxiv.org/abs/2410.08001v2](http://arxiv.org/abs/2410.08001v2)
 - 2024-10-10, **LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**, Marcel Grimmer et.al., Paper: [http://arxiv.org/abs/2410.07988v1](http://arxiv.org/abs/2410.07988v1), Code: **[https://github.com/dasec/ladimo](https://github.com/dasec/ladimo)**
 - 2024-10-10, **AI Surrogate Model for Distributed Computing Workloads**, David K. Park et.al., Paper: [http://arxiv.org/abs/2410.07940v1](http://arxiv.org/abs/2410.07940v1)
 - 2024-10-10, **Three-point functions from a Schwinger-Keldysh effective action, resummed in derivatives**, Navid Abbasi et.al., Paper: [http://arxiv.org/abs/2410.07929v1](http://arxiv.org/abs/2410.07929v1)
