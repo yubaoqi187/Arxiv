@@ -1,4 +1,4 @@
-> Updated on 2024.10.14
+> Updated on 2024.10.15
 
 ## Video_Classification
 
@@ -11037,7 +11037,7 @@
 
 - 2024-10-11, **Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2410.08894v1](http://arxiv.org/abs/2410.08894v1)
 - 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
-- 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v1](http://arxiv.org/abs/2410.08100v1), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
+- 2024-10-12, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v2](http://arxiv.org/abs/2410.08100v2), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
 - 2024-10-10, **Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**, Danush Kumar Venkatesh et.al., Paper: [http://arxiv.org/abs/2410.07753v1](http://arxiv.org/abs/2410.07753v1), Code: **[https://gitlab.com/nct_tso_public/muli-class-image-synthesis](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**
 - 2024-10-08, **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach**, Sha Guo et.al., Paper: [http://arxiv.org/abs/2410.06149v1](http://arxiv.org/abs/2410.06149v1)
 - 2024-10-07, **Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**, Jinwei Zhang et.al., Paper: [http://arxiv.org/abs/2410.05027v1](http://arxiv.org/abs/2410.05027v1)
