@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-14, **Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**, Jingzhi Bao et.al., Paper: [http://arxiv.org/abs/2410.10821v1](http://arxiv.org/abs/2410.10821v1)
+- 2024-10-14, **Depth Any Video with Scalable Synthetic Data**, Honghui Yang et.al., Paper: [http://arxiv.org/abs/2410.10815v1](http://arxiv.org/abs/2410.10815v1)
+- 2024-10-14, **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**, Haotian Tang et.al., Paper: [http://arxiv.org/abs/2410.10812v1](http://arxiv.org/abs/2410.10812v1), Code: **[https://github.com/mit-han-lab/hart](https://github.com/mit-han-lab/hart)**
+- 2024-10-14, **TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**, Qingze et.al., Paper: [http://arxiv.org/abs/2410.10804v1](http://arxiv.org/abs/2410.10804v1), Code: **[https://github.com/tl-qz/trajdiffuse](https://github.com/tl-qz/trajdiffuse)**
+- 2024-10-14, **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2410.10803v1](http://arxiv.org/abs/2410.10803v1), Code: **[https://github.com/YanjieZe/Improved-3D-Diffusion-Policy](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**
+- 2024-10-14, **Boosting Camera Motion Control for Video Diffusion Transformers**, Soon Yau Cheong et.al., Paper: [http://arxiv.org/abs/2410.10802v1](http://arxiv.org/abs/2410.10802v1)
+- 2024-10-14, **MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.10798v1](http://arxiv.org/abs/2410.10798v1)
+- 2024-10-14, **Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**, Litu Rout et.al., Paper: [http://arxiv.org/abs/2410.10792v1](http://arxiv.org/abs/2410.10792v1)
+- 2024-10-14, **3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**, Eduardo R. Corral-Soto et.al., Paper: [http://arxiv.org/abs/2410.10782v1](http://arxiv.org/abs/2410.10782v1)
+- 2024-10-14, **ControlMM: Controllable Masked Motion Generation**, Ekkasit Pinyoanuntapong et.al., Paper: [http://arxiv.org/abs/2410.10780v1](http://arxiv.org/abs/2410.10780v1)
+- 2024-10-14, **Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2410.10774v1](http://arxiv.org/abs/2410.10774v1)
+- 2024-10-14, **Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation**, Youwei Yu et.al., Paper: [http://arxiv.org/abs/2410.10766v1](http://arxiv.org/abs/2410.10766v1)
+- 2024-10-14, **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**, Zhang Wan et.al., Paper: [http://arxiv.org/abs/2410.10751v1](http://arxiv.org/abs/2410.10751v1)
+- 2024-10-14, **Exchange and Microviscosity of Dynamic Nanocompartments**, Romana Shathy et.al., Paper: [http://arxiv.org/abs/2410.10748v1](http://arxiv.org/abs/2410.10748v1)
+- 2024-10-14, **FlexGen: Flexible Multi-View Generation from Text and Image Inputs**, Xinli Xu et.al., Paper: [http://arxiv.org/abs/2410.10745v1](http://arxiv.org/abs/2410.10745v1)
+- 2024-10-14, **Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**, Junyu Chen et.al., Paper: [http://arxiv.org/abs/2410.10733v1](http://arxiv.org/abs/2410.10733v1), Code: **[https://github.com/mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit)**
+- 2024-10-14, **Fluctuation-dissipation relation of test masses in classical stochastic gravitational wave background**, Manjia Liang et.al., Paper: [http://arxiv.org/abs/2410.10722v1](http://arxiv.org/abs/2410.10722v1)
+- 2024-10-14, **Topographic forcing of submesoscale instability in the Antarctic Circumpolar Current**, Laur Ferris et.al., Paper: [http://arxiv.org/abs/2410.10721v1](http://arxiv.org/abs/2410.10721v1)
+- 2024-10-14, **Measurement of the nonlinear diffusion of the proton beam halo at the CERN LHC**, C. E. Montanari et.al., Paper: [http://arxiv.org/abs/2410.10708v1](http://arxiv.org/abs/2410.10708v1)
+- 2024-10-14, **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2410.10696v1](http://arxiv.org/abs/2410.10696v1)
 - 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
 - 2024-10-11, **Linear Convergence of Diffusion Models Under the Manifold Hypothesis**, Peter Potaptchik et.al., Paper: [http://arxiv.org/abs/2410.09046v1](http://arxiv.org/abs/2410.09046v1)
 - 2024-10-11, **Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**, Ling Yang et.al., Paper: [http://arxiv.org/abs/2410.09009v1](http://arxiv.org/abs/2410.09009v1), Code: **[https://github.com/yangling0818/semanticsds-3d](https://github.com/yangling0818/semanticsds-3d)**
@@ -11035,7 +11055,12 @@
 
 ## Diffusion_Segment
 
-- 2024-10-11, **Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2410.08894v1](http://arxiv.org/abs/2410.08894v1)
+- 2024-10-14, **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2410.10803v1](http://arxiv.org/abs/2410.10803v1), Code: **[https://github.com/YanjieZe/Improved-3D-Diffusion-Policy](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**
+- 2024-10-14, **High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity**, Qian Yu et.al., Paper: [http://arxiv.org/abs/2410.10105v1](http://arxiv.org/abs/2410.10105v1)
+- 2024-10-13, **Tracking the Morphological Evolution of Neuronal Dendrites by First-Passage Analysis**, Fabian H. Kreten et.al., Paper: [http://arxiv.org/abs/2410.09868v1](http://arxiv.org/abs/2410.09868v1)
+- 2024-10-13, **LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond**, Md Tanvir Islam et.al., Paper: [http://arxiv.org/abs/2410.09831v1](http://arxiv.org/abs/2410.09831v1), Code: **[https://github.com/tanvirnwu/trifuse](https://github.com/tanvirnwu/trifuse)**
+- 2024-10-13, **Intermediate Representations for Enhanced Text-To-Image Generation Using Diffusion Models**, Ran Galun et.al., Paper: [http://arxiv.org/abs/2410.09792v1](http://arxiv.org/abs/2410.09792v1), Code: **[https://github.com/rang1991/public-intermediate-semantics-for-generation](https://github.com/rang1991/public-intermediate-semantics-for-generation)**
+- 2024-10-11, **Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**, Moritz Piening et.al., Paper: [http://arxiv.org/abs/2410.08894v1](http://arxiv.org/abs/2410.08894v1), Code: **[https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)**
 - 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209v1](http://arxiv.org/abs/2410.08209v1)
 - 2024-10-12, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100v2](http://arxiv.org/abs/2410.08100v2), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
 - 2024-10-10, **Synthesizing Multi-Class Surgical Datasets with Anatomy-Aware Diffusion Models**, Danush Kumar Venkatesh et.al., Paper: [http://arxiv.org/abs/2410.07753v1](http://arxiv.org/abs/2410.07753v1), Code: **[https://gitlab.com/nct_tso_public/muli-class-image-synthesis](https://gitlab.com/nct_tso_public/muli-class-image-synthesis)**
