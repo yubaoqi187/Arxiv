@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-15, **High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**, Junhwa Hur et.al., Paper: [http://arxiv.org/abs/2410.11838v1](http://arxiv.org/abs/2410.11838v1)
+- 2024-10-15, **On the Effectiveness of Dataset Alignment for Fake Image Detection**, Anirudh Sundara Rajan et.al., Paper: [http://arxiv.org/abs/2410.11835v1](http://arxiv.org/abs/2410.11835v1)
+- 2024-10-15, **Bayesian Experimental Design via Contrastive Diffusions**, Jacopo Iollo et.al., Paper: [http://arxiv.org/abs/2410.11826v1](http://arxiv.org/abs/2410.11826v1)
+- 2024-10-15, **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, Luping Liu et.al., Paper: [http://arxiv.org/abs/2410.11817v1](http://arxiv.org/abs/2410.11817v1), Code: **[https://github.com/luping-liu/longalign](https://github.com/luping-liu/longalign)**
+- 2024-10-15, **SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.11815v1](http://arxiv.org/abs/2410.11815v1)
+- 2024-10-15, **Random walks with long-range memory on networks**, Ana Gabriela Guerrero-Estrada et.al., Paper: [http://arxiv.org/abs/2410.11814v1](http://arxiv.org/abs/2410.11814v1)
+- 2024-10-15, **Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2410.11795v1](http://arxiv.org/abs/2410.11795v1)
+- 2024-10-15, **Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach**, Emmanuel Gnabeyeu et.al., Paper: [http://arxiv.org/abs/2410.11789v1](http://arxiv.org/abs/2410.11789v1)
+- 2024-10-15, **Measure estimation on a manifold explored by a diffusion process**, Vincent Divol et.al., Paper: [http://arxiv.org/abs/2410.11777v1](http://arxiv.org/abs/2410.11777v1)
+- 2024-10-15, **Probabilistic Principles for Biophysics and Neuroscience: Entropy Production, Bayesian Mechanics & the Free-Energy Principle**, Lancelot Da Costa et.al., Paper: [http://arxiv.org/abs/2410.11735v1](http://arxiv.org/abs/2410.11735v1)
+- 2024-10-15, **Anomalously Enhanced Diffusivity of Moiré Excitons via Manipulating the Interplay with Correlated Electrons**, Li Yan et.al., Paper: [http://arxiv.org/abs/2410.11734v1](http://arxiv.org/abs/2410.11734v1)
+- 2024-10-15, **Patch-Based Diffusion Models Beat Whole-Image Models for Mismatched Distribution Inverse Problems**, Jason Hu et.al., Paper: [http://arxiv.org/abs/2410.11730v1](http://arxiv.org/abs/2410.11730v1)
+- 2024-10-15, **The Age of DDoScovery: An Empirical Comparison of Industry and Academic DDoS Assessments**, Raphael Hiesgen et.al., Paper: [http://arxiv.org/abs/2410.11708v1](http://arxiv.org/abs/2410.11708v1)
+- 2024-10-15, **Fully-discrete provably Lyapunov consistent discretizations for convection-diffusion-reaction PDE systems**, Rasha Al Jahdali et.al., Paper: [http://arxiv.org/abs/2410.11669v1](http://arxiv.org/abs/2410.11669v1)
+- 2024-10-15, **Feature-guided score diffusion for sampling conditional densities**, Zahra Kadkhodaie et.al., Paper: [http://arxiv.org/abs/2410.11646v1](http://arxiv.org/abs/2410.11646v1)
+- 2024-10-15, **Simultaneous Diffusion Sampling for Conditional LiDAR Generation**, Ryan Faulkner et.al., Paper: [http://arxiv.org/abs/2410.11628v1](http://arxiv.org/abs/2410.11628v1)
+- 2024-10-15, **Defining myocardial fiber bundle architecture in atrial digital twins**, Roberto Piersanti et.al., Paper: [http://arxiv.org/abs/2410.11601v1](http://arxiv.org/abs/2410.11601v1)
+- 2024-10-15, **DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment**, Wendi Chen et.al., Paper: [http://arxiv.org/abs/2410.11584v1](http://arxiv.org/abs/2410.11584v1)
+- 2024-10-15, **Riemann-Liouville fractional Brownian motion with random Hurst exponent**, Hubert Woszczek et.al., Paper: [http://arxiv.org/abs/2410.11546v1](http://arxiv.org/abs/2410.11546v1)
+- 2024-10-15, **A homogenised model for dispersive transport and sorption in a heterogeneous porous medium**, Lucy C Auton et.al., Paper: [http://arxiv.org/abs/2410.11519v1](http://arxiv.org/abs/2410.11519v1)
 - 2024-10-14, **Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**, Jingzhi Bao et.al., Paper: [http://arxiv.org/abs/2410.10821v1](http://arxiv.org/abs/2410.10821v1)
 - 2024-10-14, **Depth Any Video with Scalable Synthetic Data**, Honghui Yang et.al., Paper: [http://arxiv.org/abs/2410.10815v1](http://arxiv.org/abs/2410.10815v1)
 - 2024-10-14, **HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**, Haotian Tang et.al., Paper: [http://arxiv.org/abs/2410.10812v1](http://arxiv.org/abs/2410.10812v1), Code: **[https://github.com/mit-han-lab/hart](https://github.com/mit-han-lab/hart)**
@@ -11055,6 +11075,8 @@
 
 ## Diffusion_Segment
 
+- 2024-10-15, **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, Luping Liu et.al., Paper: [http://arxiv.org/abs/2410.11817v1](http://arxiv.org/abs/2410.11817v1), Code: **[https://github.com/luping-liu/longalign](https://github.com/luping-liu/longalign)**
+- 2024-10-15, **InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**, Jiayi Lin et.al., Paper: [http://arxiv.org/abs/2410.11473v1](http://arxiv.org/abs/2410.11473v1)
 - 2024-10-14, **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2410.10803v1](http://arxiv.org/abs/2410.10803v1), Code: **[https://github.com/YanjieZe/Improved-3D-Diffusion-Policy](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**
 - 2024-10-14, **High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity**, Qian Yu et.al., Paper: [http://arxiv.org/abs/2410.10105v1](http://arxiv.org/abs/2410.10105v1)
 - 2024-10-13, **Tracking the Morphological Evolution of Neuronal Dendrites by First-Passage Analysis**, Fabian H. Kreten et.al., Paper: [http://arxiv.org/abs/2410.09868v1](http://arxiv.org/abs/2410.09868v1)
