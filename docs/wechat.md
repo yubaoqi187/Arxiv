@@ -1,4 +1,4 @@
-> Updated on 2024.10.15
+> Updated on 2024.10.16
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2024-10-14, **TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**, Qingze et.al., Paper: [http://arxiv.org/abs/2410.10804v1](http://arxiv.org/abs/2410.10804v1), Code: **[https://github.com/tl-qz/trajdiffuse](https://github.com/tl-qz/trajdiffuse)**
 - 2024-10-14, **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2410.10803v1](http://arxiv.org/abs/2410.10803v1), Code: **[https://github.com/YanjieZe/Improved-3D-Diffusion-Policy](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**
 - 2024-10-14, **Boosting Camera Motion Control for Video Diffusion Transformers**, Soon Yau Cheong et.al., Paper: [http://arxiv.org/abs/2410.10802v1](http://arxiv.org/abs/2410.10802v1)
-- 2024-10-14, **MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.10798v1](http://arxiv.org/abs/2410.10798v1)
+- 2024-10-15, **MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.10798v2](http://arxiv.org/abs/2410.10798v2)
 - 2024-10-14, **Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**, Litu Rout et.al., Paper: [http://arxiv.org/abs/2410.10792v1](http://arxiv.org/abs/2410.10792v1)
 - 2024-10-14, **3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**, Eduardo R. Corral-Soto et.al., Paper: [http://arxiv.org/abs/2410.10782v1](http://arxiv.org/abs/2410.10782v1)
 - 2024-10-14, **ControlMM: Controllable Masked Motion Generation**, Ekkasit Pinyoanuntapong et.al., Paper: [http://arxiv.org/abs/2410.10780v1](http://arxiv.org/abs/2410.10780v1)
