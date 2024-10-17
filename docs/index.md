@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777v1](http://arxiv.org/abs/2410.12777v1)|null|
+|**2024-10-16**|**Should exponential integrators be used for advection-dominated problems?**|Lukas Einkemmer et.al.|[2410.12765v1](http://arxiv.org/abs/2410.12765v1)|null|
+|**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761v1](http://arxiv.org/abs/2410.12761v1)|null|
+|**2024-10-16**|**Impact of Ion Mobility on Electron Density and Temperature in Hypersonic Flows**|Felipe Martin Rodriguez Fuentes et.al.|[2410.12760v1](http://arxiv.org/abs/2410.12760v1)|null|
+|**2024-10-16**|**Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres**|Vikas Soni et.al.|[2410.12737v1](http://arxiv.org/abs/2410.12737v1)|null|
+|**2024-10-16**|**Smooth Geometry of Diffusion Algebras**|Andrés Rubiano et.al.|[2410.12701v1](http://arxiv.org/abs/2410.12701v1)|null|
+|**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700v1](http://arxiv.org/abs/2410.12700v1)|**[link](https://github.com/achernarwang/LiVO)**|
+|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696v1](http://arxiv.org/abs/2410.12696v1)|null|
+|**2024-10-16**|**Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**|Vishaal Krishnan et.al.|[2410.12665v1](http://arxiv.org/abs/2410.12665v1)|null|
+|**2024-10-16**|**Constrained Posterior Sampling: Time Series Generation with Hard Constraints**|Sai Shankar Narasimhan et.al.|[2410.12652v1](http://arxiv.org/abs/2410.12652v1)|null|
+|**2024-10-16**|**One Step Diffusion via Shortcut Models**|Kevin Frans et.al.|[2410.12557v1](http://arxiv.org/abs/2410.12557v1)|null|
+|**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542v1](http://arxiv.org/abs/2410.12542v1)|null|
+|**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530v1](http://arxiv.org/abs/2410.12530v1)|null|
+|**2024-10-16**|**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing**|Mingce Guo et.al.|[2410.12526v1](http://arxiv.org/abs/2410.12526v1)|null|
+|**2024-10-16**|**MING: A Functional Approach to Learning Molecular Generative Models**|Van Khoa Nguyen et.al.|[2410.12522v1](http://arxiv.org/abs/2410.12522v1)|null|
+|**2024-10-16**|**DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning**|Jiabao Wei et.al.|[2410.12501v1](http://arxiv.org/abs/2410.12501v1)|null|
+|**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490v1](http://arxiv.org/abs/2410.12490v1)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
+|**2024-10-16**|**Synthetic Augmentation for Anatomical Landmark Localization using DDPMs**|Arnela Hadzic et.al.|[2410.12489v1](http://arxiv.org/abs/2410.12489v1)|null|
+|**2024-10-16**|**Training Neural Samplers with Reverse Diffusive KL Divergence**|Jiajun He et.al.|[2410.12456v1](http://arxiv.org/abs/2410.12456v1)|null|
+|**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432v1](http://arxiv.org/abs/2410.12432v1)|null|
 |**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838v1](http://arxiv.org/abs/2410.11838v1)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835v1](http://arxiv.org/abs/2410.11835v1)|null|
 |**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826v1](http://arxiv.org/abs/2410.11826v1)|**[link](https://github.com/jcopo/ContrastiveDiffusions)**|
@@ -1544,6 +1564,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696v1](http://arxiv.org/abs/2410.12696v1)|null|
+|**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542v1](http://arxiv.org/abs/2410.12542v1)|null|
+|**2024-10-15**|**WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**|Chenghao Qian et.al.|[2410.12075v1](http://arxiv.org/abs/2410.12075v1)|null|
 |**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817v1](http://arxiv.org/abs/2410.11817v1)|**[link](https://github.com/luping-liu/longalign)**|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473v1](http://arxiv.org/abs/2410.11473v1)|null|
 |**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803v1](http://arxiv.org/abs/2410.10803v1)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
