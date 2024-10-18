@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-17, **Diffusing States and Matching Scores: A New Framework for Imitation Learning**, Runzhe Wu et.al., Paper: [http://arxiv.org/abs/2410.13855v1](http://arxiv.org/abs/2410.13855v1), Code: **[https://github.com/ziqian2000/smiling](https://github.com/ziqian2000/smiling)**
+- 2024-10-17, **Influence Functions for Scalable Data Attribution in Diffusion Models**, Bruno Mlodozeniec et.al., Paper: [http://arxiv.org/abs/2410.13850v1](http://arxiv.org/abs/2410.13850v1)
+- 2024-10-17, **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**, Yujie Wei et.al., Paper: [http://arxiv.org/abs/2410.13830v1](http://arxiv.org/abs/2410.13830v1)
+- 2024-10-17, **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**, Xiaodan Xing et.al., Paper: [http://arxiv.org/abs/2410.13823v1](http://arxiv.org/abs/2410.13823v1), Code: **[https://github.com/junzhin/dgm-vlc](https://github.com/junzhin/dgm-vlc)**
+- 2024-10-17, **Enhancing universal machine learning potentials with polarizable long-range interactions**, Rongzhi Gao et.al., Paper: [http://arxiv.org/abs/2410.13820v1](http://arxiv.org/abs/2410.13820v1)
+- 2024-10-17, **ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution**, Junhao Gu et.al., Paper: [http://arxiv.org/abs/2410.13807v1](http://arxiv.org/abs/2410.13807v1)
+- 2024-10-17, **Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation**, Da Long et.al., Paper: [http://arxiv.org/abs/2410.13794v1](http://arxiv.org/abs/2410.13794v1)
+- 2024-10-17, **DPLM-2: A Multimodal Diffusion Protein Language Model**, Xinyou Wang et.al., Paper: [http://arxiv.org/abs/2410.13782v1](http://arxiv.org/abs/2410.13782v1)
+- 2024-10-17, **Conductance in graphene through double laser barriers and magnetic field**, Rachid El Aitouni et.al., Paper: [http://arxiv.org/abs/2410.13771v1](http://arxiv.org/abs/2410.13771v1)
+- 2024-10-17, **Probing the Latent Hierarchical Structure of Data via Diffusion Models**, Antonio Sclocchi et.al., Paper: [http://arxiv.org/abs/2410.13770v1](http://arxiv.org/abs/2410.13770v1)
+- 2024-10-17, **Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers**, Yuchen Liang et.al., Paper: [http://arxiv.org/abs/2410.13746v1](http://arxiv.org/abs/2410.13746v1)
+- 2024-10-17, **Improved Convergence Rate for Diffusion Probabilistic Models**, Gen Li et.al., Paper: [http://arxiv.org/abs/2410.13738v1](http://arxiv.org/abs/2410.13738v1)
+- 2024-10-17, **DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**, Hanbo Cheng et.al., Paper: [http://arxiv.org/abs/2410.13726v1](http://arxiv.org/abs/2410.13726v1), Code: **[https://github.com/hanbo-cheng/dawn-pytorch](https://github.com/hanbo-cheng/dawn-pytorch)**
+- 2024-10-17, **Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion**, Yijun Liang et.al., Paper: [http://arxiv.org/abs/2410.13674v1](http://arxiv.org/abs/2410.13674v1), Code: **[https://github.com/tianyi-lab/DisCL](https://github.com/tianyi-lab/DisCL)**
+- 2024-10-17, **Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design**, Chenyu Wang et.al., Paper: [http://arxiv.org/abs/2410.13643v1](http://arxiv.org/abs/2410.13643v1), Code: **[https://github.com/chenyuwang-monica/drakes](https://github.com/chenyuwang-monica/drakes)**
+- 2024-10-17, **Robust time-DG finite and virtual elements for the time-dependent advection--diffusion equation**, Lourenço Beirão Da Veiga et.al., Paper: [http://arxiv.org/abs/2410.13635v1](http://arxiv.org/abs/2410.13635v1)
+- 2024-10-17, **LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning**, Yiming Shi et.al., Paper: [http://arxiv.org/abs/2410.13618v1](http://arxiv.org/abs/2410.13618v1), Code: **[https://github.com/skddj/loldu](https://github.com/skddj/loldu)**
+- 2024-10-17, **Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**, Yida Xiong et.al., Paper: [http://arxiv.org/abs/2410.13597v1](http://arxiv.org/abs/2410.13597v1)
+- 2024-10-17, **Galactic calibration and its long-term stability for the Auger Engineering Radio Array**, D. C. dos Santos et.al., Paper: [http://arxiv.org/abs/2410.13591v1](http://arxiv.org/abs/2410.13591v1)
+- 2024-10-17, **Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control**, Xinyi Yuan et.al., Paper: [http://arxiv.org/abs/2410.13586v1](http://arxiv.org/abs/2410.13586v1)
 - 2024-10-16, **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**, Hongcheng Gao et.al., Paper: [http://arxiv.org/abs/2410.12777v1](http://arxiv.org/abs/2410.12777v1)
 - 2024-10-16, **Should exponential integrators be used for advection-dominated problems?**, Lukas Einkemmer et.al., Paper: [http://arxiv.org/abs/2410.12765v1](http://arxiv.org/abs/2410.12765v1)
 - 2024-10-16, **SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**, Jaehong Yoon et.al., Paper: [http://arxiv.org/abs/2410.12761v1](http://arxiv.org/abs/2410.12761v1)
@@ -11095,9 +11115,11 @@
 
 ## Diffusion_Segment
 
+- 2024-10-17, **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**, Xiaodan Xing et.al., Paper: [http://arxiv.org/abs/2410.13823v1](http://arxiv.org/abs/2410.13823v1), Code: **[https://github.com/junzhin/dgm-vlc](https://github.com/junzhin/dgm-vlc)**
+- 2024-10-17, **Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?**, Che Liu et.al., Paper: [http://arxiv.org/abs/2410.13523v1](http://arxiv.org/abs/2410.13523v1)
 - 2024-10-16, **AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**, DuoSheng Chen et.al., Paper: [http://arxiv.org/abs/2410.12696v1](http://arxiv.org/abs/2410.12696v1)
 - 2024-10-16, **Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**, Kathrin Khadra et.al., Paper: [http://arxiv.org/abs/2410.12542v1](http://arxiv.org/abs/2410.12542v1)
-- 2024-10-15, **WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**, Chenghao Qian et.al., Paper: [http://arxiv.org/abs/2410.12075v1](http://arxiv.org/abs/2410.12075v1)
+- 2024-10-15, **WeatherDG: LLM-assisted Procedural Weather Generation for Domain-Generalized Semantic Segmentation**, Chenghao Qian et.al., Paper: [http://arxiv.org/abs/2410.12075v1](http://arxiv.org/abs/2410.12075v1), Code: **[https://github.com/Jumponthemoon/WeatherDG](https://github.com/Jumponthemoon/WeatherDG)**
 - 2024-10-15, **Improving Long-Text Alignment for Text-to-Image Diffusion Models**, Luping Liu et.al., Paper: [http://arxiv.org/abs/2410.11817v1](http://arxiv.org/abs/2410.11817v1), Code: **[https://github.com/luping-liu/longalign](https://github.com/luping-liu/longalign)**
 - 2024-10-15, **InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**, Jiayi Lin et.al., Paper: [http://arxiv.org/abs/2410.11473v1](http://arxiv.org/abs/2410.11473v1)
 - 2024-10-14, **Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2410.10803v1](http://arxiv.org/abs/2410.10803v1), Code: **[https://github.com/YanjieZe/Improved-3D-Diffusion-Policy](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**
