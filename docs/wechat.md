@@ -1,4 +1,4 @@
-> Updated on 2024.10.17
+> Updated on 2024.10.18
 
 ## Video_Classification
 
@@ -9558,7 +9558,7 @@
 - 2024-10-16, **MING: A Functional Approach to Learning Molecular Generative Models**, Van Khoa Nguyen et.al., Paper: [http://arxiv.org/abs/2410.12522v1](http://arxiv.org/abs/2410.12522v1)
 - 2024-10-16, **DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning**, Jiabao Wei et.al., Paper: [http://arxiv.org/abs/2410.12501v1](http://arxiv.org/abs/2410.12501v1)
 - 2024-10-16, **Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**, Yongxin Zhu et.al., Paper: [http://arxiv.org/abs/2410.12490v1](http://arxiv.org/abs/2410.12490v1), Code: **[https://github.com/DAMO-NLP-SG/DiGIT](https://github.com/DAMO-NLP-SG/DiGIT)**
-- 2024-10-16, **Synthetic Augmentation for Anatomical Landmark Localization using DDPMs**, Arnela Hadzic et.al., Paper: [http://arxiv.org/abs/2410.12489v1](http://arxiv.org/abs/2410.12489v1)
+- 2024-10-17, **Synthetic Augmentation for Anatomical Landmark Localization using DDPMs**, Arnela Hadzic et.al., Paper: [http://arxiv.org/abs/2410.12489v2](http://arxiv.org/abs/2410.12489v2)
 - 2024-10-16, **Training Neural Samplers with Reverse Diffusive KL Divergence**, Jiajun He et.al., Paper: [http://arxiv.org/abs/2410.12456v1](http://arxiv.org/abs/2410.12456v1)
 - 2024-10-16, **Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**, Pranjali Pathre et.al., Paper: [http://arxiv.org/abs/2410.12432v1](http://arxiv.org/abs/2410.12432v1)
 - 2024-10-15, **High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**, Junhwa Hur et.al., Paper: [http://arxiv.org/abs/2410.11838v1](http://arxiv.org/abs/2410.11838v1)
