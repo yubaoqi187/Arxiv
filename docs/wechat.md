@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-18, **A GARCH model with two volatility components and two driving factors**, Luca Vincenzo Ballestra et.al., Paper: [http://arxiv.org/abs/2410.14585v1](http://arxiv.org/abs/2410.14585v1)
+- 2024-10-18, **Semi-Implicit Lagrangian Voronoi Approximation for Compressible Viscous Fluid Flows**, Ondřej Kincl et.al., Paper: [http://arxiv.org/abs/2410.14564v1](http://arxiv.org/abs/2410.14564v1)
+- 2024-10-18, **Intrinsic cell-to-cell variance from experimental single-cell motility data**, Anton Klimek et.al., Paper: [http://arxiv.org/abs/2410.14561v1](http://arxiv.org/abs/2410.14561v1)
+- 2024-10-18, **Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**, Calvin-Khang Ta et.al., Paper: [http://arxiv.org/abs/2410.14540v1](http://arxiv.org/abs/2410.14540v1)
+- 2024-10-18, **Diffusion-based Semi-supervised Spectral Algorithm for Regression on Manifolds**, Weichun Xia et.al., Paper: [http://arxiv.org/abs/2410.14539v1](http://arxiv.org/abs/2410.14539v1)
+- 2024-10-18, **LEAD: Latent Realignment for Human Motion Diffusion**, Nefeli Andreou et.al., Paper: [http://arxiv.org/abs/2410.14508v1](http://arxiv.org/abs/2410.14508v1)
+- 2024-10-18, **Reinforcement Learning in Non-Markov Market-Making**, Luca Lalor et.al., Paper: [http://arxiv.org/abs/2410.14504v1](http://arxiv.org/abs/2410.14504v1)
+- 2024-10-18, **ANT: Adaptive Noise Schedule for Time Series Diffusion Models**, Seunghan Lee et.al., Paper: [http://arxiv.org/abs/2410.14488v1](http://arxiv.org/abs/2410.14488v1), Code: **[https://github.com/seunghan96/ant](https://github.com/seunghan96/ant)**
+- 2024-10-18, **DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation**, Junjie Wu et.al., Paper: [http://arxiv.org/abs/2410.14481v1](http://arxiv.org/abs/2410.14481v1)
+- 2024-10-18, **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**, Juliette Marrie et.al., Paper: [http://arxiv.org/abs/2410.14462v1](http://arxiv.org/abs/2410.14462v1)
+- 2024-10-18, **The role of magnetic boundaries in kinematic and self-consistent magnetohydrodynamic simulations of precession-driven dynamo action in a closed cylinder**, André Giesecke et.al., Paper: [http://arxiv.org/abs/2410.14449v1](http://arxiv.org/abs/2410.14449v1)
+- 2024-10-18, **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**, Rui Hu et.al., Paper: [http://arxiv.org/abs/2410.14429v1](http://arxiv.org/abs/2410.14429v1)
+- 2024-10-18, **Dynamic Negative Guidance of Diffusion Models**, Felix Koulischer et.al., Paper: [http://arxiv.org/abs/2410.14398v1](http://arxiv.org/abs/2410.14398v1)
+- 2024-10-18, **Spectral evolution of hot hybrid white dwarfs I. Spectral analysis**, Semih Filiz et.al., Paper: [http://arxiv.org/abs/2410.14345v1](http://arxiv.org/abs/2410.14345v1)
+- 2024-10-18, **HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**, Bo Cheng et.al., Paper: [http://arxiv.org/abs/2410.14324v1](http://arxiv.org/abs/2410.14324v1), Code: **[https://github.com/360cvgroup/hico_t2i](https://github.com/360cvgroup/hico_t2i)**
+- 2024-10-18, **ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**, Yuhao Wan et.al., Paper: [http://arxiv.org/abs/2410.14279v1](http://arxiv.org/abs/2410.14279v1)
+- 2024-10-18, **HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects**, Oliverio Theophilus Nathanael et.al., Paper: [http://arxiv.org/abs/2410.14265v1](http://arxiv.org/abs/2410.14265v1)
+- 2024-10-18, **ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**, Jimin Dai et.al., Paper: [http://arxiv.org/abs/2410.14247v1](http://arxiv.org/abs/2410.14247v1)
+- 2024-10-18, **Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers**, Runjia Li et.al., Paper: [http://arxiv.org/abs/2410.14237v1](http://arxiv.org/abs/2410.14237v1)
+- 2024-10-18, **Digital Humanities in the TIME-US Project: Richness and Contribution of Interdisciplinary Methods for Labour History**, Marie Puren et.al., Paper: [http://arxiv.org/abs/2410.14222v1](http://arxiv.org/abs/2410.14222v1)
 - 2024-10-17, **Diffusing States and Matching Scores: A New Framework for Imitation Learning**, Runzhe Wu et.al., Paper: [http://arxiv.org/abs/2410.13855v1](http://arxiv.org/abs/2410.13855v1), Code: **[https://github.com/ziqian2000/smiling](https://github.com/ziqian2000/smiling)**
 - 2024-10-17, **Influence Functions for Scalable Data Attribution in Diffusion Models**, Bruno Mlodozeniec et.al., Paper: [http://arxiv.org/abs/2410.13850v1](http://arxiv.org/abs/2410.13850v1)
 - 2024-10-17, **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**, Yujie Wei et.al., Paper: [http://arxiv.org/abs/2410.13830v1](http://arxiv.org/abs/2410.13830v1)
@@ -11115,6 +11135,9 @@
 
 ## Diffusion_Segment
 
+- 2024-10-18, **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**, Juliette Marrie et.al., Paper: [http://arxiv.org/abs/2410.14462v1](http://arxiv.org/abs/2410.14462v1)
+- 2024-10-18, **Change-point detection in anomalous-diffusion trajectories utilising machine-learning-based uncertainty estimates**, Henrik Seckler et.al., Paper: [http://arxiv.org/abs/2410.14206v1](http://arxiv.org/abs/2410.14206v1)
+- 2024-10-17, **Segmentation of Pediatric Brain Tumors using a Radiologically informed, Deep Learning Cascade**, Timothy Mulvany et.al., Paper: [http://arxiv.org/abs/2410.14020v1](http://arxiv.org/abs/2410.14020v1)
 - 2024-10-17, **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**, Xiaodan Xing et.al., Paper: [http://arxiv.org/abs/2410.13823v1](http://arxiv.org/abs/2410.13823v1), Code: **[https://github.com/junzhin/dgm-vlc](https://github.com/junzhin/dgm-vlc)**
 - 2024-10-17, **Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?**, Che Liu et.al., Paper: [http://arxiv.org/abs/2410.13523v1](http://arxiv.org/abs/2410.13523v1)
 - 2024-10-16, **AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**, DuoSheng Chen et.al., Paper: [http://arxiv.org/abs/2410.12696v1](http://arxiv.org/abs/2410.12696v1)
