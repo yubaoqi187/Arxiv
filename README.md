@@ -1,4 +1,4 @@
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 
 ## Diffusion
 
@@ -1614,7 +1614,7 @@
 |**2024-10-14**|**High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity**|Qian Yu et.al.|[2410.10105v1](http://arxiv.org/abs/2410.10105v1)|null|
 |**2024-10-13**|**Tracking the Morphological Evolution of Neuronal Dendrites by First-Passage Analysis**|Fabian H. Kreten et.al.|[2410.09868v1](http://arxiv.org/abs/2410.09868v1)|null|
 |**2024-10-13**|**LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond**|Md Tanvir Islam et.al.|[2410.09831v1](http://arxiv.org/abs/2410.09831v1)|**[link](https://github.com/tanvirnwu/trifuse)**|
-|**2024-10-13**|**Intermediate Representations for Enhanced Text-To-Image Generation Using Diffusion Models**|Ran Galun et.al.|[2410.09792v1](http://arxiv.org/abs/2410.09792v1)|**[link](https://github.com/rang1991/public-intermediate-semantics-for-generation)**|
+|**2024-10-20**|**Generating Intermediate Representations for Compositional Text-To-Image Generation**|Ran Galun et.al.|[2410.09792v2](http://arxiv.org/abs/2410.09792v2)|**[link](https://github.com/rang1991/public-intermediate-semantics-for-generation)**|
 |**2024-10-11**|**Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**|Moritz Piening et.al.|[2410.08894v1](http://arxiv.org/abs/2410.08894v1)|**[link](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)**|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209v1](http://arxiv.org/abs/2410.08209v1)|null|
 |**2024-10-12**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100v2](http://arxiv.org/abs/2410.08100v2)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
