@@ -1,4 +1,4 @@
-> Updated on 2024.10.22
+> Updated on 2024.10.23
 
 ## Video_Classification
 
@@ -9546,7 +9546,7 @@
 - 2024-10-21, **Role of obstacle softness in the diffusive behavior of active Particles**, Ankit Gupta et.al., Paper: [http://arxiv.org/abs/2410.16223v1](http://arxiv.org/abs/2410.16223v1)
 - 2024-10-21, **A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**, Simon Deltadahl et.al., Paper: [http://arxiv.org/abs/2410.16177v1](http://arxiv.org/abs/2410.16177v1)
 - 2024-10-21, **Validity of Prandtl's boundary layer from the Boltzmann theory**, Chanwoo Kim et.al., Paper: [http://arxiv.org/abs/2410.16160v1](http://arxiv.org/abs/2410.16160v1)
-- 2024-10-21, **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2410.16152v1](http://arxiv.org/abs/2410.16152v1)
+- 2024-10-22, **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2410.16152v2](http://arxiv.org/abs/2410.16152v2)
 - 2024-10-21, **Universal Linear Response of the Mean First-Passage Time**, Tommer D. Keidar et.al., Paper: [http://arxiv.org/abs/2410.16129v1](http://arxiv.org/abs/2410.16129v1)
 - 2024-10-21, **SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation**, Xinyi Zhou et.al., Paper: [http://arxiv.org/abs/2410.16119v1](http://arxiv.org/abs/2410.16119v1)
 - 2024-10-21, **Continuous Speech Synthesis using per-token Latent Diffusion**, Arnon Turetzky et.al., Paper: [http://arxiv.org/abs/2410.16048v1](http://arxiv.org/abs/2410.16048v1)
@@ -9554,7 +9554,7 @@
 - 2024-10-21, **Synergy of turbulence and thermo-diffusive effects on the intermittent boundary-layer flashback of swirling flames**, Shiming Zhang et.al., Paper: [http://arxiv.org/abs/2410.15988v1](http://arxiv.org/abs/2410.15988v1)
 - 2024-10-21, **A Critical Drift-Diffusion Equation: Connections to the Diffusion on $\textbf{SL}(2)$**, Peter Morfe et.al., Paper: [http://arxiv.org/abs/2410.15983v1](http://arxiv.org/abs/2410.15983v1)
 - 2024-10-21, **Diffusion Transformer Policy**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2410.15959v1](http://arxiv.org/abs/2410.15959v1)
-- 2024-10-21, **CamI2V: Camera-Controlled Image-to-Video Diffusion Model**, Guangcong Zheng et.al., Paper: [http://arxiv.org/abs/2410.15957v1](http://arxiv.org/abs/2410.15957v1), Code: **[https://github.com/ZGCTroy/CamI2V](https://github.com/ZGCTroy/CamI2V)**
+- 2024-10-22, **CamI2V: Camera-Controlled Image-to-Video Diffusion Model**, Guangcong Zheng et.al., Paper: [http://arxiv.org/abs/2410.15957v2](http://arxiv.org/abs/2410.15957v2), Code: **[https://github.com/ZGCTroy/CamI2V](https://github.com/ZGCTroy/CamI2V)**
 - 2024-10-21, **The mutual arrangement of Wright-Fisher diffusion path measures and its impact on parameter estimation**, Paul A. Jenkins et.al., Paper: [http://arxiv.org/abs/2410.15955v1](http://arxiv.org/abs/2410.15955v1)
 - 2024-10-21, **On the nonlocal Cahn-Hilliard equation with nonlocal dynamic boundary condition and singular potential: well-posedness, regularity and asymptotic limits**, Maoyin Lv et.al., Paper: [http://arxiv.org/abs/2410.15924v1](http://arxiv.org/abs/2410.15924v1)
 - 2024-10-21, **Integration of Cobalt Ferromagnetic Control Gates for Electrical and Magnetic Manipulation of Semiconductor Quantum Dots**, Fabio Bersano et.al., Paper: [http://arxiv.org/abs/2410.15862v1](http://arxiv.org/abs/2410.15862v1)
