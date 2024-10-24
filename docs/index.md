@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Ergodic Risk Sensitive Control of Markovian Multiclass Many-Server Queues with Abandonment**|Sumith Reddy Anugu et.al.|[2410.17205v1](http://arxiv.org/abs/2410.17205v1)|null|
-|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173v1](http://arxiv.org/abs/2410.17173v1)|null|
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173v1](http://arxiv.org/abs/2410.17173v1)|**[link](https://github.com/flagshippioneering/pi-rldif)**|
 |**2024-10-22**|**On Lyapunov Conditions for the Well-Posedness of McKean-Vlasov Stochastic Differential Delay Equations**|Dan Noelck et.al.|[2410.17120v1](http://arxiv.org/abs/2410.17120v1)|null|
 |**2024-10-22**|**Dust ring and gap formation by gas flow induced by low-mass planets embedded in protoplanetary disks $\rm II$. Time-dependent model**|Ayumu Kuwahara et.al.|[2410.16996v1](http://arxiv.org/abs/2410.16996v1)|null|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942v1](http://arxiv.org/abs/2410.16942v1)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2024-10-22**|**One-Step Diffusion Distillation through Score Implicit Matching**|Weijian Luo et.al.|[2410.16794v1](http://arxiv.org/abs/2410.16794v1)|null|
 |**2024-10-22**|**Structure, dynamics and phase transitions in electric field assembled colloidal crystals and glasses**|Indira Barros et.al.|[2410.16792v1](http://arxiv.org/abs/2410.16792v1)|null|
 |**2024-10-22**|**Annotation-Free MIDI-to-Audio Synthesis via Concatenative Synthesis and Generative Refinement**|Osamu Take et.al.|[2410.16785v1](http://arxiv.org/abs/2410.16785v1)|null|
-|**2024-10-22**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776v1](http://arxiv.org/abs/2410.16776v1)|null|
+|**2024-10-23**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776v2](http://arxiv.org/abs/2410.16776v2)|null|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272v1](http://arxiv.org/abs/2410.16272v1)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|null|
 |**2024-10-21**|**Role of obstacle softness in the diffusive behavior of active Particles**|Ankit Gupta et.al.|[2410.16223v1](http://arxiv.org/abs/2410.16223v1)|null|
