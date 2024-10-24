@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-10-23, **DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Hengwei Bian et.al., Paper: [http://arxiv.org/abs/2410.18084v1](http://arxiv.org/abs/2410.18084v1)
+- 2024-10-23, **Prioritized Generative Replay**, Renhao Wang et.al., Paper: [http://arxiv.org/abs/2410.18082v1](http://arxiv.org/abs/2410.18082v1)
+- 2024-10-23, **Training Free Guided Flow Matching with Optimal Control**, Luran Wang et.al., Paper: [http://arxiv.org/abs/2410.18070v1](http://arxiv.org/abs/2410.18070v1)
+- 2024-10-23, **EON: A practical energy-preserving rough diffuse BRDF**, Jamie Portsmouth et.al., Paper: [http://arxiv.org/abs/2410.18026v1](http://arxiv.org/abs/2410.18026v1)
+- 2024-10-23, **Random space-time sampling and reconstruction of sparse bandlimited graph diffusion field**, Longxiu Huang et.al., Paper: [http://arxiv.org/abs/2410.18005v1](http://arxiv.org/abs/2410.18005v1)
+- 2024-10-23, **Optical Generative Models**, Shiqi Chen et.al., Paper: [http://arxiv.org/abs/2410.17970v1](http://arxiv.org/abs/2410.17970v1)
+- 2024-10-23, **A Wavelet Diffusion GAN for Image Super-Resolution**, Lorenzo Aloisi et.al., Paper: [http://arxiv.org/abs/2410.17966v1](http://arxiv.org/abs/2410.17966v1)
+- 2024-10-23, **Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**, Wenfang Yao et.al., Paper: [http://arxiv.org/abs/2410.17918v1](http://arxiv.org/abs/2410.17918v1)
+- 2024-10-23, **Scaling Diffusion Language Models via Adaptation from Autoregressive Models**, Shansan Gong et.al., Paper: [http://arxiv.org/abs/2410.17891v1](http://arxiv.org/abs/2410.17891v1), Code: **[https://github.com/hkunlp/diffullama](https://github.com/hkunlp/diffullama)**
+- 2024-10-23, **Non-intrusive Speech Quality Assessment with Diffusion Models Trained on Clean Speech**, Danilo de Oliveira et.al., Paper: [http://arxiv.org/abs/2410.17834v1](http://arxiv.org/abs/2410.17834v1)
+- 2024-10-23, **PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**, Feiyan Feng et.al., Paper: [http://arxiv.org/abs/2410.17812v1](http://arxiv.org/abs/2410.17812v1)
+- 2024-10-23, **A coupling between random walks in random environments and Brox's diffusion**, Xi Geng et.al., Paper: [http://arxiv.org/abs/2410.17776v1](http://arxiv.org/abs/2410.17776v1)
+- 2024-10-23, **Hybrid LES/RANS for flows including separation: A new wall function using Machine Learning based on binary search trees**, Lars Davidson et.al., Paper: [http://arxiv.org/abs/2410.17767v1](http://arxiv.org/abs/2410.17767v1)
+- 2024-10-23, **Critical transitions in pancreatic islets**, Dean Korošak et.al., Paper: [http://arxiv.org/abs/2410.17756v1](http://arxiv.org/abs/2410.17756v1)
+- 2024-10-23, **AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution**, Yuanting Fan et.al., Paper: [http://arxiv.org/abs/2410.17752v1](http://arxiv.org/abs/2410.17752v1)
+- 2024-10-23, **VISAGE: Video Synthesis using Action Graphs for Surgery**, Yousef Yeganeh et.al., Paper: [http://arxiv.org/abs/2410.17751v1](http://arxiv.org/abs/2410.17751v1)
+- 2024-10-23, **The identification of diffusions from imperfect observations**, Dan Crisan et.al., Paper: [http://arxiv.org/abs/2410.17737v1](http://arxiv.org/abs/2410.17737v1)
+- 2024-10-23, **Deep Generative Models for 3D Medical Image Synthesis**, Paul Friedrich et.al., Paper: [http://arxiv.org/abs/2410.17664v1](http://arxiv.org/abs/2410.17664v1)
+- 2024-10-23, **Time-varying Graph Signal Estimation via Dynamic Multi-hop Topologies**, Yi Yan et.al., Paper: [http://arxiv.org/abs/2410.17625v1](http://arxiv.org/abs/2410.17625v1)
+- 2024-10-23, **Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation**, Muquan Li et.al., Paper: [http://arxiv.org/abs/2410.17606v1](http://arxiv.org/abs/2410.17606v1), Code: **[https://github.com/slgsp/dda](https://github.com/slgsp/dda)**
 - 2024-10-22, **Ergodic Risk Sensitive Control of Markovian Multiclass Many-Server Queues with Abandonment**, Sumith Reddy Anugu et.al., Paper: [http://arxiv.org/abs/2410.17205v1](http://arxiv.org/abs/2410.17205v1)
 - 2024-10-22, **Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**, Yasha Ektefaie et.al., Paper: [http://arxiv.org/abs/2410.17173v1](http://arxiv.org/abs/2410.17173v1), Code: **[https://github.com/flagshippioneering/pi-rldif](https://github.com/flagshippioneering/pi-rldif)**
 - 2024-10-22, **On Lyapunov Conditions for the Well-Posedness of McKean-Vlasov Stochastic Differential Delay Equations**, Dan Noelck et.al., Paper: [http://arxiv.org/abs/2410.17120v1](http://arxiv.org/abs/2410.17120v1)
@@ -11175,6 +11195,7 @@
 
 ## Diffusion_Segment
 
+- 2024-10-23, **PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**, Feiyan Feng et.al., Paper: [http://arxiv.org/abs/2410.17812v1](http://arxiv.org/abs/2410.17812v1)
 - 2024-10-22, **Polyp-E: Benchmarking the Robustness of Deep Segmentation Models via Polyp Editing**, Runpu Wei et.al., Paper: [http://arxiv.org/abs/2410.16732v1](http://arxiv.org/abs/2410.16732v1)
 - 2024-10-22, **NucleiMix: Realistic Data Augmentation for Nuclei Instance Segmentation**, Jiamu Wang et.al., Paper: [http://arxiv.org/abs/2410.16671v1](http://arxiv.org/abs/2410.16671v1)
 - 2024-10-18, **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**, Juliette Marrie et.al., Paper: [http://arxiv.org/abs/2410.14462v1](http://arxiv.org/abs/2410.14462v1)
