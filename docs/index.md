@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 
 ## Diffusion
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-10-28**|**Trajectory Flow Matching with Applications to Clinical Time Series Modeling**|Xi Zhang et.al.|[2410.21154v1](http://arxiv.org/abs/2410.21154v1)|**[link](https://github.com/nzhangx/trajectoryflowmatching)**|
 |**2024-10-28**|**Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**|Zhihao Zhao et.al.|[2410.21130v1](http://arxiv.org/abs/2410.21130v1)|null|
 |**2024-10-28**|**Tree-Wasserstein Distance for High Dimensional Data with a Latent Feature Hierarchy**|Ya-Wei Eileen Lin et.al.|[2410.21107v1](http://arxiv.org/abs/2410.21107v1)|null|
-|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088v1](http://arxiv.org/abs/2410.21088v1)|null|
+|**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088v1](http://arxiv.org/abs/2410.21088v1)|**[link](https://github.com/liwd190019/shallow-diffuse)**|
 |**2024-10-28**|**Confined active particles with spatially dependent Lorentz force: an odd twist to the "best Fokker-Planck approximation"**|René Wittmann et.al.|[2410.21087v1](http://arxiv.org/abs/2410.21087v1)|null|
 |**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072v1](http://arxiv.org/abs/2410.21072v1)|null|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061v1](http://arxiv.org/abs/2410.21061v1)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-28**|**Graph Based Traffic Analysis and Delay Prediction**|Gabriele Borg et.al.|[2410.21028v1](http://arxiv.org/abs/2410.21028v1)|null|
 |**2024-10-28**|**An Evaluation of Different Numerical Methods to Calculate the Pitch-angle Diffusion Coefficient from Full-orbit Simulations: disentangling a rope of sand**|J. P. van den Berg et.al.|[2410.21001v1](http://arxiv.org/abs/2410.21001v1)|null|
 |**2024-10-28**|**Vibrational methods for the symmetrization of asymmetric laminar viscous fluid flow in a plane diffuser**|Alexey I. Fedyushkin et.al.|[2410.20995v1](http://arxiv.org/abs/2410.20995v1)|null|
-|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v1](http://arxiv.org/abs/2410.20981v1)|null|
+|**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981v2](http://arxiv.org/abs/2410.20981v2)|null|
 |**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972v1](http://arxiv.org/abs/2410.20972v1)|null|
 |**2024-10-28**|**Numerical Solution of linear drift-diffusion and pure drift equations on one-dimensional graphs**|Beatrice Crippa et.al.|[2410.20931v1](http://arxiv.org/abs/2410.20931v1)|null|
 |**2024-10-28**|**Relativistic reconnection with effective resistivity: I. Dynamics and reconnection rate**|M. Bugli et.al.|[2410.20924v1](http://arxiv.org/abs/2410.20924v1)|null|
