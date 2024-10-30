@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273v1](http://arxiv.org/abs/2410.22273v1)|null|
+|**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205v1](http://arxiv.org/abs/2410.22205v1)|null|
+|**2024-10-29**|**Confinement of relativistic particles in the vicinity of accelerators: a key for understanding the anomalies in secondary cosmic rays**|Rui-zhi Yang et.al.|[2410.22199v1](http://arxiv.org/abs/2410.22199v1)|null|
+|**2024-10-29**|**An alternating low-rank projection approach for partial differential equations with random inputs**|Guanjie Wang et.al.|[2410.22183v1](http://arxiv.org/abs/2410.22183v1)|null|
+|**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149v1](http://arxiv.org/abs/2410.22149v1)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
+|**2024-10-29**|**Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**|Qi Zhang et.al.|[2410.22141v1](http://arxiv.org/abs/2410.22141v1)|null|
+|**2024-10-29**|**Thermodynamic uncertainty relation for systems with active Ornstein--Uhlenbeck particles**|Hyeong-Tark Han et.al.|[2410.22126v1](http://arxiv.org/abs/2410.22126v1)|null|
+|**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099v1](http://arxiv.org/abs/2410.22099v1)|null|
+|**2024-10-29**|**Generalized arcsine laws for a sluggish random walker with subdiffusive growth**|Giuseppe Del Vecchio Del Vecchio et.al.|[2410.22097v1](http://arxiv.org/abs/2410.22097v1)|null|
+|**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074v1](http://arxiv.org/abs/2410.22074v1)|null|
+|**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059v1](http://arxiv.org/abs/2410.22059v1)|null|
+|**2024-10-29**|**Wasserstein asymptotics for empirical measures of diffusions on four dimensional closed manifolds**|Dario Trevisan et.al.|[2410.21981v1](http://arxiv.org/abs/2410.21981v1)|null|
+|**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967v1](http://arxiv.org/abs/2410.21967v1)|null|
+|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966v1](http://arxiv.org/abs/2410.21966v1)|null|
+|**2024-10-29**|**Inference of a Susceptible-Infectious stochastic model**|Giuseppina Albano et.al.|[2410.21954v1](http://arxiv.org/abs/2410.21954v1)|null|
+|**2024-10-29**|**CT to PET Translation: A Large-scale Dataset and Domain-Knowledge-Guided Diffusion Approach**|Dac Thai Nguyen et.al.|[2410.21932v1](http://arxiv.org/abs/2410.21932v1)|**[link](https://github.com/thanhhff/CPDM)**|
+|**2024-10-29**|**Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation**|Muskan Gupta et.al.|[2410.21892v1](http://arxiv.org/abs/2410.21892v1)|null|
+|**2024-10-29**|**Diffusion as Reasoning: Enhancing Object Goal Navigation with LLM-Biased Diffusion Model**|Yiming Ji et.al.|[2410.21842v1](http://arxiv.org/abs/2410.21842v1)|null|
+|**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826v1](http://arxiv.org/abs/2410.21826v1)|**[link](https://github.com/Ahn-Ssu/VCM)**|
+|**2024-10-29**|**HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion**|Yu Zeng et.al.|[2410.21789v1](http://arxiv.org/abs/2410.21789v1)|null|
 |**2024-10-28**|**On Inductive Biases That Enable Generalization of Diffusion Transformers**|Jie An et.al.|[2410.21273v1](http://arxiv.org/abs/2410.21273v1)|null|
 |**2024-10-28**|**One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**|Zhendong Wang et.al.|[2410.21257v1](http://arxiv.org/abs/2410.21257v1)|null|
 |**2024-10-28**|**On learning higher-order cumulants in diffusion models**|Gert Aarts et.al.|[2410.21212v1](http://arxiv.org/abs/2410.21212v1)|null|
@@ -1724,6 +1744,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059v1](http://arxiv.org/abs/2410.22059v1)|null|
+|**2024-10-29**|**DiffSTR: Controlled Diffusion Models for Scene Text Removal**|Sanhita Pathak et.al.|[2410.21721v1](http://arxiv.org/abs/2410.21721v1)|null|
+|**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708v1](http://arxiv.org/abs/2410.21708v1)|**[link](https://github.com/xiarho/madm)**|
+|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638v1](http://arxiv.org/abs/2410.21638v1)|null|
 |**2024-10-18**|**Automating Video Thumbnails Selection and Generation with Multimodal and Multistage Analysis**|Elia Fantini et.al.|[2410.19825v1](http://arxiv.org/abs/2410.19825v1)|null|
 |**2024-10-24**|**SMITE: Segment Me In TimE**|Amirhossein Alimohammadi et.al.|[2410.18538v1](http://arxiv.org/abs/2410.18538v1)|**[link](https://github.com/alimohammadiamirhossein/smite)**|
 |**2024-10-23**|**PGDiffSeg: Prior-Guided Denoising Diffusion Model with Parameter-Shared Attention for Breast Cancer Segmentation**|Feiyan Feng et.al.|[2410.17812v1](http://arxiv.org/abs/2410.17812v1)|null|
