@@ -1,4 +1,4 @@
-> Updated on 2024.10.30
+> Updated on 2024.10.31
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2024-10-29, **An alternating low-rank projection approach for partial differential equations with random inputs**, Guanjie Wang et.al., Paper: [http://arxiv.org/abs/2410.22183v1](http://arxiv.org/abs/2410.22183v1)
 - 2024-10-29, **Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**, Raman Dutt et.al., Paper: [http://arxiv.org/abs/2410.22149v1](http://arxiv.org/abs/2410.22149v1), Code: **[https://github.com/raman1121/diffusion_memorization_hpo](https://github.com/raman1121/diffusion_memorization_hpo)**
 - 2024-10-29, **Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**, Qi Zhang et.al., Paper: [http://arxiv.org/abs/2410.22141v1](http://arxiv.org/abs/2410.22141v1)
-- 2024-10-29, **Thermodynamic uncertainty relation for systems with active Ornstein--Uhlenbeck particles**, Hyeong-Tark Han et.al., Paper: [http://arxiv.org/abs/2410.22126v1](http://arxiv.org/abs/2410.22126v1)
+- 2024-10-30, **Thermodynamic uncertainty relation for systems with active Ornstein-Uhlenbeck particles**, Hyeong-Tark Han et.al., Paper: [http://arxiv.org/abs/2410.22126v2](http://arxiv.org/abs/2410.22126v2)
 - 2024-10-29, **TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**, Yui Lo et.al., Paper: [http://arxiv.org/abs/2410.22099v1](http://arxiv.org/abs/2410.22099v1)
 - 2024-10-29, **Generalized arcsine laws for a sluggish random walker with subdiffusive growth**, Giuseppe Del Vecchio Del Vecchio et.al., Paper: [http://arxiv.org/abs/2410.22097v1](http://arxiv.org/abs/2410.22097v1)
 - 2024-10-29, **Variational inference for pile-up removal at hadron colliders with diffusion models**, Malte Algren et.al., Paper: [http://arxiv.org/abs/2410.22074v1](http://arxiv.org/abs/2410.22074v1)
