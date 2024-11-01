@@ -1,4 +1,4 @@
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 
 ## Diffusion
 
@@ -20,8 +20,8 @@
 |**2024-10-30**|**Graph Integration for Diffusion-Based Manifold Alignment**|Jake S. Rhodes et.al.|[2410.22978v1](http://arxiv.org/abs/2410.22978v1)|null|
 |**2024-10-30**|**Very-high-energy gamma rays from cosmic rays escaping from Galactic black hole binaries**|Yutaka Ohira et.al.|[2410.22976v1](http://arxiv.org/abs/2410.22976v1)|null|
 |**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971v1](http://arxiv.org/abs/2410.22971v1)|null|
-|**2024-10-30**|**Bi-phasic lithiation/delithiation dynamics in Li-ion batteries: application of the Smoothed Boundary Method in the phase field model**|Ahmed Yousfi et.al.|[2410.22970v1](http://arxiv.org/abs/2410.22970v1)|null|
-|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v1](http://arxiv.org/abs/2410.22938v1)|**[link](https://github.com/lokol5579/DiffLight-release)**|
+|**2024-10-31**|**Bi-phasic lithiation/delithiation dynamics in Li-ion batteries: application of the Smoothed Boundary Method in the phase field model**|Ahmed Yousfi et.al.|[2410.22970v2](http://arxiv.org/abs/2410.22970v2)|null|
+|**2024-10-31**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v2](http://arxiv.org/abs/2410.22938v2)|**[link](https://github.com/lokol5579/DiffLight-release)**|
 |**2024-10-30**|**Stability analysis of irreversible chemical networks with boundary equilibria**|Thi Lien Nguyen et.al.|[2410.22928v1](http://arxiv.org/abs/2410.22928v1)|null|
 |**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901v1](http://arxiv.org/abs/2410.22901v1)|**[link](https://github.com/HelloVision/HelloMeme)**|
 |**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273v1](http://arxiv.org/abs/2410.22273v1)|null|
