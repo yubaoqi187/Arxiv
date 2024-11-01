@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|null|
+|**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203v1](http://arxiv.org/abs/2410.24203v1)|**[link](https://github.com/zju3dv/diffpano)**|
+|**2024-10-31**|**AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties**|Xiayan Ji et.al.|[2410.24178v1](http://arxiv.org/abs/2410.24178v1)|null|
+|**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160v1](http://arxiv.org/abs/2410.24160v1)|null|
+|**2024-10-31**|**Scaling Concept With Text-Guided Diffusion Models**|Chao Huang et.al.|[2410.24151v1](http://arxiv.org/abs/2410.24151v1)|null|
+|**2024-10-31**|**Nonlinear Two-Level Schwarz Methods: A Parallel Implementation in FROSch**|Alexander Heinlein et.al.|[2410.24138v1](http://arxiv.org/abs/2410.24138v1)|null|
+|**2024-10-31**|**Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**|Ludovico Cademartiri et.al.|[2410.24137v1](http://arxiv.org/abs/2410.24137v1)|null|
+|**2024-10-31**|**3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing**|Binghao Huang et.al.|[2410.24091v1](http://arxiv.org/abs/2410.24091v1)|null|
+|**2024-10-31**|**Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region**|Anna Trindade Falcao et.al.|[2410.24061v1](http://arxiv.org/abs/2410.24061v1)|null|
+|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060v1](http://arxiv.org/abs/2410.24060v1)|null|
+|**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037v1](http://arxiv.org/abs/2410.24037v1)|null|
+|**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012v1](http://arxiv.org/abs/2410.24012v1)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
+|**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v1](http://arxiv.org/abs/2410.24006v1)|null|
+|**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994v1](http://arxiv.org/abs/2410.23994v1)|null|
+|**2024-10-31**|**Stochastic Reconstruction of Gappy Lagrangian Turbulent Signals by Conditional Diffusion Models**|Tianyi Li et.al.|[2410.23971v1](http://arxiv.org/abs/2410.23971v1)|null|
+|**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962v1](http://arxiv.org/abs/2410.23962v1)|null|
+|**2024-10-31**|**A Derivative-Orthogonal Wavelet Multiscale Method for 1D Elliptic Equations with Rough Diffusion Coefficients**|Qiwei Feng et.al.|[2410.23945v1](http://arxiv.org/abs/2410.23945v1)|null|
+|**2024-10-31**|**Hall Transport of Charged Particles in Magnetic Disk Array**|Linlin An et.al.|[2410.23930v1](http://arxiv.org/abs/2410.23930v1)|null|
+|**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905v1](http://arxiv.org/abs/2410.23905v1)|**[link](https://github.com/leiii-cao/text-difuse)**|
+|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893v1](http://arxiv.org/abs/2410.23893v1)|null|
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287v1](http://arxiv.org/abs/2410.23287v1)|null|
 |**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285v1](http://arxiv.org/abs/2410.23285v1)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280v1](http://arxiv.org/abs/2410.23280v1)|null|
@@ -1760,6 +1780,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962v1](http://arxiv.org/abs/2410.23962v1)|null|
+|**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905v1](http://arxiv.org/abs/2410.23905v1)|**[link](https://github.com/leiii-cao/text-difuse)**|
+|**2024-10-31**|**Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models**|Pedro Morão et.al.|[2410.23835v1](http://arxiv.org/abs/2410.23835v1)|**[link](https://github.com/pedromorao/counterfactual-mri-data-augmentation)**|
+|**2024-10-31**|**Denoising Diffusion Models for Anomaly Localization in Medical Images**|Cosmin I. Bercea et.al.|[2410.23834v1](http://arxiv.org/abs/2410.23834v1)|null|
+|**2024-10-30**|**Exploiting Phonological Similarities between African Languages to achieve Speech to Speech Translation**|Peter Ochieng et.al.|[2410.23323v1](http://arxiv.org/abs/2410.23323v1)|null|
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287v1](http://arxiv.org/abs/2410.23287v1)|null|
 |**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059v1](http://arxiv.org/abs/2410.22059v1)|null|
 |**2024-10-29**|**DiffSTR: Controlled Diffusion Models for Scene Text Removal**|Sanhita Pathak et.al.|[2410.21721v1](http://arxiv.org/abs/2410.21721v1)|null|
