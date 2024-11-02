@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 
 ## Diffusion
 
@@ -17,7 +17,7 @@ layout: default
 |**2024-10-31**|**Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**|Ludovico Cademartiri et.al.|[2410.24137v1](http://arxiv.org/abs/2410.24137v1)|null|
 |**2024-10-31**|**3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing**|Binghao Huang et.al.|[2410.24091v1](http://arxiv.org/abs/2410.24091v1)|null|
 |**2024-10-31**|**Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region**|Anna Trindade Falcao et.al.|[2410.24061v1](http://arxiv.org/abs/2410.24061v1)|null|
-|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060v1](http://arxiv.org/abs/2410.24060v1)|null|
+|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060v1](http://arxiv.org/abs/2410.24060v1)|**[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**|
 |**2024-10-31**|**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**|Sunjae Yoon et.al.|[2410.24037v1](http://arxiv.org/abs/2410.24037v1)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012v1](http://arxiv.org/abs/2410.24012v1)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
 |**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006v1](http://arxiv.org/abs/2410.24006v1)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2024-10-31**|**A Derivative-Orthogonal Wavelet Multiscale Method for 1D Elliptic Equations with Rough Diffusion Coefficients**|Qiwei Feng et.al.|[2410.23945v1](http://arxiv.org/abs/2410.23945v1)|null|
 |**2024-10-31**|**Hall Transport of Charged Particles in Magnetic Disk Array**|Linlin An et.al.|[2410.23930v1](http://arxiv.org/abs/2410.23930v1)|null|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905v1](http://arxiv.org/abs/2410.23905v1)|**[link](https://github.com/leiii-cao/text-difuse)**|
-|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893v1](http://arxiv.org/abs/2410.23893v1)|null|
+|**2024-10-31**|**DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis**|Hamidreza Eivazi et.al.|[2410.23893v1](http://arxiv.org/abs/2410.23893v1)|**[link](https://github.com/HamidrezaEiv/DiffBatt)**|
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287v1](http://arxiv.org/abs/2410.23287v1)|null|
 |**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285v1](http://arxiv.org/abs/2410.23285v1)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280v1](http://arxiv.org/abs/2410.23280v1)|null|
