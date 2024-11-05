@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397v1](http://arxiv.org/abs/2411.02397v1)|null|
+|**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395v1](http://arxiv.org/abs/2411.02395v1)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
+|**2024-11-04**|**How Far is Video Generation from World Model: A Physical Law Perspective**|Bingyi Kang et.al.|[2411.02385v1](http://arxiv.org/abs/2411.02385v1)|null|
+|**2024-11-04**|**Quantum Ornstein-Zernike Theory for Two-Temperature Two-Component Plasmas**|Zachary A. Johnson et.al.|[2411.02363v1](http://arxiv.org/abs/2411.02363v1)|null|
+|**2024-11-04**|**MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D**|Wei Cheng et.al.|[2411.02336v1](http://arxiv.org/abs/2411.02336v1)|null|
+|**2024-11-04**|**Diffusion-based Generative Multicasting with Intent-aware Semantic Decomposition**|Xinkai Liu et.al.|[2411.02334v1](http://arxiv.org/abs/2411.02334v1)|null|
+|**2024-11-04**|**Non-parametric Inference for Diffusion Processes: A Computational Approach via Bayesian Inversion for PDEs**|Maximilian Kruse et.al.|[2411.02324v1](http://arxiv.org/abs/2411.02324v1)|null|
+|**2024-11-04**|**LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation**|Mufei Li et.al.|[2411.02322v1](http://arxiv.org/abs/2411.02322v1)|**[link](https://github.com/graph-com/layerdag)**|
+|**2024-11-04**|**Convolutional neural networks applied to differential dynamic microscopy reduces noise when quantifying heterogeneous dynamics**|Gildardo Martinez et.al.|[2411.02314v1](http://arxiv.org/abs/2411.02314v1)|null|
+|**2024-11-04**|**Grouped Discrete Representation for Object-Centric Learning**|Rongzhen Zhao et.al.|[2411.02299v1](http://arxiv.org/abs/2411.02299v1)|null|
+|**2024-11-04**|**Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation**|Xianghui Yang et.al.|[2411.02293v1](http://arxiv.org/abs/2411.02293v1)|null|
+|**2024-11-04**|**Machine-learned nodal structures of Fermion systems**|William Freitas et.al.|[2411.02257v1](http://arxiv.org/abs/2411.02257v1)|null|
+|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v1](http://arxiv.org/abs/2411.02229v1)|null|
+|**2024-11-04**|**Global controllability of Boussinesq channel flows only through the temperature**|Manuel Rissel et.al.|[2411.02200v1](http://arxiv.org/abs/2411.02200v1)|null|
+|**2024-11-04**|**Electron-scale energy transfer due to lower hybrid waves during asymmetric reconnection**|Sabrina F. Tigik et.al.|[2411.02192v1](http://arxiv.org/abs/2411.02192v1)|null|
+|**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179v1](http://arxiv.org/abs/2411.02179v1)|null|
+|**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169v1](http://arxiv.org/abs/2411.02169v1)|null|
+|**2024-11-04**|**The twisted jets and magnetic fields of the extended radio galaxy 4C 70.19**|M. Weżgowiec et.al.|[2411.02121v1](http://arxiv.org/abs/2411.02121v1)|null|
+|**2024-11-04**|**Bridge-IF: Learning Inverse Protein Folding with Markov Bridges**|Yiheng Zhu et.al.|[2411.02120v1](http://arxiv.org/abs/2411.02120v1)|**[link](https://github.com/violet-sto/bridge-if)**|
+|**2024-11-04**|**Model Integrity when Unlearning with T2I Diffusion Models**|Andrea Schioppa et.al.|[2411.02068v1](http://arxiv.org/abs/2411.02068v1)|null|
 |**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220v1](http://arxiv.org/abs/2410.24220v1)|null|
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203v1](http://arxiv.org/abs/2410.24203v1)|**[link](https://github.com/zju3dv/diffpano)**|
 |**2024-10-31**|**AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties**|Xiayan Ji et.al.|[2410.24178v1](http://arxiv.org/abs/2410.24178v1)|null|
@@ -1784,6 +1804,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819v1](http://arxiv.org/abs/2411.01819v1)|null|
+|**2024-11-02**|**Guided Synthesis of Labeled Brain MRI Data Using Latent Diffusion Models for Segmentation of Enlarged Ventricles**|Tim Ruschke et.al.|[2411.01351v1](http://arxiv.org/abs/2411.01351v1)|null|
+|**2024-11-01**|**A Graph Attention-Guided Diffusion Model for Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2411.00617v1](http://arxiv.org/abs/2411.00617v1)|null|
+|**2024-11-01**|**Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems**|Sourav Modak et.al.|[2411.00548v1](http://arxiv.org/abs/2411.00548v1)|null|
+|**2024-11-01**|**Cityscape-Adverse: Benchmarking Robustness of Semantic Segmentation with Realistic Scene Modifications via Diffusion-Based Image Editing**|Naufal Suryanto et.al.|[2411.00425v1](http://arxiv.org/abs/2411.00425v1)|**[link](https://github.com/naufalso/cityscape-adverse)**|
+|**2024-11-01**|**Detection and tracking of gas plumes in LWIR hyperspectral video sequence data**|Torin Gerhart et.al.|[2411.00281v1](http://arxiv.org/abs/2411.00281v1)|null|
+|**2024-10-31**|**A Recipe for Geometry-Aware 3D Mesh Transformers**|Mohammad Farazi et.al.|[2411.00164v1](http://arxiv.org/abs/2411.00164v1)|null|
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962v1](http://arxiv.org/abs/2410.23962v1)|null|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905v1](http://arxiv.org/abs/2410.23905v1)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-31**|**Counterfactual MRI Data Augmentation using Conditional Denoising Diffusion Generative Models**|Pedro Morão et.al.|[2410.23835v1](http://arxiv.org/abs/2410.23835v1)|**[link](https://github.com/pedromorao/counterfactual-mri-data-augmentation)**|
