@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-05, **Production and propagation of secondary antideuteron in the Galaxy**, Luis Fernando Galicia Cruztitla et.al., Paper: [http://arxiv.org/abs/2411.03298v1](http://arxiv.org/abs/2411.03298v1)
+- 2024-11-05, **DiT4Edit: Diffusion Transformer for Image Editing**, Kunyu Feng et.al., Paper: [http://arxiv.org/abs/2411.03286v1](http://arxiv.org/abs/2411.03286v1)
+- 2024-11-05, **DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**, Ying Zhou et.al., Paper: [http://arxiv.org/abs/2411.03250v1](http://arxiv.org/abs/2411.03250v1)
+- 2024-11-05, **bursty_dynamics: A Python Package for Exploring the Temporal Properties of Longitudinal Data**, Alisha Angdembe et.al., Paper: [http://arxiv.org/abs/2411.03210v1](http://arxiv.org/abs/2411.03210v1)
+- 2024-11-05, **Electron-irradiation effects on monolayer MoS2 at elevated temperatures**, Carsten Speckmann et.al., Paper: [http://arxiv.org/abs/2411.03200v1](http://arxiv.org/abs/2411.03200v1)
+- 2024-11-05, **On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**, Tariq Berrada Ifriqi et.al., Paper: [http://arxiv.org/abs/2411.03177v1](http://arxiv.org/abs/2411.03177v1)
+- 2024-11-05, **Unleashing the power of novel conditional generative approaches for new materials discovery**, Lev Novitskiy et.al., Paper: [http://arxiv.org/abs/2411.03156v1](http://arxiv.org/abs/2411.03156v1), Code: **[https://github.com/AIRI-Institute/conditional-crystal-generation](https://github.com/AIRI-Institute/conditional-crystal-generation)**
+- 2024-11-05, **A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**, Yiran Li et.al., Paper: [http://arxiv.org/abs/2411.03120v1](http://arxiv.org/abs/2411.03120v1)
+- 2024-11-05, **Coupling Methods and Applications on the Exponential Contractivity for Path Dependent McKean-Vlasov SDEs**, Xing Huang et.al., Paper: [http://arxiv.org/abs/2411.03104v1](http://arxiv.org/abs/2411.03104v1)
+- 2024-11-05, **Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**, Tao Huang et.al., Paper: [http://arxiv.org/abs/2411.03053v1](http://arxiv.org/abs/2411.03053v1)
+- 2024-11-05, **GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details**, Zhongjin Luo et.al., Paper: [http://arxiv.org/abs/2411.03047v1](http://arxiv.org/abs/2411.03047v1)
+- 2024-11-05, **IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems**, Heiko Oppel et.al., Paper: [http://arxiv.org/abs/2411.02954v1](http://arxiv.org/abs/2411.02954v1)
+- 2024-11-05, **Suppressing parasitic flow in membraneless diffusion-based microfluidic gradient generators**, Vahid Khandan et.al., Paper: [http://arxiv.org/abs/2411.02953v1](http://arxiv.org/abs/2411.02953v1)
+- 2024-11-05, **LDPM: Towards undersampled MRI reconstruction with MR-VAE and Latent Diffusion Prior**, Xingjian Tang et.al., Paper: [http://arxiv.org/abs/2411.02951v1](http://arxiv.org/abs/2411.02951v1)
+- 2024-11-05, **New type of chaotic solutions found in Gravity model of network transport**, Hajime Koike et.al., Paper: [http://arxiv.org/abs/2411.02919v1](http://arxiv.org/abs/2411.02919v1)
+- 2024-11-05, **Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2411.02914v1](http://arxiv.org/abs/2411.02914v1)
+- 2024-11-05, **How much is a noisy image worth? Data Scaling Laws for Ambient Diffusion**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2411.02780v1](http://arxiv.org/abs/2411.02780v1)
+- 2024-11-05, **High temperature diffusion enabled epitaxy of the Ti-O system**, Jeong Rae Kim et.al., Paper: [http://arxiv.org/abs/2411.02741v1](http://arxiv.org/abs/2411.02741v1)
+- 2024-11-04, **Mpemba effect in the relaxation of an active Brownian particle in a trap without metastable states**, Apurba Biswas et.al., Paper: [http://arxiv.org/abs/2411.02652v1](http://arxiv.org/abs/2411.02652v1)
+- 2024-11-04, **Modelling Alzheimer's Protein Dynamics: A Data-Driven Integration of Stochastic Methods, Machine Learning and Connectome Insights**, Alec MacIver et.al., Paper: [http://arxiv.org/abs/2411.02644v1](http://arxiv.org/abs/2411.02644v1)
 - 2024-11-04, **Adaptive Caching for Faster Video Generation with Diffusion Transformers**, Kumara Kahatapitiya et.al., Paper: [http://arxiv.org/abs/2411.02397v1](http://arxiv.org/abs/2411.02397v1)
 - 2024-11-04, **Training-free Regional Prompting for Diffusion Transformers**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2411.02395v1](http://arxiv.org/abs/2411.02395v1), Code: **[https://github.com/antonioo-c/regional-prompting-flux](https://github.com/antonioo-c/regional-prompting-flux)**
 - 2024-11-04, **How Far is Video Generation from World Model: A Physical Law Perspective**, Bingyi Kang et.al., Paper: [http://arxiv.org/abs/2411.02385v1](http://arxiv.org/abs/2411.02385v1)
