@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-07, **SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**, Muyang Li et.al., Paper: [http://arxiv.org/abs/2411.05007v1](http://arxiv.org/abs/2411.05007v1), Code: **[https://github.com/mit-han-lab/deepcompressor](https://github.com/mit-han-lab/deepcompressor)**
+- 2024-11-07, **ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**, Jun-Kun Chen et.al., Paper: [http://arxiv.org/abs/2411.05006v1](http://arxiv.org/abs/2411.05006v1)
+- 2024-11-07, **Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**, Shuhong Zheng et.al., Paper: [http://arxiv.org/abs/2411.05005v1](http://arxiv.org/abs/2411.05005v1)
+- 2024-11-07, **ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**, David Junhao Zhang et.al., Paper: [http://arxiv.org/abs/2411.05003v1](http://arxiv.org/abs/2411.05003v1)
+- 2024-11-07, **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**, Koichi Namekata et.al., Paper: [http://arxiv.org/abs/2411.04989v1](http://arxiv.org/abs/2411.04989v1)
+- 2024-11-07, **Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**, Mischa Dombrowski et.al., Paper: [http://arxiv.org/abs/2411.04956v1](http://arxiv.org/abs/2411.04956v1)
+- 2024-11-07, **DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**, Wenqiang Sun et.al., Paper: [http://arxiv.org/abs/2411.04928v1](http://arxiv.org/abs/2411.04928v1)
+- 2024-11-07, **MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2411.04924v1](http://arxiv.org/abs/2411.04924v1), Code: **[https://github.com/donydchen/mvsplat360](https://github.com/donydchen/mvsplat360)**
+- 2024-11-07, **Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**, Kaizhe Hu et.al., Paper: [http://arxiv.org/abs/2411.04919v1](http://arxiv.org/abs/2411.04919v1)
+- 2024-11-07, **Sharp extinction rates for positive solutions of fast diffusion equations**, Tobias König et.al., Paper: [http://arxiv.org/abs/2411.04783v1](http://arxiv.org/abs/2411.04783v1)
+- 2024-11-07, **Taming Rectified Flow for Inversion and Editing**, Jiangshan Wang et.al., Paper: [http://arxiv.org/abs/2411.04746v1](http://arxiv.org/abs/2411.04746v1), Code: **[https://github.com/wangjiangshan0725/rf-solver-edit](https://github.com/wangjiangshan0725/rf-solver-edit)**
+- 2024-11-07, **Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**, Benito Buchheim et.al., Paper: [http://arxiv.org/abs/2411.04724v1](http://arxiv.org/abs/2411.04724v1)
+- 2024-11-07, **Strong anomalous diffusion for free-ranging birds**, Ohad Vilk et.al., Paper: [http://arxiv.org/abs/2411.04684v1](http://arxiv.org/abs/2411.04684v1)
+- 2024-11-07, **DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction**, Li Zhao et.al., Paper: [http://arxiv.org/abs/2411.04646v1](http://arxiv.org/abs/2411.04646v1)
+- 2024-11-07, **Brain Tumour Removing and Missing Modality Generation using 3D WDM**, André Ferreira et.al., Paper: [http://arxiv.org/abs/2411.04630v1](http://arxiv.org/abs/2411.04630v1), Code: **[https://github.com/shadowtwin41/brats_2023_2024_solutions](https://github.com/shadowtwin41/brats_2023_2024_solutions)**
+- 2024-11-07, **Hydrodynamic instabilities of propagating interfaces under Darcy's law**, Joel Daou et.al., Paper: [http://arxiv.org/abs/2411.04627v1](http://arxiv.org/abs/2411.04627v1)
+- 2024-11-07, **Shear-induced force and dispersion due to buoyancy in a horizontal Hele-Shaw cell**, Prabakaran Rajamanickam et.al., Paper: [http://arxiv.org/abs/2411.04619v1](http://arxiv.org/abs/2411.04619v1)
+- 2024-11-07, **Solar potential analysis over Indian cities using high-resolution satellite imagery and DEM**, Jai Singla et.al., Paper: [http://arxiv.org/abs/2411.04610v1](http://arxiv.org/abs/2411.04610v1)
+- 2024-11-07, **Social EgoMesh Estimation**, Luca Scofano et.al., Paper: [http://arxiv.org/abs/2411.04598v1](http://arxiv.org/abs/2411.04598v1), Code: **[https://github.com/l-scofano/seeme](https://github.com/l-scofano/seeme)**
+- 2024-11-07, **Singular stochastic delay equations driven by fractional Brownian motion: Dynamics, longtime behaviour, and pathwise stability**, Mazyar Ghani Varzaneh et.al., Paper: [http://arxiv.org/abs/2411.04590v1](http://arxiv.org/abs/2411.04590v1)
 - 2024-11-06, **Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**, Jeongsoo Park et.al., Paper: [http://arxiv.org/abs/2411.04125v1](http://arxiv.org/abs/2411.04125v1)
 - 2024-11-06, **Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**, Iolo Jones et.al., Paper: [http://arxiv.org/abs/2411.04100v1](http://arxiv.org/abs/2411.04100v1)
 - 2024-11-06, **Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**, Lei Cheng et.al., Paper: [http://arxiv.org/abs/2411.04095v1](http://arxiv.org/abs/2411.04095v1)
