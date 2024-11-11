@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Model for Diffusion Limited Crystal Growth with and without Growth Rate Dispersion**|Douglas A. Barlow et.al.|[2411.05768v1](http://arxiv.org/abs/2411.05768v1)|null|
+|**2024-11-08**|**Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**|Ankita Joshi et.al.|[2411.05757v1](http://arxiv.org/abs/2411.05757v1)|null|
+|**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738v1](http://arxiv.org/abs/2411.05738v1)|null|
+|**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706v1](http://arxiv.org/abs/2411.05706v1)|null|
+|**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676v1](http://arxiv.org/abs/2411.05676v1)|null|
+|**2024-11-08**|**Ultra-high-energy cosmic rays from ultra-fast outflows of active galactic nuclei**|Domenik Ehlert et.al.|[2411.05667v1](http://arxiv.org/abs/2411.05667v1)|null|
+|**2024-11-08**|**The rush to the poles and the role of magnetic buoyancy in the solar dynamo**|Simon Cloutier et.al.|[2411.05623v1](http://arxiv.org/abs/2411.05623v1)|null|
+|**2024-11-08**|**Probing the Galactic neutrino flux at neutrino energies above 200 TeV with the Baikal Gigaton Volume Detector**|V. A. Allakhverdyan et.al.|[2411.05608v1](http://arxiv.org/abs/2411.05608v1)|null|
+|**2024-11-08**|**Parameterized Voter Relevance in Facility Location Games with Tree-Shaped Invitation Graphs**|Ryoto Ando et.al.|[2411.05574v1](http://arxiv.org/abs/2411.05574v1)|null|
+|**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544v1](http://arxiv.org/abs/2411.05544v1)|null|
+|**2024-11-08**|**Dynamic equilibrium of electrochemical bubbles growing on micro-electrodes**|Mengyuan Huang et.al.|[2411.05535v1](http://arxiv.org/abs/2411.05535v1)|null|
+|**2024-11-08**|**Handling geometrical variability in nonlinear reduced order modeling through Continuous Geometry-Aware DL-ROMs**|Simone Brivio et.al.|[2411.05486v1](http://arxiv.org/abs/2411.05486v1)|null|
+|**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473v1](http://arxiv.org/abs/2411.05473v1)|null|
+|**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472v1](http://arxiv.org/abs/2411.05472v1)|**[link](https://github.com/hughnew/gapdiff)**|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456v1](http://arxiv.org/abs/2411.05456v1)|null|
+|**2024-11-08**|**Influencers' Reposts and Viral Diffusion: Prestige Bias in Online Communities**|Niitsuma Takuro et.al.|[2411.05448v1](http://arxiv.org/abs/2411.05448v1)|null|
+|**2024-11-08**|**Sticky diffusions on star graphs : characterization and It{ô} formula**|Jules Berry et.al.|[2411.05441v1](http://arxiv.org/abs/2411.05441v1)|null|
+|**2024-11-08**|**Reconstruction of a function defined on a sphere using the Funk transform**|Rafik Aramyan et.al.|[2411.05365v1](http://arxiv.org/abs/2411.05365v1)|null|
+|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354v1](http://arxiv.org/abs/2411.05354v1)|null|
+|**2024-11-08**|**$γ$-deepDSM for interface reconstruction: operator learning and a Learning-Automated FEM package**|Yangyang Zheng et.al.|[2411.05341v1](http://arxiv.org/abs/2411.05341v1)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007v1](http://arxiv.org/abs/2411.05007v1)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
 |**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005v1](http://arxiv.org/abs/2411.05005v1)|null|
@@ -1860,6 +1880,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**|Ankita Joshi et.al.|[2411.05757v1](http://arxiv.org/abs/2411.05757v1)|null|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456v1](http://arxiv.org/abs/2411.05456v1)|null|
+|**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223v1](http://arxiv.org/abs/2411.05223v1)|null|
 |**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004v1](http://arxiv.org/abs/2411.04004v1)|null|
 |**2024-11-05**|**Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation**|Zhiling Yue et.al.|[2411.03551v1](http://arxiv.org/abs/2411.03551v1)|null|
 |**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505v1](http://arxiv.org/abs/2411.03505v1)|**[link](https://github.com/visionresearchlab/synthset)**|
