@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233v1](http://arxiv.org/abs/2411.07233v1)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232v1](http://arxiv.org/abs/2411.07232v1)|null|
+|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205v1](http://arxiv.org/abs/2411.07205v1)|**[link](https://github.com/croitorualin/dlcr)**|
+|**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202v1](http://arxiv.org/abs/2411.07202v1)|null|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199v1](http://arxiv.org/abs/2411.07199v1)|null|
+|**2024-11-11**|**Lifetime-Limited and Tunable Emission from Charge-Stabilized Nickel Vacancy Centers in Diamond**|I. M. Morris et.al.|[2411.07196v1](http://arxiv.org/abs/2411.07196v1)|null|
+|**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176v1](http://arxiv.org/abs/2411.07176v1)|**[link](https://github.com/trestad/cogattn)**|
+|**2024-11-11**|**Edify 3D: Scalable High-Quality 3D Asset Generation**|NVIDIA et.al.|[2411.07135v1](http://arxiv.org/abs/2411.07135v1)|null|
+|**2024-11-11**|**Zero-sum Dynkin games under common and independent Poisson constraints**|David Hobson et.al.|[2411.07134v1](http://arxiv.org/abs/2411.07134v1)|null|
+|**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126v1](http://arxiv.org/abs/2411.07126v1)|null|
+|**2024-11-11**|**Time-dependent metal ionization and the persistence of collisionally excited emission lines in the diffuse ionized gas of star forming galaxies**|Lewis McCallum et.al.|[2411.07108v1](http://arxiv.org/abs/2411.07108v1)|null|
+|**2024-11-11**|**Rigorous enclosure of Lyapunov exponents of stochastic flows**|Maxime Breden et.al.|[2411.07064v1](http://arxiv.org/abs/2411.07064v1)|null|
+|**2024-11-11**|**White-Box Diffusion Transformer for single-cell RNA-seq generation**|Zhuorui Cui et.al.|[2411.06785v1](http://arxiv.org/abs/2411.06785v1)|**[link](https://github.com/lingximamo/white-box-diffusion-transformer)**|
+|**2024-11-11**|**Landau Damping for Non-Maxwellian Distribution Functions**|Riccardo Stucchi et.al.|[2411.06769v1](http://arxiv.org/abs/2411.06769v1)|null|
+|**2024-11-11**|**Parameter Estimation for Partially Observed McKean-Vlasov Diffusions**|Ajay Jasra et.al.|[2411.06716v1](http://arxiv.org/abs/2411.06716v1)|null|
+|**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714v1](http://arxiv.org/abs/2411.06714v1)|null|
+|**2024-11-11**|**Layout Control and Semantic Guidance with Attention Loss Backward for T2I Diffusion Model**|Guandong Li et.al.|[2411.06692v1](http://arxiv.org/abs/2411.06692v1)|null|
+|**2024-11-11**|**SeedEdit: Align Image Re-Generation to Image Editing**|Yichun Shi et.al.|[2411.06686v1](http://arxiv.org/abs/2411.06686v1)|null|
+|**2024-11-11**|**Z Pinch Kinetics II -- A Continuum Perspective: Betatron Heating and Self-Generation of Sheared Flows**|D. W. Crews et.al.|[2411.06674v1](http://arxiv.org/abs/2411.06674v1)|null|
+|**2024-11-11**|**Machine learning enabled velocity model building with uncertainty quantification**|Rafael Orozco et.al.|[2411.06651v1](http://arxiv.org/abs/2411.06651v1)|null|
 |**2024-11-08**|**Model for Diffusion Limited Crystal Growth with and without Growth Rate Dispersion**|Douglas A. Barlow et.al.|[2411.05768v1](http://arxiv.org/abs/2411.05768v1)|null|
 |**2024-11-08**|**Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**|Ankita Joshi et.al.|[2411.05757v1](http://arxiv.org/abs/2411.05757v1)|null|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738v1](http://arxiv.org/abs/2411.05738v1)|null|
