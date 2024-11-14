@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879v1](http://arxiv.org/abs/2411.08879v1)|null|
+|**2024-11-13**|**On the number of crossings and bouncings of a diffusion at a sticky threshold**|Alexis Anagnostakis et.al.|[2411.08846v1](http://arxiv.org/abs/2411.08846v1)|null|
+|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832v1](http://arxiv.org/abs/2411.08832v1)|null|
+|**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817v1](http://arxiv.org/abs/2411.08817v1)|null|
+|**2024-11-13**|**A combined diffusion/rate equation model to describe charge generation in phase-separated donor-acceptor blends**|Phillip Teschner et.al.|[2411.08812v1](http://arxiv.org/abs/2411.08812v1)|null|
+|**2024-11-13**|**A novel imaging setup for hybrid radiotherapy tailored PET/MR in patients with head and neck cancer**|R. M. Winter et.al.|[2411.08783v1](http://arxiv.org/abs/2411.08783v1)|null|
+|**2024-11-13**|**Particle acceleration and multi-messenger radiation from Ultra-Luminous X-ray Sources -- A new class of Galactic PeVatrons**|Enrico Peretti et.al.|[2411.08762v1](http://arxiv.org/abs/2411.08762v1)|null|
+|**2024-11-13**|**Berry-Esseen bounds for large-time asymptotics of one-dimensional diffusion processes via Malliavin-Stein method**|Seiichiro Kusuoka et.al.|[2411.08725v1](http://arxiv.org/abs/2411.08725v1)|null|
+|**2024-11-13**|**Starburst heating and synthetic ion column densities in multiphase galactic outflows**|D. Villarruel et.al.|[2411.08704v1](http://arxiv.org/abs/2411.08704v1)|null|
+|**2024-11-13**|**MikuDance: Animating Character Art with Mixed Motion Dynamics**|Jiaxu Zhang et.al.|[2411.08656v1](http://arxiv.org/abs/2411.08656v1)|null|
+|**2024-11-13**|**Spin-valley-polarized Weiss oscillations in monolayer 1{\it T}$^{\prime}$-\ce{MoS2}**|Y. Li et.al.|[2411.08654v1](http://arxiv.org/abs/2411.08654v1)|null|
+|**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642v1](http://arxiv.org/abs/2411.08642v1)|null|
+|**2024-11-13**|**GA-NIFS: Dissecting the multiple sub-structures and probing their complex interactions in the \Lyalpha emitter galaxy CR7 at z = 6.6 with JWST/NIRSpec**|C. Marconcini et.al.|[2411.08627v1](http://arxiv.org/abs/2411.08627v1)|null|
+|**2024-11-13**|**Electrohydrodynamic flow about a colloidal particle suspended in a non-polar fluid**|Zhanwen Wang et.al.|[2411.08613v1](http://arxiv.org/abs/2411.08613v1)|null|
+|**2024-11-13**|**Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**|Ravi Kant Gupta et.al.|[2411.08531v1](http://arxiv.org/abs/2411.08531v1)|null|
+|**2024-11-13**|**LES-FGM modelling of non-premixed auto-igniting turbulent hydrogen flames including preferential diffusion**|Alessandro Ballatore et.al.|[2411.08505v1](http://arxiv.org/abs/2411.08505v1)|null|
+|**2024-11-13**|**Concurrent operando neutron imaging and diffraction analysis revealing spatial lithiation phase evolution in an ultra-thick graphite electrode**|Markus Strobl et.al.|[2411.08476v1](http://arxiv.org/abs/2411.08476v1)|null|
+|**2024-11-13**|**A survey on Graph Deep Representation Learning for Facial Expression Recognition**|Théo Gueuret et.al.|[2411.08472v1](http://arxiv.org/abs/2411.08472v1)|null|
+|**2024-11-13**|**A Heterogeneous Graph Neural Network Fusing Functional and Structural Connectivity for MCI Diagnosis**|Feiyu Yin et.al.|[2411.08424v1](http://arxiv.org/abs/2411.08424v1)|null|
+|**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402v1](http://arxiv.org/abs/2411.08402v1)|**[link](https://github.com/ylwhxht/v2x-r)**|
 |**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033v1](http://arxiv.org/abs/2411.08033v1)|null|
 |**2024-11-12**|**Commissioning of the 2.6 m tall two-phase xenon time projection chamber of Xenoscope**|M. Adrover et.al.|[2411.08022v1](http://arxiv.org/abs/2411.08022v1)|null|
@@ -1924,7 +1944,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v1](http://arxiv.org/abs/2411.08034v1)|null|
+|**2024-11-13**|**Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**|Ravi Kant Gupta et.al.|[2411.08531v1](http://arxiv.org/abs/2411.08531v1)|null|
+|**2024-11-13**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034v2](http://arxiv.org/abs/2411.08034v2)|null|
 |**2024-11-08**|**Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**|Ankita Joshi et.al.|[2411.05757v1](http://arxiv.org/abs/2411.05757v1)|null|
 |**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456v1](http://arxiv.org/abs/2411.05456v1)|**[link](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**|
 |**2024-11-07**|**Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**|Boqi Chen et.al.|[2411.05223v1](http://arxiv.org/abs/2411.05223v1)|null|
