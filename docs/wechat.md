@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-14, **MagicQuill: An Intelligent Interactive Image Editing System**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2411.09703v1](http://arxiv.org/abs/2411.09703v1)
+- 2024-11-14, **Motion Before Action: Diffusing Object Motion as Manipulation Condition**, Yup Su et.al., Paper: [http://arxiv.org/abs/2411.09658v1](http://arxiv.org/abs/2411.09658v1)
+- 2024-11-14, **The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**, Xilin Zhang et.al., Paper: [http://arxiv.org/abs/2411.09634v1](http://arxiv.org/abs/2411.09634v1)
+- 2024-11-14, **NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**, Ke Xu et.al., Paper: [http://arxiv.org/abs/2411.09631v1](http://arxiv.org/abs/2411.09631v1)
+- 2024-11-14, **MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**, Nancy R. Newlin et.al., Paper: [http://arxiv.org/abs/2411.09618v1](http://arxiv.org/abs/2411.09618v1)
+- 2024-11-14, **Carl Wirtz' article from 1924 in Astronomische Nachrichten on the radial motions of spiral nebulae**, Tom Richtler et.al., Paper: [http://arxiv.org/abs/2411.09606v1](http://arxiv.org/abs/2411.09606v1)
+- 2024-11-14, **Numerical prediction of the steady-state distribution under stochastic resetting from measurements**, Ron Vatash et.al., Paper: [http://arxiv.org/abs/2411.09563v1](http://arxiv.org/abs/2411.09563v1)
+- 2024-11-14, **FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching**, Samiran Gode et.al., Paper: [http://arxiv.org/abs/2411.09524v1](http://arxiv.org/abs/2411.09524v1)
+- 2024-11-14, **Enhanced HLLEM and HLL-CPS schemes for all Mach number flows based using anti-diffusion coefficients**, A. Gogoi et.al., Paper: [http://arxiv.org/abs/2411.09509v1](http://arxiv.org/abs/2411.09509v1)
+- 2024-11-14, **Golden Noise for Diffusion Models: A Learning Framework**, Zikai Zhou et.al., Paper: [http://arxiv.org/abs/2411.09502v1](http://arxiv.org/abs/2411.09502v1)
+- 2024-11-14, **DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing**, Junjie Zhou et.al., Paper: [http://arxiv.org/abs/2411.09451v1](http://arxiv.org/abs/2411.09451v1)
+- 2024-11-14, **Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**, Chutian Meng et.al., Paper: [http://arxiv.org/abs/2411.09449v1](http://arxiv.org/abs/2411.09449v1)
+- 2024-11-14, **Diffusive dynamics of charge regulated macro-ion solutions**, Bin Zheng et.al., Paper: [http://arxiv.org/abs/2411.09448v1](http://arxiv.org/abs/2411.09448v1)
+- 2024-11-14, **A survey of probabilistic generative frameworks for molecular simulations**, Richard John et.al., Paper: [http://arxiv.org/abs/2411.09388v1](http://arxiv.org/abs/2411.09388v1)
+- 2024-11-14, **Convergence to equilibrium for a degenerate triangular reaction-diffusion system**, Saumyajit Das et.al., Paper: [http://arxiv.org/abs/2411.09382v1](http://arxiv.org/abs/2411.09382v1)
+- 2024-11-14, **Multi-scale Generative Modeling for Fast Sampling**, Xiongye Xiao et.al., Paper: [http://arxiv.org/abs/2411.09356v1](http://arxiv.org/abs/2411.09356v1)
+- 2024-11-14, **Improving hp-Variational Physics-Informed Neural Networks for Steady-State Convection-Dominated Problems**, Thivin Anandh et.al., Paper: [http://arxiv.org/abs/2411.09329v1](http://arxiv.org/abs/2411.09329v1)
+- 2024-11-14, **Universal scale-free decay of spatial correlations in $d$-dimensional interacting particle systems**, Davide Venturelli et.al., Paper: [http://arxiv.org/abs/2411.09326v1](http://arxiv.org/abs/2411.09326v1)
+- 2024-11-14, **Theory of the lattice Boltzmann method: discrete effects due to advection**, Pierre Lallemand et.al., Paper: [http://arxiv.org/abs/2411.09314v1](http://arxiv.org/abs/2411.09314v1)
+- 2024-11-14, **EEG-Based Speech Decoding: A Novel Approach Using Multi-Kernel Ensemble Diffusion Models**, Soowon Kim et.al., Paper: [http://arxiv.org/abs/2411.09302v1](http://arxiv.org/abs/2411.09302v1)
 - 2024-11-13, **4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**, Mijeong Kim et.al., Paper: [http://arxiv.org/abs/2411.08879v1](http://arxiv.org/abs/2411.08879v1)
 - 2024-11-13, **On the number of crossings and bouncings of a diffusion at a sticky threshold**, Alexis Anagnostakis et.al., Paper: [http://arxiv.org/abs/2411.08846v1](http://arxiv.org/abs/2411.08846v1)
 - 2024-11-13, **Offline Adaptation of Quadruped Locomotion using Diffusion Models**, Reece O'Mahoney et.al., Paper: [http://arxiv.org/abs/2411.08832v1](http://arxiv.org/abs/2411.08832v1)
@@ -11475,6 +11495,7 @@
 
 ## Diffusion_Segment
 
+- 2024-11-12, **Inverse problem of determining the right-hand side of a one-dimensional fractional diffusion equation with variable coefficients**, D. K. Durdiev et.al., Paper: [http://arxiv.org/abs/2411.08922v1](http://arxiv.org/abs/2411.08922v1)
 - 2024-11-13, **Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**, Ravi Kant Gupta et.al., Paper: [http://arxiv.org/abs/2411.08531v1](http://arxiv.org/abs/2411.08531v1)
 - 2024-11-13, **Scaling Properties of Diffusion Models for Perceptual Tasks**, Rahul Ravishankar et.al., Paper: [http://arxiv.org/abs/2411.08034v2](http://arxiv.org/abs/2411.08034v2)
 - 2024-11-14, **Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**, Ankita Joshi et.al., Paper: [http://arxiv.org/abs/2411.05757v2](http://arxiv.org/abs/2411.05757v2)
