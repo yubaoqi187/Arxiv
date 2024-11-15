@@ -1,4 +1,4 @@
-> Updated on 2024.11.14
+> Updated on 2024.11.15
 
 ## Video_Classification
 
@@ -11477,7 +11477,7 @@
 
 - 2024-11-13, **Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**, Ravi Kant Gupta et.al., Paper: [http://arxiv.org/abs/2411.08531v1](http://arxiv.org/abs/2411.08531v1)
 - 2024-11-13, **Scaling Properties of Diffusion Models for Perceptual Tasks**, Rahul Ravishankar et.al., Paper: [http://arxiv.org/abs/2411.08034v2](http://arxiv.org/abs/2411.08034v2)
-- 2024-11-08, **Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**, Ankita Joshi et.al., Paper: [http://arxiv.org/abs/2411.05757v1](http://arxiv.org/abs/2411.05757v1)
+- 2024-11-14, **Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**, Ankita Joshi et.al., Paper: [http://arxiv.org/abs/2411.05757v2](http://arxiv.org/abs/2411.05757v2)
 - 2024-11-08, **Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**, Mohammad Imran Hossain et.al., Paper: [http://arxiv.org/abs/2411.05456v1](http://arxiv.org/abs/2411.05456v1), Code: **[https://github.com/imran-maia/ibsr_18_bratseg_deep_learning](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**
 - 2024-11-07, **Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**, Boqi Chen et.al., Paper: [http://arxiv.org/abs/2411.05223v1](http://arxiv.org/abs/2411.05223v1)
 - 2024-11-06, **Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**, Yuan Bi et.al., Paper: [http://arxiv.org/abs/2411.04004v1](http://arxiv.org/abs/2411.04004v1)
