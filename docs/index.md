@@ -11,7 +11,7 @@ layout: default
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703v1](http://arxiv.org/abs/2411.09703v1)|null|
 |**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658v1](http://arxiv.org/abs/2411.09658v1)|null|
 |**2024-11-14**|**The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**|Xilin Zhang et.al.|[2411.09634v1](http://arxiv.org/abs/2411.09634v1)|null|
-|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631v1](http://arxiv.org/abs/2411.09631v1)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618v1](http://arxiv.org/abs/2411.09618v1)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
 |**2024-11-14**|**Carl Wirtz' article from 1924 in Astronomische Nachrichten on the radial motions of spiral nebulae**|Tom Richtler et.al.|[2411.09606v1](http://arxiv.org/abs/2411.09606v1)|null|
 |**2024-11-14**|**Numerical prediction of the steady-state distribution under stochastic resetting from measurements**|Ron Vatash et.al.|[2411.09563v1](http://arxiv.org/abs/2411.09563v1)|null|
