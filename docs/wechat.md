@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-15, **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2411.10433v1](http://arxiv.org/abs/2411.10433v1)
+- 2024-11-15, **Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**, Feiqin Zhu et.al., Paper: [http://arxiv.org/abs/2411.10431v1](http://arxiv.org/abs/2411.10431v1)
+- 2024-11-15, **Lower bounds on the top Lyapunov exponent for linear PDEs driven by the 2D stochastic Navier-Stokes equations**, Martin Hairer et.al., Paper: [http://arxiv.org/abs/2411.10419v1](http://arxiv.org/abs/2411.10419v1)
+- 2024-11-15, **Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2411.10411v1](http://arxiv.org/abs/2411.10411v1)
+- 2024-11-15, **Towards High-Fidelity 3D Portrait Generation with Rich Details by Cross-View Prior-Aware Diffusion**, Haoran Wei et.al., Paper: [http://arxiv.org/abs/2411.10369v1](http://arxiv.org/abs/2411.10369v1)
+- 2024-11-15, **Anisotropic Field Theory of Wave Transmission Statistics in Disordered Media**, David Gaspard et.al., Paper: [http://arxiv.org/abs/2411.10360v1](http://arxiv.org/abs/2411.10360v1)
+- 2024-11-15, **Transmission eigenvalue distribution in disordered media from anisotropic field theory**, David Gaspard et.al., Paper: [http://arxiv.org/abs/2411.10355v1](http://arxiv.org/abs/2411.10355v1)
+- 2024-11-15, **Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**, Guodong Sun et.al., Paper: [http://arxiv.org/abs/2411.10321v1](http://arxiv.org/abs/2411.10321v1)
+- 2024-11-15, **Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**, Ziqi Xie et.al., Paper: [http://arxiv.org/abs/2411.10309v1](http://arxiv.org/abs/2411.10309v1), Code: **[https://github.com/yayoyo66/rdistitcher](https://github.com/yayoyo66/rdistitcher)**
+- 2024-11-15, **The Unreasonable Effectiveness of Guidance for Diffusion Models**, Tim Kaiser et.al., Paper: [http://arxiv.org/abs/2411.10257v1](http://arxiv.org/abs/2411.10257v1)
+- 2024-11-15, **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2411.10237v1](http://arxiv.org/abs/2411.10237v1), Code: **[https://github.com/ortonwang/scribblevs](https://github.com/ortonwang/scribblevs)**
+- 2024-11-15, **Smooth transport map via diffusion process**, Arthur Stéphanovitch et.al., Paper: [http://arxiv.org/abs/2411.10235v1](http://arxiv.org/abs/2411.10235v1)
+- 2024-11-15, **ColorEdit: Training-free Image-Guided Color editing with diffusion model**, Xingxi Yin et.al., Paper: [http://arxiv.org/abs/2411.10232v1](http://arxiv.org/abs/2411.10232v1)
+- 2024-11-15, **Escape-from-a-layer approach for simulating the boundary local time in Euclidean domains**, Yilin Ye et.al., Paper: [http://arxiv.org/abs/2411.10220v1](http://arxiv.org/abs/2411.10220v1)
+- 2024-11-15, **Fused Gromov-Wasserstein Variance Decomposition with Linear Optimal Transport**, Michael Wilson et.al., Paper: [http://arxiv.org/abs/2411.10204v1](http://arxiv.org/abs/2411.10204v1)
+- 2024-11-15, **Learning Generalizable 3D Manipulation With 10 Demonstrations**, Yu Ren et.al., Paper: [http://arxiv.org/abs/2411.10203v1](http://arxiv.org/abs/2411.10203v1)
+- 2024-11-15, **Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**, Anant Garg et.al., Paper: [http://arxiv.org/abs/2411.10171v1](http://arxiv.org/abs/2411.10171v1)
+- 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1)
+- 2024-11-15, **Heterogeneous dynamic restoration of Ti-15Mo alloy during hot compression**, Esmaeil Shahryari et.al., Paper: [http://arxiv.org/abs/2411.10159v1](http://arxiv.org/abs/2411.10159v1)
+- 2024-11-15, **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning**, Yushen Zuo et.al., Paper: [http://arxiv.org/abs/2411.10130v1](http://arxiv.org/abs/2411.10130v1)
 - 2024-11-14, **MagicQuill: An Intelligent Interactive Image Editing System**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2411.09703v1](http://arxiv.org/abs/2411.09703v1)
 - 2024-11-14, **Motion Before Action: Diffusing Object Motion as Manipulation Condition**, Yup Su et.al., Paper: [http://arxiv.org/abs/2411.09658v1](http://arxiv.org/abs/2411.09658v1)
 - 2024-11-14, **The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**, Xilin Zhang et.al., Paper: [http://arxiv.org/abs/2411.09634v1](http://arxiv.org/abs/2411.09634v1)
@@ -11495,6 +11515,9 @@
 
 ## Diffusion_Segment
 
+- 2024-11-15, **Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2411.10411v1](http://arxiv.org/abs/2411.10411v1)
+- 2024-11-15, **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2411.10237v1](http://arxiv.org/abs/2411.10237v1), Code: **[https://github.com/ortonwang/scribblevs](https://github.com/ortonwang/scribblevs)**
+- 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1)
 - 2024-11-12, **Inverse problem of determining the right-hand side of a one-dimensional fractional diffusion equation with variable coefficients**, D. K. Durdiev et.al., Paper: [http://arxiv.org/abs/2411.08922v1](http://arxiv.org/abs/2411.08922v1)
 - 2024-11-13, **Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**, Ravi Kant Gupta et.al., Paper: [http://arxiv.org/abs/2411.08531v1](http://arxiv.org/abs/2411.08531v1)
 - 2024-11-13, **Scaling Properties of Diffusion Models for Perceptual Tasks**, Rahul Ravishankar et.al., Paper: [http://arxiv.org/abs/2411.08034v2](http://arxiv.org/abs/2411.08034v2)
