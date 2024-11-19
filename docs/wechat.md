@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-18, **Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**, Axel Elaldi et.al., Paper: [http://arxiv.org/abs/2411.11819v1](http://arxiv.org/abs/2411.11819v1), Code: **[https://github.com/axelelaldi/fast-equivariant-deconv](https://github.com/axelelaldi/fast-equivariant-deconv)**
+- 2024-11-18, **Fabrication of Hierarchical Sapphire Nanostructures using Ultrafast Laser Induced Morphology Change**, Joshua Cheung et.al., Paper: [http://arxiv.org/abs/2411.11817v1](http://arxiv.org/abs/2411.11817v1)
+- 2024-11-18, **Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**, Jehad Abed et.al., Paper: [http://arxiv.org/abs/2411.11783v1](http://arxiv.org/abs/2411.11783v1)
+- 2024-11-18, **Milstein-type schemes for McKean-Vlasov SDEs driven by Brownian motion and Poisson random measure (with super-linear coefficients)**, Sani Biswas et.al., Paper: [http://arxiv.org/abs/2411.11759v1](http://arxiv.org/abs/2411.11759v1)
+- 2024-11-18, **Correlated emission lasing in a single quantum dot embedded inside a bimodal photonic crystal cavity**, Lavakumar Addepalli et.al., Paper: [http://arxiv.org/abs/2411.11744v1](http://arxiv.org/abs/2411.11744v1)
+- 2024-11-18, **Aligning Few-Step Diffusion Models with Dense Reward Difference Learning**, Ziyi Zhang et.al., Paper: [http://arxiv.org/abs/2411.11727v1](http://arxiv.org/abs/2411.11727v1), Code: **[https://github.com/ziyizhang27/sdpo](https://github.com/ziyizhang27/sdpo)**
+- 2024-11-18, **Robust Reinforcement Learning under Diffusion Models for Data with Jumps**, Chenyang Jiang et.al., Paper: [http://arxiv.org/abs/2411.11697v1](http://arxiv.org/abs/2411.11697v1)
+- 2024-11-18, **Active droplets controlled by enzymatic reactions**, Jacques Fries et.al., Paper: [http://arxiv.org/abs/2411.11696v1](http://arxiv.org/abs/2411.11696v1)
+- 2024-11-18, **Hamiltonian Monte Carlo vs. event-chain Monte Carlo: an appraisal of sampling strategies beyond the diffusive regime**, Werner Krauth et.al., Paper: [http://arxiv.org/abs/2411.11690v1](http://arxiv.org/abs/2411.11690v1)
+- 2024-11-18, **Conceptwm: A Diffusion Model Watermark for Concept Protection**, Liangqi Lei et.al., Paper: [http://arxiv.org/abs/2411.11688v1](http://arxiv.org/abs/2411.11688v1)
+- 2024-11-18, **The motion of catalytically active colloids approaching a surface**, Julio Melio et.al., Paper: [http://arxiv.org/abs/2411.11656v1](http://arxiv.org/abs/2411.11656v1)
+- 2024-11-18, **Mathematical modeling and analysis for the chemotactic diffusion in porous media with incompressible Navier-Stokes equations over bounded domain**, Fugui Ma et.al., Paper: [http://arxiv.org/abs/2411.11642v1](http://arxiv.org/abs/2411.11642v1)
+- 2024-11-18, **Generalized Treatment of Energy Accommodation in Gas-Surface Interactions for Satellite Aerodynamics Applications**, Friedrich Tuttas et.al., Paper: [http://arxiv.org/abs/2411.11597v1](http://arxiv.org/abs/2411.11597v1)
+- 2024-11-18, **Convergence and long-time behavior of finite volumes for a generalized Poisson-Nernst-Planck system with cross-diffusion and size exclusion**, Clément Cancès et.al., Paper: [http://arxiv.org/abs/2411.11583v1](http://arxiv.org/abs/2411.11583v1)
+- 2024-11-18, **Quantitative constraint on the contribution of resolved gamma-ray sources to the sub-PeV Galactic diffuse gamma-ray flux measured by the Tibet ASγ experiment**, S. Kato et.al., Paper: [http://arxiv.org/abs/2411.11524v1](http://arxiv.org/abs/2411.11524v1)
+- 2024-11-18, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v1](http://arxiv.org/abs/2411.11515v1)
+- 2024-11-18, **LaVin-DiT: Large Vision Diffusion Transformer**, Zhaoqing Wang et.al., Paper: [http://arxiv.org/abs/2411.11505v1](http://arxiv.org/abs/2411.11505v1)
+- 2024-11-18, **Giant Heat Flux Effect in Non-Chiral Transmission Lines**, Florian Stäbler et.al., Paper: [http://arxiv.org/abs/2411.11495v1](http://arxiv.org/abs/2411.11495v1)
+- 2024-11-18, **On the intrinsic rest wavelengths of diffuse interstellar bands**, G. A. Galazutdinov et.al., Paper: [http://arxiv.org/abs/2411.11491v1](http://arxiv.org/abs/2411.11491v1)
+- 2024-11-18, **Unraveling 20th-century political regime dynamics using the physics of diffusion**, Paula Pirker-Díaz et.al., Paper: [http://arxiv.org/abs/2411.11484v1](http://arxiv.org/abs/2411.11484v1)
 - 2024-11-15, **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2411.10433v1](http://arxiv.org/abs/2411.10433v1)
 - 2024-11-15, **Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**, Feiqin Zhu et.al., Paper: [http://arxiv.org/abs/2411.10431v1](http://arxiv.org/abs/2411.10431v1)
 - 2024-11-15, **Lower bounds on the top Lyapunov exponent for linear PDEs driven by the 2D stochastic Navier-Stokes equations**, Martin Hairer et.al., Paper: [http://arxiv.org/abs/2411.10419v1](http://arxiv.org/abs/2411.10419v1)
@@ -11515,12 +11535,17 @@
 
 ## Diffusion_Segment
 
+- 2024-11-18, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v1](http://arxiv.org/abs/2411.11515v1)
+- 2024-11-18, **Computational study of active polar polymer melts: from active reptation to activity induced local alignment**, Javier Oller-Iscar et.al., Paper: [http://arxiv.org/abs/2411.11472v1](http://arxiv.org/abs/2411.11472v1)
+- 2024-11-18, **Enhancing Decision Transformer with Diffusion-Based Trajectory Branch Generation**, Zhihong Liu et.al., Paper: [http://arxiv.org/abs/2411.11327v1](http://arxiv.org/abs/2411.11327v1)
+- 2024-11-17, **DeepSPV: An Interpretable Deep Learning Pipeline for 3D Spleen Volume Estimation from 2D Ultrasound Images**, Zhen Yuan et.al., Paper: [http://arxiv.org/abs/2411.11190v1](http://arxiv.org/abs/2411.11190v1)
+- 2024-11-16, **Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**, Maria Monzon et.al., Paper: [http://arxiv.org/abs/2411.10755v1](http://arxiv.org/abs/2411.10755v1)
 - 2024-11-15, **Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2411.10411v1](http://arxiv.org/abs/2411.10411v1)
 - 2024-11-15, **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2411.10237v1](http://arxiv.org/abs/2411.10237v1), Code: **[https://github.com/ortonwang/scribblevs](https://github.com/ortonwang/scribblevs)**
-- 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1)
+- 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1), Code: **[https://github.com/tlpss/diffusing-synthetic-data](https://github.com/tlpss/diffusing-synthetic-data)**
 - 2024-11-12, **Inverse problem of determining the right-hand side of a one-dimensional fractional diffusion equation with variable coefficients**, D. K. Durdiev et.al., Paper: [http://arxiv.org/abs/2411.08922v1](http://arxiv.org/abs/2411.08922v1)
 - 2024-11-13, **Classification and Morphological Analysis of DLBCL Subtypes in H\&E-Stained Slides**, Ravi Kant Gupta et.al., Paper: [http://arxiv.org/abs/2411.08531v1](http://arxiv.org/abs/2411.08531v1)
-- 2024-11-13, **Scaling Properties of Diffusion Models for Perceptual Tasks**, Rahul Ravishankar et.al., Paper: [http://arxiv.org/abs/2411.08034v2](http://arxiv.org/abs/2411.08034v2)
+- 2024-11-17, **Scaling Properties of Diffusion Models for Perceptual Tasks**, Rahul Ravishankar et.al., Paper: [http://arxiv.org/abs/2411.08034v3](http://arxiv.org/abs/2411.08034v3)
 - 2024-11-14, **Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network**, Ankita Joshi et.al., Paper: [http://arxiv.org/abs/2411.05757v2](http://arxiv.org/abs/2411.05757v2)
 - 2024-11-08, **Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**, Mohammad Imran Hossain et.al., Paper: [http://arxiv.org/abs/2411.05456v1](http://arxiv.org/abs/2411.05456v1), Code: **[https://github.com/imran-maia/ibsr_18_bratseg_deep_learning](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**
 - 2024-11-07, **Generalizable Single-Source Cross-modality Medical Image Segmentation via Invariant Causal Mechanisms**, Boqi Chen et.al., Paper: [http://arxiv.org/abs/2411.05223v1](http://arxiv.org/abs/2411.05223v1)
