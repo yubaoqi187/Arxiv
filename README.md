@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Quantum-assisted hλ-adaptive finite element method**|R. H. Drebotiy et.al.|[2411.12687v1](http://arxiv.org/abs/2411.12687v1)|null|
+|**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663v1](http://arxiv.org/abs/2411.12663v1)|**[link](https://github.com/davidpicard/homm)**|
+|**2024-11-19**|**Implementation and performance of a fiber-coupled CMOS camera in an ultrafast reflective high-energy electron diffraction experiment**|Jonas D. Fortmann et.al.|[2411.12660v1](http://arxiv.org/abs/2411.12660v1)|null|
+|**2024-11-19**|**Scaling invariance for the diffusion coefficient in a dissipative standard mapping**|Edson D. Leonel et.al.|[2411.12648v1](http://arxiv.org/abs/2411.12648v1)|null|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v1](http://arxiv.org/abs/2411.12641v1)|null|
+|**2024-11-19**|**ChemSICal: Evaluating a Stochastic Chemical Reaction Network for Molecular Multiple Access**|Alexander Wietfeld et.al.|[2411.12637v1](http://arxiv.org/abs/2411.12637v1)|null|
+|**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633v1](http://arxiv.org/abs/2411.12633v1)|null|
+|**2024-11-19**|**Exploring the Manifold of Neural Networks Using Diffusion Geometry**|Elliott Abel et.al.|[2411.12626v1](http://arxiv.org/abs/2411.12626v1)|null|
+|**2024-11-19**|**CHANG-ES XXXV: Cosmic Ray Transport and Magnetic Field Structure of NGC 3556 at 3 GHz**|Jianghui Xu et.al.|[2411.12564v1](http://arxiv.org/abs/2411.12564v1)|null|
+|**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v1](http://arxiv.org/abs/2411.12545v1)|null|
+|**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
+|**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523v1](http://arxiv.org/abs/2411.12523v1)|null|
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|null|
+|**2024-11-19**|**On a modified Cahn-Hilliard-Brinkman model with chemotaxis and nonlinear sensitivity**|Giulio Schimperna et.al.|[2411.12505v1](http://arxiv.org/abs/2411.12505v1)|null|
+|**2024-11-19**|**Step meandering: The balance between the potential well and the Ehrlich-Schwoebel barrier**|Marta A. Chabowska et.al.|[2411.12487v1](http://arxiv.org/abs/2411.12487v1)|null|
+|**2024-11-19**|**Dynamics of phagocytosis through interplay of forces**|Partha Sarathi Mondal et.al.|[2411.12466v1](http://arxiv.org/abs/2411.12466v1)|null|
+|**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450v1](http://arxiv.org/abs/2411.12450v1)|null|
+|**2024-11-19**|**Nuclear Quantum Effects on Proton Diffusivity in Perovskite Oxides**|Shunya Yamada et.al.|[2411.12396v1](http://arxiv.org/abs/2411.12396v1)|null|
+|**2024-11-19**|**Chemical Evolution during Molecular Cloud Formation Triggered by an Interstellar Shock Wave: Dependence on Shock Parameters and Comparison with Molecular Absorption Lines**|Yuto Komichi et.al.|[2411.12394v1](http://arxiv.org/abs/2411.12394v1)|null|
+|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389v1](http://arxiv.org/abs/2411.12389v1)|null|
 |**2024-11-18**|**Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**|Axel Elaldi et.al.|[2411.11819v1](http://arxiv.org/abs/2411.11819v1)|**[link](https://github.com/axelelaldi/fast-equivariant-deconv)**|
 |**2024-11-18**|**Fabrication of Hierarchical Sapphire Nanostructures using Ultrafast Laser Induced Morphology Change**|Joshua Cheung et.al.|[2411.11817v1](http://arxiv.org/abs/2411.11817v1)|null|
 |**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et.al.|[2411.11783v1](http://arxiv.org/abs/2411.11783v1)|null|
@@ -2000,11 +2020,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v2](http://arxiv.org/abs/2411.11515v2)|null|
+|**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198v1](http://arxiv.org/abs/2411.12198v1)|null|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v2](http://arxiv.org/abs/2411.11515v2)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
 |**2024-11-18**|**Computational study of active polar polymer melts: from active reptation to activity induced local alignment**|Javier Oller-Iscar et.al.|[2411.11472v1](http://arxiv.org/abs/2411.11472v1)|null|
 |**2024-11-18**|**Enhancing Decision Transformer with Diffusion-Based Trajectory Branch Generation**|Zhihong Liu et.al.|[2411.11327v1](http://arxiv.org/abs/2411.11327v1)|null|
 |**2024-11-17**|**DeepSPV: An Interpretable Deep Learning Pipeline for 3D Spleen Volume Estimation from 2D Ultrasound Images**|Zhen Yuan et.al.|[2411.11190v1](http://arxiv.org/abs/2411.11190v1)|null|
-|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755v2](http://arxiv.org/abs/2411.10755v2)|null|
+|**2024-11-19**|**Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**|Maria Monzon et.al.|[2411.10755v2](http://arxiv.org/abs/2411.10755v2)|**[link](https://github.com/BMDS-ETH/SpineSegDiff)**|
 |**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411v1](http://arxiv.org/abs/2411.10411v1)|null|
 |**2024-11-15**|**ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**|Tao Wang et.al.|[2411.10237v1](http://arxiv.org/abs/2411.10237v1)|**[link](https://github.com/ortonwang/scribblevs)**|
 |**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164v1](http://arxiv.org/abs/2411.10164v1)|**[link](https://github.com/tlpss/diffusing-synthetic-data)**|
