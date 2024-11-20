@@ -1,4 +1,4 @@
-> Updated on 2024.11.19
+> Updated on 2024.11.20
 
 ## Video_Classification
 
@@ -9556,9 +9556,9 @@
 - 2024-11-18, **Generalized Treatment of Energy Accommodation in Gas-Surface Interactions for Satellite Aerodynamics Applications**, Friedrich Tuttas et.al., Paper: [http://arxiv.org/abs/2411.11597v1](http://arxiv.org/abs/2411.11597v1)
 - 2024-11-18, **Convergence and long-time behavior of finite volumes for a generalized Poisson-Nernst-Planck system with cross-diffusion and size exclusion**, Clément Cancès et.al., Paper: [http://arxiv.org/abs/2411.11583v1](http://arxiv.org/abs/2411.11583v1)
 - 2024-11-18, **Quantitative constraint on the contribution of resolved gamma-ray sources to the sub-PeV Galactic diffuse gamma-ray flux measured by the Tibet ASγ experiment**, S. Kato et.al., Paper: [http://arxiv.org/abs/2411.11524v1](http://arxiv.org/abs/2411.11524v1)
-- 2024-11-18, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v1](http://arxiv.org/abs/2411.11515v1)
+- 2024-11-19, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v2](http://arxiv.org/abs/2411.11515v2)
 - 2024-11-18, **LaVin-DiT: Large Vision Diffusion Transformer**, Zhaoqing Wang et.al., Paper: [http://arxiv.org/abs/2411.11505v1](http://arxiv.org/abs/2411.11505v1)
-- 2024-11-18, **Giant Heat Flux Effect in Non-Chiral Transmission Lines**, Florian Stäbler et.al., Paper: [http://arxiv.org/abs/2411.11495v1](http://arxiv.org/abs/2411.11495v1)
+- 2024-11-19, **Giant Heat Flux Effect in Non-Chiral Transmission Lines**, Florian Stäbler et.al., Paper: [http://arxiv.org/abs/2411.11495v2](http://arxiv.org/abs/2411.11495v2)
 - 2024-11-18, **On the intrinsic rest wavelengths of diffuse interstellar bands**, G. A. Galazutdinov et.al., Paper: [http://arxiv.org/abs/2411.11491v1](http://arxiv.org/abs/2411.11491v1)
 - 2024-11-18, **Unraveling 20th-century political regime dynamics using the physics of diffusion**, Paula Pirker-Díaz et.al., Paper: [http://arxiv.org/abs/2411.11484v1](http://arxiv.org/abs/2411.11484v1)
 - 2024-11-15, **M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2411.10433v1](http://arxiv.org/abs/2411.10433v1)
@@ -11535,11 +11535,11 @@
 
 ## Diffusion_Segment
 
-- 2024-11-18, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v1](http://arxiv.org/abs/2411.11515v1)
+- 2024-11-19, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v2](http://arxiv.org/abs/2411.11515v2)
 - 2024-11-18, **Computational study of active polar polymer melts: from active reptation to activity induced local alignment**, Javier Oller-Iscar et.al., Paper: [http://arxiv.org/abs/2411.11472v1](http://arxiv.org/abs/2411.11472v1)
 - 2024-11-18, **Enhancing Decision Transformer with Diffusion-Based Trajectory Branch Generation**, Zhihong Liu et.al., Paper: [http://arxiv.org/abs/2411.11327v1](http://arxiv.org/abs/2411.11327v1)
 - 2024-11-17, **DeepSPV: An Interpretable Deep Learning Pipeline for 3D Spleen Volume Estimation from 2D Ultrasound Images**, Zhen Yuan et.al., Paper: [http://arxiv.org/abs/2411.11190v1](http://arxiv.org/abs/2411.11190v1)
-- 2024-11-16, **Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**, Maria Monzon et.al., Paper: [http://arxiv.org/abs/2411.10755v1](http://arxiv.org/abs/2411.10755v1)
+- 2024-11-19, **Diffusion-Based Semantic Segmentation of Lumbar Spine MRI Scans of Lower Back Pain Patients**, Maria Monzon et.al., Paper: [http://arxiv.org/abs/2411.10755v2](http://arxiv.org/abs/2411.10755v2)
 - 2024-11-15, **Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2411.10411v1](http://arxiv.org/abs/2411.10411v1)
 - 2024-11-15, **ScribbleVS: Scribble-Supervised Medical Image Segmentation via Dynamic Competitive Pseudo Label Selection**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2411.10237v1](http://arxiv.org/abs/2411.10237v1), Code: **[https://github.com/ortonwang/scribblevs](https://github.com/ortonwang/scribblevs)**
 - 2024-11-15, **Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**, Thomas Lips et.al., Paper: [http://arxiv.org/abs/2411.10164v1](http://arxiv.org/abs/2411.10164v1), Code: **[https://github.com/tlpss/diffusing-synthetic-data](https://github.com/tlpss/diffusing-synthetic-data)**
