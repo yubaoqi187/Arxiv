@@ -1,4 +1,4 @@
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 
 ## Diffusion
 
@@ -16,7 +16,7 @@
 |**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545v1](http://arxiv.org/abs/2411.12545v1)|null|
 |**2024-11-19**|**Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution**|Yang Zou et.al.|[2411.12530v1](http://arxiv.org/abs/2411.12530v1)|**[link](https://github.com/hey-it-s-me/corple)**|
 |**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523v1](http://arxiv.org/abs/2411.12523v1)|null|
-|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|null|
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510v1](http://arxiv.org/abs/2411.12510v1)|**[link](https://github.com/SanoScience/PR-ENDO)**|
 |**2024-11-19**|**On a modified Cahn-Hilliard-Brinkman model with chemotaxis and nonlinear sensitivity**|Giulio Schimperna et.al.|[2411.12505v1](http://arxiv.org/abs/2411.12505v1)|null|
 |**2024-11-19**|**Step meandering: The balance between the potential well and the Ehrlich-Schwoebel barrier**|Marta A. Chabowska et.al.|[2411.12487v1](http://arxiv.org/abs/2411.12487v1)|null|
 |**2024-11-19**|**Dynamics of phagocytosis through interplay of forces**|Partha Sarathi Mondal et.al.|[2411.12466v1](http://arxiv.org/abs/2411.12466v1)|null|
@@ -2021,7 +2021,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198v1](http://arxiv.org/abs/2411.12198v1)|null|
-|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v2](http://arxiv.org/abs/2411.11515v2)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515v2](http://arxiv.org/abs/2411.11515v2)|null|
 |**2024-11-18**|**Computational study of active polar polymer melts: from active reptation to activity induced local alignment**|Javier Oller-Iscar et.al.|[2411.11472v1](http://arxiv.org/abs/2411.11472v1)|null|
 |**2024-11-18**|**Enhancing Decision Transformer with Diffusion-Based Trajectory Branch Generation**|Zhihong Liu et.al.|[2411.11327v1](http://arxiv.org/abs/2411.11327v1)|null|
 |**2024-11-17**|**DeepSPV: An Interpretable Deep Learning Pipeline for 3D Spleen Volume Estimation from 2D Ultrasound Images**|Zhen Yuan et.al.|[2411.11190v1](http://arxiv.org/abs/2411.11190v1)|null|
