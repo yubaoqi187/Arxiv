@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-21, **Stable Flow: Vital Layers for Training-Free Image Editing**, Omri Avrahami et.al., Paper: [http://arxiv.org/abs/2411.14430v1](http://arxiv.org/abs/2411.14430v1)
+- 2024-11-21, **Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**, Hossein Taghinejad et.al., Paper: [http://arxiv.org/abs/2411.14428v1](http://arxiv.org/abs/2411.14428v1)
+- 2024-11-21, **Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**, Zhuoman Liu et.al., Paper: [http://arxiv.org/abs/2411.14423v1](http://arxiv.org/abs/2411.14423v1)
+- 2024-11-21, **Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2411.14384v1](http://arxiv.org/abs/2411.14384v1)
+- 2024-11-21, **CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**, Xin-Yang Liu et.al., Paper: [http://arxiv.org/abs/2411.14378v1](http://arxiv.org/abs/2411.14378v1)
+- 2024-11-21, **Anomalous transport in U(1)-symmetric quantum circuits**, Alessandro Summer et.al., Paper: [http://arxiv.org/abs/2411.14357v1](http://arxiv.org/abs/2411.14357v1)
+- 2024-11-21, **Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**, Houze Liu et.al., Paper: [http://arxiv.org/abs/2411.14353v1](http://arxiv.org/abs/2411.14353v1)
+- 2024-11-21, **Generalized Finite Difference Method for Solving Stochastic Diffusion Equations**, Faezeh Nassajian Mojarrad et.al., Paper: [http://arxiv.org/abs/2411.14333v1](http://arxiv.org/abs/2411.14333v1)
+- 2024-11-21, **StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2411.14295v1](http://arxiv.org/abs/2411.14295v1)
+- 2024-11-21, **Guided MRI Reconstruction via Schrödinger Bridge**, Yue Wang et.al., Paper: [http://arxiv.org/abs/2411.14269v1](http://arxiv.org/abs/2411.14269v1)
+- 2024-11-21, **Size of chaos for Gibbs measures of mean field interacting diffusions**, Zhenjie Ren et.al., Paper: [http://arxiv.org/abs/2411.14236v1](http://arxiv.org/abs/2411.14236v1)
+- 2024-11-21, **Novel View Extrapolation with Video Diffusion Priors**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2411.14208v1](http://arxiv.org/abs/2411.14208v1)
+- 2024-11-21, **Origin and Limits of Invariant Warming Patterns in Climate Models**, Paolo Giani et.al., Paper: [http://arxiv.org/abs/2411.14183v1](http://arxiv.org/abs/2411.14183v1)
+- 2024-11-21, **TaQ-DiT: Time-aware Quantization for Diffusion Transformers**, Xinyan Liu et.al., Paper: [http://arxiv.org/abs/2411.14172v1](http://arxiv.org/abs/2411.14172v1)
+- 2024-11-21, **SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization**, Shuchen Zhu et.al., Paper: [http://arxiv.org/abs/2411.14166v1](http://arxiv.org/abs/2411.14166v1)
+- 2024-11-21, **Transients versus network interactions give rise to multistability through trapping mechanism**, Kalel L. Rossi et.al., Paper: [http://arxiv.org/abs/2411.14132v1](http://arxiv.org/abs/2411.14132v1)
+- 2024-11-21, **RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**, Jiacheng Ying et.al., Paper: [http://arxiv.org/abs/2411.14125v1](http://arxiv.org/abs/2411.14125v1), Code: **[https://github.com/yingjiacheng/restorerid](https://github.com/yingjiacheng/restorerid)**
+- 2024-11-21, **Point Cloud Resampling with Learnable Heat Diffusion**, Wenqiang Xu et.al., Paper: [http://arxiv.org/abs/2411.14120v1](http://arxiv.org/abs/2411.14120v1)
+- 2024-11-21, **Exponential Ergodicity in $\W_1$ for SDEs with Distribution Dependent Noise and Partially Dissipative Drifts**, Xing Huang et.al., Paper: [http://arxiv.org/abs/2411.14090v1](http://arxiv.org/abs/2411.14090v1)
+- 2024-11-21, **On the applicability of CCSD(T) for dispersion interactions in large conjugated systems**, S. Lambie et.al., Paper: [http://arxiv.org/abs/2411.13986v1](http://arxiv.org/abs/2411.13986v1)
 - 2024-11-20, **REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents**, Rui Tian et.al., Paper: [http://arxiv.org/abs/2411.13552v1](http://arxiv.org/abs/2411.13552v1), Code: **[https://github.com/microsoft/reducio-vae](https://github.com/microsoft/reducio-vae)**
 - 2024-11-20, **A Survey of H I and O VI Absorption Lines in the Outskirts of $z\lesssim0.3$ Galaxy Clusters**, Priscilla Holguin Luna et.al., Paper: [http://arxiv.org/abs/2411.13551v1](http://arxiv.org/abs/2411.13551v1)
 - 2024-11-20, **HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**, Shoaib Meraj Sami et.al., Paper: [http://arxiv.org/abs/2411.13548v1](http://arxiv.org/abs/2411.13548v1)
@@ -11575,6 +11595,8 @@
 
 ## Diffusion_Segment
 
+- 2024-11-21, **Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**, Houze Liu et.al., Paper: [http://arxiv.org/abs/2411.14353v1](http://arxiv.org/abs/2411.14353v1)
+- 2024-11-21, **CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**, Lin Sun et.al., Paper: [http://arxiv.org/abs/2411.13836v1](http://arxiv.org/abs/2411.13836v1), Code: **[https://github.com/linsun449/cliper.code](https://github.com/linsun449/cliper.code)**
 - 2024-11-20, **XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**, Ziyi Wang et.al., Paper: [http://arxiv.org/abs/2411.13243v1](http://arxiv.org/abs/2411.13243v1), Code: **[https://github.com/wangzy22/xmask3d](https://github.com/wangzy22/xmask3d)**
 - 2024-11-19, **CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2411.12198v1](http://arxiv.org/abs/2411.12198v1)
 - 2024-11-19, **Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**, Rüveyda Yilmaz et.al., Paper: [http://arxiv.org/abs/2411.11515v2](http://arxiv.org/abs/2411.11515v2)
