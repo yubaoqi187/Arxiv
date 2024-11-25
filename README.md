@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|
+|**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113v1](http://arxiv.org/abs/2411.15113v1)|null|
+|**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098v1](http://arxiv.org/abs/2411.15098v1)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
+|**2024-11-22**|**Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation**|Lakshmikar R. Polamreddy et.al.|[2411.15084v1](http://arxiv.org/abs/2411.15084v1)|**[link](https://github.com/lskdsjy/leapfroglcm)**|
+|**2024-11-22**|**The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel**|David John Needham et.al.|[2411.15054v1](http://arxiv.org/abs/2411.15054v1)|null|
+|**2024-11-22**|**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**|Yu Xu et.al.|[2411.15034v1](http://arxiv.org/abs/2411.15034v1)|null|
+|**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028v1](http://arxiv.org/abs/2411.15028v1)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974v1](http://arxiv.org/abs/2411.14974v1)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**Massive Particle Systems, Wasserstein Brownian Motions, and the Dean--Kawasaki Equation**|Lorenzo Dello Schiavo et.al.|[2411.14936v1](http://arxiv.org/abs/2411.14936v1)|null|
+|**2024-11-22**|**Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation**|Huy Le et.al.|[2411.14913v1](http://arxiv.org/abs/2411.14913v1)|null|
+|**2024-11-22**|**Kinetic model for transport in granular mixtures**|Pablo Avilés et.al.|[2411.14912v1](http://arxiv.org/abs/2411.14912v1)|null|
+|**2024-11-22**|**The non-equilibrium Marshak wave problem in non-homogeneous media**|Nitay Derei et.al.|[2411.14891v1](http://arxiv.org/abs/2411.14891v1)|null|
+|**2024-11-22**|**Prioritize Denoising Steps on Diffusion Model Preference Alignment via Explicit Denoised Distribution Estimation**|Dingyuan Shi et.al.|[2411.14871v1](http://arxiv.org/abs/2411.14871v1)|null|
+|**2024-11-22**|**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation**|Jeongsol Kim et.al.|[2411.14863v1](http://arxiv.org/abs/2411.14863v1)|null|
+|**2024-11-22**|**Scaling limits of solitons in the box-ball system**|Stefano Olla et.al.|[2411.14818v1](http://arxiv.org/abs/2411.14818v1)|null|
+|**2024-11-22**|**Stochastic acceleration in arbitrary astrophysical environments**|Dominik Walter et.al.|[2411.14804v1](http://arxiv.org/abs/2411.14804v1)|null|
+|**2024-11-22**|**Style-Friendly SNR Sampler for Style-Driven Generation**|Jooyoung Choi et.al.|[2411.14793v1](http://arxiv.org/abs/2411.14793v1)|null|
+|**2024-11-22**|**FastGrasp: Efficient Grasp Synthesis with Diffusion**|Xiaofei Wu et.al.|[2411.14786v1](http://arxiv.org/abs/2411.14786v1)|null|
 |**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430v1](http://arxiv.org/abs/2411.14430v1)|null|
 |**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad et.al.|[2411.14428v1](http://arxiv.org/abs/2411.14428v1)|null|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423v1](http://arxiv.org/abs/2411.14423v1)|null|
@@ -2060,6 +2080,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
 |**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836v1](http://arxiv.org/abs/2411.13836v1)|**[link](https://github.com/linsun449/cliper.code)**|
 |**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243v1](http://arxiv.org/abs/2411.13243v1)|**[link](https://github.com/wangzy22/xmask3d)**|
