@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684v1](http://arxiv.org/abs/2411.16684v1)|null|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683v1](http://arxiv.org/abs/2411.16683v1)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668v1](http://arxiv.org/abs/2411.16668v1)|null|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629v1](http://arxiv.org/abs/2411.16629v1)|null|
+|**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627v1](http://arxiv.org/abs/2411.16627v1)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602v1](http://arxiv.org/abs/2411.16602v1)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598v1](http://arxiv.org/abs/2411.16598v1)|null|
+|**2024-11-25**|**Sequential data assimilation for PDEs using shape-morphing solutions**|Zachary T. Hilliard et.al.|[2411.16593v1](http://arxiv.org/abs/2411.16593v1)|null|
+|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575v1](http://arxiv.org/abs/2411.16575v1)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550v1](http://arxiv.org/abs/2411.16550v1)|null|
+|**2024-11-25**|**ADOBI: Adaptive Diffusion Bridge For Blind Inverse Problems with Application to MRI Reconstruction**|Yuyang Hu et.al.|[2411.16535v1](http://arxiv.org/abs/2411.16535v1)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503v1](http://arxiv.org/abs/2411.16503v1)|null|
+|**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457v1](http://arxiv.org/abs/2411.16457v1)|null|
+|**2024-11-25**|**Observation of a core-excited dipole-bound state $\sim$1 eV above the electron detachment threshold in cryogenically cooled acetylacetonate**|Rafael A Jara-Toro et.al.|[2411.16453v1](http://arxiv.org/abs/2411.16453v1)|null|
+|**2024-11-25**|**Model-based reinforcement corrosion prediction: Continuous calibration with Bayesian optimization and corrosion wire sensor data**|A. Potnis et.al.|[2411.16447v1](http://arxiv.org/abs/2411.16447v1)|null|
+|**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437v1](http://arxiv.org/abs/2411.16437v1)|null|
+|**2024-11-25**|**A Novel Methodology for Modelling First and Second Order Phase Transformations -- Thermodynamic Aspects, Variational Methods and Applications**|Wolfgang Flachberger et.al.|[2411.16430v1](http://arxiv.org/abs/2411.16430v1)|null|
+|**2024-11-25**|**Comparison of Generative Learning Methods for Turbulence Modeling**|Claudia Drygala et.al.|[2411.16417v1](http://arxiv.org/abs/2411.16417v1)|null|
+|**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375v1](http://arxiv.org/abs/2411.16375v1)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
+|**2024-11-25**|**Optimal switching strategies in multi-drug therapies for chronic diseases**|Juan Magalang et.al.|[2411.16362v1](http://arxiv.org/abs/2411.16362v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139v1](http://arxiv.org/abs/2411.15139v1)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138v1](http://arxiv.org/abs/2411.15138v1)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
@@ -2080,6 +2100,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318v1](http://arxiv.org/abs/2411.16318v1)|**[link](https://github.com/lehduong/onediffusion)**|
+|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308v1](http://arxiv.org/abs/2411.16308v1)|null|
+|**2024-11-25**|**CIA: Controllable Image Augmentation Framework Based on Stable Diffusion**|Mohamed Benkedadra et.al.|[2411.16128v1](http://arxiv.org/abs/2411.16128v1)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
 |**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836v1](http://arxiv.org/abs/2411.13836v1)|**[link](https://github.com/linsun449/cliper.code)**|
