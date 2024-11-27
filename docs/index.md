@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697v1](http://arxiv.org/abs/2411.17697v1)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
+|**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696v1](http://arxiv.org/abs/2411.17696v1)|null|
+|**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687v1](http://arxiv.org/abs/2411.17687v1)|null|
+|**2024-11-26**|**Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**|Claudio Landim et.al.|[2411.17653v1](http://arxiv.org/abs/2411.17653v1)|null|
+|**2024-11-26**|**A robust image encryption scheme based on new 4-D hyperchaotic system and elliptic curve**|Yehia Lalili et.al.|[2411.17643v1](http://arxiv.org/abs/2411.17643v1)|null|
+|**2024-11-26**|**Accelerating Vision Diffusion Transformers with Skip Branches**|Guanjie Chen et.al.|[2411.17616v1](http://arxiv.org/abs/2411.17616v1)|**[link](https://github.com/opensparsellms/skip-dit)**|
+|**2024-11-26**|**Mixed-State Quantum Denoising Diffusion Probabilistic Model**|Gino Kwun et.al.|[2411.17608v1](http://arxiv.org/abs/2411.17608v1)|null|
+|**2024-11-26**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592v1](http://arxiv.org/abs/2411.17592v1)|null|
+|**2024-11-26**|**IMPROVE: Improving Medical Plausibility without Reliance on HumanValidation -- An Enhanced Prototype-Guided Diffusion Framework**|Anurag Shandilya et.al.|[2411.17535v1](http://arxiv.org/abs/2411.17535v1)|null|
+|**2024-11-26**|**FTMoMamba: Motion Generation with Frequency and Text State Space Models**|Chengjian Li et.al.|[2411.17532v1](http://arxiv.org/abs/2411.17532v1)|null|
+|**2024-11-26**|**One dimensional chains of nickelocene fragments on Au(111)**|Divya Jyoti et.al.|[2411.17527v1](http://arxiv.org/abs/2411.17527v1)|null|
+|**2024-11-26**|**On Statistical Rates of Conditional Diffusion Transformers: Approximation, Estimation and Minimax Optimality**|Jerry Yao-Chieh Hu et.al.|[2411.17522v1](http://arxiv.org/abs/2411.17522v1)|null|
+|**2024-11-26**|**Variational Quantum Simulation of the Fokker-Planck Equation applied to Quantum Radiation Reaction**|Óscar Amaro et.al.|[2411.17517v1](http://arxiv.org/abs/2411.17517v1)|null|
+|**2024-11-26**|**SuperMat: Physically Consistent PBR Material Estimation at Interactive Rates**|Yijia Hong et.al.|[2411.17515v1](http://arxiv.org/abs/2411.17515v1)|null|
+|**2024-11-26**|**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model**|Zongjian Li et.al.|[2411.17459v1](http://arxiv.org/abs/2411.17459v1)|**[link](https://github.com/pku-yuangroup/wf-vae)**|
+|**2024-11-26**|**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**|Shenghai Yuan et.al.|[2411.17440v1](http://arxiv.org/abs/2411.17440v1)|null|
+|**2024-11-26**|**Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey**|Hugo Attali et.al.|[2411.17429v1](http://arxiv.org/abs/2411.17429v1)|null|
+|**2024-11-26**|**Image Generation with Multimodule Semantic Feature-Aided Selection for Semantic Communications**|Chengyang Liang et.al.|[2411.17428v1](http://arxiv.org/abs/2411.17428v1)|null|
+|**2024-11-26**|**DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters**|Mingze Sun et.al.|[2411.17423v1](http://arxiv.org/abs/2411.17423v1)|null|
+|**2024-11-26**|**Analysis of a Poisson-Nernst-Planck cross-diffusion system with steric effects**|Peter Hirvonen et.al.|[2411.17399v1](http://arxiv.org/abs/2411.17399v1)|null|
 |**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684v1](http://arxiv.org/abs/2411.16684v1)|null|
 |**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683v1](http://arxiv.org/abs/2411.16683v1)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668v1](http://arxiv.org/abs/2411.16668v1)|null|
@@ -2104,9 +2124,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2411.17203v1](http://arxiv.org/abs/2411.17203v1)|**[link](https://github.com/pfriedri/cwdm)**|
+|**2024-11-25**|**Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**|Shengeng Tang et.al.|[2411.16810v1](http://arxiv.org/abs/2411.16810v1)|null|
+|**2024-11-25**|**CoCoNO: Attention Contrast-and-Complete for Initial Noise Optimization in Text-to-Image Synthesis**|Aravindan Sundaram et.al.|[2411.16783v1](http://arxiv.org/abs/2411.16783v1)|null|
+|**2024-11-25**|**SynDiff-AD: Improving Semantic Segmentation and End-to-End Autonomous Driving with Synthetic Data from Latent Diffusion Models**|Harsh Goel et.al.|[2411.16776v1](http://arxiv.org/abs/2411.16776v1)|null|
+|**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749v1](http://arxiv.org/abs/2411.16749v1)|null|
 |**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318v1](http://arxiv.org/abs/2411.16318v1)|**[link](https://github.com/lehduong/onediffusion)**|
 |**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308v1](http://arxiv.org/abs/2411.16308v1)|null|
-|**2024-11-25**|**CIA: Controllable Image Augmentation Framework Based on Stable Diffusion**|Mohamed Benkedadra et.al.|[2411.16128v1](http://arxiv.org/abs/2411.16128v1)|null|
+|**2024-11-25**|**CIA: Controllable Image Augmentation Framework Based on Stable Diffusion**|Mohamed Benkedadra et.al.|[2411.16128v1](http://arxiv.org/abs/2411.16128v1)|**[link](https://github.com/multitel-ai/cia)**|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115v1](http://arxiv.org/abs/2411.15115v1)|null|
 |**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353v1](http://arxiv.org/abs/2411.14353v1)|null|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836v1](http://arxiv.org/abs/2411.13836v1)|**[link](https://github.com/linsun449/cliper.code)**|
