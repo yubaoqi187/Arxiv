@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-11-27, **GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**, Wentao Wang et.al., Paper: [http://arxiv.org/abs/2411.18624v1](http://arxiv.org/abs/2411.18624v1)
+- 2024-11-27, **Diffusion Self-Distillation for Zero-Shot Customized Image Generation**, Shengqu Cai et.al., Paper: [http://arxiv.org/abs/2411.18616v1](http://arxiv.org/abs/2411.18616v1)
+- 2024-11-27, **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Rundi Wu et.al., Paper: [http://arxiv.org/abs/2411.18613v1](http://arxiv.org/abs/2411.18613v1)
+- 2024-11-27, **Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**, Eva Prakash et.al., Paper: [http://arxiv.org/abs/2411.18602v1](http://arxiv.org/abs/2411.18602v1)
+- 2024-11-27, **Frequency redistribution and step-size distribution of light scattered by atomic vapor: applications to Lévy flight random walk**, Isaac C. Nunes et.al., Paper: [http://arxiv.org/abs/2411.18570v1](http://arxiv.org/abs/2411.18570v1)
+- 2024-11-27, **DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**, Zhixuan Liang et.al., Paper: [http://arxiv.org/abs/2411.18562v1](http://arxiv.org/abs/2411.18562v1)
+- 2024-11-27, **FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**, Haosen Yang et.al., Paper: [http://arxiv.org/abs/2411.18552v1](http://arxiv.org/abs/2411.18552v1)
+- 2024-11-27, **The Rise and Fall of Ideas' Popularity**, Piero Mazzarisi et.al., Paper: [http://arxiv.org/abs/2411.18541v1](http://arxiv.org/abs/2411.18541v1)
+- 2024-11-27, **Chemical pressure tuning of competing orders in $\textrm{Ba}_{1-x}\textrm{Ca}_{x}\textrm{Ni}_{2}\textrm{As}_{2}$**, F. Henssler et.al., Paper: [http://arxiv.org/abs/2411.18536v1](http://arxiv.org/abs/2411.18536v1)
+- 2024-11-27, **Spin liquid properties of the kagome material Cu$_3$(HOTP)$_2$**, F. L. Pratt et.al., Paper: [http://arxiv.org/abs/2411.18518v1](http://arxiv.org/abs/2411.18518v1)
+- 2024-11-27, **Enhancing weed detection performance by means of GenAI-based image augmentation**, Sourav Modak et.al., Paper: [http://arxiv.org/abs/2411.18513v1](http://arxiv.org/abs/2411.18513v1)
+- 2024-11-27, **Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification**, José Fernando Núñez et.al., Paper: [http://arxiv.org/abs/2411.18456v1](http://arxiv.org/abs/2411.18456v1)
+- 2024-11-27, **Learning the Evolution of Physical Structure of Galaxies via Diffusion Models**, Andrew Lizarraga et.al., Paper: [http://arxiv.org/abs/2411.18440v1](http://arxiv.org/abs/2411.18440v1)
+- 2024-11-27, **Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**, Yiming Wu et.al., Paper: [http://arxiv.org/abs/2411.18375v1](http://arxiv.org/abs/2411.18375v1)
+- 2024-11-27, **Drawdowns of diffusions**, Paavo Salminen et.al., Paper: [http://arxiv.org/abs/2411.18374v1](http://arxiv.org/abs/2411.18374v1)
+- 2024-11-27, **G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation**, Tianxing Chen et.al., Paper: [http://arxiv.org/abs/2411.18369v1](http://arxiv.org/abs/2411.18369v1)
+- 2024-11-27, **Short-time existence and uniqueness for some infinite-dimensional Nash systems**, Davide Francesco Redaelli et.al., Paper: [http://arxiv.org/abs/2411.18356v1](http://arxiv.org/abs/2411.18356v1)
+- 2024-11-27, **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**, Riza Velioglu et.al., Paper: [http://arxiv.org/abs/2411.18350v1](http://arxiv.org/abs/2411.18350v1)
+- 2024-11-27, **Very mild diffusion enhancement and singular sensitivity: Existence of bounded weak solutions in a two-dimensional chemotaxis-Navier--Stokes system**, Tobias Black et.al., Paper: [http://arxiv.org/abs/2411.18336v1](http://arxiv.org/abs/2411.18336v1)
+- 2024-11-27, **InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation**, Wenjie Zhuo et.al., Paper: [http://arxiv.org/abs/2411.18303v1](http://arxiv.org/abs/2411.18303v1)
 - 2024-11-27, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697v2](http://arxiv.org/abs/2411.17697v2), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
 - 2024-11-26, **ScribbleLight: Single Image Indoor Relighting with Scribbles**, Jun Myeong Choi et.al., Paper: [http://arxiv.org/abs/2411.17696v1](http://arxiv.org/abs/2411.17696v1)
 - 2024-11-26, **GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**, Sudarshan Rajagopalan et.al., Paper: [http://arxiv.org/abs/2411.17687v1](http://arxiv.org/abs/2411.17687v1)
@@ -11655,6 +11675,9 @@
 
 ## Diffusion_Segment
 
+- 2024-11-27, **Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**, Eva Prakash et.al., Paper: [http://arxiv.org/abs/2411.18602v1](http://arxiv.org/abs/2411.18602v1)
+- 2024-11-27, **InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation**, Wenjie Zhuo et.al., Paper: [http://arxiv.org/abs/2411.18303v1](http://arxiv.org/abs/2411.18303v1)
+- 2024-11-27, **Generative Semantic Communication for Joint Image Transmission and Segmentation**, Weiwen Yuan et.al., Paper: [http://arxiv.org/abs/2411.18005v1](http://arxiv.org/abs/2411.18005v1)
 - 2024-11-26, **cWDM: Conditional Wavelet Diffusion Models for Cross-Modality 3D Medical Image Synthesis**, Paul Friedrich et.al., Paper: [http://arxiv.org/abs/2411.17203v1](http://arxiv.org/abs/2411.17203v1), Code: **[https://github.com/pfriedri/cwdm](https://github.com/pfriedri/cwdm)**
 - 2024-11-25, **Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**, Shengeng Tang et.al., Paper: [http://arxiv.org/abs/2411.16810v1](http://arxiv.org/abs/2411.16810v1)
 - 2024-11-25, **CoCoNO: Attention Contrast-and-Complete for Initial Noise Optimization in Text-to-Image Synthesis**, Aravindan Sundaram et.al., Paper: [http://arxiv.org/abs/2411.16783v1](http://arxiv.org/abs/2411.16783v1)
