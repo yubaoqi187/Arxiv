@@ -1,4 +1,4 @@
-> Updated on 2024.11.27
+> Updated on 2024.11.28
 
 ## Video_Classification
 
@@ -9541,7 +9541,7 @@
 
 ## Diffusion
 
-- 2024-11-26, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697v1](http://arxiv.org/abs/2411.17697v1), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
+- 2024-11-27, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697v2](http://arxiv.org/abs/2411.17697v2), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
 - 2024-11-26, **ScribbleLight: Single Image Indoor Relighting with Scribbles**, Jun Myeong Choi et.al., Paper: [http://arxiv.org/abs/2411.17696v1](http://arxiv.org/abs/2411.17696v1)
 - 2024-11-26, **GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**, Sudarshan Rajagopalan et.al., Paper: [http://arxiv.org/abs/2411.17687v1](http://arxiv.org/abs/2411.17687v1)
 - 2024-11-26, **Exclusion processes with non-reversible boundary: hydrodynamics and large deviations**, Claudio Landim et.al., Paper: [http://arxiv.org/abs/2411.17653v1](http://arxiv.org/abs/2411.17653v1)
@@ -11661,7 +11661,7 @@
 - 2024-11-25, **SynDiff-AD: Improving Semantic Segmentation and End-to-End Autonomous Driving with Synthetic Data from Latent Diffusion Models**, Harsh Goel et.al., Paper: [http://arxiv.org/abs/2411.16776v1](http://arxiv.org/abs/2411.16776v1)
 - 2024-11-24, **AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**, You Li et.al., Paper: [http://arxiv.org/abs/2411.16749v1](http://arxiv.org/abs/2411.16749v1)
 - 2024-11-25, **One Diffusion to Generate Them All**, Duong H. Le et.al., Paper: [http://arxiv.org/abs/2411.16318v1](http://arxiv.org/abs/2411.16318v1), Code: **[https://github.com/lehduong/onediffusion](https://github.com/lehduong/onediffusion)**
-- 2024-11-25, **An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**, Wentao Qu et.al., Paper: [http://arxiv.org/abs/2411.16308v1](http://arxiv.org/abs/2411.16308v1)
+- 2024-11-27, **An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**, Wentao Qu et.al., Paper: [http://arxiv.org/abs/2411.16308v2](http://arxiv.org/abs/2411.16308v2), Code: **[https://github.com/qwtforgithub/cdsegnet](https://github.com/qwtforgithub/cdsegnet)**
 - 2024-11-25, **CIA: Controllable Image Augmentation Framework Based on Stable Diffusion**, Mohamed Benkedadra et.al., Paper: [http://arxiv.org/abs/2411.16128v1](http://arxiv.org/abs/2411.16128v1), Code: **[https://github.com/multitel-ai/cia](https://github.com/multitel-ai/cia)**
 - 2024-11-22, **VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**, Daeun Lee et.al., Paper: [http://arxiv.org/abs/2411.15115v1](http://arxiv.org/abs/2411.15115v1)
 - 2024-11-21, **Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**, Houze Liu et.al., Paper: [http://arxiv.org/abs/2411.14353v1](http://arxiv.org/abs/2411.14353v1)
