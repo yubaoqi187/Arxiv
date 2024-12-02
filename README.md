@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Open source Differentiable ODE Solving Infrastructure**|Rakshit Kr. Singh et.al.|[2411.19882v1](http://arxiv.org/abs/2411.19882v1)|null|
+|**2024-11-29**|**Gravity's role in taming the Tayler instability in red giant cores**|Domenico G. Meduri et.al.|[2411.19849v1](http://arxiv.org/abs/2411.19849v1)|null|
+|**2024-11-29**|**Classical transport in a maximally chaotic chain**|William Alderson et.al.|[2411.19828v1](http://arxiv.org/abs/2411.19828v1)|null|
+|**2024-11-29**|**Open and trapping channels in complex resonant media**|Romain Rescanieres et.al.|[2411.19818v1](http://arxiv.org/abs/2411.19818v1)|null|
+|**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786v1](http://arxiv.org/abs/2411.19786v1)|null|
+|**2024-11-29**|**Riemannian Denoising Score Matching for Molecular Structure Optimization with Accurate Energy**|Jeheon Woo et.al.|[2411.19769v1](http://arxiv.org/abs/2411.19769v1)|null|
+|**2024-11-29**|**Insensitizing controls of a volume-surface reaction-diffusion equation with dynamic boundary conditions**|Idriss Boutaayamoua et.al.|[2411.19760v1](http://arxiv.org/abs/2411.19760v1)|null|
+|**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654v1](http://arxiv.org/abs/2411.19654v1)|null|
+|**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652v1](http://arxiv.org/abs/2411.19652v1)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
+|**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|Qixiu Li et.al.|[2411.19650v1](http://arxiv.org/abs/2411.19650v1)|null|
+|**2024-11-29**|**Understanding the anisotropic growth of VS grown PbSnTe nanowires**|Mathijs G. C. Mientjes et.al.|[2411.19627v1](http://arxiv.org/abs/2411.19627v1)|null|
+|**2024-11-29**|**A nonconservative macroscopic traffic flow model in a two-dimensional urban-porous city**|N. Garcia-Chan et.al.|[2411.19625v1](http://arxiv.org/abs/2411.19625v1)|null|
+|**2024-11-29**|**Long-term stability and dynamical spacing of compact planetary systems**|Antoine C. Petit et.al.|[2411.19590v1](http://arxiv.org/abs/2411.19590v1)|null|
+|**2024-11-29**|**Are Stellar Embryos in Perseus Radio-Synchrotron Emitters? Statistical data analysis with Herschel and LOFAR paving the way for the SKA**|Andrea Bracco et.al.|[2411.19573v1](http://arxiv.org/abs/2411.19573v1)|null|
+|**2024-11-29**|**Unimib Assistant: designing a student-friendly RAG-based chatbot for all their needs**|Chiara Antico et.al.|[2411.19554v1](http://arxiv.org/abs/2411.19554v1)|null|
+|**2024-11-29**|**Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**|Florinel-Alin Croitoru et.al.|[2411.19537v1](http://arxiv.org/abs/2411.19537v1)|**[link](https://github.com/croitorualin/biodeep)**|
+|**2024-11-29**|**RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation**|Xianfeng Tan et.al.|[2411.19528v1](http://arxiv.org/abs/2411.19528v1)|null|
+|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509v1](http://arxiv.org/abs/2411.19509v1)|null|
+|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493v1](http://arxiv.org/abs/2411.19493v1)|null|
+|**2024-11-29**|**Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB**|Nikhil Behari et.al.|[2411.19474v1](http://arxiv.org/abs/2411.19474v1)|null|
 |**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624v1](http://arxiv.org/abs/2411.18624v1)|null|
 |**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616v1](http://arxiv.org/abs/2411.18616v1)|null|
 |**2024-11-27**|**CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**|Rundi Wu et.al.|[2411.18613v1](http://arxiv.org/abs/2411.18613v1)|null|
@@ -2140,6 +2160,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322v1](http://arxiv.org/abs/2411.19322v1)|null|
+|**2024-11-27**|**Sustainability & Social Segmentation in Social Media Contagion: A Mathematical and Computational Study on Dual Effects of Individual Needs & Peer Influence**|Dibyajyoti Mallick et.al.|[2411.18709v1](http://arxiv.org/abs/2411.18709v1)|null|
+|**2024-11-27**|**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**|Li-Yuan Tsao et.al.|[2411.18662v1](http://arxiv.org/abs/2411.18662v1)|**[link](https://github.com/liyuantsao/HoliSDiP)**|
 |**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602v1](http://arxiv.org/abs/2411.18602v1)|null|
 |**2024-11-27**|**InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation**|Wenjie Zhuo et.al.|[2411.18303v1](http://arxiv.org/abs/2411.18303v1)|null|
 |**2024-11-27**|**Generative Semantic Communication for Joint Image Transmission and Segmentation**|Weiwen Yuan et.al.|[2411.18005v1](http://arxiv.org/abs/2411.18005v1)|null|
