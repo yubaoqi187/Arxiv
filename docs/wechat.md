@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-03, **Diffusion-based Visual Anagram as Multi-task Learning**, Zhiyuan Xu et.al., Paper: [http://arxiv.org/abs/2412.02693v1](http://arxiv.org/abs/2412.02693v1), Code: **[https://github.com/pixtella/anagram-mtl](https://github.com/pixtella/anagram-mtl)**
+- 2024-12-03, **FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**, Kefan Chen et.al., Paper: [http://arxiv.org/abs/2412.02690v1](http://arxiv.org/abs/2412.02690v1)
+- 2024-12-03, **SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**, Viet Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02687v1](http://arxiv.org/abs/2412.02687v1)
+- 2024-12-03, **Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**, Xuanlin Li et.al., Paper: [http://arxiv.org/abs/2412.02676v1](http://arxiv.org/abs/2412.02676v1)
+- 2024-12-03, **Scaling limit of first passage percolation geodesics on planar maps**, Emmanuel Kammerer et.al., Paper: [http://arxiv.org/abs/2412.02666v1](http://arxiv.org/abs/2412.02666v1)
+- 2024-12-03, **Asymptically full measure sets of almost-periodic solutions for the NLS equation**, Luca Biasco et.al., Paper: [http://arxiv.org/abs/2412.02648v1](http://arxiv.org/abs/2412.02648v1)
+- 2024-12-03, **Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**, Yiftach Edelstein et.al., Paper: [http://arxiv.org/abs/2412.02631v1](http://arxiv.org/abs/2412.02631v1)
+- 2024-12-03, **Convergence of a heterogeneous Allen-Cahn equation to weighted mean curvature flow**, Likhit Ganedi et.al., Paper: [http://arxiv.org/abs/2412.02567v1](http://arxiv.org/abs/2412.02567v1)
+- 2024-12-03, **Bayesian data analysis for sky-averaged 21-cm experiments with contamination from linearly polarised foreground**, Emma Shen et.al., Paper: [http://arxiv.org/abs/2412.02552v1](http://arxiv.org/abs/2412.02552v1)
+- 2024-12-03, **Unveiling Concept Attribution in Diffusion Models**, Quang H. Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02542v1](http://arxiv.org/abs/2412.02542v1)
+- 2024-12-03, **General Resetting Theory for Group Avoidance**, Juhee Lee et.al., Paper: [http://arxiv.org/abs/2412.02524v1](http://arxiv.org/abs/2412.02524v1)
+- 2024-12-03, **Emergent complex phases in a discrete flocking model with reciprocal and non-reciprocal interactions**, Matthieu Mangeat et.al., Paper: [http://arxiv.org/abs/2412.02501v1](http://arxiv.org/abs/2412.02501v1)
+- 2024-12-03, **Transformer-based Koopman Autoencoder for Linearizing Fisher's Equation**, Kanav Singh Rana et.al., Paper: [http://arxiv.org/abs/2412.02430v1](http://arxiv.org/abs/2412.02430v1)
+- 2024-12-03, **It Takes Two: Real-time Co-Speech Two-person's Interaction Generation via Reactive Auto-regressive Diffusion Model**, Mingyi Shi et.al., Paper: [http://arxiv.org/abs/2412.02419v1](http://arxiv.org/abs/2412.02419v1)
+- 2024-12-03, **GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**, Khawar Islam et.al., Paper: [http://arxiv.org/abs/2412.02366v1](http://arxiv.org/abs/2412.02366v1)
+- 2024-12-03, **Anderson localization: A disorder-induced quantum bound state**, Václav Janiš et.al., Paper: [http://arxiv.org/abs/2412.02353v1](http://arxiv.org/abs/2412.02353v1)
+- 2024-12-03, **LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization**, Ethan Smith et.al., Paper: [http://arxiv.org/abs/2412.02352v1](http://arxiv.org/abs/2412.02352v1)
+- 2024-12-03, **SimuScope: Realistic Endoscopic Synthetic Dataset Generation through Surgical Simulation and Diffusion Models**, Sabina Martyniak et.al., Paper: [http://arxiv.org/abs/2412.02332v1](http://arxiv.org/abs/2412.02332v1), Code: **[https://github.com/sanoscience/simuscope](https://github.com/sanoscience/simuscope)**
+- 2024-12-03, **Controlling the Latent Diffusion Model for Generative Image Shadow Removal via Residual Generation**, Xinjie Li et.al., Paper: [http://arxiv.org/abs/2412.02322v1](http://arxiv.org/abs/2412.02322v1)
+- 2024-12-03, **Data dependent Moving Least Squares**, David Levin et.al., Paper: [http://arxiv.org/abs/2412.02304v1](http://arxiv.org/abs/2412.02304v1)
 - 2024-11-29, **Open source Differentiable ODE Solving Infrastructure**, Rakshit Kr. Singh et.al., Paper: [http://arxiv.org/abs/2411.19882v1](http://arxiv.org/abs/2411.19882v1)
 - 2024-11-29, **Gravity's role in taming the Tayler instability in red giant cores**, Domenico G. Meduri et.al., Paper: [http://arxiv.org/abs/2411.19849v1](http://arxiv.org/abs/2411.19849v1)
 - 2024-11-29, **Classical transport in a maximally chaotic chain**, William Alderson et.al., Paper: [http://arxiv.org/abs/2411.19828v1](http://arxiv.org/abs/2411.19828v1)
@@ -11695,6 +11715,13 @@
 
 ## Diffusion_Segment
 
+- 2024-12-03, **FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**, Kefan Chen et.al., Paper: [http://arxiv.org/abs/2412.02690v1](http://arxiv.org/abs/2412.02690v1)
+- 2024-12-02, **3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2412.01583v1](http://arxiv.org/abs/2412.01583v1)
+- 2024-12-02, **CopyrightShield: Spatial Similarity Guided Backdoor Defense against Copyright Infringement in Diffusion Models**, Zhixiang Guo et.al., Paper: [http://arxiv.org/abs/2412.01528v1](http://arxiv.org/abs/2412.01528v1)
+- 2024-12-02, **Machine Learning Analysis of Anomalous Diffusion**, Wenjie Cai et.al., Paper: [http://arxiv.org/abs/2412.01393v1](http://arxiv.org/abs/2412.01393v1)
+- 2024-12-02, **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**, Xin Yan et.al., Paper: [http://arxiv.org/abs/2412.01316v1](http://arxiv.org/abs/2412.01316v1)
+- 2024-12-01, **Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**, Hao Jin et.al., Paper: [http://arxiv.org/abs/2412.00638v1](http://arxiv.org/abs/2412.00638v1)
+- 2024-11-30, **Energy-Based Prior Latent Space Diffusion model for Reconstruction of Lumbar Vertebrae from Thick Slice MRI**, Yanke Wang et.al., Paper: [http://arxiv.org/abs/2412.00511v1](http://arxiv.org/abs/2412.00511v1)
 - 2024-11-28, **SAMa: Material-aware 3D Selection and Segmentation**, Michael Fischer et.al., Paper: [http://arxiv.org/abs/2411.19322v1](http://arxiv.org/abs/2411.19322v1)
 - 2024-11-27, **Sustainability & Social Segmentation in Social Media Contagion: A Mathematical and Computational Study on Dual Effects of Individual Needs & Peer Influence**, Dibyajyoti Mallick et.al., Paper: [http://arxiv.org/abs/2411.18709v1](http://arxiv.org/abs/2411.18709v1)
 - 2024-11-27, **HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**, Li-Yuan Tsao et.al., Paper: [http://arxiv.org/abs/2411.18662v1](http://arxiv.org/abs/2411.18662v1), Code: **[https://github.com/liyuantsao/HoliSDiP](https://github.com/liyuantsao/HoliSDiP)**
