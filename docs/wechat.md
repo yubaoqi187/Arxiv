@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-04, **Navigation World Models**, Amir Bar et.al., Paper: [http://arxiv.org/abs/2412.03572v1](http://arxiv.org/abs/2412.03572v1)
+- 2024-12-04, **MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2412.03558v1](http://arxiv.org/abs/2412.03558v1)
+- 2024-12-04, **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**, Hannan Lu et.al., Paper: [http://arxiv.org/abs/2412.03520v1](http://arxiv.org/abs/2412.03520v1)
+- 2024-12-04, **NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**, Lingen Li et.al., Paper: [http://arxiv.org/abs/2412.03517v1](http://arxiv.org/abs/2412.03517v1)
+- 2024-12-04, **Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion**, Shengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2412.03515v1](http://arxiv.org/abs/2412.03515v1), Code: **[https://github.com/happyw1nd/scorelidar](https://github.com/happyw1nd/scorelidar)**
+- 2024-12-04, **Distillation of Diffusion Features for Semantic Correspondence**, Frank Fundel et.al., Paper: [http://arxiv.org/abs/2412.03512v1](http://arxiv.org/abs/2412.03512v1)
+- 2024-12-04, **Testing the Universality of Self-Organized Criticality in Galactic, Extra-Galactic, and Black-Hole Systems**, Markus Aschwanden et.al., Paper: [http://arxiv.org/abs/2412.03499v1](http://arxiv.org/abs/2412.03499v1)
+- 2024-12-04, **TRENDy: Temporal Regression of Effective Non-linear Dynamics**, Matthew Ricci et.al., Paper: [http://arxiv.org/abs/2412.03496v1](http://arxiv.org/abs/2412.03496v1)
+- 2024-12-04, **Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective**, Neta Shaul et.al., Paper: [http://arxiv.org/abs/2412.03487v1](http://arxiv.org/abs/2412.03487v1)
+- 2024-12-04, **Universal Constants and Energy Integral in Self-Organized Criticality Systems**, Markus Aschwanden et.al., Paper: [http://arxiv.org/abs/2412.03481v1](http://arxiv.org/abs/2412.03481v1)
+- 2024-12-04, **The morphology and interface structure of titanium on graphene**, Joachim Dahl Thomsen et.al., Paper: [http://arxiv.org/abs/2412.03480v1](http://arxiv.org/abs/2412.03480v1)
+- 2024-12-04, **Analysis of the multi-dimensional semi-discrete Active Flux method using the Fourier transform**, Wasilij Barsukow et.al., Paper: [http://arxiv.org/abs/2412.03477v1](http://arxiv.org/abs/2412.03477v1)
+- 2024-12-04, **Spectral theory of effective transport for discrete uniaxial polycrystalline materials**, N. Benjamin Murphy et.al., Paper: [http://arxiv.org/abs/2412.03447v1](http://arxiv.org/abs/2412.03447v1)
+- 2024-12-04, **CleanDIFT: Diffusion Features without Noise**, Nick Stracke et.al., Paper: [http://arxiv.org/abs/2412.03439v1](http://arxiv.org/abs/2412.03439v1)
+- 2024-12-04, **SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**, Yan Li et.al., Paper: [http://arxiv.org/abs/2412.03430v1](http://arxiv.org/abs/2412.03430v1)
+- 2024-12-04, **Skel3D: Skeleton Guided Novel View Synthesis**, Aron Fóthi et.al., Paper: [http://arxiv.org/abs/2412.03407v1](http://arxiv.org/abs/2412.03407v1)
+- 2024-12-04, **Implicit Priors Editing in Stable Diffusion via Targeted Token Adjustment**, Feng He et.al., Paper: [http://arxiv.org/abs/2412.03400v1](http://arxiv.org/abs/2412.03400v1)
+- 2024-12-04, **DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**, Jiaxuan Liu et.al., Paper: [http://arxiv.org/abs/2412.03388v1](http://arxiv.org/abs/2412.03388v1)
+- 2024-12-04, **Identifiability implies consistency of MLE in partially observed diffusions on a torus**, Ibrahim Ekren et.al., Paper: [http://arxiv.org/abs/2412.03380v1](http://arxiv.org/abs/2412.03380v1)
+- 2024-12-04, **TASR: Timestep-Aware Diffusion Model for Image Super-Resolution**, Qinwei Lin et.al., Paper: [http://arxiv.org/abs/2412.03355v1](http://arxiv.org/abs/2412.03355v1), Code: **[https://github.com/sleepylin/tasr](https://github.com/sleepylin/tasr)**
 - 2024-12-03, **Diffusion-based Visual Anagram as Multi-task Learning**, Zhiyuan Xu et.al., Paper: [http://arxiv.org/abs/2412.02693v1](http://arxiv.org/abs/2412.02693v1), Code: **[https://github.com/pixtella/anagram-mtl](https://github.com/pixtella/anagram-mtl)**
 - 2024-12-03, **FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**, Kefan Chen et.al., Paper: [http://arxiv.org/abs/2412.02690v1](http://arxiv.org/abs/2412.02690v1)
 - 2024-12-04, **SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**, Viet Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02687v2](http://arxiv.org/abs/2412.02687v2)
@@ -11715,6 +11735,9 @@
 
 ## Diffusion_Segment
 
+- 2024-12-04, **Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**, Siyoon Jin et.al., Paper: [http://arxiv.org/abs/2412.03150v1](http://arxiv.org/abs/2412.03150v1)
+- 2024-12-04, **Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**, Jiahua Xiao et.al., Paper: [http://arxiv.org/abs/2412.02960v1](http://arxiv.org/abs/2412.02960v1)
+- 2024-12-04, **Panoptic Diffusion Models: co-generation of images and segmentation maps**, Yinghan Long et.al., Paper: [http://arxiv.org/abs/2412.02929v1](http://arxiv.org/abs/2412.02929v1)
 - 2024-12-03, **FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**, Kefan Chen et.al., Paper: [http://arxiv.org/abs/2412.02690v1](http://arxiv.org/abs/2412.02690v1)
 - 2024-12-02, **3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2412.01583v1](http://arxiv.org/abs/2412.01583v1)
 - 2024-12-02, **CopyrightShield: Spatial Similarity Guided Backdoor Defense against Copyright Infringement in Diffusion Models**, Zhixiang Guo et.al., Paper: [http://arxiv.org/abs/2412.01528v1](http://arxiv.org/abs/2412.01528v1)
