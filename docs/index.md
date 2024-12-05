@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 
 ## Diffusion
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693v1](http://arxiv.org/abs/2412.02693v1)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v1](http://arxiv.org/abs/2412.02690v1)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687v1](http://arxiv.org/abs/2412.02687v1)|null|
+|**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687v2](http://arxiv.org/abs/2412.02687v2)|null|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676v1](http://arxiv.org/abs/2412.02676v1)|null|
 |**2024-12-03**|**Scaling limit of first passage percolation geodesics on planar maps**|Emmanuel Kammerer et.al.|[2412.02666v1](http://arxiv.org/abs/2412.02666v1)|null|
 |**2024-12-03**|**Asymptically full measure sets of almost-periodic solutions for the NLS equation**|Luca Biasco et.al.|[2412.02648v1](http://arxiv.org/abs/2412.02648v1)|null|
