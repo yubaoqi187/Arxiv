@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-05, **PaintScene4D: Consistent 4D Scene Generation from Text Prompts**, Vinayak Gupta et.al., Paper: [http://arxiv.org/abs/2412.04471v1](http://arxiv.org/abs/2412.04471v1)
+- 2024-12-05, **Turbo3D: Ultra-fast Text-to-3D Generation**, Hanzhe Hu et.al., Paper: [http://arxiv.org/abs/2412.04470v1](http://arxiv.org/abs/2412.04470v1)
+- 2024-12-05, **4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2412.04462v1](http://arxiv.org/abs/2412.04462v1)
+- 2024-12-05, **LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors**, Yusuf Dalva et.al., Paper: [http://arxiv.org/abs/2412.04460v1](http://arxiv.org/abs/2412.04460v1)
+- 2024-12-05, **Four-Plane Factorized Video Autoencoders**, Mohammed Suhail et.al., Paper: [http://arxiv.org/abs/2412.04452v1](http://arxiv.org/abs/2412.04452v1)
+- 2024-12-05, **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, Longtao Zheng et.al., Paper: [http://arxiv.org/abs/2412.04448v1](http://arxiv.org/abs/2412.04448v1)
+- 2024-12-05, **DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**, Yizhuo Li et.al., Paper: [http://arxiv.org/abs/2412.04446v1](http://arxiv.org/abs/2412.04446v1)
+- 2024-12-05, **Learning Artistic Signatures: Symmetry Discovery and Style Transfer**, Emma Finn et.al., Paper: [http://arxiv.org/abs/2412.04441v1](http://arxiv.org/abs/2412.04441v1)
+- 2024-12-05, **Structure of undercompressive shock waves in three-phase flow in porous media**, L. F. Lozano et.al., Paper: [http://arxiv.org/abs/2412.04439v1](http://arxiv.org/abs/2412.04439v1)
+- 2024-12-05, **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**, Yuying Ge et.al., Paper: [http://arxiv.org/abs/2412.04432v1](http://arxiv.org/abs/2412.04432v1)
+- 2024-12-05, **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**, Jian Han et.al., Paper: [http://arxiv.org/abs/2412.04431v1](http://arxiv.org/abs/2412.04431v1)
+- 2024-12-05, **Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**, Madeleine D. Breshears et.al., Paper: [http://arxiv.org/abs/2412.04423v1](http://arxiv.org/abs/2412.04423v1)
+- 2024-12-05, **Superdiffusive Scaling Limits for the Symmetric Exclusion Process with Slow Bonds**, Dirk Erhard et.al., Paper: [http://arxiv.org/abs/2412.04396v1](http://arxiv.org/abs/2412.04396v1)
+- 2024-12-05, **Power spectrum of magnetic relaxation in spin ice: anomalous diffusion in a Coulomb fluid**, D. Billington et.al., Paper: [http://arxiv.org/abs/2412.04376v1](http://arxiv.org/abs/2412.04376v1)
+- 2024-12-05, **Reversible molecular simulation for training classical and machine learning force fields**, Joe G Greener et.al., Paper: [http://arxiv.org/abs/2412.04374v1](http://arxiv.org/abs/2412.04374v1)
+- 2024-12-05, **Small-scale dynamics and structure of free-surface turbulence**, Yinghe Qi et.al., Paper: [http://arxiv.org/abs/2412.04361v1](http://arxiv.org/abs/2412.04361v1)
+- 2024-12-05, **ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**, Dayoung Gong et.al., Paper: [http://arxiv.org/abs/2412.04353v1](http://arxiv.org/abs/2412.04353v1)
+- 2024-12-05, **RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse**, Zhouyingcheng Liao et.al., Paper: [http://arxiv.org/abs/2412.04343v1](http://arxiv.org/abs/2412.04343v1)
+- 2024-12-05, **Likelihood-Scheduled Score-Based Generative Modeling for Fully 3D PET Image Reconstruction**, George Webber et.al., Paper: [http://arxiv.org/abs/2412.04339v1](http://arxiv.org/abs/2412.04339v1)
+- 2024-12-05, **Multi-Subject Image Synthesis as a Generative Prior for Single-Subject PET Image Reconstruction**, George Webber et.al., Paper: [http://arxiv.org/abs/2412.04324v1](http://arxiv.org/abs/2412.04324v1)
 - 2024-12-04, **Navigation World Models**, Amir Bar et.al., Paper: [http://arxiv.org/abs/2412.03572v1](http://arxiv.org/abs/2412.03572v1)
 - 2024-12-04, **MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2412.03558v1](http://arxiv.org/abs/2412.03558v1)
 - 2024-12-04, **Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention**, Hannan Lu et.al., Paper: [http://arxiv.org/abs/2412.03520v1](http://arxiv.org/abs/2412.03520v1)
@@ -11735,6 +11755,9 @@
 
 ## Diffusion_Segment
 
+- 2024-12-05, **ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**, Dayoung Gong et.al., Paper: [http://arxiv.org/abs/2412.04353v1](http://arxiv.org/abs/2412.04353v1)
+- 2024-12-05, **Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**, Jie Bao et.al., Paper: [http://arxiv.org/abs/2412.04296v1](http://arxiv.org/abs/2412.04296v1)
+- 2024-12-04, **MRGen: Diffusion-based Controllable Data Engine for MRI Segmentation towards Unannotated Modalities**, Haoning Wu et.al., Paper: [http://arxiv.org/abs/2412.04106v1](http://arxiv.org/abs/2412.04106v1)
 - 2024-12-04, **Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**, Siyoon Jin et.al., Paper: [http://arxiv.org/abs/2412.03150v1](http://arxiv.org/abs/2412.03150v1)
 - 2024-12-04, **Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**, Jiahua Xiao et.al., Paper: [http://arxiv.org/abs/2412.02960v1](http://arxiv.org/abs/2412.02960v1)
 - 2024-12-04, **Panoptic Diffusion Models: co-generation of images and segmentation maps**, Yinghan Long et.al., Paper: [http://arxiv.org/abs/2412.02929v1](http://arxiv.org/abs/2412.02929v1)
