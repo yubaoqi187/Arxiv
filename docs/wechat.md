@@ -1,4 +1,4 @@
-> Updated on 2024.12.06
+> Updated on 2024.12.07
 
 ## Video_Classification
 
@@ -9550,7 +9550,7 @@
 - 2024-12-05, **DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**, Yizhuo Li et.al., Paper: [http://arxiv.org/abs/2412.04446v1](http://arxiv.org/abs/2412.04446v1)
 - 2024-12-05, **Learning Artistic Signatures: Symmetry Discovery and Style Transfer**, Emma Finn et.al., Paper: [http://arxiv.org/abs/2412.04441v1](http://arxiv.org/abs/2412.04441v1)
 - 2024-12-05, **Structure of undercompressive shock waves in three-phase flow in porous media**, L. F. Lozano et.al., Paper: [http://arxiv.org/abs/2412.04439v1](http://arxiv.org/abs/2412.04439v1)
-- 2024-12-05, **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**, Yuying Ge et.al., Paper: [http://arxiv.org/abs/2412.04432v1](http://arxiv.org/abs/2412.04432v1)
+- 2024-12-05, **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**, Yuying Ge et.al., Paper: [http://arxiv.org/abs/2412.04432v1](http://arxiv.org/abs/2412.04432v1), Code: **[https://github.com/tencentarc/divot](https://github.com/tencentarc/divot)**
 - 2024-12-05, **Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**, Jian Han et.al., Paper: [http://arxiv.org/abs/2412.04431v1](http://arxiv.org/abs/2412.04431v1)
 - 2024-12-05, **Sub-diffraction Imaging of Carrier Dynamics in Halide Perovskite Semiconductors: Effects of Passivation, Morphology, and Ion Motion**, Madeleine D. Breshears et.al., Paper: [http://arxiv.org/abs/2412.04423v1](http://arxiv.org/abs/2412.04423v1)
 - 2024-12-05, **Superdiffusive Scaling Limits for the Symmetric Exclusion Process with Slow Bonds**, Dirk Erhard et.al., Paper: [http://arxiv.org/abs/2412.04396v1](http://arxiv.org/abs/2412.04396v1)
@@ -11767,7 +11767,7 @@
 - 2024-12-02, **Machine Learning Analysis of Anomalous Diffusion**, Wenjie Cai et.al., Paper: [http://arxiv.org/abs/2412.01393v1](http://arxiv.org/abs/2412.01393v1)
 - 2024-12-02, **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**, Xin Yan et.al., Paper: [http://arxiv.org/abs/2412.01316v1](http://arxiv.org/abs/2412.01316v1)
 - 2024-12-01, **Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis**, Hao Jin et.al., Paper: [http://arxiv.org/abs/2412.00638v1](http://arxiv.org/abs/2412.00638v1)
-- 2024-11-30, **Energy-Based Prior Latent Space Diffusion model for Reconstruction of Lumbar Vertebrae from Thick Slice MRI**, Yanke Wang et.al., Paper: [http://arxiv.org/abs/2412.00511v1](http://arxiv.org/abs/2412.00511v1)
+- 2024-11-30, **Energy-Based Prior Latent Space Diffusion model for Reconstruction of Lumbar Vertebrae from Thick Slice MRI**, Yanke Wang et.al., Paper: [http://arxiv.org/abs/2412.00511v1](http://arxiv.org/abs/2412.00511v1), Code: **[https://github.com/Seven-year-promise/LSD_EBM_MRI](https://github.com/Seven-year-promise/LSD_EBM_MRI)**
 - 2024-11-28, **SAMa: Material-aware 3D Selection and Segmentation**, Michael Fischer et.al., Paper: [http://arxiv.org/abs/2411.19322v1](http://arxiv.org/abs/2411.19322v1)
 - 2024-11-27, **Sustainability & Social Segmentation in Social Media Contagion: A Mathematical and Computational Study on Dual Effects of Individual Needs & Peer Influence**, Dibyajyoti Mallick et.al., Paper: [http://arxiv.org/abs/2411.18709v1](http://arxiv.org/abs/2411.18709v1)
 - 2024-11-27, **HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior**, Li-Yuan Tsao et.al., Paper: [http://arxiv.org/abs/2411.18662v1](http://arxiv.org/abs/2411.18662v1), Code: **[https://github.com/liyuantsao/HoliSDiP](https://github.com/liyuantsao/HoliSDiP)**
