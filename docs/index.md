@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|null|
+|**2024-12-09**|**Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**|M. Hamza Mughal et.al.|[2412.06786v1](http://arxiv.org/abs/2412.06786v1)|null|
+|**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785v1](http://arxiv.org/abs/2412.06785v1)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
+|**2024-12-09**|**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**|Zhefei Gong et.al.|[2412.06782v1](http://arxiv.org/abs/2412.06782v1)|null|
+|**2024-12-09**|**Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation**|Nicolas Dufour et.al.|[2412.06781v1](http://arxiv.org/abs/2412.06781v1)|null|
+|**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780v1](http://arxiv.org/abs/2412.06780v1)|null|
+|**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774v1](http://arxiv.org/abs/2412.06774v1)|null|
+|**2024-12-09**|**Interface dynamics in a degenerate Cahn-Hilliard model for viscoelastic phase separation**|Katharina Hopf et.al.|[2412.06762v1](http://arxiv.org/abs/2412.06762v1)|null|
+|**2024-12-09**|**Speckle imaging with blind source separation and total variation deconvolution**|Randy Bartels et.al.|[2412.06755v1](http://arxiv.org/abs/2412.06755v1)|null|
+|**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753v1](http://arxiv.org/abs/2412.06753v1)|null|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742v1](http://arxiv.org/abs/2412.06742v1)|null|
+|**2024-12-09**|**Martingale and analytic dimensions coincide under Gaussian heat kernel bounds**|Mathav Murugan et.al.|[2412.06737v1](http://arxiv.org/abs/2412.06737v1)|null|
+|**2024-12-09**|**Demystifying shock breakout spectra**|Christopher M. Irwin et.al.|[2412.06734v1](http://arxiv.org/abs/2412.06734v1)|null|
+|**2024-12-09**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727v1](http://arxiv.org/abs/2412.06727v1)|null|
+|**2024-12-09**|**You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale**|Baorui Ma et.al.|[2412.06699v1](http://arxiv.org/abs/2412.06699v1)|null|
+|**2024-12-09**|**Gen-3Diffusion: Realistic Image-to-3D Generation via 2D & 3D Diffusion Synergy**|Yuxuan Xue et.al.|[2412.06698v1](http://arxiv.org/abs/2412.06698v1)|null|
+|**2024-12-09**|**Inelastic H + H^+_3 Collision rates and their impact in the determination of the excitation temperature of H^+_3**|Daniel Felix-Gonzalez et.al.|[2412.06697v1](http://arxiv.org/abs/2412.06697v1)|null|
+|**2024-12-09**|**Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone**|Max Sobol Mark et.al.|[2412.06685v1](http://arxiv.org/abs/2412.06685v1)|null|
+|**2024-12-09**|**Diff5T: Benchmarking Human Brain Diffusion MRI with an Extensive 5.0 Tesla K-Space and Spatial Dataset**|Shanshan Wang et.al.|[2412.06666v1](http://arxiv.org/abs/2412.06666v1)|null|
+|**2024-12-09**|**Efficiency Meets Fidelity: A Novel Quantization Framework for Stable Diffusion**|Shuaiting Li et.al.|[2412.06661v1](http://arxiv.org/abs/2412.06661v1)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279v1](http://arxiv.org/abs/2412.05279v1)|null|
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278v1](http://arxiv.org/abs/2412.05278v1)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275v1](http://arxiv.org/abs/2412.05275v1)|null|
@@ -2244,6 +2264,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v1](http://arxiv.org/abs/2412.06787v1)|null|
+|**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742v1](http://arxiv.org/abs/2412.06742v1)|null|
+|**2024-12-09**|**Demystifying shock breakout spectra**|Christopher M. Irwin et.al.|[2412.06734v1](http://arxiv.org/abs/2412.06734v1)|null|
+|**2024-12-08**|**FlexDiT: Dynamic Token Density Control for Diffusion Transformer**|Shuning Chang et.al.|[2412.06028v1](http://arxiv.org/abs/2412.06028v1)|null|
+|**2024-12-08**|**CSG: A Context-Semantic Guided Diffusion Approach in De Novo Musculoskeletal Ultrasound Image Generation**|Elay Dahan et.al.|[2412.05833v1](http://arxiv.org/abs/2412.05833v1)|null|
+|**2024-12-04**|**Patient-specific prediction of glioblastoma growth via reduced order modeling and neural networks**|D. Cerrone et.al.|[2412.05330v1](http://arxiv.org/abs/2412.05330v1)|null|
 |**2024-12-06**|**Unsupervised Segmentation by Diffusing, Walking and Cutting**|Daniela Ivanova et.al.|[2412.04678v1](http://arxiv.org/abs/2412.04678v1)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623v1](http://arxiv.org/abs/2412.04623v1)|null|
 |**2024-12-05**|**ARTeFACT: Benchmarking Segmentation Models on Diverse Analogue Media Damage**|Daniela Ivanova et.al.|[2412.04580v1](http://arxiv.org/abs/2412.04580v1)|null|
@@ -2254,7 +2280,7 @@ layout: default
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960v1](http://arxiv.org/abs/2412.02960v1)|null|
 |**2024-12-04**|**Panoptic Diffusion Models: co-generation of images and segmentation maps**|Yinghan Long et.al.|[2412.02929v1](http://arxiv.org/abs/2412.02929v1)|null|
 |**2024-12-04**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v2](http://arxiv.org/abs/2412.02690v2)|null|
-|**2024-12-02**|**3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**|Ziyang Yan et.al.|[2412.01583v1](http://arxiv.org/abs/2412.01583v1)|null|
+|**2024-12-09**|**3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**|Ziyang Yan et.al.|[2412.01583v2](http://arxiv.org/abs/2412.01583v2)|null|
 |**2024-12-02**|**CopyrightShield: Spatial Similarity Guided Backdoor Defense against Copyright Infringement in Diffusion Models**|Zhixiang Guo et.al.|[2412.01528v1](http://arxiv.org/abs/2412.01528v1)|null|
 |**2024-12-02**|**Machine Learning Analysis of Anomalous Diffusion**|Wenjie Cai et.al.|[2412.01393v1](http://arxiv.org/abs/2412.01393v1)|null|
 |**2024-12-02**|**Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation**|Xin Yan et.al.|[2412.01316v1](http://arxiv.org/abs/2412.01316v1)|null|
