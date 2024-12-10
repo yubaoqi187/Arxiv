@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 
 ## Diffusion
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278v1](http://arxiv.org/abs/2412.05278v1)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275v1](http://arxiv.org/abs/2412.05275v1)|null|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263v1](http://arxiv.org/abs/2412.05263v1)|null|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**A kinetically constrained model exhibiting non-linear diffusion and jamming**|Abhishek Raj et.al.|[2412.05231v1](http://arxiv.org/abs/2412.05231v1)|null|
 |**2024-12-06**|**Diffusion cascade in a model of interacting random walkers**|Abhishek Raj et.al.|[2412.05222v1](http://arxiv.org/abs/2412.05222v1)|null|
 |**2024-12-06**|**Go-or-Grow Models in Biology: a Monster on a Leash**|R. Thiessen et.al.|[2412.05191v1](http://arxiv.org/abs/2412.05191v1)|null|
