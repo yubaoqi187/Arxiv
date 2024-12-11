@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-10, **Video Motion Transfer with Diffusion Transformers**, Alexander Pondaven et.al., Paper: [http://arxiv.org/abs/2412.07776v1](http://arxiv.org/abs/2412.07776v1)
+- 2024-12-10, **Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**, Zhen Liu et.al., Paper: [http://arxiv.org/abs/2412.07775v1](http://arxiv.org/abs/2412.07775v1)
+- 2024-12-10, **From Slow Bidirectional to Fast Causal Video Generators**, Tianwei Yin et.al., Paper: [http://arxiv.org/abs/2412.07772v1](http://arxiv.org/abs/2412.07772v1)
+- 2024-12-10, **From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos**, Matthew Wallingford et.al., Paper: [http://arxiv.org/abs/2412.07770v1](http://arxiv.org/abs/2412.07770v1)
+- 2024-12-10, **Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**, Xiaoyu Xiang et.al., Paper: [http://arxiv.org/abs/2412.07766v1](http://arxiv.org/abs/2412.07766v1)
+- 2024-12-10, **Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation**, Jingxi Chen et.al., Paper: [http://arxiv.org/abs/2412.07761v1](http://arxiv.org/abs/2412.07761v1)
+- 2024-12-10, **SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints**, Jianhong Bai et.al., Paper: [http://arxiv.org/abs/2412.07760v1](http://arxiv.org/abs/2412.07760v1), Code: **[https://github.com/kwaivgi/syncammaster](https://github.com/kwaivgi/syncammaster)**
+- 2024-12-10, **3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**, Xiao Fu et.al., Paper: [http://arxiv.org/abs/2412.07759v1](http://arxiv.org/abs/2412.07759v1)
+- 2024-12-10, **PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**, Fatemeh Nazarieh et.al., Paper: [http://arxiv.org/abs/2412.07754v1](http://arxiv.org/abs/2412.07754v1)
+- 2024-12-10, **Structural, Electronic, and Li-ion Adsorption Properties of PolyPyGY Explored by First-Principles and Machine Learning Simulations: A New Multi-Ringed 2D Carbon Allotrope**, K. A. L. Lima et.al., Paper: [http://arxiv.org/abs/2412.07753v1](http://arxiv.org/abs/2412.07753v1)
+- 2024-12-10, **Multi-Shot Character Consistency for Text-to-Video Generation**, Yuval Atzmon et.al., Paper: [http://arxiv.org/abs/2412.07750v1](http://arxiv.org/abs/2412.07750v1)
+- 2024-12-10, **Continuous-space event-driven simulations of reaction-diffusion processes in three dimensions**, Vincent Rossetto et.al., Paper: [http://arxiv.org/abs/2412.07740v1](http://arxiv.org/abs/2412.07740v1)
+- 2024-12-10, **STIV: Scalable Text and Image Conditioned Video Generation**, Zongyu Lin et.al., Paper: [http://arxiv.org/abs/2412.07730v1](http://arxiv.org/abs/2412.07730v1)
+- 2024-12-10, **ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer**, Jinyi Hu et.al., Paper: [http://arxiv.org/abs/2412.07720v1](http://arxiv.org/abs/2412.07720v1), Code: **[https://github.com/thunlp/acdit](https://github.com/thunlp/acdit)**
+- 2024-12-10, **An H-theorem for a conditional McKean-Vlasov process related to interacting diffusions on regular trees**, Kevin Hu et.al., Paper: [http://arxiv.org/abs/2412.07710v1](http://arxiv.org/abs/2412.07710v1)
+- 2024-12-10, **FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models**, Tong Wu et.al., Paper: [http://arxiv.org/abs/2412.07674v1](http://arxiv.org/abs/2412.07674v1)
+- 2024-12-10, **TraSCE: Trajectory Steering for Concept Erasure**, Anubhav Jain et.al., Paper: [http://arxiv.org/abs/2412.07658v1](http://arxiv.org/abs/2412.07658v1)
+- 2024-12-10, **Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**, Jiahua Xu et.al., Paper: [http://arxiv.org/abs/2412.07590v1](http://arxiv.org/abs/2412.07590v1), Code: **[https://github.com/medcx/PFAD](https://github.com/medcx/PFAD)**
+- 2024-12-10, **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**, Jianzong Wu et.al., Paper: [http://arxiv.org/abs/2412.07589v1](http://arxiv.org/abs/2412.07589v1)
+- 2024-12-10, **Mobile Video Diffusion**, Haitam Ben Yahia et.al., Paper: [http://arxiv.org/abs/2412.07583v1](http://arxiv.org/abs/2412.07583v1)
 - 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
 - 2024-12-09, **Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**, M. Hamza Mughal et.al., Paper: [http://arxiv.org/abs/2412.06786v1](http://arxiv.org/abs/2412.06786v1)
 - 2024-12-09, **Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**, Ruihan Gao et.al., Paper: [http://arxiv.org/abs/2412.06785v1](http://arxiv.org/abs/2412.06785v1), Code: **[https://github.com/ruihangao/tactiledreamfusion](https://github.com/ruihangao/tactiledreamfusion)**
@@ -11795,8 +11815,9 @@
 
 ## Diffusion_Segment
 
-- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
-- 2024-12-09, **ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**, Andrei-Robert Alexandrescu et.al., Paper: [http://arxiv.org/abs/2412.06742v1](http://arxiv.org/abs/2412.06742v1)
+- 2024-12-10, **LOGen: Toward Lidar Object Generation by Point Diffusion**, Ellington Kirby et.al., Paper: [http://arxiv.org/abs/2412.07385v1](http://arxiv.org/abs/2412.07385v1)
+- 2024-12-10, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v2](http://arxiv.org/abs/2412.06787v2), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
+- 2024-12-10, **ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**, Andrei-Robert Alexandrescu et.al., Paper: [http://arxiv.org/abs/2412.06742v2](http://arxiv.org/abs/2412.06742v2)
 - 2024-12-09, **Demystifying shock breakout spectra**, Christopher M. Irwin et.al., Paper: [http://arxiv.org/abs/2412.06734v1](http://arxiv.org/abs/2412.06734v1)
 - 2024-12-08, **FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, Shuning Chang et.al., Paper: [http://arxiv.org/abs/2412.06028v1](http://arxiv.org/abs/2412.06028v1)
 - 2024-12-08, **CSG: A Context-Semantic Guided Diffusion Approach in De Novo Musculoskeletal Ultrasound Image Generation**, Elay Dahan et.al., Paper: [http://arxiv.org/abs/2412.05833v1](http://arxiv.org/abs/2412.05833v1)
