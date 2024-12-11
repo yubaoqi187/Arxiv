@@ -1,4 +1,4 @@
-> Updated on 2024.12.10
+> Updated on 2024.12.11
 
 ## Video_Classification
 
@@ -9541,7 +9541,7 @@
 
 ## Diffusion
 
-- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1)
+- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
 - 2024-12-09, **Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**, M. Hamza Mughal et.al., Paper: [http://arxiv.org/abs/2412.06786v1](http://arxiv.org/abs/2412.06786v1)
 - 2024-12-09, **Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**, Ruihan Gao et.al., Paper: [http://arxiv.org/abs/2412.06785v1](http://arxiv.org/abs/2412.06785v1), Code: **[https://github.com/ruihangao/tactiledreamfusion](https://github.com/ruihangao/tactiledreamfusion)**
 - 2024-12-09, **CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**, Zhefei Gong et.al., Paper: [http://arxiv.org/abs/2412.06782v1](http://arxiv.org/abs/2412.06782v1)
@@ -11795,7 +11795,7 @@
 
 ## Diffusion_Segment
 
-- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1)
+- 2024-12-09, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v1](http://arxiv.org/abs/2412.06787v1), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
 - 2024-12-09, **ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**, Andrei-Robert Alexandrescu et.al., Paper: [http://arxiv.org/abs/2412.06742v1](http://arxiv.org/abs/2412.06742v1)
 - 2024-12-09, **Demystifying shock breakout spectra**, Christopher M. Irwin et.al., Paper: [http://arxiv.org/abs/2412.06734v1](http://arxiv.org/abs/2412.06734v1)
 - 2024-12-08, **FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, Shuning Chang et.al., Paper: [http://arxiv.org/abs/2412.06028v1](http://arxiv.org/abs/2412.06028v1)
