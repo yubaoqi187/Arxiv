@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-11, **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**, Daniel Winter et.al., Paper: [http://arxiv.org/abs/2412.08645v1](http://arxiv.org/abs/2412.08645v1)
+- 2024-12-11, **Generative Semantic Communication: Architectures, Technologies, and Applications**, Jinke Ren et.al., Paper: [http://arxiv.org/abs/2412.08642v1](http://arxiv.org/abs/2412.08642v1)
+- 2024-12-11, **DMin: Scalable Training Data Influence Estimation for Diffusion Models**, Huawei Lin et.al., Paper: [http://arxiv.org/abs/2412.08637v1](http://arxiv.org/abs/2412.08637v1)
+- 2024-12-11, **Multimodal Latent Language Modeling with Next-Token Diffusion**, Yutao Sun et.al., Paper: [http://arxiv.org/abs/2412.08635v1](http://arxiv.org/abs/2412.08635v1)
+- 2024-12-11, **FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**, Vladimir Kulikov et.al., Paper: [http://arxiv.org/abs/2412.08629v1](http://arxiv.org/abs/2412.08629v1)
+- 2024-12-11, **Mel-Refine: A Plug-and-Play Approach to Refine Mel-Spectrogram in Audio Generation**, Hongming Guo et.al., Paper: [http://arxiv.org/abs/2412.08577v1](http://arxiv.org/abs/2412.08577v1)
+- 2024-12-11, **TryOffAnyone: Tiled Cloth Generation from a Dressed Person**, Ioannis Xarchakos et.al., Paper: [http://arxiv.org/abs/2412.08573v1](http://arxiv.org/abs/2412.08573v1), Code: **[https://github.com/ixarchakos/try-off-anyone](https://github.com/ixarchakos/try-off-anyone)**
+- 2024-12-11, **Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations**, Hugo Flores García et.al., Paper: [http://arxiv.org/abs/2412.08550v1](http://arxiv.org/abs/2412.08550v1)
+- 2024-12-11, **Phenomenology of Neutrino-Dark Matter Interaction in DSNB and AGN**, Po-Yan Tseng et.al., Paper: [http://arxiv.org/abs/2412.08537v1](http://arxiv.org/abs/2412.08537v1)
+- 2024-12-11, **Limited thermal and spin transport in a dissipative superfluid junction**, Meng-Zi Huang et.al., Paper: [http://arxiv.org/abs/2412.08525v1](http://arxiv.org/abs/2412.08525v1)
+- 2024-12-11, **Learning Flow Fields in Attention for Controllable Person Image Generation**, Zijian Zhou et.al., Paper: [http://arxiv.org/abs/2412.08486v1](http://arxiv.org/abs/2412.08486v1), Code: **[https://github.com/franciszzj/leffa](https://github.com/franciszzj/leffa)**
+- 2024-12-11, **InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**, Min Hou et.al., Paper: [http://arxiv.org/abs/2412.08480v1](http://arxiv.org/abs/2412.08480v1), Code: **[https://github.com/hundredl/invdiff](https://github.com/hundredl/invdiff)**
+- 2024-12-11, **Enhancement and speed-up of carrier dynamics in a dielectric nanocavity with deep sub-wavelength confinement**, Gaoneng Dong et.al., Paper: [http://arxiv.org/abs/2412.08471v1](http://arxiv.org/abs/2412.08471v1)
+- 2024-12-11, **CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**, Mu Zhang et.al., Paper: [http://arxiv.org/abs/2412.08464v1](http://arxiv.org/abs/2412.08464v1)
+- 2024-12-11, **Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**, Fermin Orozco et.al., Paper: [http://arxiv.org/abs/2412.08460v1](http://arxiv.org/abs/2412.08460v1)
+- 2024-12-11, **Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**, Stjepan Salatovic et.al., Paper: [http://arxiv.org/abs/2412.08459v1](http://arxiv.org/abs/2412.08459v1)
+- 2024-12-11, **Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**, Songchun Zhang et.al., Paper: [http://arxiv.org/abs/2412.08412v1](http://arxiv.org/abs/2412.08412v1)
+- 2024-12-11, **Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**, Joao Carvalho et.al., Paper: [http://arxiv.org/abs/2412.08398v1](http://arxiv.org/abs/2412.08398v1)
+- 2024-12-11, **Nonparametric estimation of the stationary density for Hawkes-diffusion systems with known and unknown intensity**, Chiara Amorino et.al., Paper: [http://arxiv.org/abs/2412.08386v1](http://arxiv.org/abs/2412.08386v1)
+- 2024-12-11, **Hybrid GFD-RBF Method for Convection-Diffusion Problems**, Priyal Garg et.al., Paper: [http://arxiv.org/abs/2412.08365v1](http://arxiv.org/abs/2412.08365v1)
 - 2024-12-10, **Video Motion Transfer with Diffusion Transformers**, Alexander Pondaven et.al., Paper: [http://arxiv.org/abs/2412.07776v1](http://arxiv.org/abs/2412.07776v1), Code: **[https://github.com/ditflow/ditflow](https://github.com/ditflow/ditflow)**
 - 2024-12-10, **Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets**, Zhen Liu et.al., Paper: [http://arxiv.org/abs/2412.07775v1](http://arxiv.org/abs/2412.07775v1)
 - 2024-12-10, **From Slow Bidirectional to Fast Causal Video Generators**, Tianwei Yin et.al., Paper: [http://arxiv.org/abs/2412.07772v1](http://arxiv.org/abs/2412.07772v1)
@@ -11815,6 +11835,7 @@
 
 ## Diffusion_Segment
 
+- 2024-12-11, **DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**, Jaeho Moon et.al., Paper: [http://arxiv.org/abs/2412.08116v1](http://arxiv.org/abs/2412.08116v1)
 - 2024-12-10, **LOGen: Toward Lidar Object Generation by Point Diffusion**, Ellington Kirby et.al., Paper: [http://arxiv.org/abs/2412.07385v1](http://arxiv.org/abs/2412.07385v1)
 - 2024-12-10, **[MASK] is All You Need**, Vincent Tao Hu et.al., Paper: [http://arxiv.org/abs/2412.06787v2](http://arxiv.org/abs/2412.06787v2), Code: **[https://github.com/CompVis/mask](https://github.com/CompVis/mask)**
 - 2024-12-10, **ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**, Andrei-Robert Alexandrescu et.al., Paper: [http://arxiv.org/abs/2412.06742v2](http://arxiv.org/abs/2412.06742v2)
