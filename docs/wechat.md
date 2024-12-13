@@ -1,4 +1,4 @@
-> Updated on 2024.12.12
+> Updated on 2024.12.13
 
 ## Video_Classification
 
@@ -9543,7 +9543,7 @@
 
 - 2024-12-11, **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**, Daniel Winter et.al., Paper: [http://arxiv.org/abs/2412.08645v1](http://arxiv.org/abs/2412.08645v1)
 - 2024-12-11, **Generative Semantic Communication: Architectures, Technologies, and Applications**, Jinke Ren et.al., Paper: [http://arxiv.org/abs/2412.08642v1](http://arxiv.org/abs/2412.08642v1)
-- 2024-12-11, **DMin: Scalable Training Data Influence Estimation for Diffusion Models**, Huawei Lin et.al., Paper: [http://arxiv.org/abs/2412.08637v1](http://arxiv.org/abs/2412.08637v1)
+- 2024-12-11, **DMin: Scalable Training Data Influence Estimation for Diffusion Models**, Huawei Lin et.al., Paper: [http://arxiv.org/abs/2412.08637v1](http://arxiv.org/abs/2412.08637v1), Code: **[https://github.com/huawei-lin/DMin](https://github.com/huawei-lin/DMin)**
 - 2024-12-11, **Multimodal Latent Language Modeling with Next-Token Diffusion**, Yutao Sun et.al., Paper: [http://arxiv.org/abs/2412.08635v1](http://arxiv.org/abs/2412.08635v1)
 - 2024-12-11, **FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**, Vladimir Kulikov et.al., Paper: [http://arxiv.org/abs/2412.08629v1](http://arxiv.org/abs/2412.08629v1)
 - 2024-12-11, **Mel-Refine: A Plug-and-Play Approach to Refine Mel-Spectrogram in Audio Generation**, Hongming Guo et.al., Paper: [http://arxiv.org/abs/2412.08577v1](http://arxiv.org/abs/2412.08577v1)
@@ -9557,7 +9557,7 @@
 - 2024-12-11, **CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**, Mu Zhang et.al., Paper: [http://arxiv.org/abs/2412.08464v1](http://arxiv.org/abs/2412.08464v1)
 - 2024-12-11, **Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**, Fermin Orozco et.al., Paper: [http://arxiv.org/abs/2412.08460v1](http://arxiv.org/abs/2412.08460v1)
 - 2024-12-11, **Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**, Stjepan Salatovic et.al., Paper: [http://arxiv.org/abs/2412.08459v1](http://arxiv.org/abs/2412.08459v1)
-- 2024-12-11, **Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**, Songchun Zhang et.al., Paper: [http://arxiv.org/abs/2412.08412v1](http://arxiv.org/abs/2412.08412v1)
+- 2024-12-12, **Pragmatist: Multiview Conditional Diffusion Models for High-Fidelity 3D Reconstruction from Unposed Sparse Views**, Songchun Zhang et.al., Paper: [http://arxiv.org/abs/2412.08412v2](http://arxiv.org/abs/2412.08412v2)
 - 2024-12-11, **Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3**, Joao Carvalho et.al., Paper: [http://arxiv.org/abs/2412.08398v1](http://arxiv.org/abs/2412.08398v1)
 - 2024-12-11, **Nonparametric estimation of the stationary density for Hawkes-diffusion systems with known and unknown intensity**, Chiara Amorino et.al., Paper: [http://arxiv.org/abs/2412.08386v1](http://arxiv.org/abs/2412.08386v1)
 - 2024-12-11, **Hybrid GFD-RBF Method for Convection-Diffusion Problems**, Priyal Garg et.al., Paper: [http://arxiv.org/abs/2412.08365v1](http://arxiv.org/abs/2412.08365v1)
@@ -11847,7 +11847,7 @@
 - 2024-12-05, **Using Diffusion Priors for Video Amodal Segmentation**, Kaihua Chen et.al., Paper: [http://arxiv.org/abs/2412.04623v1](http://arxiv.org/abs/2412.04623v1)
 - 2024-12-05, **ARTeFACT: Benchmarking Segmentation Models on Diverse Analogue Media Damage**, Daniela Ivanova et.al., Paper: [http://arxiv.org/abs/2412.04580v1](http://arxiv.org/abs/2412.04580v1)
 - 2024-12-05, **ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**, Dayoung Gong et.al., Paper: [http://arxiv.org/abs/2412.04353v1](http://arxiv.org/abs/2412.04353v1)
-- 2024-12-05, **Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**, Jie Bao et.al., Paper: [http://arxiv.org/abs/2412.04296v1](http://arxiv.org/abs/2412.04296v1)
+- 2024-12-05, **Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation**, Jie Bao et.al., Paper: [http://arxiv.org/abs/2412.04296v1](http://arxiv.org/abs/2412.04296v1), Code: **[https://github.com/luo-lorry/Stylized-Medical-Segmentation](https://github.com/luo-lorry/Stylized-Medical-Segmentation)**
 - 2024-12-04, **MRGen: Diffusion-based Controllable Data Engine for MRI Segmentation towards Unannotated Modalities**, Haoning Wu et.al., Paper: [http://arxiv.org/abs/2412.04106v1](http://arxiv.org/abs/2412.04106v1)
 - 2024-12-04, **Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**, Siyoon Jin et.al., Paper: [http://arxiv.org/abs/2412.03150v1](http://arxiv.org/abs/2412.03150v1)
 - 2024-12-04, **Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**, Jiahua Xiao et.al., Paper: [http://arxiv.org/abs/2412.02960v1](http://arxiv.org/abs/2412.02960v1)
