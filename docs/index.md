@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626v1](http://arxiv.org/abs/2412.09626v1)|null|
+|**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625v1](http://arxiv.org/abs/2412.09625v1)|null|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623v1](http://arxiv.org/abs/2412.09623v1)|null|
+|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622v1](http://arxiv.org/abs/2412.09622v1)|null|
+|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619v1](http://arxiv.org/abs/2412.09619v1)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618v1](http://arxiv.org/abs/2412.09618v1)|null|
+|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614v1](http://arxiv.org/abs/2412.09614v1)|null|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597v1](http://arxiv.org/abs/2412.09597v1)|null|
+|**2024-12-12**|**Probing a diffuse flux of axion-like particles from galactic supernovae with neutrino water Cherenkov detectors**|David Alonso-González et.al.|[2412.09595v1](http://arxiv.org/abs/2412.09595v1)|null|
+|**2024-12-12**|**Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**|Zexin He et.al.|[2412.09593v1](http://arxiv.org/abs/2412.09593v1)|null|
+|**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545v1](http://arxiv.org/abs/2412.09545v1)|null|
+|**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465v1](http://arxiv.org/abs/2412.09465v1)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
+|**2024-12-12**|**Learned Compression for Compressed Learning**|Dan Jacobellis et.al.|[2412.09405v1](http://arxiv.org/abs/2412.09405v1)|null|
+|**2024-12-12**|**High-Order Implicit Low-Rank Method with Spectral Deferred Correction for Matrix Differential Equations**|Shun Li et.al.|[2412.09400v1](http://arxiv.org/abs/2412.09400v1)|null|
+|**2024-12-12**|**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**|Delong Liu et.al.|[2412.09389v1](http://arxiv.org/abs/2412.09389v1)|**[link](https://github.com/delong-liu-bupt/ufo)**|
+|**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380v1](http://arxiv.org/abs/2412.09380v1)|null|
+|**2024-12-12**|**Inhomogeneous SU(2) symmetries in homogeneous integrable U(1) circuits and transport**|Marko Znidaric et.al.|[2412.09371v1](http://arxiv.org/abs/2412.09371v1)|null|
+|**2024-12-12**|**Isotopic separation in mixed clusters of molecular hydrogen**|Kiril M. Kolevski et.al.|[2412.09350v1](http://arxiv.org/abs/2412.09350v1)|null|
+|**2024-12-12**|**DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**|Hongxiang Li et.al.|[2412.09349v1](http://arxiv.org/abs/2412.09349v1)|**[link](https://github.com/lihxxx/dispose)**|
+|**2024-12-12**|**Diffusion Predictive Control with Constraints**|Ralf Römer et.al.|[2412.09342v1](http://arxiv.org/abs/2412.09342v1)|**[link](https://github.com/ralfroemer99/dpcc)**|
 |**2024-12-11**|**ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**|Daniel Winter et.al.|[2412.08645v1](http://arxiv.org/abs/2412.08645v1)|null|
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642v1](http://arxiv.org/abs/2412.08642v1)|null|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637v1](http://arxiv.org/abs/2412.08637v1)|**[link](https://github.com/huawei-lin/DMin)**|
@@ -2304,6 +2324,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Unveiling the Mechanisms of Electron Energy Spectrum Evolution**|Xu-Lin Dong et.al.|[2412.09016v1](http://arxiv.org/abs/2412.09016v1)|null|
 |**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116v1](http://arxiv.org/abs/2412.08116v1)|null|
 |**2024-12-10**|**LOGen: Toward Lidar Object Generation by Point Diffusion**|Ellington Kirby et.al.|[2412.07385v1](http://arxiv.org/abs/2412.07385v1)|null|
 |**2024-12-10**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v2](http://arxiv.org/abs/2412.06787v2)|**[link](https://github.com/CompVis/mask)**|
