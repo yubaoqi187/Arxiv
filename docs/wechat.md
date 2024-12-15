@@ -1,4 +1,4 @@
-> Updated on 2024.12.14
+> Updated on 2024.12.15
 
 ## Video_Classification
 
@@ -9553,7 +9553,7 @@
 - 2024-12-12, **Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**, Zexin He et.al., Paper: [http://arxiv.org/abs/2412.09593v1](http://arxiv.org/abs/2412.09593v1)
 - 2024-12-12, **SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**, Xueting Li et.al., Paper: [http://arxiv.org/abs/2412.09545v1](http://arxiv.org/abs/2412.09545v1)
 - 2024-12-12, **OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**, Yuanzhi Zhu et.al., Paper: [http://arxiv.org/abs/2412.09465v1](http://arxiv.org/abs/2412.09465v1), Code: **[https://github.com/yuanzhi-zhu/oftsr](https://github.com/yuanzhi-zhu/oftsr)**
-- 2024-12-12, **Learned Compression for Compressed Learning**, Dan Jacobellis et.al., Paper: [http://arxiv.org/abs/2412.09405v1](http://arxiv.org/abs/2412.09405v1)
+- 2024-12-12, **Learned Compression for Compressed Learning**, Dan Jacobellis et.al., Paper: [http://arxiv.org/abs/2412.09405v1](http://arxiv.org/abs/2412.09405v1), Code: **[https://github.com/danjacobellis/LCCL](https://github.com/danjacobellis/LCCL)**
 - 2024-12-12, **High-Order Implicit Low-Rank Method with Spectral Deferred Correction for Matrix Differential Equations**, Shun Li et.al., Paper: [http://arxiv.org/abs/2412.09400v1](http://arxiv.org/abs/2412.09400v1)
 - 2024-12-12, **UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**, Delong Liu et.al., Paper: [http://arxiv.org/abs/2412.09389v1](http://arxiv.org/abs/2412.09389v1), Code: **[https://github.com/delong-liu-bupt/ufo](https://github.com/delong-liu-bupt/ufo)**
 - 2024-12-12, **Diffusion Model with Representation Alignment for Protein Inverse Folding**, Chenglin Wang et.al., Paper: [http://arxiv.org/abs/2412.09380v1](http://arxiv.org/abs/2412.09380v1)
