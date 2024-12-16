@@ -1,4 +1,4 @@
-> Updated on 2024.12.15
+> Updated on 2024.12.16
 
 ## Video_Classification
 
@@ -9559,7 +9559,7 @@
 - 2024-12-12, **Diffusion Model with Representation Alignment for Protein Inverse Folding**, Chenglin Wang et.al., Paper: [http://arxiv.org/abs/2412.09380v1](http://arxiv.org/abs/2412.09380v1)
 - 2024-12-12, **Inhomogeneous SU(2) symmetries in homogeneous integrable U(1) circuits and transport**, Marko Znidaric et.al., Paper: [http://arxiv.org/abs/2412.09371v1](http://arxiv.org/abs/2412.09371v1)
 - 2024-12-12, **Isotopic separation in mixed clusters of molecular hydrogen**, Kiril M. Kolevski et.al., Paper: [http://arxiv.org/abs/2412.09350v1](http://arxiv.org/abs/2412.09350v1)
-- 2024-12-12, **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**, Hongxiang Li et.al., Paper: [http://arxiv.org/abs/2412.09349v1](http://arxiv.org/abs/2412.09349v1), Code: **[https://github.com/lihxxx/dispose](https://github.com/lihxxx/dispose)**
+- 2024-12-13, **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation**, Hongxiang Li et.al., Paper: [http://arxiv.org/abs/2412.09349v2](http://arxiv.org/abs/2412.09349v2), Code: **[https://github.com/lihxxx/dispose](https://github.com/lihxxx/dispose)**
 - 2024-12-12, **Diffusion Predictive Control with Constraints**, Ralf Römer et.al., Paper: [http://arxiv.org/abs/2412.09342v1](http://arxiv.org/abs/2412.09342v1), Code: **[https://github.com/ralfroemer99/dpcc](https://github.com/ralfroemer99/dpcc)**
 - 2024-12-11, **ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**, Daniel Winter et.al., Paper: [http://arxiv.org/abs/2412.08645v1](http://arxiv.org/abs/2412.08645v1)
 - 2024-12-11, **Generative Semantic Communication: Architectures, Technologies, and Applications**, Jinke Ren et.al., Paper: [http://arxiv.org/abs/2412.08642v1](http://arxiv.org/abs/2412.08642v1)
