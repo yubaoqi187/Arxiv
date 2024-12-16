@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-13, **Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**, Manjunath Omana Kuttan et.al., Paper: [http://arxiv.org/abs/2412.10352v1](http://arxiv.org/abs/2412.10352v1)
+- 2024-12-13, **Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**, Lai Wei et.al., Paper: [http://arxiv.org/abs/2412.10349v1](http://arxiv.org/abs/2412.10349v1)
+- 2024-12-13, **A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**, Wangkai Li et.al., Paper: [http://arxiv.org/abs/2412.10339v1](http://arxiv.org/abs/2412.10339v1)
+- 2024-12-13, **BrushEdit: All-In-One Image Inpainting and Editing**, Yaowei Li et.al., Paper: [http://arxiv.org/abs/2412.10316v1](http://arxiv.org/abs/2412.10316v1)
+- 2024-12-13, **Coherent 3D Scene Diffusion From a Single RGB Image**, Manuel Dahnert et.al., Paper: [http://arxiv.org/abs/2412.10294v1](http://arxiv.org/abs/2412.10294v1)
+- 2024-12-13, **TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**, Xingrui Wang et.al., Paper: [http://arxiv.org/abs/2412.10275v1](http://arxiv.org/abs/2412.10275v1)
+- 2024-12-13, **Probabilistic Inverse Cameras: Image to 3D via Multiview Geometry**, Rishabh Kabra et.al., Paper: [http://arxiv.org/abs/2412.10273v1](http://arxiv.org/abs/2412.10273v1)
+- 2024-12-13, **Quantum transport theory for unconventional magnets; interplay of altermagnetism and p-wave magnetism with superconductivity**, Tim Kokkeler et.al., Paper: [http://arxiv.org/abs/2412.10236v1](http://arxiv.org/abs/2412.10236v1)
+- 2024-12-13, **Motion of Islands of Elastic Thin Films in the Dewetting Regime**, Gianni Dal Maso et.al., Paper: [http://arxiv.org/abs/2412.10222v1](http://arxiv.org/abs/2412.10222v1)
+- 2024-12-13, **Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**, Nikolai Warner et.al., Paper: [http://arxiv.org/abs/2412.10219v1](http://arxiv.org/abs/2412.10219v1)
+- 2024-12-13, **GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion**, Jiapeng Tang et.al., Paper: [http://arxiv.org/abs/2412.10209v1](http://arxiv.org/abs/2412.10209v1)
+- 2024-12-13, **Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**, Jaehyeon Kim et.al., Paper: [http://arxiv.org/abs/2412.10208v1](http://arxiv.org/abs/2412.10208v1)
+- 2024-12-13, **Simple Guidance Mechanisms for Discrete Diffusion Models**, Yair Schiff et.al., Paper: [http://arxiv.org/abs/2412.10193v1](http://arxiv.org/abs/2412.10193v1), Code: **[https://github.com/kuleshov-group/discrete-diffusion-guidance](https://github.com/kuleshov-group/discrete-diffusion-guidance)**
+- 2024-12-13, **From CO$_2$- to H$_2$O-dominated atmospheres and back -- How mixed outgassing changes the volatile distribution in magma oceans around M dwarf stars**, Ludmila Carone et.al., Paper: [http://arxiv.org/abs/2412.10192v1](http://arxiv.org/abs/2412.10192v1)
+- 2024-12-13, **SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models**, Hung Nguyen et.al., Paper: [http://arxiv.org/abs/2412.10178v1](http://arxiv.org/abs/2412.10178v1)
+- 2024-12-13, **The Art of Deception: Color Visual Illusions and Diffusion Models**, Alex Gomez-Villa et.al., Paper: [http://arxiv.org/abs/2412.10122v1](http://arxiv.org/abs/2412.10122v1)
+- 2024-12-13, **SuperMark: Robust and Training-free Image Watermarking via Diffusion-based Super-Resolution**, Runyi Hu et.al., Paper: [http://arxiv.org/abs/2412.10049v1](http://arxiv.org/abs/2412.10049v1)
+- 2024-12-13, **Gaussian quantum Markov semigroups on finitely many modes admitting a normal invariant state**, Federico Girotti et.al., Paper: [http://arxiv.org/abs/2412.10020v1](http://arxiv.org/abs/2412.10020v1)
+- 2024-12-13, **Emergence of complexity in opinion propagation: A reaction-diffusion model**, Romain Ducasse et.al., Paper: [http://arxiv.org/abs/2412.10000v1](http://arxiv.org/abs/2412.10000v1)
+- 2024-12-13, **Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction**, Tao Song et.al., Paper: [http://arxiv.org/abs/2412.09998v1](http://arxiv.org/abs/2412.09998v1)
 - 2024-12-12, **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**, Haonan Qiu et.al., Paper: [http://arxiv.org/abs/2412.09626v1](http://arxiv.org/abs/2412.09626v1)
 - 2024-12-12, **Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**, Yue Feng et.al., Paper: [http://arxiv.org/abs/2412.09625v1](http://arxiv.org/abs/2412.09625v1)
 - 2024-12-12, **OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**, Weiqi Li et.al., Paper: [http://arxiv.org/abs/2412.09623v1](http://arxiv.org/abs/2412.09623v1)
@@ -11855,6 +11875,7 @@
 
 ## Diffusion_Segment
 
+- 2024-12-13, **A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**, Wangkai Li et.al., Paper: [http://arxiv.org/abs/2412.10339v1](http://arxiv.org/abs/2412.10339v1)
 - 2024-12-12, **Unveiling the Mechanisms of Electron Energy Spectrum Evolution**, Xu-Lin Dong et.al., Paper: [http://arxiv.org/abs/2412.09016v1](http://arxiv.org/abs/2412.09016v1)
 - 2024-12-11, **DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**, Jaeho Moon et.al., Paper: [http://arxiv.org/abs/2412.08116v1](http://arxiv.org/abs/2412.08116v1)
 - 2024-12-10, **LOGen: Toward Lidar Object Generation by Point Diffusion**, Ellington Kirby et.al., Paper: [http://arxiv.org/abs/2412.07385v1](http://arxiv.org/abs/2412.07385v1)
