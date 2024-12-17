@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093v1](http://arxiv.org/abs/2412.12093v1)|null|
+|**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
+|**2024-12-16**|**IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations**|Zhibing Li et.al.|[2412.12083v1](http://arxiv.org/abs/2412.12083v1)|null|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048v1](http://arxiv.org/abs/2412.12048v1)|null|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032v1](http://arxiv.org/abs/2412.12032v1)|null|
+|**2024-12-16**|**The entropic optimal (self-)transport problem: Limit distributions for decreasing regularization with application to score function estimation**|Gilles Mordant et.al.|[2412.12007v1](http://arxiv.org/abs/2412.12007v1)|null|
+|**2024-12-16**|**Controllable Shadow Generation with Single-Step Diffusion Models from Synthetic Data**|Onur Tasar et.al.|[2412.11972v1](http://arxiv.org/abs/2412.11972v1)|null|
+|**2024-12-16**|**Multiplexing in Networks and Diffusion**|Arun G. Chandrasekhar et.al.|[2412.11957v1](http://arxiv.org/abs/2412.11957v1)|null|
+|**2024-12-16**|**DRUM: Diffusion-based runoff model for probabilistic flood forecasting**|Zhigang Ou et.al.|[2412.11942v1](http://arxiv.org/abs/2412.11942v1)|null|
+|**2024-12-16**|**A Note on Hyperbolic Relaxation of the Navier-Stokes-Cahn-Hilliard system for incompressible two-phase flow**|Jens Keim et.al.|[2412.11904v1](http://arxiv.org/abs/2412.11904v1)|null|
+|**2024-12-16**|**On the importance of Ni-Au-Ga interdiffusion in the formation of a Ni-Au / p-GaN ohmic contact**|Jules Duraz et.al.|[2412.11887v1](http://arxiv.org/abs/2412.11887v1)|null|
+|**2024-12-16**|**Event-based Motion Deblurring via Multi-Temporal Granularity Fusion**|Xiaopeng Lin et.al.|[2412.11866v1](http://arxiv.org/abs/2412.11866v1)|null|
+|**2024-12-16**|**Hyperparametric Robust and Dynamic Influence Maximization**|Arkaprava Saha et.al.|[2412.11827v1](http://arxiv.org/abs/2412.11827v1)|null|
+|**2024-12-16**|**How glass breaks -- Damage explains the difference between surface and fracture energies in amorphous silica**|Gergely Molnár et.al.|[2412.11817v1](http://arxiv.org/abs/2412.11817v1)|null|
+|**2024-12-16**|**ColorFlow: Retrieval-Augmented Image Sequence Colorization**|Junhao Zhuang et.al.|[2412.11815v1](http://arxiv.org/abs/2412.11815v1)|null|
+|**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785v1](http://arxiv.org/abs/2412.11785v1)|null|
+|**2024-12-16**|**Joint Reconstruction of the Activity and the Attenuation in PET by Diffusion Posterior Sampling: a Feasibility Study**|Clémentine Phung-Ngoc et.al.|[2412.11776v1](http://arxiv.org/abs/2412.11776v1)|null|
+|**2024-12-16**|**No More Adam: Learning Rate Scaling at Initialization is All You Need**|Minghao Xu et.al.|[2412.11768v1](http://arxiv.org/abs/2412.11768v1)|**[link](https://github.com/anonymousalethiometer/sgd_sai)**|
+|**2024-12-16**|**Non-local non-homogeneous phase transitions: regularity of optimal profiles and sharp-interface limit**|Elisa Davoli et.al.|[2412.11756v1](http://arxiv.org/abs/2412.11756v1)|null|
 |**2024-12-13**|**Towards a foundation model for heavy-ion collision experiments through point cloud diffusion**|Manjunath Omana Kuttan et.al.|[2412.10352v1](http://arxiv.org/abs/2412.10352v1)|null|
 |**2024-12-13**|**Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration**|Lai Wei et.al.|[2412.10349v1](http://arxiv.org/abs/2412.10349v1)|null|
 |**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339v1](http://arxiv.org/abs/2412.10339v1)|null|
@@ -2340,8 +2360,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-15**|**Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**|Xiaochen Zhu et.al.|[2412.11333v1](http://arxiv.org/abs/2412.11333v1)|null|
+|**2024-12-15**|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang et.al.|[2412.11044v1](http://arxiv.org/abs/2412.11044v1)|null|
+|**2024-12-14**|**Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version PM1.0**|Mohammad R. Salmanpour et.al.|[2412.10967v1](http://arxiv.org/abs/2412.10967v1)|null|
+|**2024-12-14**|**SHIFT Planner: Speedy Hybrid Iterative Field and Segmented Trajectory Optimization with IKD-tree for Uniform Lightweight Coverage**|Zexuan Fan et.al.|[2412.10706v1](http://arxiv.org/abs/2412.10706v1)|null|
 |**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339v1](http://arxiv.org/abs/2412.10339v1)|null|
-|**2024-12-12**|**Unveiling the Mechanisms of Electron Energy Spectrum Evolution**|Xu-Lin Dong et.al.|[2412.09016v1](http://arxiv.org/abs/2412.09016v1)|null|
+|**2024-12-16**|**Unveiling the Mechanisms of Electron Energy Spectrum Evolution**|Xu-Lin Dong et.al.|[2412.09016v2](http://arxiv.org/abs/2412.09016v2)|null|
 |**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116v1](http://arxiv.org/abs/2412.08116v1)|null|
 |**2024-12-10**|**LOGen: Toward Lidar Object Generation by Point Diffusion**|Ellington Kirby et.al.|[2412.07385v1](http://arxiv.org/abs/2412.07385v1)|null|
 |**2024-12-10**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787v2](http://arxiv.org/abs/2412.06787v2)|**[link](https://github.com/CompVis/mask)**|
