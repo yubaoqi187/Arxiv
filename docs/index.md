@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195v1](http://arxiv.org/abs/2412.13195v1)|**[link](https://github.com/blurgyy/compass)**|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188v1](http://arxiv.org/abs/2412.13188v1)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185v1](http://arxiv.org/abs/2412.13185v1)|null|
+|**2024-12-17**|**A finite volume scheme for the local sensing chemotaxis model**|Maxime Herda et.al.|[2412.13143v1](http://arxiv.org/abs/2412.13143v1)|null|
+|**2024-12-17**|**Symmetries and exact solutions of a reaction-diffusion system arising in population dynamics**|Philip Broadbridge et.al.|[2412.13097v1](http://arxiv.org/abs/2412.13097v1)|null|
+|**2024-12-17**|**Explorando el impacto de los gradientes químicos en los procesos de mezcla del interior estelar**|M. M. Ocampo et.al.|[2412.13087v1](http://arxiv.org/abs/2412.13087v1)|null|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081v1](http://arxiv.org/abs/2412.13081v1)|null|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059v1](http://arxiv.org/abs/2412.13059v1)|null|
+|**2024-12-17**|**HCG 57: Evidence for shock-heated intergalactic gas from X-rays and optical emission line spectroscopy**|Ewan O'Sullivan et.al.|[2412.13055v1](http://arxiv.org/abs/2412.13055v1)|null|
+|**2024-12-17**|**Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**|Kun Huang et.al.|[2412.13054v1](http://arxiv.org/abs/2412.13054v1)|null|
+|**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982v1](http://arxiv.org/abs/2412.12982v1)|null|
+|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974v1](http://arxiv.org/abs/2412.12974v1)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971v1](http://arxiv.org/abs/2412.12971v1)|**[link](https://github.com/inria/geoarches)**|
+|**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953v1](http://arxiv.org/abs/2412.12953v1)|null|
+|**2024-12-17**|**Emergent short-range repulsion for attractively coupled active particles**|Ritwick Sarkar et.al.|[2412.12934v1](http://arxiv.org/abs/2412.12934v1)|null|
+|**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923v1](http://arxiv.org/abs/2412.12923v1)|null|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912v1](http://arxiv.org/abs/2412.12912v1)|null|
+|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888v1](http://arxiv.org/abs/2412.12888v1)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-17**|**Diffusion backbone of temporal higher-order networks**|Shilun Zhang et.al.|[2412.12856v1](http://arxiv.org/abs/2412.12856v1)|null|
+|**2024-12-17**|**Rethinking Diffusion-Based Image Generators for Fundus Fluorescein Angiography Synthesis on Limited Data**|Chengzhou Yu et.al.|[2412.12778v1](http://arxiv.org/abs/2412.12778v1)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093v1](http://arxiv.org/abs/2412.12093v1)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091v1](http://arxiv.org/abs/2412.12091v1)|null|
@@ -2364,9 +2384,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912v1](http://arxiv.org/abs/2412.12912v1)|null|
+|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498v1](http://arxiv.org/abs/2412.12498v1)|null|
+|**2024-12-16**|**Dielectrophoresis-Enhanced Graphene Field-Effect Transistors for Nano-Analyte Sensing**|Nezhueyotl Izquierdo et.al.|[2412.12367v1](http://arxiv.org/abs/2412.12367v1)|null|
 |**2024-12-15**|**Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**|Xiaochen Zhu et.al.|[2412.11333v1](http://arxiv.org/abs/2412.11333v1)|null|
 |**2024-12-15**|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang et.al.|[2412.11044v1](http://arxiv.org/abs/2412.11044v1)|null|
-|**2024-12-14**|**Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version PM1.0**|Mohammad R. Salmanpour et.al.|[2412.10967v1](http://arxiv.org/abs/2412.10967v1)|null|
+|**2024-12-14**|**Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version PM1.0**|Mohammad R. Salmanpour et.al.|[2412.10967v1](http://arxiv.org/abs/2412.10967v1)|**[link](https://github.com/mohammadrsalmanpour/biological-and-radiological-dictionary-of-radiomic-features)**|
 |**2024-12-14**|**SHIFT Planner: Speedy Hybrid Iterative Field and Segmented Trajectory Optimization with IKD-tree for Uniform Lightweight Coverage**|Zexuan Fan et.al.|[2412.10706v1](http://arxiv.org/abs/2412.10706v1)|null|
 |**2024-12-13**|**A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2412.10339v1](http://arxiv.org/abs/2412.10339v1)|null|
 |**2024-12-16**|**Unveiling the Mechanisms of Electron Energy Spectrum Evolution**|Xu-Lin Dong et.al.|[2412.09016v2](http://arxiv.org/abs/2412.09016v2)|null|
