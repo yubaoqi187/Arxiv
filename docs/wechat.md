@@ -1,4 +1,4 @@
-> Updated on 2024.12.18
+> Updated on 2024.12.19
 
 ## Video_Classification
 
@@ -9552,7 +9552,7 @@
 - 2024-12-17, **HCG 57: Evidence for shock-heated intergalactic gas from X-rays and optical emission line spectroscopy**, Ewan O'Sullivan et.al., Paper: [http://arxiv.org/abs/2412.13055v1](http://arxiv.org/abs/2412.13055v1)
 - 2024-12-17, **Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**, Kun Huang et.al., Paper: [http://arxiv.org/abs/2412.13054v1](http://arxiv.org/abs/2412.13054v1)
 - 2024-12-17, **Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**, Ruijie Chen et.al., Paper: [http://arxiv.org/abs/2412.12982v1](http://arxiv.org/abs/2412.12982v1)
-- 2024-12-17, **Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**, Wenhao Sun et.al., Paper: [http://arxiv.org/abs/2412.12974v1](http://arxiv.org/abs/2412.12974v1), Code: **[https://github.com/anonym0u3/attentiveeraser](https://github.com/anonym0u3/attentiveeraser)**
+- 2024-12-18, **Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**, Wenhao Sun et.al., Paper: [http://arxiv.org/abs/2412.12974v2](http://arxiv.org/abs/2412.12974v2), Code: **[https://github.com/anonym0u3/attentiveeraser](https://github.com/anonym0u3/attentiveeraser)**
 - 2024-12-17, **ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**, Guillaume Couairon et.al., Paper: [http://arxiv.org/abs/2412.12971v1](http://arxiv.org/abs/2412.12971v1), Code: **[https://github.com/inria/geoarches](https://github.com/inria/geoarches)**
 - 2024-12-17, **Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**, Moritz Reuss et.al., Paper: [http://arxiv.org/abs/2412.12953v1](http://arxiv.org/abs/2412.12953v1)
 - 2024-12-17, **Emergent short-range repulsion for attractively coupled active particles**, Ritwick Sarkar et.al., Paper: [http://arxiv.org/abs/2412.12934v1](http://arxiv.org/abs/2412.12934v1)
@@ -11920,7 +11920,7 @@
 - 2024-12-16, **Dielectrophoresis-Enhanced Graphene Field-Effect Transistors for Nano-Analyte Sensing**, Nezhueyotl Izquierdo et.al., Paper: [http://arxiv.org/abs/2412.12367v1](http://arxiv.org/abs/2412.12367v1)
 - 2024-12-15, **Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**, Xiaochen Zhu et.al., Paper: [http://arxiv.org/abs/2412.11333v1](http://arxiv.org/abs/2412.11333v1)
 - 2024-12-15, **Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**, Zhengyu Fang et.al., Paper: [http://arxiv.org/abs/2412.11044v1](http://arxiv.org/abs/2412.11044v1)
-- 2024-12-14, **Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version PM1.0**, Mohammad R. Salmanpour et.al., Paper: [http://arxiv.org/abs/2412.10967v1](http://arxiv.org/abs/2412.10967v1), Code: **[https://github.com/mohammadrsalmanpour/biological-and-radiological-dictionary-of-radiomic-features](https://github.com/mohammadrsalmanpour/biological-and-radiological-dictionary-of-radiomic-features)**
+- 2024-12-18, **Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0**, Mohammad R. Salmanpour et.al., Paper: [http://arxiv.org/abs/2412.10967v2](http://arxiv.org/abs/2412.10967v2), Code: **[https://github.com/mohammadrsalmanpour/biological-and-radiological-dictionary-of-radiomic-features](https://github.com/mohammadrsalmanpour/biological-and-radiological-dictionary-of-radiomic-features)**
 - 2024-12-14, **SHIFT Planner: Speedy Hybrid Iterative Field and Segmented Trajectory Optimization with IKD-tree for Uniform Lightweight Coverage**, Zexuan Fan et.al., Paper: [http://arxiv.org/abs/2412.10706v1](http://arxiv.org/abs/2412.10706v1)
 - 2024-12-13, **A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation**, Wangkai Li et.al., Paper: [http://arxiv.org/abs/2412.10339v1](http://arxiv.org/abs/2412.10339v1)
 - 2024-12-16, **Unveiling the Mechanisms of Electron Energy Spectrum Evolution**, Xu-Lin Dong et.al., Paper: [http://arxiv.org/abs/2412.09016v2](http://arxiv.org/abs/2412.09016v2)
