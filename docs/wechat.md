@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-19, **LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**, Hanlin Wang et.al., Paper: [http://arxiv.org/abs/2412.15214v1](http://arxiv.org/abs/2412.15214v1)
+- 2024-12-19, **Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2412.15213v1](http://arxiv.org/abs/2412.15213v1)
+- 2024-12-19, **Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**, Hadi Alzayer et.al., Paper: [http://arxiv.org/abs/2412.15211v1](http://arxiv.org/abs/2412.15211v1)
+- 2024-12-19, **Quantum diffusion and delocalization in one-dimensional band matrices via the flow method**, Sofiia Dubova et.al., Paper: [http://arxiv.org/abs/2412.15207v1](http://arxiv.org/abs/2412.15207v1)
+- 2024-12-19, **DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2412.15200v1](http://arxiv.org/abs/2412.15200v1)
+- 2024-12-19, **AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**, Moayed Haji-Ali et.al., Paper: [http://arxiv.org/abs/2412.15191v1](http://arxiv.org/abs/2412.15191v1)
+- 2024-12-19, **LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**, Weijia Shi et.al., Paper: [http://arxiv.org/abs/2412.15188v1](http://arxiv.org/abs/2412.15188v1)
+- 2024-12-19, **Tiled Diffusion**, Or Madar et.al., Paper: [http://arxiv.org/abs/2412.15185v1](http://arxiv.org/abs/2412.15185v1)
+- 2024-12-19, **Option Pricing with a Compound CARMA(p,q)-Hawkes**, Lorenzo Mercuri et.al., Paper: [http://arxiv.org/abs/2412.15172v1](http://arxiv.org/abs/2412.15172v1)
+- 2024-12-19, **OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**, Jiacheng Zhang et.al., Paper: [http://arxiv.org/abs/2412.15159v1](http://arxiv.org/abs/2412.15159v1)
+- 2024-12-19, **Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**, Yatai Ji et.al., Paper: [http://arxiv.org/abs/2412.15156v1](http://arxiv.org/abs/2412.15156v1), Code: **[https://github.com/jiyt17/prompt-a-video](https://github.com/jiyt17/prompt-a-video)**
+- 2024-12-19, **Jet: A Modern Transformer-Based Normalizing Flow**, Alexander Kolesnikov et.al., Paper: [http://arxiv.org/abs/2412.15129v1](http://arxiv.org/abs/2412.15129v1)
+- 2024-12-19, **Revisiting the Classics: On the Optical Colours of Novae as Standard Crayons**, Peter Craig et.al., Paper: [http://arxiv.org/abs/2412.15108v1](http://arxiv.org/abs/2412.15108v1)
+- 2024-12-19, **Creating currents of electric bubbles**, Jorge Íñiguez-González et.al., Paper: [http://arxiv.org/abs/2412.15074v1](http://arxiv.org/abs/2412.15074v1)
+- 2024-12-19, **Velocity Jumps for Molecular Dynamics**, Nicolaï Gouraud et.al., Paper: [http://arxiv.org/abs/2412.15073v1](http://arxiv.org/abs/2412.15073v1)
+- 2024-12-19, **Numerical analysis and simulation of lateral memristive devices: Schottky, ohmic, and multi-dimensional electrode models**, Dilara Abdel et.al., Paper: [http://arxiv.org/abs/2412.15065v1](http://arxiv.org/abs/2412.15065v1)
+- 2024-12-19, **Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion**, Zhifei Chen et.al., Paper: [http://arxiv.org/abs/2412.15050v1](http://arxiv.org/abs/2412.15050v1)
+- 2024-12-19, **DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**, Mang Ning et.al., Paper: [http://arxiv.org/abs/2412.15032v1](http://arxiv.org/abs/2412.15032v1), Code: **[https://github.com/forever208/dctdiff](https://github.com/forever208/dctdiff)**
+- 2024-12-19, **Stable-V2A: Synthesis of Synchronized Sound Effects with Temporal and Semantic Controls**, Riccardo Fosco Gramaccioni et.al., Paper: [http://arxiv.org/abs/2412.15023v1](http://arxiv.org/abs/2412.15023v1)
+- 2024-12-19, **Brownian motion at various length scales with hydrodynamic and direct interactions**, Jeffrey C. Everts et.al., Paper: [http://arxiv.org/abs/2412.15017v1](http://arxiv.org/abs/2412.15017v1)
 - 2024-12-18, **AniDoc: Animation Creation Made Easier**, Yihao Meng et.al., Paper: [http://arxiv.org/abs/2412.14173v1](http://arxiv.org/abs/2412.14173v1)
 - 2024-12-19, **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**, Zhihang Yuan et.al., Paper: [http://arxiv.org/abs/2412.14170v2](http://arxiv.org/abs/2412.14170v2)
 - 2024-12-18, **Autoregressive Video Generation without Vector Quantization**, Haoge Deng et.al., Paper: [http://arxiv.org/abs/2412.14169v1](http://arxiv.org/abs/2412.14169v1), Code: **[https://github.com/baaivision/nova](https://github.com/baaivision/nova)**
