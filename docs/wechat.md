@@ -1,4 +1,4 @@
-> Updated on 2024.12.19
+> Updated on 2024.12.20
 
 ## Video_Classification
 
@@ -9542,7 +9542,7 @@
 ## Diffusion
 
 - 2024-12-18, **AniDoc: Animation Creation Made Easier**, Yihao Meng et.al., Paper: [http://arxiv.org/abs/2412.14173v1](http://arxiv.org/abs/2412.14173v1)
-- 2024-12-18, **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**, Zhihang Yuan et.al., Paper: [http://arxiv.org/abs/2412.14170v1](http://arxiv.org/abs/2412.14170v1)
+- 2024-12-19, **E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**, Zhihang Yuan et.al., Paper: [http://arxiv.org/abs/2412.14170v2](http://arxiv.org/abs/2412.14170v2)
 - 2024-12-18, **Autoregressive Video Generation without Vector Quantization**, Haoge Deng et.al., Paper: [http://arxiv.org/abs/2412.14169v1](http://arxiv.org/abs/2412.14169v1), Code: **[https://github.com/baaivision/nova](https://github.com/baaivision/nova)**
 - 2024-12-18, **VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**, Runtao Liu et.al., Paper: [http://arxiv.org/abs/2412.14167v1](http://arxiv.org/abs/2412.14167v1)
 - 2024-12-18, **AKiRa: Augmentation Kit on Rays for optical video generation**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2412.14158v1](http://arxiv.org/abs/2412.14158v1)
@@ -9555,7 +9555,7 @@
 - 2024-12-18, **Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates**, Sen Yan et.al., Paper: [http://arxiv.org/abs/2412.13966v1](http://arxiv.org/abs/2412.13966v1)
 - 2024-12-18, **Anomalous Diffusion of Superparamagnetic Walkers with Tailored Statistics**, Alessia Gentili et.al., Paper: [http://arxiv.org/abs/2412.13960v1](http://arxiv.org/abs/2412.13960v1)
 - 2024-12-18, **On Explaining Knowledge Distillation: Measuring and Visualising the Knowledge Transfer Process**, Gereziher Adhane et.al., Paper: [http://arxiv.org/abs/2412.13943v1](http://arxiv.org/abs/2412.13943v1)
-- 2024-12-18, **Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**, Malay Pandey et.al., Paper: [http://arxiv.org/abs/2412.13935v1](http://arxiv.org/abs/2412.13935v1)
+- 2024-12-18, **Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**, Malay Pandey et.al., Paper: [http://arxiv.org/abs/2412.13935v1](http://arxiv.org/abs/2412.13935v1), Code: **[https://github.com/malayp717/pm2.5](https://github.com/malayp717/pm2.5)**
 - 2024-12-18, **Investigating the Effects of Diffusion-based Conditional Generative Speech Models Used for Speech Enhancement on Dysarthric Speech**, Joanna Reszka et.al., Paper: [http://arxiv.org/abs/2412.13933v1](http://arxiv.org/abs/2412.13933v1)
 - 2024-12-18, **Two-states Brownian particle in a Harmonic Potential**, Giovanni Battista Carollo et.al., Paper: [http://arxiv.org/abs/2412.13921v1](http://arxiv.org/abs/2412.13921v1)
 - 2024-12-18, **X-ray Binaries: a potential dominant contributor to the cosmic ray spectral knee structure**, Hua Yue et.al., Paper: [http://arxiv.org/abs/2412.13889v1](http://arxiv.org/abs/2412.13889v1)
