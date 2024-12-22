@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 
 ## Diffusion
 
@@ -2427,7 +2427,7 @@ layout: default
 |**2024-12-18**|**SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**|Tong Chen et.al.|[2412.14018v1](http://arxiv.org/abs/2412.14018v1)|null|
 |**2024-12-18**|**SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor**|Chenyu Yang et.al.|[2412.13786v1](http://arxiv.org/abs/2412.13786v1)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912v1](http://arxiv.org/abs/2412.12912v1)|null|
-|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498v1](http://arxiv.org/abs/2412.12498v1)|null|
+|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498v1](http://arxiv.org/abs/2412.12498v1)|**[link](https://github.com/shinshoji01/hed-project-page)**|
 |**2024-12-16**|**Dielectrophoresis-Enhanced Graphene Field-Effect Transistors for Nano-Analyte Sensing**|Nezhueyotl Izquierdo et.al.|[2412.12367v1](http://arxiv.org/abs/2412.12367v1)|null|
 |**2024-12-15**|**Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models**|Xiaochen Zhu et.al.|[2412.11333v1](http://arxiv.org/abs/2412.11333v1)|null|
 |**2024-12-15**|**Understanding and Mitigating Memorization in Diffusion Models for Tabular Data**|Zhengyu Fang et.al.|[2412.11044v1](http://arxiv.org/abs/2412.11044v1)|null|
