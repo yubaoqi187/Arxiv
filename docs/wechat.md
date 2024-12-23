@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
+- 2024-12-20, **Determination of the Magnetic Structure of Spin Glass Compound $\text{Zn}_{0.5}\text{Mn}_{0.5}\text{Te}$ Using Real-Space Methods**, Sabrina R. Hatt et.al., Paper: [http://arxiv.org/abs/2412.16130v1](http://arxiv.org/abs/2412.16130v1)
+- 2024-12-20, **Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**, Lucila G. Alvarez-Zuzek et.al., Paper: [http://arxiv.org/abs/2412.16121v1](http://arxiv.org/abs/2412.16121v1)
+- 2024-12-20, **CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**, Songhua Liu et.al., Paper: [http://arxiv.org/abs/2412.16112v1](http://arxiv.org/abs/2412.16112v1), Code: **[https://github.com/huage001/clear](https://github.com/huage001/clear)**
+- 2024-12-20, **Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**, Timur Sattarov et.al., Paper: [http://arxiv.org/abs/2412.16083v1](http://arxiv.org/abs/2412.16083v1)
+- 2024-12-20, **Functional Renormalization Group meets Computational Fluid Dynamics: RG flows in a multi-dimensional field space**, Niklas Zorbach et.al., Paper: [http://arxiv.org/abs/2412.16053v1](http://arxiv.org/abs/2412.16053v1)
+- 2024-12-20, **Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**, Shaoyan Pan et.al., Paper: [http://arxiv.org/abs/2412.16050v1](http://arxiv.org/abs/2412.16050v1)
+- 2024-12-20, **SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**, Jiadong Pan et.al., Paper: [http://arxiv.org/abs/2412.16039v1](http://arxiv.org/abs/2412.16039v1)
+- 2024-12-20, **Probing lactate exchange and compartmentation in Gray Matter via time-dependent diffusion-weighted MRS**, Eloise Mougel et.al., Paper: [http://arxiv.org/abs/2412.16014v1](http://arxiv.org/abs/2412.16014v1)
+- 2024-12-20, **Convergence of nonhomogeneous Hawkes processes and Feller random measures**, Tristan Pace et.al., Paper: [http://arxiv.org/abs/2412.15999v1](http://arxiv.org/abs/2412.15999v1)
+- 2024-12-20, **iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing**, Huanqi Yang et.al., Paper: [http://arxiv.org/abs/2412.15980v1](http://arxiv.org/abs/2412.15980v1)
+- 2024-12-20, **On cutoff via rigidity for high dimensional curved diffusions**, Djalil Chafaï et.al., Paper: [http://arxiv.org/abs/2412.15969v1](http://arxiv.org/abs/2412.15969v1)
+- 2024-12-20, **What shall we learn from a future supernova?**, M. Cristina Volpe et.al., Paper: [http://arxiv.org/abs/2412.15964v1](http://arxiv.org/abs/2412.15964v1)
+- 2024-12-20, **Two-Part Interplanetary Type II Solar Radio Bursts**, Silja Pohjolainen et.al., Paper: [http://arxiv.org/abs/2412.15961v1](http://arxiv.org/abs/2412.15961v1)
+- 2024-12-20, **Extraordinary oxidation behavior of W-Zr thin-film metallic glasses: A route for tailoring functional properties of W-Zr-O films**, Petr Zeman et.al., Paper: [http://arxiv.org/abs/2412.15943v1](http://arxiv.org/abs/2412.15943v1)
+- 2024-12-20, **Kernel estimates for parabolic systems of partial differential equations with unbounded coefficients**, Davide Addona et.al., Paper: [http://arxiv.org/abs/2412.15935v1](http://arxiv.org/abs/2412.15935v1)
+- 2024-12-20, **Grim Raindrop: A Translating Solution to Curve Diffusion Flow**, W. Jacob Ogden et.al., Paper: [http://arxiv.org/abs/2412.15934v1](http://arxiv.org/abs/2412.15934v1)
+- 2024-12-20, **First Constraint on the Diffuse Supernova Neutrino Background through the CE$ν$NS process from the LZ experiment**, Qing Xia et.al., Paper: [http://arxiv.org/abs/2412.15886v1](http://arxiv.org/abs/2412.15886v1)
+- 2024-12-20, **Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**, Kai Brandenbusch et.al., Paper: [http://arxiv.org/abs/2412.15853v1](http://arxiv.org/abs/2412.15853v1)
+- 2024-12-20, **A non-recursive Schur-Decomposition Algorithm for $N$-Dimensional Matrix Equations**, Carlota M. Cuesta Romero et.al., Paper: [http://arxiv.org/abs/2412.15840v1](http://arxiv.org/abs/2412.15840v1)
 - 2024-12-19, **LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**, Hanlin Wang et.al., Paper: [http://arxiv.org/abs/2412.15214v1](http://arxiv.org/abs/2412.15214v1)
 - 2024-12-19, **Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2412.15213v1](http://arxiv.org/abs/2412.15213v1)
 - 2024-12-19, **Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**, Hadi Alzayer et.al., Paper: [http://arxiv.org/abs/2412.15211v1](http://arxiv.org/abs/2412.15211v1)
@@ -11955,6 +11975,8 @@
 
 ## Diffusion_Segment
 
+- 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
+- 2024-12-20, **Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**, Shaoyan Pan et.al., Paper: [http://arxiv.org/abs/2412.16050v1](http://arxiv.org/abs/2412.16050v1)
 - 2024-12-18, **SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**, Tong Chen et.al., Paper: [http://arxiv.org/abs/2412.14018v1](http://arxiv.org/abs/2412.14018v1)
 - 2024-12-18, **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor**, Chenyu Yang et.al., Paper: [http://arxiv.org/abs/2412.13786v1](http://arxiv.org/abs/2412.13786v1)
 - 2024-12-17, **Unsupervised Region-Based Image Editing of Denoising Diffusion Models**, Zixiang Li et.al., Paper: [http://arxiv.org/abs/2412.12912v1](http://arxiv.org/abs/2412.12912v1)
