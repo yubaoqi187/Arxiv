@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-23, **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2412.17812v1](http://arxiv.org/abs/2412.17812v1)
+- 2024-12-23, **Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.17808v1](http://arxiv.org/abs/2412.17808v1)
+- 2024-12-23, **Encoding off-shell effects in top pair production in Direct Diffusion networks**, Mathias Kuschick et.al., Paper: [http://arxiv.org/abs/2412.17783v1](http://arxiv.org/abs/2412.17783v1)
+- 2024-12-23, **PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**, Sophia Tang et.al., Paper: [http://arxiv.org/abs/2412.17780v1](http://arxiv.org/abs/2412.17780v1)
+- 2024-12-23, **Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2412.17774v1](http://arxiv.org/abs/2412.17774v1)
+- 2024-12-23, **The Superposition of Diffusion Models Using the Itô Density Estimator**, Marta Skreta et.al., Paper: [http://arxiv.org/abs/2412.17762v1](http://arxiv.org/abs/2412.17762v1)
+- 2024-12-23, **Comprehensive Optimization of Interferometric Diffusing Wave Spectroscopy (iDWS)**, Mingjun Zhao et.al., Paper: [http://arxiv.org/abs/2412.17724v1](http://arxiv.org/abs/2412.17724v1)
+- 2024-12-23, **The Cosmological Population of Gamma-Ray Bursts from the Disks of Active Galactic Nuclei**, Hoyoung D. Kang et.al., Paper: [http://arxiv.org/abs/2412.17714v1](http://arxiv.org/abs/2412.17714v1)
+- 2024-12-23, **Euclid: Early Release Observations of diffuse stellar structures and globular clusters as probes of the mass assembly of galaxies in the Dorado group**, M. Urbano et.al., Paper: [http://arxiv.org/abs/2412.17672v1](http://arxiv.org/abs/2412.17672v1)
+- 2024-12-23, **A Bias-Free Training Paradigm for More General AI-generated Image Detection**, Fabrizio Guillaro et.al., Paper: [http://arxiv.org/abs/2412.17671v1](http://arxiv.org/abs/2412.17671v1)
+- 2024-12-23, **Benchmarking Generative AI Models for Deep Learning Test Input Generation**, Maryam et.al., Paper: [http://arxiv.org/abs/2412.17652v1](http://arxiv.org/abs/2412.17652v1), Code: **[https://github.com/maryammaryam877/genai_tigs](https://github.com/maryammaryam877/genai_tigs)**
+- 2024-12-23, **DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**, Ente Lin et.al., Paper: [http://arxiv.org/abs/2412.17644v1](http://arxiv.org/abs/2412.17644v1)
+- 2024-12-23, **Detail-Preserving Latent Diffusion for Stable Shadow Removal**, Jiamin Xu et.al., Paper: [http://arxiv.org/abs/2412.17630v1](http://arxiv.org/abs/2412.17630v1)
+- 2024-12-23, **Retention Score: Quantifying Jailbreak Risks for Vision Language Models**, Zaitang Li et.al., Paper: [http://arxiv.org/abs/2412.17544v1](http://arxiv.org/abs/2412.17544v1)
+- 2024-12-23, **DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2412.17522v1](http://arxiv.org/abs/2412.17522v1)
+- 2024-12-23, **Improving the Noise Estimation of Latent Neural Stochastic Differential Equations**, Linus Heck et.al., Paper: [http://arxiv.org/abs/2412.17499v1](http://arxiv.org/abs/2412.17499v1)
+- 2024-12-23, **Analysing Ultra High Energy Cosmic Rays' Anisotropy in $\boldsymbol{f(R, T)}$ Gravity Theory**, Swaraj Pratim Sarmah et.al., Paper: [http://arxiv.org/abs/2412.17494v1](http://arxiv.org/abs/2412.17494v1)
+- 2024-12-23, **Heterogeneous carrying capacities and global extinction in metapopulations**, Jakub Hesoun et.al., Paper: [http://arxiv.org/abs/2412.17461v1](http://arxiv.org/abs/2412.17461v1)
+- 2024-12-23, **Traveling Waves in Bistable Reaction-Diffusion Cellular Automata**, Daniel Špale et.al., Paper: [http://arxiv.org/abs/2412.17441v1](http://arxiv.org/abs/2412.17441v1)
+- 2024-12-23, **Effective transport by 2D turbulence: Vortex-gas intermittency vs. Kraichnan-Leith-Batchelor theory**, Julie Meunier et.al., Paper: [http://arxiv.org/abs/2412.17431v1](http://arxiv.org/abs/2412.17431v1)
 - 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
 - 2024-12-20, **Determination of the Magnetic Structure of Spin Glass Compound $\text{Zn}_{0.5}\text{Mn}_{0.5}\text{Te}$ Using Real-Space Methods**, Sabrina R. Hatt et.al., Paper: [http://arxiv.org/abs/2412.16130v1](http://arxiv.org/abs/2412.16130v1)
 - 2024-12-20, **Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**, Lucila G. Alvarez-Zuzek et.al., Paper: [http://arxiv.org/abs/2412.16121v1](http://arxiv.org/abs/2412.16121v1)
@@ -11975,6 +11995,8 @@
 
 ## Diffusion_Segment
 
+- 2024-12-22, **Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**, Jongmin Yu et.al., Paper: [http://arxiv.org/abs/2412.16859v1](http://arxiv.org/abs/2412.16859v1)
+- 2024-12-16, **Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**, Jamiree Harrison et.al., Paper: [http://arxiv.org/abs/2412.16198v1](http://arxiv.org/abs/2412.16198v1)
 - 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
 - 2024-12-20, **Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**, Shaoyan Pan et.al., Paper: [http://arxiv.org/abs/2412.16050v1](http://arxiv.org/abs/2412.16050v1)
 - 2024-12-18, **SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**, Tong Chen et.al., Paper: [http://arxiv.org/abs/2412.14018v1](http://arxiv.org/abs/2412.14018v1)
