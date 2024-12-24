@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 
 ## Diffusion
 
@@ -27,7 +27,7 @@ layout: default
 |**2024-12-20**|**Grim Raindrop: A Translating Solution to Curve Diffusion Flow**|W. Jacob Ogden et.al.|[2412.15934v1](http://arxiv.org/abs/2412.15934v1)|null|
 |**2024-12-20**|**First Constraint on the Diffuse Supernova Neutrino Background through the CE$ν$NS process from the LZ experiment**|Qing Xia et.al.|[2412.15886v1](http://arxiv.org/abs/2412.15886v1)|null|
 |**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853v1](http://arxiv.org/abs/2412.15853v1)|null|
-|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$-Dimensional Matrix Equations**|Carlota M. Cuesta Romero et.al.|[2412.15840v1](http://arxiv.org/abs/2412.15840v1)|null|
+|**2024-12-20**|**A non-recursive Schur-Decomposition Algorithm for $N$-Dimensional Matrix Equations**|Carlota M. Cuesta et.al.|[2412.15840v1](http://arxiv.org/abs/2412.15840v1)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214v1](http://arxiv.org/abs/2412.15214v1)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213v1](http://arxiv.org/abs/2412.15213v1)|null|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211v1](http://arxiv.org/abs/2412.15211v1)|null|
