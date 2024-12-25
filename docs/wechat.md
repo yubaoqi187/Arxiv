@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-24, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v1](http://arxiv.org/abs/2412.18608v1)
+- 2024-12-24, **DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**, Yuntao Chen et.al., Paper: [http://arxiv.org/abs/2412.18607v1](http://arxiv.org/abs/2412.18607v1)
+- 2024-12-24, **Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**, Tahira Kazimi et.al., Paper: [http://arxiv.org/abs/2412.18604v1](http://arxiv.org/abs/2412.18604v1)
+- 2024-12-24, **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**, Minghong Cai et.al., Paper: [http://arxiv.org/abs/2412.18597v1](http://arxiv.org/abs/2412.18597v1), Code: **[https://github.com/tencentarc/ditctrl](https://github.com/tencentarc/ditctrl)**
+- 2024-12-24, **LatentCRF: Continuous CRF for Efficient Latent Diffusion**, Kanchana Ranasinghe et.al., Paper: [http://arxiv.org/abs/2412.18596v1](http://arxiv.org/abs/2412.18596v1)
+- 2024-12-24, **Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**, Anselm Krainovic et.al., Paper: [http://arxiv.org/abs/2412.18584v1](http://arxiv.org/abs/2412.18584v1)
+- 2024-12-24, **Relativistic Lévy processes**, Lucas G. B. de Souza et.al., Paper: [http://arxiv.org/abs/2412.18581v1](http://arxiv.org/abs/2412.18581v1)
+- 2024-12-24, **A mathematical framework for modelling CLMM dynamics in continuous time**, Shen-Ning Tung et.al., Paper: [http://arxiv.org/abs/2412.18580v1](http://arxiv.org/abs/2412.18580v1)
+- 2024-12-24, **3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement**, Yihang Luo et.al., Paper: [http://arxiv.org/abs/2412.18565v1](http://arxiv.org/abs/2412.18565v1)
+- 2024-12-24, **On the fractional approach to quadratic nonlinear parabolic systems**, Oscar Jarrin et.al., Paper: [http://arxiv.org/abs/2412.18473v1](http://arxiv.org/abs/2412.18473v1)
+- 2024-12-24, **Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**, Qice Qin et.al., Paper: [http://arxiv.org/abs/2412.18421v1](http://arxiv.org/abs/2412.18421v1)
+- 2024-12-24, **Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**, Shihang Xu et.al., Paper: [http://arxiv.org/abs/2412.18414v1](http://arxiv.org/abs/2412.18414v1)
+- 2024-12-24, **RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**, Wu Xiaoping et.al., Paper: [http://arxiv.org/abs/2412.18390v1](http://arxiv.org/abs/2412.18390v1)
+- 2024-12-24, **FloNa: Floor Plan Guided Embodied Visual Navigation**, Jiaxin Li et.al., Paper: [http://arxiv.org/abs/2412.18335v1](http://arxiv.org/abs/2412.18335v1)
+- 2024-12-24, **The optimization of exact multi-target quantum search algorithm based on MindQuantum**, Shijin Zhong et.al., Paper: [http://arxiv.org/abs/2412.18306v1](http://arxiv.org/abs/2412.18306v1)
+- 2024-12-24, **Temperature crossovers in the specific heat of amorphous magnets**, Hector Ochoa et.al., Paper: [http://arxiv.org/abs/2412.18305v1](http://arxiv.org/abs/2412.18305v1)
+- 2024-12-24, **FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**, Jaechul Roh et.al., Paper: [http://arxiv.org/abs/2412.18302v1](http://arxiv.org/abs/2412.18302v1)
+- 2024-12-24, **Towards understanding how attention mechanism works in deep learning**, Tianyu Ruan et.al., Paper: [http://arxiv.org/abs/2412.18288v1](http://arxiv.org/abs/2412.18288v1)
+- 2024-12-24, **GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**, Zhenzhou Jin et.al., Paper: [http://arxiv.org/abs/2412.18281v1](http://arxiv.org/abs/2412.18281v1)
+- 2024-12-24, **Regularity and stability in a strongly degenerate nonlinear diffusion and haptotaxis model of cancer invasion**, Benoit Perthame et.al., Paper: [http://arxiv.org/abs/2412.18261v1](http://arxiv.org/abs/2412.18261v1)
 - 2024-12-23, **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2412.17812v1](http://arxiv.org/abs/2412.17812v1)
 - 2024-12-23, **Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.17808v1](http://arxiv.org/abs/2412.17808v1)
 - 2024-12-23, **Encoding off-shell effects in top pair production in Direct Diffusion networks**, Mathias Kuschick et.al., Paper: [http://arxiv.org/abs/2412.17783v1](http://arxiv.org/abs/2412.17783v1)
@@ -11995,6 +12015,7 @@
 
 ## Diffusion_Segment
 
+- 2024-12-24, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v1](http://arxiv.org/abs/2412.18608v1)
 - 2024-12-22, **Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**, Jongmin Yu et.al., Paper: [http://arxiv.org/abs/2412.16859v1](http://arxiv.org/abs/2412.16859v1)
 - 2024-12-16, **Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**, Jamiree Harrison et.al., Paper: [http://arxiv.org/abs/2412.16198v1](http://arxiv.org/abs/2412.16198v1)
 - 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
