@@ -1,4 +1,4 @@
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 
 ## Diffusion
 
@@ -2463,7 +2463,7 @@
 |**2024-12-22**|**Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**|Jongmin Yu et.al.|[2412.16859v1](http://arxiv.org/abs/2412.16859v1)|null|
 |**2024-12-16**|**Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**|Jamiree Harrison et.al.|[2412.16198v1](http://arxiv.org/abs/2412.16198v1)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156v1](http://arxiv.org/abs/2412.16156v1)|**[link](https://github.com/ssundaram21/personalized-rep)**|
-|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050v1](http://arxiv.org/abs/2412.16050v1)|null|
+|**2024-12-23**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050v2](http://arxiv.org/abs/2412.16050v2)|null|
 |**2024-12-18**|**SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**|Tong Chen et.al.|[2412.14018v1](http://arxiv.org/abs/2412.14018v1)|null|
 |**2024-12-18**|**SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor**|Chenyu Yang et.al.|[2412.13786v1](http://arxiv.org/abs/2412.13786v1)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912v1](http://arxiv.org/abs/2412.12912v1)|null|
