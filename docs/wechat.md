@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-27, **Periodically and aperiodically Thue-Morse driven long-range systems: from dynamical localization to slow dynamics**, Vatsana Tiwari et.al., Paper: [http://arxiv.org/abs/2412.19736v1](http://arxiv.org/abs/2412.19736v1)
+- 2024-12-27, **A coupled mathematical and numerical model for protein spreading and tissue atrophy, applied to Alzheimer's disease**, Valentina Pederzoli et.al., Paper: [http://arxiv.org/abs/2412.19661v1](http://arxiv.org/abs/2412.19661v1)
+- 2024-12-27, **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2412.19645v1](http://arxiv.org/abs/2412.19645v1)
+- 2024-12-27, **Stochastic resetting in a nonequilibrium environment**, Koushik Goswami et.al., Paper: [http://arxiv.org/abs/2412.19564v1](http://arxiv.org/abs/2412.19564v1)
+- 2024-12-27, **Explicit propagation reversal bounds for bistable differential equations on trees**, Petr Stehlík et.al., Paper: [http://arxiv.org/abs/2412.19548v1](http://arxiv.org/abs/2412.19548v1)
+- 2024-12-27, **StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**, Miaomiao Dai et.al., Paper: [http://arxiv.org/abs/2412.19535v1](http://arxiv.org/abs/2412.19535v1)
+- 2024-12-27, **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**, Junjie Hu et.al., Paper: [http://arxiv.org/abs/2412.19533v1](http://arxiv.org/abs/2412.19533v1)
+- 2024-12-27, **Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations**, Yuanfei Huang et.al., Paper: [http://arxiv.org/abs/2412.19520v1](http://arxiv.org/abs/2412.19520v1)
+- 2024-12-27, **Dynamical phase transitions in certain non-ergodic stochastic processes**, Yogeesh Reddy Yerrababu et.al., Paper: [http://arxiv.org/abs/2412.19516v1](http://arxiv.org/abs/2412.19516v1)
+- 2024-12-27, **RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**, Xiaohan Zhang et.al., Paper: [http://arxiv.org/abs/2412.19500v1](http://arxiv.org/abs/2412.19500v1)
+- 2024-12-27, **Retrieval-augmented Generation for GenAI-enabled Semantic Communications**, Shunpu Tang et.al., Paper: [http://arxiv.org/abs/2412.19494v1](http://arxiv.org/abs/2412.19494v1)
+- 2024-12-27, **RAIN: Real-time Animation of Infinite Video Stream**, Zhilei Shu et.al., Paper: [http://arxiv.org/abs/2412.19489v1](http://arxiv.org/abs/2412.19489v1)
+- 2024-12-27, **DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**, Yiyuan Liang et.al., Paper: [http://arxiv.org/abs/2412.19458v1](http://arxiv.org/abs/2412.19458v1)
+- 2024-12-27, **Uniform measure attractors of McKean-Vlasov stochastic reaction-diffusion equations on unbounded thin domain**, Tianhao Zeng et.al., Paper: [http://arxiv.org/abs/2412.19428v1](http://arxiv.org/abs/2412.19428v1)
+- 2024-12-27, **Multi-scale Latent Point Consistency Models for 3D Shape Generation**, Bi'an Du et.al., Paper: [http://arxiv.org/abs/2412.19413v1](http://arxiv.org/abs/2412.19413v1)
+- 2024-12-27, **A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**, J. M. Hall et.al., Paper: [http://arxiv.org/abs/2412.19398v1](http://arxiv.org/abs/2412.19398v1)
+- 2024-12-26, **ETTA: Elucidating the Design Space of Text-to-Audio Models**, Sang-gil Lee et.al., Paper: [http://arxiv.org/abs/2412.19351v1](http://arxiv.org/abs/2412.19351v1)
+- 2024-12-26, **Manga Generation via Layout-controllable Diffusion**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2412.19303v1](http://arxiv.org/abs/2412.19303v1)
+- 2024-12-26, **Investigating nuclear density profiles to reveal particle-hole configurations in the island of inversion**, R. Barman et.al., Paper: [http://arxiv.org/abs/2412.19270v1](http://arxiv.org/abs/2412.19270v1)
+- 2024-12-26, **VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis**, Jaemin Jung et.al., Paper: [http://arxiv.org/abs/2412.19259v1](http://arxiv.org/abs/2412.19259v1)
 - 2024-12-24, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v1](http://arxiv.org/abs/2412.18608v1)
 - 2024-12-24, **DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**, Yuntao Chen et.al., Paper: [http://arxiv.org/abs/2412.18607v1](http://arxiv.org/abs/2412.18607v1)
 - 2024-12-24, **Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**, Tahira Kazimi et.al., Paper: [http://arxiv.org/abs/2412.18604v1](http://arxiv.org/abs/2412.18604v1)
@@ -12015,6 +12035,9 @@
 
 ## Diffusion_Segment
 
+- 2024-12-27, **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**, Junjie Hu et.al., Paper: [http://arxiv.org/abs/2412.19533v1](http://arxiv.org/abs/2412.19533v1)
+- 2024-12-26, **6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**, Nabo He et.al., Paper: [http://arxiv.org/abs/2412.19243v1](http://arxiv.org/abs/2412.19243v1)
+- 2024-12-26, **Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**, Haotian Qian et.al., Paper: [http://arxiv.org/abs/2412.19080v1](http://arxiv.org/abs/2412.19080v1)
 - 2024-12-24, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v1](http://arxiv.org/abs/2412.18608v1)
 - 2024-12-22, **Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**, Jongmin Yu et.al., Paper: [http://arxiv.org/abs/2412.16859v1](http://arxiv.org/abs/2412.16859v1)
 - 2024-12-16, **Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**, Jamiree Harrison et.al., Paper: [http://arxiv.org/abs/2412.16198v1](http://arxiv.org/abs/2412.16198v1), Code: **[https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems](https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems)**
