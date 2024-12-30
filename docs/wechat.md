@@ -1,4 +1,4 @@
-> Updated on 2024.12.29
+> Updated on 2024.12.30
 
 ## Video_Classification
 
@@ -9553,7 +9553,7 @@
 - 2024-12-24, **On the fractional approach to quadratic nonlinear parabolic systems**, Oscar Jarrin et.al., Paper: [http://arxiv.org/abs/2412.18473v1](http://arxiv.org/abs/2412.18473v1)
 - 2024-12-24, **Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**, Qice Qin et.al., Paper: [http://arxiv.org/abs/2412.18421v1](http://arxiv.org/abs/2412.18421v1)
 - 2024-12-24, **Discovery of 2D Materials via Symmetry-Constrained Diffusion Model**, Shihang Xu et.al., Paper: [http://arxiv.org/abs/2412.18414v1](http://arxiv.org/abs/2412.18414v1)
-- 2024-12-24, **RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**, Wu Xiaoping et.al., Paper: [http://arxiv.org/abs/2412.18390v1](http://arxiv.org/abs/2412.18390v1)
+- 2024-12-25, **RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**, Xiaoping Wu et.al., Paper: [http://arxiv.org/abs/2412.18390v2](http://arxiv.org/abs/2412.18390v2)
 - 2024-12-24, **FloNa: Floor Plan Guided Embodied Visual Navigation**, Jiaxin Li et.al., Paper: [http://arxiv.org/abs/2412.18335v1](http://arxiv.org/abs/2412.18335v1)
 - 2024-12-24, **The optimization of exact multi-target quantum search algorithm based on MindQuantum**, Shijin Zhong et.al., Paper: [http://arxiv.org/abs/2412.18306v1](http://arxiv.org/abs/2412.18306v1)
 - 2024-12-24, **Temperature crossovers in the specific heat of amorphous magnets**, Hector Ochoa et.al., Paper: [http://arxiv.org/abs/2412.18305v1](http://arxiv.org/abs/2412.18305v1)
