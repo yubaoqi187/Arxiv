@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2024-12-30, **Sparse chaos in cortical circuits**, Rainer Engelken et.al., Paper: [http://arxiv.org/abs/2412.21188v1](http://arxiv.org/abs/2412.21188v1)
+- 2024-12-30, **Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**, Hongze Gao et.al., Paper: [http://arxiv.org/abs/2412.21184v1](http://arxiv.org/abs/2412.21184v1)
+- 2024-12-30, **Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**, Vladimír Švígler et.al., Paper: [http://arxiv.org/abs/2412.21168v1](http://arxiv.org/abs/2412.21168v1)
+- 2024-12-30, **Systematic Benchmarking of Macrosegregation: The Performance of a Modified Hybrid Model**, Ali Moeinirad et.al., Paper: [http://arxiv.org/abs/2412.21143v1](http://arxiv.org/abs/2412.21143v1)
+- 2024-12-30, **Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**, Yuanbo Yang et.al., Paper: [http://arxiv.org/abs/2412.21117v1](http://arxiv.org/abs/2412.21117v1)
+- 2024-12-30, **Positional information trade-offs in boundary-driven reaction-diffusion systems**, Jonas Berx et.al., Paper: [http://arxiv.org/abs/2412.21113v1](http://arxiv.org/abs/2412.21113v1)
+- 2024-12-30, **Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**, Saiedeh Akbari et.al., Paper: [http://arxiv.org/abs/2412.21095v1](http://arxiv.org/abs/2412.21095v1)
+- 2024-12-30, **Co-diffusion of hydrogen and oxygen for dense oxyhydride synthesis**, Masaya Fujioka et.al., Paper: [http://arxiv.org/abs/2412.21086v1](http://arxiv.org/abs/2412.21086v1)
+- 2024-12-30, **Quantum Diffusion Model for Quark and Gluon Jet Generation**, Mariia Baidachna et.al., Paper: [http://arxiv.org/abs/2412.21082v1](http://arxiv.org/abs/2412.21082v1)
+- 2024-12-30, **Edicho: Consistent Image Editing in the Wild**, Qingyan Bai et.al., Paper: [http://arxiv.org/abs/2412.21079v1](http://arxiv.org/abs/2412.21079v1), Code: **[https://github.com/ezioby/edicho](https://github.com/ezioby/edicho)**
+- 2024-12-30, **Pharmacometrics Modeling via Physics-Informed Neural Networks: Integrating Time-Variant Absorption Rates and Fractional Calculus for Enhancing Prediction Accuracy**, Nazanin Ahmadi et.al., Paper: [http://arxiv.org/abs/2412.21076v1](http://arxiv.org/abs/2412.21076v1)
+- 2024-12-30, **Numerical analysis of a stabilized optimal control problem governed by a parabolic convection--diffusion equation**, Christos Pervolianakis et.al., Paper: [http://arxiv.org/abs/2412.21070v1](http://arxiv.org/abs/2412.21070v1)
+- 2024-12-30, **Varformer: Adapting VAR's Generative Prior for Image Restoration**, Siyang Wang et.al., Paper: [http://arxiv.org/abs/2412.21063v1](http://arxiv.org/abs/2412.21063v1)
+- 2024-12-30, **BridgePure: Revealing the Fragility of Black-box Data Protection**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2412.21061v1](http://arxiv.org/abs/2412.21061v1)
+- 2024-12-30, **E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2412.21044v1](http://arxiv.org/abs/2412.21044v1)
+- 2024-12-30, **Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**, Wanglong Lu et.al., Paper: [http://arxiv.org/abs/2412.21042v1](http://arxiv.org/abs/2412.21042v1), Code: **[https://github.com/longlongaaago/vspbfr](https://github.com/longlongaaago/vspbfr)**
+- 2024-12-30, **A locally-conservative proximal Galerkin method for pointwise bound constraints**, Guosheng Fu et.al., Paper: [http://arxiv.org/abs/2412.21039v1](http://arxiv.org/abs/2412.21039v1)
+- 2024-12-30, **Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**, Keisha J. Cook et.al., Paper: [http://arxiv.org/abs/2412.21025v1](http://arxiv.org/abs/2412.21025v1)
+- 2024-12-30, **Atomistic modeling of the structure and diffusion processes at Al(110)/Si(001) interphase boundaries obtained by vapor deposition**, Yang Li et.al., Paper: [http://arxiv.org/abs/2412.20994v1](http://arxiv.org/abs/2412.20994v1)
+- 2024-12-30, **AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**, Yibo Wen et.al., Paper: [http://arxiv.org/abs/2412.20984v1](http://arxiv.org/abs/2412.20984v1)
 - 2024-12-27, **Periodically and aperiodically Thue-Morse driven long-range systems: from dynamical localization to slow dynamics**, Vatsana Tiwari et.al., Paper: [http://arxiv.org/abs/2412.19736v1](http://arxiv.org/abs/2412.19736v1)
 - 2024-12-27, **A coupled mathematical and numerical model for protein spreading and tissue atrophy, applied to Alzheimer's disease**, Valentina Pederzoli et.al., Paper: [http://arxiv.org/abs/2412.19661v1](http://arxiv.org/abs/2412.19661v1)
 - 2024-12-27, **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**, Tao Wu et.al., Paper: [http://arxiv.org/abs/2412.19645v1](http://arxiv.org/abs/2412.19645v1)
@@ -12035,10 +12055,13 @@
 
 ## Diffusion_Segment
 
+- 2024-12-30, **Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**, Keisha J. Cook et.al., Paper: [http://arxiv.org/abs/2412.21025v1](http://arxiv.org/abs/2412.21025v1)
+- 2024-12-29, **Image Augmentation Agent for Weakly Supervised Semantic Segmentation**, Wangyu Wu et.al., Paper: [http://arxiv.org/abs/2412.20439v1](http://arxiv.org/abs/2412.20439v1)
+- 2024-12-29, **Diff4MMLiTS: Advanced Multimodal Liver Tumor Segmentation via Diffusion-Based Image Synthesis and Alignment**, Shiyun Chen et.al., Paper: [http://arxiv.org/abs/2412.20418v1](http://arxiv.org/abs/2412.20418v1)
 - 2024-12-27, **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**, Junjie Hu et.al., Paper: [http://arxiv.org/abs/2412.19533v1](http://arxiv.org/abs/2412.19533v1)
 - 2024-12-26, **6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**, Nabo He et.al., Paper: [http://arxiv.org/abs/2412.19243v1](http://arxiv.org/abs/2412.19243v1)
 - 2024-12-26, **Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**, Haotian Qian et.al., Paper: [http://arxiv.org/abs/2412.19080v1](http://arxiv.org/abs/2412.19080v1)
-- 2024-12-24, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v1](http://arxiv.org/abs/2412.18608v1)
+- 2024-12-29, **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Minghao Chen et.al., Paper: [http://arxiv.org/abs/2412.18608v2](http://arxiv.org/abs/2412.18608v2)
 - 2024-12-22, **Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**, Jongmin Yu et.al., Paper: [http://arxiv.org/abs/2412.16859v1](http://arxiv.org/abs/2412.16859v1)
 - 2024-12-16, **Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**, Jamiree Harrison et.al., Paper: [http://arxiv.org/abs/2412.16198v1](http://arxiv.org/abs/2412.16198v1), Code: **[https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems](https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems)**
 - 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
