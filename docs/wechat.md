@@ -1,4 +1,4 @@
-> Updated on 2025.01.01
+> Updated on 2025.01.02
 
 ## Video_Classification
 
@@ -9549,11 +9549,11 @@
 - 2024-12-30, **Positional information trade-offs in boundary-driven reaction-diffusion systems**, Jonas Berx et.al., Paper: [http://arxiv.org/abs/2412.21113v1](http://arxiv.org/abs/2412.21113v1)
 - 2024-12-30, **Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**, Saiedeh Akbari et.al., Paper: [http://arxiv.org/abs/2412.21095v1](http://arxiv.org/abs/2412.21095v1)
 - 2024-12-30, **Co-diffusion of hydrogen and oxygen for dense oxyhydride synthesis**, Masaya Fujioka et.al., Paper: [http://arxiv.org/abs/2412.21086v1](http://arxiv.org/abs/2412.21086v1)
-- 2024-12-30, **Quantum Diffusion Model for Quark and Gluon Jet Generation**, Mariia Baidachna et.al., Paper: [http://arxiv.org/abs/2412.21082v1](http://arxiv.org/abs/2412.21082v1)
+- 2024-12-30, **Quantum Diffusion Model for Quark and Gluon Jet Generation**, Mariia Baidachna et.al., Paper: [http://arxiv.org/abs/2412.21082v1](http://arxiv.org/abs/2412.21082v1), Code: **[https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**
 - 2024-12-30, **Edicho: Consistent Image Editing in the Wild**, Qingyan Bai et.al., Paper: [http://arxiv.org/abs/2412.21079v1](http://arxiv.org/abs/2412.21079v1), Code: **[https://github.com/ezioby/edicho](https://github.com/ezioby/edicho)**
 - 2024-12-30, **Pharmacometrics Modeling via Physics-Informed Neural Networks: Integrating Time-Variant Absorption Rates and Fractional Calculus for Enhancing Prediction Accuracy**, Nazanin Ahmadi et.al., Paper: [http://arxiv.org/abs/2412.21076v1](http://arxiv.org/abs/2412.21076v1)
 - 2024-12-30, **Numerical analysis of a stabilized optimal control problem governed by a parabolic convection--diffusion equation**, Christos Pervolianakis et.al., Paper: [http://arxiv.org/abs/2412.21070v1](http://arxiv.org/abs/2412.21070v1)
-- 2024-12-30, **Varformer: Adapting VAR's Generative Prior for Image Restoration**, Siyang Wang et.al., Paper: [http://arxiv.org/abs/2412.21063v1](http://arxiv.org/abs/2412.21063v1)
+- 2024-12-30, **Varformer: Adapting VAR's Generative Prior for Image Restoration**, Siyang Wang et.al., Paper: [http://arxiv.org/abs/2412.21063v1](http://arxiv.org/abs/2412.21063v1), Code: **[https://github.com/siywang541/Varformer](https://github.com/siywang541/Varformer)**
 - 2024-12-30, **BridgePure: Revealing the Fragility of Black-box Data Protection**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2412.21061v1](http://arxiv.org/abs/2412.21061v1)
 - 2024-12-30, **E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2412.21044v1](http://arxiv.org/abs/2412.21044v1)
 - 2024-12-30, **Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**, Wanglong Lu et.al., Paper: [http://arxiv.org/abs/2412.21042v1](http://arxiv.org/abs/2412.21042v1), Code: **[https://github.com/longlongaaago/vspbfr](https://github.com/longlongaaago/vspbfr)**
