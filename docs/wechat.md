@@ -1,4 +1,4 @@
-> Updated on 2025.01.03
+> Updated on 2025.01.04
 
 ## Video_Classification
 
@@ -9557,7 +9557,7 @@
 - 2024-12-30, **BridgePure: Revealing the Fragility of Black-box Data Protection**, Yihan Wang et.al., Paper: [http://arxiv.org/abs/2412.21061v1](http://arxiv.org/abs/2412.21061v1)
 - 2024-12-30, **E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2412.21044v1](http://arxiv.org/abs/2412.21044v1)
 - 2024-12-30, **Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**, Wanglong Lu et.al., Paper: [http://arxiv.org/abs/2412.21042v1](http://arxiv.org/abs/2412.21042v1), Code: **[https://github.com/longlongaaago/vspbfr](https://github.com/longlongaaago/vspbfr)**
-- 2024-12-30, **A locally-conservative proximal Galerkin method for pointwise bound constraints**, Guosheng Fu et.al., Paper: [http://arxiv.org/abs/2412.21039v1](http://arxiv.org/abs/2412.21039v1)
+- 2024-12-30, **A locally-conservative proximal Galerkin method for pointwise bound constraints**, Guosheng Fu et.al., Paper: [http://arxiv.org/abs/2412.21039v1](http://arxiv.org/abs/2412.21039v1), Code: **[https://github.com/ramimasri/fospg-first-order-system-proximal-galerkin](https://github.com/ramimasri/fospg-first-order-system-proximal-galerkin)**
 - 2024-12-30, **Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**, Keisha J. Cook et.al., Paper: [http://arxiv.org/abs/2412.21025v1](http://arxiv.org/abs/2412.21025v1)
 - 2024-12-30, **Atomistic modeling of the structure and diffusion processes at Al(110)/Si(001) interphase boundaries obtained by vapor deposition**, Yang Li et.al., Paper: [http://arxiv.org/abs/2412.20994v1](http://arxiv.org/abs/2412.20994v1)
 - 2024-12-30, **AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**, Yibo Wen et.al., Paper: [http://arxiv.org/abs/2412.20984v1](http://arxiv.org/abs/2412.20984v1)
