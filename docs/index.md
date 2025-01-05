@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|**[link](https://github.com/hustvl/LightningDiT)**|
+|**2025-01-02**|**The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling**|George Carter et.al.|[2501.01417v1](http://arxiv.org/abs/2501.01417v1)|null|
+|**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368v1](http://arxiv.org/abs/2501.01368v1)|null|
+|**2025-01-02**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320v1](http://arxiv.org/abs/2501.01320v1)|null|
+|**2025-01-02**|**Cutoff for non-negatively curved diffusions**|Justin Salez et.al.|[2501.01304v1](http://arxiv.org/abs/2501.01304v1)|null|
+|**2025-01-02**|**Self-diffusive dynamics of active Brownian particles at moderate densities**|Rodrigo Soto et.al.|[2501.01251v1](http://arxiv.org/abs/2501.01251v1)|null|
+|**2025-01-02**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235v1](http://arxiv.org/abs/2501.01235v1)|null|
+|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223v1](http://arxiv.org/abs/2501.01223v1)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156v1](http://arxiv.org/abs/2501.01156v1)|null|
+|**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138v1](http://arxiv.org/abs/2501.01138v1)|null|
+|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|null|
+|**2025-01-02**|**A Comprehensive Monte Carlo Simulation Tool on Electron Transport in Noble Gases and Liquids**|Lei Cao et.al.|[2501.01095v1](http://arxiv.org/abs/2501.01095v1)|null|
+|**2025-01-02**|**First Search for Pulsed CH Maser Emission Stimulated by a Pulsar**|Mengting Liu et.al.|[2501.01074v1](http://arxiv.org/abs/2501.01074v1)|null|
+|**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066v1](http://arxiv.org/abs/2501.01066v1)|null|
+|**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013v1](http://arxiv.org/abs/2501.01013v1)|null|
+|**2025-01-02**|**Detection of "diffuse" coronal He I 1083 during the April 8 2024 Solar Eclipse: evidence for terrestrial atmospheric scattering origin**|M. E. Molnar et.al.|[2501.01009v1](http://arxiv.org/abs/2501.01009v1)|null|
+|**2025-01-02**|**Optimizing Noise Schedules of Generative Models in High Dimensionss**|Santiago Aranguri et.al.|[2501.00988v1](http://arxiv.org/abs/2501.00988v1)|null|
+|**2025-01-01**|**Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model**|Omid Saghatchian et.al.|[2501.00946v1](http://arxiv.org/abs/2501.00946v1)|**[link](https://github.com/omidiu/ca_tome)**|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188v1](http://arxiv.org/abs/2412.21188v1)|null|
 |**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184v1](http://arxiv.org/abs/2412.21184v1)|null|
 |**2024-12-30**|**Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**|Vladimír Švígler et.al.|[2412.21168v1](http://arxiv.org/abs/2412.21168v1)|null|
