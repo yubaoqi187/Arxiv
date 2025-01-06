@@ -1,4 +1,4 @@
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 
 ## Diffusion
 
@@ -12,7 +12,7 @@
 |**2025-01-02**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320v1](http://arxiv.org/abs/2501.01320v1)|null|
 |**2025-01-02**|**Cutoff for non-negatively curved diffusions**|Justin Salez et.al.|[2501.01304v1](http://arxiv.org/abs/2501.01304v1)|null|
 |**2025-01-02**|**Self-diffusive dynamics of active Brownian particles at moderate densities**|Rodrigo Soto et.al.|[2501.01251v1](http://arxiv.org/abs/2501.01251v1)|null|
-|**2025-01-02**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235v1](http://arxiv.org/abs/2501.01235v1)|null|
+|**2025-01-03**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235v2](http://arxiv.org/abs/2501.01235v2)|**[link](https://github.com/wangzhiyaoo/svfr)**|
 |**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223v1](http://arxiv.org/abs/2501.01223v1)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156v1](http://arxiv.org/abs/2501.01156v1)|null|
 |**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138v1](http://arxiv.org/abs/2501.01138v1)|null|
