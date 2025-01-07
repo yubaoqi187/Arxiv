@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**MinD the gap: Membrane proteins form 3D patterns in a suspension of liposomes**|Amélie Chardac et.al.|[2501.03179v1](http://arxiv.org/abs/2501.03179v1)|null|
+|**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173v1](http://arxiv.org/abs/2501.03173v1)|null|
+|**2025-01-06**|**Synthetic accessibility and sodium ion conductivity of the Na$_{8-x}$A$^{x}$P$_2$O$_9$ (NAP) high-temperature sodium superionic conductor framework**|Lauren N. Walters et.al.|[2501.03165v1](http://arxiv.org/abs/2501.03165v1)|null|
+|**2025-01-06**|**Large deviations of density in the non-equilibrium steady state of boundary-driven diffusive systems**|Soumyabrata Saha et.al.|[2501.03164v1](http://arxiv.org/abs/2501.03164v1)|null|
+|**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162v1](http://arxiv.org/abs/2501.03162v1)|null|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151v1](http://arxiv.org/abs/2501.03151v1)|null|
+|**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120v1](http://arxiv.org/abs/2501.03120v1)|null|
+|**2025-01-06**|**Propagation of chaos for multi-species moderately interacting particle systems up to Newtonian singularity**|José Antonio Carrillo et.al.|[2501.03087v1](http://arxiv.org/abs/2501.03087v1)|null|
+|**2025-01-06**|**Shock and SEP Modeling Study for the 5 September 2022 SEP Event**|A. Kouloumvakos et.al.|[2501.03066v1](http://arxiv.org/abs/2501.03066v1)|null|
+|**2025-01-06**|**DDRM-PR: Fourier Phase Retrieval using Denoising Diffusion Restoration Models**|Mehmet Onurcan Kaya et.al.|[2501.03030v1](http://arxiv.org/abs/2501.03030v1)|**[link](https://github.com/metu-space-lab/ddrm-pr)**|
+|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006v1](http://arxiv.org/abs/2501.03006v1)|null|
+|**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
+|**2025-01-06**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962v1](http://arxiv.org/abs/2501.02962v1)|null|
+|**2025-01-06**|**Efficient Langevin sampling with position-dependent diffusion**|Eugen Bronasco et.al.|[2501.02943v1](http://arxiv.org/abs/2501.02943v1)|null|
+|**2025-01-06**|**Femtosecond temperature measurements of laser-shocked copper deduced from the intensity of the x-ray thermal diffuse scattering**|J. S. Wark et.al.|[2501.02940v1](http://arxiv.org/abs/2501.02940v1)|null|
+|**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928v1](http://arxiv.org/abs/2501.02928v1)|null|
+|**2025-01-06**|**Searches for primary photons and neutrinos with the Pierre Auger Observatory**|Nicolás M. González et.al.|[2501.02923v1](http://arxiv.org/abs/2501.02923v1)|null|
+|**2025-01-06**|**Pointmap-Conditioned Diffusion for Consistent Novel View Synthesis**|Thang-Anh-Quan Nguyen et.al.|[2501.02913v1](http://arxiv.org/abs/2501.02913v1)|null|
+|**2025-01-06**|**Skillful High-Resolution Ensemble Precipitation Forecasting with an Integrated Deep Learning Framework**|Shuangshuang He et.al.|[2501.02905v1](http://arxiv.org/abs/2501.02905v1)|null|
+|**2025-01-06**|**Conditional Mutual Information Based Diffusion Posterior Sampling for Solving Inverse Problems**|Shayan Mohajer Hamidi et.al.|[2501.02880v1](http://arxiv.org/abs/2501.02880v1)|null|
 |**2025-01-03**|**Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models**|Manh Duong Nguyen et.al.|[2501.01932v1](http://arxiv.org/abs/2501.01932v1)|null|
 |**2025-01-03**|**Lyman-alpha resonant-line radiative transfer in expanding media**|Aaron Smith et.al.|[2501.01928v1](http://arxiv.org/abs/2501.01928v1)|null|
 |**2025-01-03**|**Stochastic Thermodynamics of the Two-Dimensional Model of Transistors**|Jiayin Gu et.al.|[2501.01919v1](http://arxiv.org/abs/2501.01919v1)|null|
@@ -2560,11 +2580,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**|Rezkellah Noureddine Khiati et.al.|[2501.02867v1](http://arxiv.org/abs/2501.02867v1)|null|
+|**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741v1](http://arxiv.org/abs/2501.02741v1)|null|
+|**2025-01-06**|**Multilevel Semantic-Aware Model for AI-Generated Video Quality Assessment**|Jiaze Li et.al.|[2501.02706v1](http://arxiv.org/abs/2501.02706v1)|null|
+|**2025-01-05**|**MedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation**|Avni Mittal et.al.|[2501.02447v1](http://arxiv.org/abs/2501.02447v1)|null|
+|**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287v1](http://arxiv.org/abs/2501.02287v1)|null|
+|**2025-01-04**|**Unsupervised Class Generation to Expand Semantic Segmentation Datasets**|Javier Montalvo et.al.|[2501.02264v1](http://arxiv.org/abs/2501.02264v1)|null|
 |**2025-01-03**|**Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models**|Manh Duong Nguyen et.al.|[2501.01932v1](http://arxiv.org/abs/2501.01932v1)|null|
 |**2024-12-30**|**Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**|Keisha J. Cook et.al.|[2412.21025v1](http://arxiv.org/abs/2412.21025v1)|null|
 |**2024-12-29**|**Image Augmentation Agent for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2412.20439v1](http://arxiv.org/abs/2412.20439v1)|null|
 |**2024-12-29**|**Diff4MMLiTS: Advanced Multimodal Liver Tumor Segmentation via Diffusion-Based Image Synthesis and Alignment**|Shiyun Chen et.al.|[2412.20418v1](http://arxiv.org/abs/2412.20418v1)|null|
-|**2024-12-27**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**|Junjie Hu et.al.|[2412.19533v1](http://arxiv.org/abs/2412.19533v1)|null|
+|**2025-01-06**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**|Junjie Hu et.al.|[2412.19533v2](http://arxiv.org/abs/2412.19533v2)|null|
 |**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243v1](http://arxiv.org/abs/2412.19243v1)|null|
 |**2024-12-26**|**Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080v1](http://arxiv.org/abs/2412.19080v1)|null|
 |**2024-12-29**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608v2](http://arxiv.org/abs/2412.18608v2)|null|
