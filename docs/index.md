@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 
 ## Diffusion
 
@@ -20,7 +20,7 @@ layout: default
 |**2025-01-06**|**DDRM-PR: Fourier Phase Retrieval using Denoising Diffusion Restoration Models**|Mehmet Onurcan Kaya et.al.|[2501.03030v1](http://arxiv.org/abs/2501.03030v1)|**[link](https://github.com/metu-space-lab/ddrm-pr)**|
 |**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006v1](http://arxiv.org/abs/2501.03006v1)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976v1](http://arxiv.org/abs/2501.02976v1)|null|
-|**2025-01-06**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962v1](http://arxiv.org/abs/2501.02962v1)|null|
+|**2025-01-07**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962v2](http://arxiv.org/abs/2501.02962v2)|null|
 |**2025-01-06**|**Efficient Langevin sampling with position-dependent diffusion**|Eugen Bronasco et.al.|[2501.02943v1](http://arxiv.org/abs/2501.02943v1)|null|
 |**2025-01-06**|**Femtosecond temperature measurements of laser-shocked copper deduced from the intensity of the x-ray thermal diffuse scattering**|J. S. Wark et.al.|[2501.02940v1](http://arxiv.org/abs/2501.02940v1)|null|
 |**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928v1](http://arxiv.org/abs/2501.02928v1)|null|
