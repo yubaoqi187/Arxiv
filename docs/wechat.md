@@ -1,4 +1,4 @@
-> Updated on 2025.01.08
+> Updated on 2025.01.09
 
 ## Video_Classification
 
@@ -12148,7 +12148,7 @@
 - 2024-12-22, **Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**, Jongmin Yu et.al., Paper: [http://arxiv.org/abs/2412.16859v1](http://arxiv.org/abs/2412.16859v1)
 - 2024-12-16, **Estimating Varying Parameters in Dynamical Systems: A Modular Framework Using Switch Detection, Optimization, and Sparse Regression**, Jamiree Harrison et.al., Paper: [http://arxiv.org/abs/2412.16198v1](http://arxiv.org/abs/2412.16198v1), Code: **[https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems](https://github.com/Jamiree/Estimating-Varying-Parameters-in-Dynamical-Systems)**
 - 2024-12-20, **Personalized Representation from Personalized Generation**, Shobhita Sundaram et.al., Paper: [http://arxiv.org/abs/2412.16156v1](http://arxiv.org/abs/2412.16156v1), Code: **[https://github.com/ssundaram21/personalized-rep](https://github.com/ssundaram21/personalized-rep)**
-- 2024-12-23, **Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**, Shaoyan Pan et.al., Paper: [http://arxiv.org/abs/2412.16050v2](http://arxiv.org/abs/2412.16050v2)
+- 2025-01-08, **Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**, Shaoyan Pan et.al., Paper: [http://arxiv.org/abs/2412.16050v3](http://arxiv.org/abs/2412.16050v3)
 - 2024-12-18, **SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**, Tong Chen et.al., Paper: [http://arxiv.org/abs/2412.14018v1](http://arxiv.org/abs/2412.14018v1)
 - 2024-12-18, **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor**, Chenyu Yang et.al., Paper: [http://arxiv.org/abs/2412.13786v1](http://arxiv.org/abs/2412.13786v1)
 - 2024-12-17, **Unsupervised Region-Based Image Editing of Denoising Diffusion Models**, Zixiang Li et.al., Paper: [http://arxiv.org/abs/2412.12912v1](http://arxiv.org/abs/2412.12912v1)
