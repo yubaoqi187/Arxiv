@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 
 ## Diffusion
 
@@ -14,7 +14,7 @@ layout: default
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689v1](http://arxiv.org/abs/2501.04689v1)|null|
 |**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641v1](http://arxiv.org/abs/2501.04641v1)|**[link](https://github.com/willcai7/multimodal-ghm)**|
 |**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631v1](http://arxiv.org/abs/2501.04631v1)|null|
-|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v1](http://arxiv.org/abs/2501.04614v1)|null|
+|**2025-01-09**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614v2](http://arxiv.org/abs/2501.04614v2)|null|
 |**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606v1](http://arxiv.org/abs/2501.04606v1)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416v1](http://arxiv.org/abs/2501.04416v1)|null|
 |**2025-01-08**|**Mathematical Modelling of Mechanotransduction via RhoA Signalling Pathways**|Sofie Verhees et.al.|[2501.04407v1](http://arxiv.org/abs/2501.04407v1)|null|
@@ -24,7 +24,7 @@ layout: default
 |**2025-01-08**|**Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2501.04305v1](http://arxiv.org/abs/2501.04305v1)|null|
 |**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304v1](http://arxiv.org/abs/2501.04304v1)|null|
 |**2025-01-08**|**Circuit Complexity Bounds for Visual Autoregressive Model**|Yekun Ke et.al.|[2501.04299v1](http://arxiv.org/abs/2501.04299v1)|null|
-|**2025-01-08**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v1](http://arxiv.org/abs/2501.04284v1)|null|
+|**2025-01-09**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284v2](http://arxiv.org/abs/2501.04284v2)|**[link](https://github.com/dohunlee1/contextmri)**|
 |**2025-01-08**|**Statistical estimation of a mean-field FitzHugh-Nagumo model**|Claudia Fonte Sanchez et.al.|[2501.04257v1](http://arxiv.org/abs/2501.04257v1)|null|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256v1](http://arxiv.org/abs/2501.04256v1)|null|
 |**2025-01-08**|**Interleaved bond and magnetic frustration in triangular lattice $Ln$Cd$_3$P$_3$**|S. J. Gomez Alvarado et.al.|[2501.04203v1](http://arxiv.org/abs/2501.04203v1)|null|

@@ -1,4 +1,4 @@
-> Updated on 2025.01.09
+> Updated on 2025.01.10
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2025-01-08, **SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**, Zixuan Huang et.al., Paper: [http://arxiv.org/abs/2501.04689v1](http://arxiv.org/abs/2501.04689v1)
 - 2025-01-08, **A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**, Kazusato Oko et.al., Paper: [http://arxiv.org/abs/2501.04641v1](http://arxiv.org/abs/2501.04641v1), Code: **[https://github.com/willcai7/multimodal-ghm](https://github.com/willcai7/multimodal-ghm)**
 - 2025-01-08, **Disentangled Clothed Avatar Generation with Layered Representation**, Weitian Zhang et.al., Paper: [http://arxiv.org/abs/2501.04631v1](http://arxiv.org/abs/2501.04631v1)
-- 2025-01-08, **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**, Daniele Molino et.al., Paper: [http://arxiv.org/abs/2501.04614v1](http://arxiv.org/abs/2501.04614v1)
+- 2025-01-09, **MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**, Daniele Molino et.al., Paper: [http://arxiv.org/abs/2501.04614v2](http://arxiv.org/abs/2501.04614v2)
 - 2025-01-08, **Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**, Yangfan He et.al., Paper: [http://arxiv.org/abs/2501.04606v1](http://arxiv.org/abs/2501.04606v1)
 - 2025-01-08, **ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**, Xinfa Zhu et.al., Paper: [http://arxiv.org/abs/2501.04416v1](http://arxiv.org/abs/2501.04416v1)
 - 2025-01-08, **Mathematical Modelling of Mechanotransduction via RhoA Signalling Pathways**, Sofie Verhees et.al., Paper: [http://arxiv.org/abs/2501.04407v1](http://arxiv.org/abs/2501.04407v1)
@@ -9557,7 +9557,7 @@
 - 2025-01-08, **Physics-Informed Super-Resolution Diffusion for 6D Phase Space Diagnostics**, Alexander Scheinker et.al., Paper: [http://arxiv.org/abs/2501.04305v1](http://arxiv.org/abs/2501.04305v1)
 - 2025-01-08, **DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**, Hyogon Ryu et.al., Paper: [http://arxiv.org/abs/2501.04304v1](http://arxiv.org/abs/2501.04304v1)
 - 2025-01-08, **Circuit Complexity Bounds for Visual Autoregressive Model**, Yekun Ke et.al., Paper: [http://arxiv.org/abs/2501.04299v1](http://arxiv.org/abs/2501.04299v1)
-- 2025-01-08, **ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**, Hyungjin Chung et.al., Paper: [http://arxiv.org/abs/2501.04284v1](http://arxiv.org/abs/2501.04284v1)
+- 2025-01-09, **ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**, Hyungjin Chung et.al., Paper: [http://arxiv.org/abs/2501.04284v2](http://arxiv.org/abs/2501.04284v2), Code: **[https://github.com/dohunlee1/contextmri](https://github.com/dohunlee1/contextmri)**
 - 2025-01-08, **Statistical estimation of a mean-field FitzHugh-Nagumo model**, Claudia Fonte Sanchez et.al., Paper: [http://arxiv.org/abs/2501.04257v1](http://arxiv.org/abs/2501.04257v1)
 - 2025-01-08, **DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**, Weidong Chen et.al., Paper: [http://arxiv.org/abs/2501.04256v1](http://arxiv.org/abs/2501.04256v1)
 - 2025-01-08, **Interleaved bond and magnetic frustration in triangular lattice $Ln$Cd$_3$P$_3$**, S. J. Gomez Alvarado et.al., Paper: [http://arxiv.org/abs/2501.04203v1](http://arxiv.org/abs/2501.04203v1)
