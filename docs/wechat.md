@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-09, **Decentralized Diffusion Models**, David McAllister et.al., Paper: [http://arxiv.org/abs/2501.05450v1](http://arxiv.org/abs/2501.05450v1)
+- 2025-01-09, **Consistent Flow Distillation for Text-to-3D Generation**, Runjie Yan et.al., Paper: [http://arxiv.org/abs/2501.05445v1](http://arxiv.org/abs/2501.05445v1)
+- 2025-01-09, **Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2501.05442v1](http://arxiv.org/abs/2501.05442v1)
+- 2025-01-09, **The GAN is dead; long live the GAN! A Modern GAN Baseline**, Yiwen Huang et.al., Paper: [http://arxiv.org/abs/2501.05441v1](http://arxiv.org/abs/2501.05441v1)
+- 2025-01-09, **Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**, Xuyi Meng et.al., Paper: [http://arxiv.org/abs/2501.05427v1](http://arxiv.org/abs/2501.05427v1)
+- 2025-01-09, **Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**, Christophe Morisset et.al., Paper: [http://arxiv.org/abs/2501.05424v1](http://arxiv.org/abs/2501.05424v1)
+- 2025-01-09, **TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**, Yu-Hao Huang et.al., Paper: [http://arxiv.org/abs/2501.05403v1](http://arxiv.org/abs/2501.05403v1)
+- 2025-01-09, **Self-propulsion and self-rotation of an inertial chiral active Ornstein-Uhlenbeck particle**, F Sahala et.al., Paper: [http://arxiv.org/abs/2501.05390v1](http://arxiv.org/abs/2501.05390v1)
+- 2025-01-09, **Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**, Eric Grelet et.al., Paper: [http://arxiv.org/abs/2501.05372v1](http://arxiv.org/abs/2501.05372v1)
+- 2025-01-09, **Harvesting primordial black holes from stochastic trees with $\texttt{FOREST}$**, Chiara Animali et.al., Paper: [http://arxiv.org/abs/2501.05371v1](http://arxiv.org/abs/2501.05371v1)
+- 2025-01-09, **Accelerated Diffusion Models via Speculative Sampling**, Valentin De Bortoli et.al., Paper: [http://arxiv.org/abs/2501.05370v1](http://arxiv.org/abs/2501.05370v1)
+- 2025-01-09, **Rotational mobility in spherical membranes: The interplay between Saffman-Delbrück length and inclusion size**, Marco Vona et.al., Paper: [http://arxiv.org/abs/2501.05367v1](http://arxiv.org/abs/2501.05367v1)
+- 2025-01-09, **CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**, Junha Park et.al., Paper: [http://arxiv.org/abs/2501.05359v1](http://arxiv.org/abs/2501.05359v1)
+- 2025-01-09, **Chain recurrence and structure of omega-limit sets of multivalued semiflows**, Oleksiy V. Kapustyan et.al., Paper: [http://arxiv.org/abs/2501.05319v1](http://arxiv.org/abs/2501.05319v1)
+- 2025-01-09, **First-Principles and Machine Learning Insights into the Design of DOTT-Carbon and its Lithium-Ion Storage Capacity**, Kleuton. A. L. Lima et.al., Paper: [http://arxiv.org/abs/2501.05294v1](http://arxiv.org/abs/2501.05294v1)
+- 2025-01-09, **Vertical shear instabilities in rotating stellar radiation zones: effects of the full Coriolis acceleration and thermal diffusion**, Junho Park et.al., Paper: [http://arxiv.org/abs/2501.05293v1](http://arxiv.org/abs/2501.05293v1)
+- 2025-01-09, **Exploring the non-thermal physics behind the pulsar wind nebula PSR J2030+4415 through radio observations**, J. M. Paredes et.al., Paper: [http://arxiv.org/abs/2501.05284v1](http://arxiv.org/abs/2501.05284v1)
+- 2025-01-09, **Optimized Sampling for Non-Line-of-Sight Imaging Using Modified Fast Fourier Transforms**, Talha Sultan et.al., Paper: [http://arxiv.org/abs/2501.05244v1](http://arxiv.org/abs/2501.05244v1)
+- 2025-01-09, **Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**, Ludwic Leonard et.al., Paper: [http://arxiv.org/abs/2501.05226v1](http://arxiv.org/abs/2501.05226v1)
+- 2025-01-09, **Local predictors of explosive synchronization with ordinal methods**, I. Leyva et.al., Paper: [http://arxiv.org/abs/2501.05202v1](http://arxiv.org/abs/2501.05202v1)
 - 2025-01-08, **EditAR: Unified Conditional Generation with Autoregressive Models**, Jiteng Mu et.al., Paper: [http://arxiv.org/abs/2501.04699v1](http://arxiv.org/abs/2501.04699v1)
 - 2025-01-08, **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**, Yuzhou Huang et.al., Paper: [http://arxiv.org/abs/2501.04698v1](http://arxiv.org/abs/2501.04698v1)
 - 2025-01-08, **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**, Joshua Jones et.al., Paper: [http://arxiv.org/abs/2501.04693v1](http://arxiv.org/abs/2501.04693v1)
@@ -12151,6 +12171,7 @@
 
 ## Diffusion_Segment
 
+- 2025-01-09, **D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**, Hounsu Kim et.al., Paper: [http://arxiv.org/abs/2501.05068v1](http://arxiv.org/abs/2501.05068v1)
 - 2025-01-08, **EditAR: Unified Conditional Generation with Autoregressive Models**, Jiteng Mu et.al., Paper: [http://arxiv.org/abs/2501.04699v1](http://arxiv.org/abs/2501.04699v1)
 - 2025-01-07, **Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2501.02867v2](http://arxiv.org/abs/2501.02867v2)
 - 2025-01-06, **Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**, Yunlong Yuan et.al., Paper: [http://arxiv.org/abs/2501.02741v1](http://arxiv.org/abs/2501.02741v1)
