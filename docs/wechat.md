@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-10, **Multi-subject Open-set Personalization in Video Generation**, Tsai-Shien Chen et.al., Paper: [http://arxiv.org/abs/2501.06187v1](http://arxiv.org/abs/2501.06187v1)
+- 2025-01-10, **GenMol: A Drug Discovery Generalist with Discrete Diffusion**, Seul Lee et.al., Paper: [http://arxiv.org/abs/2501.06158v1](http://arxiv.org/abs/2501.06158v1)
+- 2025-01-10, **From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**, Julius Berner et.al., Paper: [http://arxiv.org/abs/2501.06148v1](http://arxiv.org/abs/2501.06148v1), Code: **[https://github.com/gfnorg/gfn-diffusion](https://github.com/gfnorg/gfn-diffusion)**
+- 2025-01-10, **Uniform local well-posedness and liviscid limit for the KdV-Burgers equation on $\mathbb{T}$**, Xintong Li et.al., Paper: [http://arxiv.org/abs/2501.06147v1](http://arxiv.org/abs/2501.06147v1)
+- 2025-01-10, **Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System**, Hilal Esra Yaldiz et.al., Paper: [http://arxiv.org/abs/2501.06092v1](http://arxiv.org/abs/2501.06092v1)
+- 2025-01-10, **Simulation and modelling of convective mixing of carbon dioxide in geological formations**, Marco De Paoli et.al., Paper: [http://arxiv.org/abs/2501.06090v1](http://arxiv.org/abs/2501.06090v1)
+- 2025-01-10, **Variation of the low-mass end of the stellar initial mass function with redshift and metallicity**, Matthew R. Bate et.al., Paper: [http://arxiv.org/abs/2501.06082v1](http://arxiv.org/abs/2501.06082v1)
+- 2025-01-10, **Quantum Avalanches in $\mathbb{Z}_2$-preserving Interacting Ising Majorana Chain**, Lv Zhang et.al., Paper: [http://arxiv.org/abs/2501.06064v1](http://arxiv.org/abs/2501.06064v1)
+- 2025-01-10, **Overcoming the surface paradox: Buried perovskite quantum dots in wide-bandgap perovskite thin films**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2501.06061v1](http://arxiv.org/abs/2501.06061v1)
+- 2025-01-10, **Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**, Cecilia Curreli et.al., Paper: [http://arxiv.org/abs/2501.06035v1](http://arxiv.org/abs/2501.06035v1)
+- 2025-01-10, **Thermal emission from bow shocks III: Variable diffuse X-ray emission from stellar-wind bow shocks driven by dynamical instabilities**, Jonathan Mackey et.al., Paper: [http://arxiv.org/abs/2501.06021v1](http://arxiv.org/abs/2501.06021v1)
+- 2025-01-10, **SECRET: Stochasticity Emulator for Cosmic Ray Electrons**, Nikolas Frediani et.al., Paper: [http://arxiv.org/abs/2501.06011v1](http://arxiv.org/abs/2501.06011v1)
+- 2025-01-10, **CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**, Stefan Popov et.al., Paper: [http://arxiv.org/abs/2501.06006v1](http://arxiv.org/abs/2501.06006v1)
+- 2025-01-10, **Estimation and Restoration of Unknown Nonlinear Distortion using Diffusion**, Michal Švento et.al., Paper: [http://arxiv.org/abs/2501.05959v1](http://arxiv.org/abs/2501.05959v1)
+- 2025-01-10, **Modeling Concentration Profiles in Electrolytes by Solving 3-D Poisson-Nernst-Planck Equations via Finite Difference Method**, Yitao He et.al., Paper: [http://arxiv.org/abs/2501.05917v1](http://arxiv.org/abs/2501.05917v1)
+- 2025-01-10, **Inverse Design of 3D Nanophotonic Devices with Structural Integrity Using Auxiliary Thermal Solvers**, Oliver Kuster et.al., Paper: [http://arxiv.org/abs/2501.05900v1](http://arxiv.org/abs/2501.05900v1)
+- 2025-01-10, **Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation**, Minxing Luo et.al., Paper: [http://arxiv.org/abs/2501.05892v1](http://arxiv.org/abs/2501.05892v1)
+- 2025-01-10, **Poetry in Pixels: Prompt Tuning for Poem Image Generation via Diffusion Models**, Sofia Jamil et.al., Paper: [http://arxiv.org/abs/2501.05839v1](http://arxiv.org/abs/2501.05839v1), Code: **[https://github.com/sofeeyaj/poetry-in-pixels-coling2025](https://github.com/sofeeyaj/poetry-in-pixels-coling2025)**
+- 2025-01-10, **PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation**, Xinting Hu et.al., Paper: [http://arxiv.org/abs/2501.05823v1](http://arxiv.org/abs/2501.05823v1)
+- 2025-01-10, **Diffusion Models for Smarter UAVs: Decision-Making and Modeling**, Yousef Emami et.al., Paper: [http://arxiv.org/abs/2501.05819v1](http://arxiv.org/abs/2501.05819v1)
 - 2025-01-09, **Decentralized Diffusion Models**, David McAllister et.al., Paper: [http://arxiv.org/abs/2501.05450v1](http://arxiv.org/abs/2501.05450v1)
 - 2025-01-09, **Consistent Flow Distillation for Text-to-3D Generation**, Runjie Yan et.al., Paper: [http://arxiv.org/abs/2501.05445v1](http://arxiv.org/abs/2501.05445v1)
 - 2025-01-09, **Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2501.05442v1](http://arxiv.org/abs/2501.05442v1)
