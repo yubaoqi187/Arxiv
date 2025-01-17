@@ -1,4 +1,4 @@
-> Updated on 2025.01.16
+> Updated on 2025.01.17
 
 ## Video_Classification
 
@@ -9556,7 +9556,7 @@
 - 2025-01-15, **MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2501.08837v1](http://arxiv.org/abs/2501.08837v1)
 - 2025-01-15, **Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**, Shao-Hao Lu et.al., Paper: [http://arxiv.org/abs/2501.08819v1](http://arxiv.org/abs/2501.08819v1), Code: **[https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**
 - 2025-01-15, **Growth of Diffuse Intragroup Light in Simulated Galaxy Groups**, B. Bilata-Woldeyes et.al., Paper: [http://arxiv.org/abs/2501.08811v1](http://arxiv.org/abs/2501.08811v1)
-- 2025-01-15, **Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics**, Fasma Diele et.al., Paper: [http://arxiv.org/abs/2501.08757v1](http://arxiv.org/abs/2501.08757v1)
+- 2025-01-16, **Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics**, Fasma Diele et.al., Paper: [http://arxiv.org/abs/2501.08757v2](http://arxiv.org/abs/2501.08757v2)
 - 2025-01-15, **Beyond the band edge: Unveiling high-mobility hot carriers in a two-dimensional conjugated coordination polymer**, Shuai Fu et.al., Paper: [http://arxiv.org/abs/2501.08742v1](http://arxiv.org/abs/2501.08742v1)
 - 2025-01-15, **Transformed Low-rank Adaptation via Tensor Decomposition and Its Applications to Text-to-image Models**, Zerui Tao et.al., Paper: [http://arxiv.org/abs/2501.08727v1](http://arxiv.org/abs/2501.08727v1)
 - 2025-01-15, **The voter model on random regular graphs with random rewiring**, Luca Avena et.al., Paper: [http://arxiv.org/abs/2501.08703v1](http://arxiv.org/abs/2501.08703v1)
