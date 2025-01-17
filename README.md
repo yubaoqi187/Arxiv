@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756v1](http://arxiv.org/abs/2501.09756v1)|null|
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|null|
+|**2025-01-16**|**FAST: Efficient Action Tokenization for Vision-Language-Action Models**|Karl Pertsch et.al.|[2501.09747v1](http://arxiv.org/abs/2501.09747v1)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732v1](http://arxiv.org/abs/2501.09732v1)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685v1](http://arxiv.org/abs/2501.09685v1)|null|
+|**2025-01-16**|**Optimal paths and dynamical symmetry breaking in the current fluctuations of driven diffusive media**|Pablo I. Hurtado et.al.|[2501.09629v1](http://arxiv.org/abs/2501.09629v1)|null|
+|**2025-01-16**|**A simple model of a sequence-reading diffusion: non-self-averaging and self-averaging properties**|Silvio Kalaj et.al.|[2501.09583v1](http://arxiv.org/abs/2501.09583v1)|null|
+|**2025-01-16**|**Existence of weak solutions for fast diffusion equation with a divergence type of drift term**|Sukjung Hwang et.al.|[2501.09539v1](http://arxiv.org/abs/2501.09539v1)|null|
+|**2025-01-16**|**VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization**|Zixun Fang et.al.|[2501.09499v1](http://arxiv.org/abs/2501.09499v1)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
+|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433v1](http://arxiv.org/abs/2501.09433v1)|null|
+|**2025-01-16**|**Uncertainty in Elastic Turbulence**|Jack R. C. King et.al.|[2501.09421v1](http://arxiv.org/abs/2501.09421v1)|null|
+|**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391v1](http://arxiv.org/abs/2501.09391v1)|null|
+|**2025-01-16**|**Structure formation in O-type stars and Wolf-Rayet stars**|Cassandra Van der Sijpt et.al.|[2501.09378v1](http://arxiv.org/abs/2501.09378v1)|null|
+|**2025-01-16**|**The sleeping bacterium: shedding light on the resuscitation mechanism**|Eleonora Alfinito et.al.|[2501.09366v1](http://arxiv.org/abs/2501.09366v1)|null|
+|**2025-01-16**|**UVRM: A Scalable 3D Reconstruction Model from Unposed Videos**|Shiu-hong Kao et.al.|[2501.09347v1](http://arxiv.org/abs/2501.09347v1)|null|
+|**2025-01-16**|**A Novel Simulation Approach for Evaporation Processes in Small Gaps of Industrial Applications**|Phil Namesnik et.al.|[2501.09337v1](http://arxiv.org/abs/2501.09337v1)|null|
+|**2025-01-16**|**A diffusion limit for a model of interacting spins/queues with log-linear interaction**|Anatolii Puhalskii et.al.|[2501.09323v1](http://arxiv.org/abs/2501.09323v1)|null|
+|**2025-01-16**|**Domain-conditioned and Temporal-guided Diffusion Modeling for Accelerated Dynamic MRI Reconstruction**|Liping Zhang et.al.|[2501.09305v1](http://arxiv.org/abs/2501.09305v1)|null|
+|**2025-01-16**|**At low temperatures, glass-forming liquids relax in a simple way**|Francesco Rusciano et.al.|[2501.09288v1](http://arxiv.org/abs/2501.09288v1)|null|
 |**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019v1](http://arxiv.org/abs/2501.09019v1)|null|
 |**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014v1](http://arxiv.org/abs/2501.09014v1)|**[link](https://github.com/giordanodaloisio/sd-bias)**|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008v1](http://arxiv.org/abs/2501.09008v1)|null|
@@ -2716,6 +2736,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194v1](http://arxiv.org/abs/2501.09194v1)|null|
+|**2025-01-15**|**Cancer-Net PCa-Seg: Benchmarking Deep Learning Models for Prostate Cancer Segmentation Using Synthetic Correlated Diffusion Imaging**|Jarett Dewbury et.al.|[2501.09185v1](http://arxiv.org/abs/2501.09185v1)|null|
 |**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019v1](http://arxiv.org/abs/2501.09019v1)|null|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008v1](http://arxiv.org/abs/2501.09008v1)|null|
 |**2025-01-15**|**TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**|Bailiang Jian et.al.|[2501.08667v1](http://arxiv.org/abs/2501.08667v1)|null|
