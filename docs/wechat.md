@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-17, **Convergent Sixth-order Compact Finite Difference Method for Variable-Coefficient Elliptic PDEs in Curved Domains**, Bin Han et.al., Paper: [http://arxiv.org/abs/2501.10358v1](http://arxiv.org/abs/2501.10358v1)
+- 2025-01-17, **Principled model selection for stochastic dynamics**, Andonis Gerardos et.al., Paper: [http://arxiv.org/abs/2501.10339v1](http://arxiv.org/abs/2501.10339v1)
+- 2025-01-17, **DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**, Huiyun Cao et.al., Paper: [http://arxiv.org/abs/2501.10325v1](http://arxiv.org/abs/2501.10325v1)
+- 2025-01-17, **Magnetic properties of the zigzag ladder compound SrTb2O4**, F. Orlandi et.al., Paper: [http://arxiv.org/abs/2501.10304v1](http://arxiv.org/abs/2501.10304v1)
+- 2025-01-17, **Spatial localization in the FitzHugh-Nagumo model**, Pedro Parra-Rivas et.al., Paper: [http://arxiv.org/abs/2501.10271v1](http://arxiv.org/abs/2501.10271v1)
+- 2025-01-17, **The promise of deep-stacking for neutrino astronomy**, Marek Kowalski et.al., Paper: [http://arxiv.org/abs/2501.10213v1](http://arxiv.org/abs/2501.10213v1)
+- 2025-01-17, **Time-Resolved Measurements of Cumulative Effects in Gas Dynamics Induced by High-Repetition-Rate Femtosecond Laser Filamentation**, Robin Löscher et.al., Paper: [http://arxiv.org/abs/2501.10198v1](http://arxiv.org/abs/2501.10198v1)
+- 2025-01-17, **Improved phase field model for two-phase incompressible flows: Sharp interface limit, universal mobility and surface tension calculation**, Jing-Wei Chen et.al., Paper: [http://arxiv.org/abs/2501.10167v1](http://arxiv.org/abs/2501.10167v1)
+- 2025-01-17, **DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**, Xiaohui Li et.al., Paper: [http://arxiv.org/abs/2501.10110v1](http://arxiv.org/abs/2501.10110v1)
+- 2025-01-17, **The R-Vessel-X Project**, Abir Affane et.al., Paper: [http://arxiv.org/abs/2501.10068v1](http://arxiv.org/abs/2501.10068v1)
+- 2025-01-17, **Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**, Shengkui Zhao et.al., Paper: [http://arxiv.org/abs/2501.10052v1](http://arxiv.org/abs/2501.10052v1)
+- 2025-01-17, **Weak uniqueness for the PDE governing the joint law of a diffusion and its running supremum**, Laure Coutin et.al., Paper: [http://arxiv.org/abs/2501.10038v1](http://arxiv.org/abs/2501.10038v1)
+- 2025-01-17, **On Carathéodory approximate scheme for a class of one-dimensional doubly perturbed diffusion processes**, R. Belfadli et.al., Paper: [http://arxiv.org/abs/2501.10036v1](http://arxiv.org/abs/2501.10036v1)
+- 2025-01-17, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021v1](http://arxiv.org/abs/2501.10021v1), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
+- 2025-01-17, **DiffuEraser: A Diffusion Model for Video Inpainting**, Xiaowen Li et.al., Paper: [http://arxiv.org/abs/2501.10018v1](http://arxiv.org/abs/2501.10018v1)
+- 2025-01-17, **Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by Hybrid VAE-Diffusion-Based Generative Neural Networks**, Junlan Chen et.al., Paper: [http://arxiv.org/abs/2501.10017v1](http://arxiv.org/abs/2501.10017v1)
+- 2025-01-17, **Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning**, Xu Chu et.al., Paper: [http://arxiv.org/abs/2501.10010v1](http://arxiv.org/abs/2501.10010v1), Code: **[https://github.com/colinneverland/staa](https://github.com/colinneverland/staa)**
+- 2025-01-17, **In-plane anisotropy of charge density wave fluctuations in 1$T$-TiSe$_2$**, Xuefei Guo et.al., Paper: [http://arxiv.org/abs/2501.09968v1](http://arxiv.org/abs/2501.09968v1)
+- 2025-01-17, **Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**, Zekun Zhou et.al., Paper: [http://arxiv.org/abs/2501.09935v1](http://arxiv.org/abs/2501.09935v1)
+- 2025-01-16, **Geometry-Preserving Encoder/Decoder in Latent Generative Models**, Wonjun Lee et.al., Paper: [http://arxiv.org/abs/2501.09876v1](http://arxiv.org/abs/2501.09876v1)
 - 2025-01-16, **SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**, Sumit Chaturvedi et.al., Paper: [http://arxiv.org/abs/2501.09756v1](http://arxiv.org/abs/2501.09756v1)
 - 2025-01-16, **Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**, Philippe Hansen-Estruch et.al., Paper: [http://arxiv.org/abs/2501.09755v1](http://arxiv.org/abs/2501.09755v1)
 - 2025-01-16, **FAST: Efficient Action Tokenization for Vision-Language-Action Models**, Karl Pertsch et.al., Paper: [http://arxiv.org/abs/2501.09747v1](http://arxiv.org/abs/2501.09747v1)
@@ -12271,12 +12291,13 @@
 
 ## Diffusion_Segment
 
+- 2025-01-17, **The R-Vessel-X Project**, Abir Affane et.al., Paper: [http://arxiv.org/abs/2501.10068v1](http://arxiv.org/abs/2501.10068v1)
 - 2025-01-15, **Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**, Ahmad Süleyman et.al., Paper: [http://arxiv.org/abs/2501.09194v1](http://arxiv.org/abs/2501.09194v1)
 - 2025-01-15, **Cancer-Net PCa-Seg: Benchmarking Deep Learning Models for Prostate Cancer Segmentation Using Synthetic Correlated Diffusion Imaging**, Jarett Dewbury et.al., Paper: [http://arxiv.org/abs/2501.09185v1](http://arxiv.org/abs/2501.09185v1)
 - 2025-01-15, **Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**, Jingyuan Chen et.al., Paper: [http://arxiv.org/abs/2501.09019v1](http://arxiv.org/abs/2501.09019v1)
 - 2025-01-15, **SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**, Aditya Bhat et.al., Paper: [http://arxiv.org/abs/2501.09008v1](http://arxiv.org/abs/2501.09008v1)
 - 2025-01-15, **TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**, Bailiang Jian et.al., Paper: [http://arxiv.org/abs/2501.08667v1](http://arxiv.org/abs/2501.08667v1)
-- 2025-01-14, **LayerAnimate: Layer-specific Control for Animation**, Yuxue Yang et.al., Paper: [http://arxiv.org/abs/2501.08295v1](http://arxiv.org/abs/2501.08295v1)
+- 2025-01-17, **LayerAnimate: Layer-specific Control for Animation**, Yuxue Yang et.al., Paper: [http://arxiv.org/abs/2501.08295v2](http://arxiv.org/abs/2501.08295v2)
 - 2025-01-13, **Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**, Xiyue Zhu et.al., Paper: [http://arxiv.org/abs/2501.07430v1](http://arxiv.org/abs/2501.07430v1)
 - 2025-01-13, **OCORD: Open-Campus Object Removal Dataset**, Shuo Zhang et.al., Paper: [http://arxiv.org/abs/2501.07397v1](http://arxiv.org/abs/2501.07397v1)
 - 2025-01-13, **Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**, Li Liang et.al., Paper: [http://arxiv.org/abs/2501.07260v1](http://arxiv.org/abs/2501.07260v1), Code: **[https://github.com/xrkong/skimba](https://github.com/xrkong/skimba)**
