@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-21, **Towards Affordance-Aware Articulation Synthesis for Rigged Objects**, Yu-Chu Yu et.al., Paper: [http://arxiv.org/abs/2501.12393v1](http://arxiv.org/abs/2501.12393v1)
+- 2025-01-21, **GPS as a Control Signal for Image Generation**, Chao Feng et.al., Paper: [http://arxiv.org/abs/2501.12390v1](http://arxiv.org/abs/2501.12390v1)
+- 2025-01-21, **Audio Texture Manipulation by Exemplar-Based Analogy**, Kan Jen Cheng et.al., Paper: [http://arxiv.org/abs/2501.12385v1](http://arxiv.org/abs/2501.12385v1)
+- 2025-01-21, **DiffDoctor: Diagnosing Image Diffusion Models Before Treating**, Yiyang Wang et.al., Paper: [http://arxiv.org/abs/2501.12382v1](http://arxiv.org/abs/2501.12382v1)
+- 2025-01-21, **Diffusion-aware Censored Gaussian Processes for Demand Modelling**, Filipe Rodrigues et.al., Paper: [http://arxiv.org/abs/2501.12354v1](http://arxiv.org/abs/2501.12354v1), Code: **[https://github.com/fmpr/diffusion-aware-censored-gp](https://github.com/fmpr/diffusion-aware-censored-gp)**
+- 2025-01-21, **Decoherence of Schrödinger cat states in light of wave/particle duality**, Th. K. Mavrogordatos et.al., Paper: [http://arxiv.org/abs/2501.12328v1](http://arxiv.org/abs/2501.12328v1)
+- 2025-01-21, **The Rouse ring chain with attractive harmonic potential of spherical symmetry**, Nail Fatkullin et.al., Paper: [http://arxiv.org/abs/2501.12324v1](http://arxiv.org/abs/2501.12324v1)
+- 2025-01-21, **Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**, Christoph Gebhardt et.al., Paper: [http://arxiv.org/abs/2501.12289v1](http://arxiv.org/abs/2501.12289v1)
+- 2025-01-21, **Dynamic Metal-Support Interaction Dictates Cu Nanoparticle Sintering on Al$_2$O$_3$ Surfaces**, Jiayan Xu et.al., Paper: [http://arxiv.org/abs/2501.12283v1](http://arxiv.org/abs/2501.12283v1)
+- 2025-01-21, **VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**, Chaohao Xie et.al., Paper: [http://arxiv.org/abs/2501.12267v1](http://arxiv.org/abs/2501.12267v1)
+- 2025-01-21, **Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**, Antoine De Paepe et.al., Paper: [http://arxiv.org/abs/2501.12249v1](http://arxiv.org/abs/2501.12249v1)
+- 2025-01-21, **Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**, Niklas L. Schulz et.al., Paper: [http://arxiv.org/abs/2501.12232v1](http://arxiv.org/abs/2501.12232v1)
+- 2025-01-21, **TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**, Daniel Garibi et.al., Paper: [http://arxiv.org/abs/2501.12224v1](http://arxiv.org/abs/2501.12224v1)
+- 2025-01-21, **Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**, Zibo Zhao et.al., Paper: [http://arxiv.org/abs/2501.12202v1](http://arxiv.org/abs/2501.12202v1), Code: **[https://github.com/tencent/hunyuan3d-2](https://github.com/tencent/hunyuan3d-2)**
+- 2025-01-21, **ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions**, Shiyue Zhang et.al., Paper: [http://arxiv.org/abs/2501.12173v1](http://arxiv.org/abs/2501.12173v1), Code: **[https://github.com/zhangshy1019/composeanyone](https://github.com/zhangshy1019/composeanyone)**
+- 2025-01-21, **Gradually Declining Immunity Retains the Exponential Duration of Immunity-Free Diffusion**, Andreas Göbel et.al., Paper: [http://arxiv.org/abs/2501.12170v1](http://arxiv.org/abs/2501.12170v1)
+- 2025-01-21, **Exact solution to the hydrodynamic equation of quantum lattice gases with dephasing noise via classical run-and-tumble processes**, Michele Coppola et.al., Paper: [http://arxiv.org/abs/2501.12155v1](http://arxiv.org/abs/2501.12155v1)
+- 2025-01-21, **Quantum trajectories and Page-curve entanglement dynamics**, Katha Ganguly et.al., Paper: [http://arxiv.org/abs/2501.12110v1](http://arxiv.org/abs/2501.12110v1)
+- 2025-01-21, **Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**, Sean Man et.al., Paper: [http://arxiv.org/abs/2501.12102v1](http://arxiv.org/abs/2501.12102v1)
+- 2025-01-21, **Numerical Modeling of Oxygen Diffusion in Tissue Spheroids Undergoing Fusion Using Functional Representation and Finite Volumes**, Katherine Vilinski-Mazur et.al., Paper: [http://arxiv.org/abs/2501.12095v1](http://arxiv.org/abs/2501.12095v1)
 - 2025-01-17, **Convergent Sixth-order Compact Finite Difference Method for Variable-Coefficient Elliptic PDEs in Curved Domains**, Bin Han et.al., Paper: [http://arxiv.org/abs/2501.10358v1](http://arxiv.org/abs/2501.10358v1)
 - 2025-01-17, **Principled model selection for stochastic dynamics**, Andonis Gerardos et.al., Paper: [http://arxiv.org/abs/2501.10339v1](http://arxiv.org/abs/2501.10339v1)
 - 2025-01-17, **DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**, Huiyun Cao et.al., Paper: [http://arxiv.org/abs/2501.10325v1](http://arxiv.org/abs/2501.10325v1)
@@ -12291,6 +12311,8 @@
 
 ## Diffusion_Segment
 
+- 2025-01-21, **The Rouse ring chain with attractive harmonic potential of spherical symmetry**, Nail Fatkullin et.al., Paper: [http://arxiv.org/abs/2501.12324v1](http://arxiv.org/abs/2501.12324v1)
+- 2025-01-18, **GAUDA: Generative Adaptive Uncertainty-guided Diffusion-based Augmentation for Surgical Segmentation**, Yannik Frisch et.al., Paper: [http://arxiv.org/abs/2501.10819v1](http://arxiv.org/abs/2501.10819v1)
 - 2025-01-17, **The R-Vessel-X Project**, Abir Affane et.al., Paper: [http://arxiv.org/abs/2501.10068v1](http://arxiv.org/abs/2501.10068v1)
 - 2025-01-15, **Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**, Ahmad Süleyman et.al., Paper: [http://arxiv.org/abs/2501.09194v1](http://arxiv.org/abs/2501.09194v1)
 - 2025-01-15, **Cancer-Net PCa-Seg: Benchmarking Deep Learning Models for Prostate Cancer Segmentation Using Synthetic Correlated Diffusion Imaging**, Jarett Dewbury et.al., Paper: [http://arxiv.org/abs/2501.09185v1](http://arxiv.org/abs/2501.09185v1)
