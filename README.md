@@ -1,11 +1,11 @@
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393v1](http://arxiv.org/abs/2501.12393v1)|null|
-|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390v1](http://arxiv.org/abs/2501.12390v1)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390v2](http://arxiv.org/abs/2501.12390v2)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385v1](http://arxiv.org/abs/2501.12385v1)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382v1](http://arxiv.org/abs/2501.12382v1)|null|
 |**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354v1](http://arxiv.org/abs/2501.12354v1)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|

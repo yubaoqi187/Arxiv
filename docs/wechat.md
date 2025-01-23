@@ -1,4 +1,4 @@
-> Updated on 2025.01.22
+> Updated on 2025.01.23
 
 ## Video_Classification
 
@@ -9542,7 +9542,7 @@
 ## Diffusion
 
 - 2025-01-21, **Towards Affordance-Aware Articulation Synthesis for Rigged Objects**, Yu-Chu Yu et.al., Paper: [http://arxiv.org/abs/2501.12393v1](http://arxiv.org/abs/2501.12393v1)
-- 2025-01-21, **GPS as a Control Signal for Image Generation**, Chao Feng et.al., Paper: [http://arxiv.org/abs/2501.12390v1](http://arxiv.org/abs/2501.12390v1)
+- 2025-01-22, **GPS as a Control Signal for Image Generation**, Chao Feng et.al., Paper: [http://arxiv.org/abs/2501.12390v2](http://arxiv.org/abs/2501.12390v2)
 - 2025-01-21, **Audio Texture Manipulation by Exemplar-Based Analogy**, Kan Jen Cheng et.al., Paper: [http://arxiv.org/abs/2501.12385v1](http://arxiv.org/abs/2501.12385v1)
 - 2025-01-21, **DiffDoctor: Diagnosing Image Diffusion Models Before Treating**, Yiyang Wang et.al., Paper: [http://arxiv.org/abs/2501.12382v1](http://arxiv.org/abs/2501.12382v1)
 - 2025-01-21, **Diffusion-aware Censored Gaussian Processes for Demand Modelling**, Filipe Rodrigues et.al., Paper: [http://arxiv.org/abs/2501.12354v1](http://arxiv.org/abs/2501.12354v1), Code: **[https://github.com/fmpr/diffusion-aware-censored-gp](https://github.com/fmpr/diffusion-aware-censored-gp)**
