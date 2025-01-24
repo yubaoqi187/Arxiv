@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-23, **Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2501.13926v1](http://arxiv.org/abs/2501.13926v1), Code: **[https://github.com/ziyuguo99/image-generation-cot](https://github.com/ziyuguo99/image-generation-cot)**
+- 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920v1](http://arxiv.org/abs/2501.13920v1)
+- 2025-01-23, **Improving Video Generation with Human Feedback**, Jie Liu et.al., Paper: [http://arxiv.org/abs/2501.13918v1](http://arxiv.org/abs/2501.13918v1)
+- 2025-01-23, **Binary Diffusion Probabilistic Model**, Vitaliy Kinakh et.al., Paper: [http://arxiv.org/abs/2501.13915v1](http://arxiv.org/abs/2501.13915v1)
+- 2025-01-23, **Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves**, Abhishek Tandon et.al., Paper: [http://arxiv.org/abs/2501.13889v1](http://arxiv.org/abs/2501.13889v1), Code: **[https://github.com/abhishektandon/bspline-fc](https://github.com/abhishektandon/bspline-fc)**
+- 2025-01-23, **Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**, I. G. Marchenko et.al., Paper: [http://arxiv.org/abs/2501.13875v1](http://arxiv.org/abs/2501.13875v1)
+- 2025-01-23, **Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**, Shuqi Dai et.al., Paper: [http://arxiv.org/abs/2501.13870v1](http://arxiv.org/abs/2501.13870v1)
+- 2025-01-23, **Moments of generalized fractional polynomial processes**, Johannes Assefa et.al., Paper: [http://arxiv.org/abs/2501.13854v1](http://arxiv.org/abs/2501.13854v1)
+- 2025-01-23, **Cold dark gas in Cygnus X: The first large-scale mapping of low-frequency carbon recombination lines**, Kimberly L. Emig et.al., Paper: [http://arxiv.org/abs/2501.13838v1](http://arxiv.org/abs/2501.13838v1)
+- 2025-01-23, **Reaction kinetics of membrane receptors: a spatial modeling approach**, Anil Cengiz et.al., Paper: [http://arxiv.org/abs/2501.13837v1](http://arxiv.org/abs/2501.13837v1)
+- 2025-01-23, **Theory of the kinetic helicity effect on turbulent diffusion of magnetic and scalar fields**, Igor Rogachevskii et.al., Paper: [http://arxiv.org/abs/2501.13807v1](http://arxiv.org/abs/2501.13807v1)
+- 2025-01-23, **Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**, Zhi Sheng et.al., Paper: [http://arxiv.org/abs/2501.13794v1](http://arxiv.org/abs/2501.13794v1)
+- 2025-01-23, **An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem**, Mingzhao Wang et.al., Paper: [http://arxiv.org/abs/2501.13767v1](http://arxiv.org/abs/2501.13767v1), Code: **[https://github.com/deitsp/deitsp](https://github.com/deitsp/deitsp)**
+- 2025-01-23, **The Impact of Helium Exposure on the PMTs of the SuperNEMO Experiment**, SuperNEMO Collaboration et.al., Paper: [http://arxiv.org/abs/2501.13755v1](http://arxiv.org/abs/2501.13755v1)
+- 2025-01-23, **Large Deviations in Switching Diffusion: from Free Cumulants to Dynamical Transitions**, Mathis Guéneau et.al., Paper: [http://arxiv.org/abs/2501.13754v1](http://arxiv.org/abs/2501.13754v1)
+- 2025-01-23, **Training-Free Consistency Pipeline for Fashion Repose**, Potito Aghilar et.al., Paper: [http://arxiv.org/abs/2501.13692v1](http://arxiv.org/abs/2501.13692v1)
+- 2025-01-23, **Exploring the interplay between small and large scales movements in a neotropical small mammal**, E. Brigatti et.al., Paper: [http://arxiv.org/abs/2501.13688v1](http://arxiv.org/abs/2501.13688v1)
+- 2025-01-23, **Linearization of ergodic McKean SDEs and applications**, Grigorios A. Pavliotis et.al., Paper: [http://arxiv.org/abs/2501.13655v1](http://arxiv.org/abs/2501.13655v1)
+- 2025-01-23, **Transfer matrix approach to quantum systems subject to certain Lindblad evolution**, Junaid Majeed Bhat et.al., Paper: [http://arxiv.org/abs/2501.13560v1](http://arxiv.org/abs/2501.13560v1)
+- 2025-01-23, **One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2501.13554v1](http://arxiv.org/abs/2501.13554v1), Code: **[https://github.com/byliutao/1prompt1story](https://github.com/byliutao/1prompt1story)**
 - 2025-01-22, **Accelerate High-Quality Diffusion Models with Inner Loop Feedback**, Matthew Gwilliam et.al., Paper: [http://arxiv.org/abs/2501.13107v1](http://arxiv.org/abs/2501.13107v1)
 - 2025-01-22, **Robust Representation Consistency Model via Contrastive Denoising**, Jiachen Lei et.al., Paper: [http://arxiv.org/abs/2501.13094v1](http://arxiv.org/abs/2501.13094v1), Code: **[https://github.com/jiachenlei/rrcm](https://github.com/jiachenlei/rrcm)**
 - 2025-01-22, **Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**, Akshay Krishnan et.al., Paper: [http://arxiv.org/abs/2501.13087v1](http://arxiv.org/abs/2501.13087v1)
@@ -12331,6 +12351,7 @@
 
 ## Diffusion_Segment
 
+- 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920v1](http://arxiv.org/abs/2501.13920v1)
 - 2025-01-22, **CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation**, Xianglong Shi et.al., Paper: [http://arxiv.org/abs/2501.12860v1](http://arxiv.org/abs/2501.12860v1)
 - 2025-01-22, **AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation**, Aghiles Kebaili et.al., Paper: [http://arxiv.org/abs/2501.12840v1](http://arxiv.org/abs/2501.12840v1)
 - 2025-01-21, **The Rouse ring chain with attractive harmonic potential of spherical symmetry**, Nail Fatkullin et.al., Paper: [http://arxiv.org/abs/2501.12324v1](http://arxiv.org/abs/2501.12324v1)
