@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Relightable Full-Body Gaussian Codec Avatars**|Shaofei Wang et.al.|[2501.14726v1](http://arxiv.org/abs/2501.14726v1)|null|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680v1](http://arxiv.org/abs/2501.14680v1)|null|
+|**2025-01-24**|**On the multidimensional elephant random walk with stops**|Bernard Bercu et.al.|[2501.14594v1](http://arxiv.org/abs/2501.14594v1)|null|
+|**2025-01-24**|**Anomalous Dynamics of a Liquid Corner Film**|Marcel Moura et.al.|[2501.14571v1](http://arxiv.org/abs/2501.14571v1)|null|
+|**2025-01-24**|**Diffusive transport on the real line: semi-contractive gradient flows and their discretization**|Daniel Matthes et.al.|[2501.14527v1](http://arxiv.org/abs/2501.14527v1)|null|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524v1](http://arxiv.org/abs/2501.14524v1)|null|
+|**2025-01-24**|**Ballistic diffusion vs. damped oscillation of energy in a $\mathcal{PT}$-symmetric quantum kicked harmonic oscillator**|Jian-Zheng Li et.al.|[2501.14507v1](http://arxiv.org/abs/2501.14507v1)|null|
+|**2025-01-24**|**Central schemes for systems of non-local balance laws**|Sanjibanee Sudha et.al.|[2501.14425v1](http://arxiv.org/abs/2501.14425v1)|null|
+|**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399v1](http://arxiv.org/abs/2501.14399v1)|null|
+|**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348v1](http://arxiv.org/abs/2501.14348v1)|null|
+|**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332v1](http://arxiv.org/abs/2501.14332v1)|null|
+|**2025-01-24**|**Cosmic ray transport and acceleration in an evolving shock landscape**|Sophie Aerdker et.al.|[2501.14331v1](http://arxiv.org/abs/2501.14331v1)|null|
+|**2025-01-24**|**Natural and Intrinsic Vacancies in two-dimensional g-C$_3$N$_4$ for Trapping Isolated B and C Atoms as Color Centers**|Manqi You et.al.|[2501.14318v1](http://arxiv.org/abs/2501.14318v1)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264v1](http://arxiv.org/abs/2501.14264v1)|null|
+|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216v1](http://arxiv.org/abs/2501.14216v1)|null|
+|**2025-01-24**|**You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations**|Huayi Zhou et.al.|[2501.14208v1](http://arxiv.org/abs/2501.14208v1)|null|
+|**2025-01-24**|**First-principles Study of Metallic-atom Diffusion in Thermoelectric Material Mg$_3$Sb$_2$**|Masayuki Ochi et.al.|[2501.14201v1](http://arxiv.org/abs/2501.14201v1)|null|
+|**2025-01-24**|**VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking**|Runyi Hu et.al.|[2501.14195v1](http://arxiv.org/abs/2501.14195v1)|**[link](https://github.com/hurunyi/videoshield)**|
+|**2025-01-23**|**Active bacterial baths in droplets**|Cristian Villalobos-Concha et.al.|[2501.14088v1](http://arxiv.org/abs/2501.14088v1)|null|
+|**2025-01-23**|**LLM-guided Instance-level Image Manipulation with Diffusion U-Net Cross-Attention Maps**|Andrey Palaev et.al.|[2501.14046v1](http://arxiv.org/abs/2501.14046v1)|**[link](https://github.com/palandr123/diffusionu-netllm)**|
 |**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926v1](http://arxiv.org/abs/2501.13926v1)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920v1](http://arxiv.org/abs/2501.13920v1)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918v1](http://arxiv.org/abs/2501.13918v1)|null|
