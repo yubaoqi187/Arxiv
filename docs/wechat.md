@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-27, **RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**, Ye Fang et.al., Paper: [http://arxiv.org/abs/2501.16330v1](http://arxiv.org/abs/2501.16330v1)
+- 2025-01-27, **Movement- and Traffic-based User Identification in Commercial Virtual Reality Applications: Threats and Opportunities**, Sara Baldoni et.al., Paper: [http://arxiv.org/abs/2501.16326v1](http://arxiv.org/abs/2501.16326v1)
+- 2025-01-27, **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**, Weixin Liang et.al., Paper: [http://arxiv.org/abs/2501.16295v1](http://arxiv.org/abs/2501.16295v1), Code: **[https://github.com/weixin-liang/mixture-of-mamba](https://github.com/weixin-liang/mixture-of-mamba)**
+- 2025-01-27, **Diffusion of Water Molecules on the Surface of Silica Nanoparticles -- Insights from Nuclear Magnetic Resonance Relaxometry**, Aleksandra Stankiewicz et.al., Paper: [http://arxiv.org/abs/2501.16286v1](http://arxiv.org/abs/2501.16286v1)
+- 2025-01-27, **Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**, Mariam Al Khatib et.al., Paper: [http://arxiv.org/abs/2501.16275v1](http://arxiv.org/abs/2501.16275v1)
+- 2025-01-27, **UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**, Tatiana Taís Schein et.al., Paper: [http://arxiv.org/abs/2501.16211v1](http://arxiv.org/abs/2501.16211v1), Code: **[https://github.com/gusanagy/udbe](https://github.com/gusanagy/udbe)**
+- 2025-01-27, **Multi-front dynamics in spatially inhomogeneous Allen-Cahn equations**, Robbin Bastiaansen et.al., Paper: [http://arxiv.org/abs/2501.16195v1](http://arxiv.org/abs/2501.16195v1)
+- 2025-01-27, **Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra I cluster III. Untangling UDG 32 from the stripped filaments of NGC 3314A with multi-wavelength data**, J. Hartke et.al., Paper: [http://arxiv.org/abs/2501.16192v1](http://arxiv.org/abs/2501.16192v1)
+- 2025-01-27, **Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster II. Stellar kinematics and dynamical masses**, Chiara Buttitta et.al., Paper: [http://arxiv.org/abs/2501.16190v1](http://arxiv.org/abs/2501.16190v1)
+- 2025-01-27, **Revisiting the phonon theory of liquid heat capacity: low-frequency shear modes and intramolecular vibrations**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2501.16187v1](http://arxiv.org/abs/2501.16187v1)
+- 2025-01-27, **BAG: Body-Aligned 3D Wearable Asset Generation**, Zhongjin Luo et.al., Paper: [http://arxiv.org/abs/2501.16177v1](http://arxiv.org/abs/2501.16177v1)
+- 2025-01-27, **MILP initialization for solving parabolic PDEs with PINNs**, Sirui Li et.al., Paper: [http://arxiv.org/abs/2501.16153v1](http://arxiv.org/abs/2501.16153v1)
+- 2025-01-27, **Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**, Zhiyuan Lu et.al., Paper: [http://arxiv.org/abs/2501.16147v1](http://arxiv.org/abs/2501.16147v1)
+- 2025-01-27, **Using Generative Models to Produce Realistic Populations of UK Windstorms**, Yee Chun Tsoi et.al., Paper: [http://arxiv.org/abs/2501.16110v1](http://arxiv.org/abs/2501.16110v1)
+- 2025-01-27, **Log-Sobolev Inequality for Decoupled and McKean-Vlasov SDEs and Application on Exponential Ergodicity**, Xing Huang et.al., Paper: [http://arxiv.org/abs/2501.16092v1](http://arxiv.org/abs/2501.16092v1)
+- 2025-01-27, **Sharp low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains**, Noé Blassel et.al., Paper: [http://arxiv.org/abs/2501.16082v1](http://arxiv.org/abs/2501.16082v1)
+- 2025-01-27, **Grain Alignment and Dust Evolution Physics with Polarisation (GRADE-POL). I. Dust Polarisation Modelling for Isolated Starless Cores**, Le Ngoc Tram et.al., Paper: [http://arxiv.org/abs/2501.16079v1](http://arxiv.org/abs/2501.16079v1)
+- 2025-01-27, **Poisson kernels on the half-plane are bell-shaped**, Mateusz Kwaśnicki et.al., Paper: [http://arxiv.org/abs/2501.16068v1](http://arxiv.org/abs/2501.16068v1)
+- 2025-01-27, **The prototype double-faced white dwarf has a thin hydrogen layer across its entire surface**, Antoine Bédard et.al., Paper: [http://arxiv.org/abs/2501.16021v1](http://arxiv.org/abs/2501.16021v1)
+- 2025-01-27, **Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI**, Ruoyou Wu et.al., Paper: [http://arxiv.org/abs/2501.16014v1](http://arxiv.org/abs/2501.16014v1)
 - 2025-01-24, **Relightable Full-Body Gaussian Codec Avatars**, Shaofei Wang et.al., Paper: [http://arxiv.org/abs/2501.14726v1](http://arxiv.org/abs/2501.14726v1)
 - 2025-01-24, **Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**, Jisi Zhang et.al., Paper: [http://arxiv.org/abs/2501.14680v1](http://arxiv.org/abs/2501.14680v1)
 - 2025-01-24, **On the multidimensional elephant random walk with stops**, Bernard Bercu et.al., Paper: [http://arxiv.org/abs/2501.14594v1](http://arxiv.org/abs/2501.14594v1)
@@ -12371,6 +12391,9 @@
 
 ## Diffusion_Segment
 
+- 2025-01-27, **Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**, Zhiyuan Lu et.al., Paper: [http://arxiv.org/abs/2501.16147v1](http://arxiv.org/abs/2501.16147v1)
+- 2025-01-27, **Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**, Daniel Panangian et.al., Paper: [http://arxiv.org/abs/2501.15847v1](http://arxiv.org/abs/2501.15847v1)
+- 2025-01-25, **KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment**, Yu Jiang et.al., Paper: [http://arxiv.org/abs/2501.15058v1](http://arxiv.org/abs/2501.15058v1)
 - 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920v1](http://arxiv.org/abs/2501.13920v1)
 - 2025-01-22, **CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation**, Xianglong Shi et.al., Paper: [http://arxiv.org/abs/2501.12860v1](http://arxiv.org/abs/2501.12860v1)
 - 2025-01-22, **AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation**, Aghiles Kebaili et.al., Paper: [http://arxiv.org/abs/2501.12840v1](http://arxiv.org/abs/2501.12840v1)
