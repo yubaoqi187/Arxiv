@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162v1](http://arxiv.org/abs/2501.17162v1)|null|
+|**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159v1](http://arxiv.org/abs/2501.17159v1)|null|
+|**2025-01-28**|**Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model**|Reza Ghorbani et.al.|[2501.17152v1](http://arxiv.org/abs/2501.17152v1)|null|
+|**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099v1](http://arxiv.org/abs/2501.17099v1)|null|
+|**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054v1](http://arxiv.org/abs/2501.17054v1)|null|
+|**2025-01-28**|**Detection of extended X-ray emission surrounding PSR B0656+14 with eROSITA**|Shu Niu et.al.|[2501.17046v1](http://arxiv.org/abs/2501.17046v1)|null|
+|**2025-01-28**|**Asymmetric dual cascade in gravitational wave turbulence**|Benoît Gay et.al.|[2501.17023v1](http://arxiv.org/abs/2501.17023v1)|null|
+|**2025-01-28**|**Enhanced Dissipation via Time-Dependent Velocity Fields: Acceleration and Intermittency**|Johannes Benthaus et.al.|[2501.16905v1](http://arxiv.org/abs/2501.16905v1)|null|
+|**2025-01-28**|**Adversarial Masked Autoencoder Purifier with Defense Transferability**|Yuan-Chih Chen et.al.|[2501.16904v1](http://arxiv.org/abs/2501.16904v1)|null|
+|**2025-01-28**|**Reversal of Spin-torque Polarity with Inverting Current Vorticity in Composition-graded Layer at the Ti/W Interface**|Hayato Nakayama et.al.|[2501.16806v1](http://arxiv.org/abs/2501.16806v1)|null|
+|**2025-01-28**|**DIRIGENt: End-To-End Robotic Imitation of Human Demonstrations Based on a Diffusion Model**|Josua Spisak et.al.|[2501.16800v1](http://arxiv.org/abs/2501.16800v1)|null|
+|**2025-01-28**|**A Stochastic Dynamical Theory of LLM Self-Adversariality: Modeling Severity Drift as a Critical Process**|Jack David Carson et.al.|[2501.16783v1](http://arxiv.org/abs/2501.16783v1)|null|
+|**2025-01-28**|**FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation**|Arvin Tashakori et.al.|[2501.16778v1](http://arxiv.org/abs/2501.16778v1)|null|
+|**2025-01-28**|**Slow Manifolds for PDE with Fast Reactions and Small Cross Diffusion**|Laurent Desvillettes et.al.|[2501.16775v1](http://arxiv.org/abs/2501.16775v1)|null|
+|**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764v1](http://arxiv.org/abs/2501.16764v1)|null|
+|**2025-01-28**|**ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text**|Haifeng Ni et.al.|[2501.16757v1](http://arxiv.org/abs/2501.16757v1)|null|
+|**2025-01-28**|**On the subcritical self-catalytic branching Brownian motions**|Haojie Hou et.al.|[2501.16739v1](http://arxiv.org/abs/2501.16739v1)|null|
+|**2025-01-28**|**Consistency Diffusion Models for Single-Image 3D Reconstruction with Priors**|Chenru Jiang et.al.|[2501.16737v1](http://arxiv.org/abs/2501.16737v1)|null|
+|**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722v1](http://arxiv.org/abs/2501.16722v1)|null|
+|**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714v1](http://arxiv.org/abs/2501.16714v1)|null|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330v1](http://arxiv.org/abs/2501.16330v1)|null|
 |**2025-01-27**|**Movement- and Traffic-based User Identification in Commercial Virtual Reality Applications: Threats and Opportunities**|Sara Baldoni et.al.|[2501.16326v1](http://arxiv.org/abs/2501.16326v1)|null|
 |**2025-01-27**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295v1](http://arxiv.org/abs/2501.16295v1)|**[link](https://github.com/weixin-liang/mixture-of-mamba)**|
