@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-01-30, **Diffusion Autoencoders are Scalable Image Tokenizers**, Yinbo Chen et.al., Paper: [http://arxiv.org/abs/2501.18593v1](http://arxiv.org/abs/2501.18593v1)
+- 2025-01-30, **DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**, Ruofan Liang et.al., Paper: [http://arxiv.org/abs/2501.18590v1](http://arxiv.org/abs/2501.18590v1)
+- 2025-01-30, **Aggregation-Confinement-Diffusion Evolutions with Saturation: Regularity and Long-Time Asymptotics**, Yousef Alamri et.al., Paper: [http://arxiv.org/abs/2501.18571v1](http://arxiv.org/abs/2501.18571v1)
+- 2025-01-30, **Nonlinear SPDEs and Maximal Regularity: An Extended Survey**, Antonio Agresti et.al., Paper: [http://arxiv.org/abs/2501.18561v1](http://arxiv.org/abs/2501.18561v1)
+- 2025-01-30, **Characterization of NBI-driven shear Alfvén waves in the TJ-II stellarator using Mirnov probes and electrostatic potential fluctuation measurements**, P. Pons-Villalonga et.al., Paper: [http://arxiv.org/abs/2501.18529v1](http://arxiv.org/abs/2501.18529v1)
+- 2025-01-30, **A universal total anomalous dissipator**, Elias Hess-Childs et.al., Paper: [http://arxiv.org/abs/2501.18526v1](http://arxiv.org/abs/2501.18526v1)
+- 2025-01-30, **Beyond Prior Limits: Addressing Distribution Misalignment in Particle Filtering**, Yiwei Shi et.al., Paper: [http://arxiv.org/abs/2501.18501v1](http://arxiv.org/abs/2501.18501v1)
+- 2025-01-30, **SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**, Enze Xie et.al., Paper: [http://arxiv.org/abs/2501.18427v1](http://arxiv.org/abs/2501.18427v1)
+- 2025-01-30, **An extensive thermal conductivity measurement method based on atomic force microscopy**, T. Serkan Kasırga et.al., Paper: [http://arxiv.org/abs/2501.18384v1](http://arxiv.org/abs/2501.18384v1)
+- 2025-01-30, **Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**, Wenshuo Chen et.al., Paper: [http://arxiv.org/abs/2501.18232v1](http://arxiv.org/abs/2501.18232v1), Code: **[https://github.com/Hxxxz0/Free-T2m](https://github.com/Hxxxz0/Free-T2m)**
+- 2025-01-30, **GPD: Guided Polynomial Diffusion for Motion Planning**, Ajit Srikanth et.al., Paper: [http://arxiv.org/abs/2501.18229v1](http://arxiv.org/abs/2501.18229v1)
+- 2025-01-30, **Inverse source problem of sub-diffusion of variable exponent**, Zhiyuan Li et.al., Paper: [http://arxiv.org/abs/2501.18228v1](http://arxiv.org/abs/2501.18228v1)
+- 2025-01-30, **The perturbative computation of the gradient flow coupling for the twisted Eguchi-Kawai model with the numerical stochastic perturbation theory**, Hironori Takei et.al., Paper: [http://arxiv.org/abs/2501.18175v1](http://arxiv.org/abs/2501.18175v1)
+- 2025-01-30, **Scattering approach to diffusion quantifies axonal damage in brain injury**, Ali Abdollahzadeh et.al., Paper: [http://arxiv.org/abs/2501.18167v1](http://arxiv.org/abs/2501.18167v1), Code: **[https://github.com/aAbdz/DeepACSON](https://github.com/aAbdz/DeepACSON)**
+- 2025-01-30, **A Phase Diagram for Crystallization of a Complex Macromolecular Assembly**, Vivekananda Bal et.al., Paper: [http://arxiv.org/abs/2501.18104v1](http://arxiv.org/abs/2501.18104v1)
+- 2025-01-29, **Stochastic scattering control of spider diffusion governed by an optimal diffraction probability measure selected from its own local-time**, Isaac Ohavi et.al., Paper: [http://arxiv.org/abs/2501.18057v1](http://arxiv.org/abs/2501.18057v1)
+- 2025-01-29, **SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**, Bartosz Cywiński et.al., Paper: [http://arxiv.org/abs/2501.18052v1](http://arxiv.org/abs/2501.18052v1)
+- 2025-01-29, **Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**, Fouad Bousetouane et.al., Paper: [http://arxiv.org/abs/2501.18033v1](http://arxiv.org/abs/2501.18033v1)
+- 2025-01-29, **Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective**, Tony Lelièvre et.al., Paper: [http://arxiv.org/abs/2501.17979v1](http://arxiv.org/abs/2501.17979v1)
+- 2025-01-29, **VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**, Nowak Mateusz et.al., Paper: [http://arxiv.org/abs/2501.17978v1](http://arxiv.org/abs/2501.17978v1)
 - 2025-01-29, **Planetesimal formation in a pressure bump induced by infall**, Haichen Zhao et.al., Paper: [http://arxiv.org/abs/2501.17857v1](http://arxiv.org/abs/2501.17857v1)
 - 2025-01-29, **Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**, Haque Ishfaq et.al., Paper: [http://arxiv.org/abs/2501.17827v1](http://arxiv.org/abs/2501.17827v1)
 - 2025-01-29, **VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**, Sayeh Gholipour Picha et.al., Paper: [http://arxiv.org/abs/2501.17726v1](http://arxiv.org/abs/2501.17726v1)
@@ -12431,7 +12451,7 @@
 ## Diffusion_Segment
 
 - 2025-01-27, **Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**, Zhiyuan Lu et.al., Paper: [http://arxiv.org/abs/2501.16147v1](http://arxiv.org/abs/2501.16147v1)
-- 2025-01-27, **Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**, Daniel Panangian et.al., Paper: [http://arxiv.org/abs/2501.15847v1](http://arxiv.org/abs/2501.15847v1)
+- 2025-01-30, **Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?**, Daniel Panangian et.al., Paper: [http://arxiv.org/abs/2501.15847v2](http://arxiv.org/abs/2501.15847v2)
 - 2025-01-25, **KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment**, Yu Jiang et.al., Paper: [http://arxiv.org/abs/2501.15058v1](http://arxiv.org/abs/2501.15058v1), Code: **[https://github.com/PolarisDane/KETA](https://github.com/PolarisDane/KETA)**
 - 2025-01-23, **IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**, Jiayi Lei et.al., Paper: [http://arxiv.org/abs/2501.13920v1](http://arxiv.org/abs/2501.13920v1)
 - 2025-01-22, **CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation**, Xianglong Shi et.al., Paper: [http://arxiv.org/abs/2501.12860v1](http://arxiv.org/abs/2501.12860v1)
