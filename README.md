@@ -1,4 +1,4 @@
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 
 ## Diffusion
 
@@ -2931,7 +2931,7 @@
 |**2025-01-15**|**TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**|Bailiang Jian et.al.|[2501.08667v1](http://arxiv.org/abs/2501.08667v1)|null|
 |**2025-01-17**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295v2](http://arxiv.org/abs/2501.08295v2)|null|
 |**2025-01-13**|**Diff-Ensembler: Learning to Ensemble 2D Diffusion Models for Volume-to-Volume Medical Image Translation**|Xiyue Zhu et.al.|[2501.07430v1](http://arxiv.org/abs/2501.07430v1)|null|
-|**2025-01-13**|**OCORD: Open-Campus Object Removal Dataset**|Shuo Zhang et.al.|[2501.07397v1](http://arxiv.org/abs/2501.07397v1)|null|
+|**2025-01-31**|**VDOR: A Video-based Dataset for Object Removal via Sequence Consistency**|Runpu Wei et.al.|[2501.07397v2](http://arxiv.org/abs/2501.07397v2)|null|
 |**2025-01-13**|**Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion**|Li Liang et.al.|[2501.07260v1](http://arxiv.org/abs/2501.07260v1)|**[link](https://github.com/xrkong/skimba)**|
 |**2025-01-13**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068v2](http://arxiv.org/abs/2501.05068v2)|**[link](https://github.com/hanshounsu/d3rm)**|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699v1](http://arxiv.org/abs/2501.04699v1)|null|
