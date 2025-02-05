@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-04, **Calibrated Multi-Preference Optimization for Aligning Diffusion Models**, Kyungmin Lee et.al., Paper: [http://arxiv.org/abs/2502.02588v1](http://arxiv.org/abs/2502.02588v1)
+- 2025-02-04, **Open Materials Generation with Stochastic Interpolants**, Philipp Hoellmer et.al., Paper: [http://arxiv.org/abs/2502.02582v1](http://arxiv.org/abs/2502.02582v1)
+- 2025-02-04, **AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**, Divya Bharti et.al., Paper: [http://arxiv.org/abs/2502.02555v1](http://arxiv.org/abs/2502.02555v1)
+- 2025-02-04, **Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2502.02525v1](http://arxiv.org/abs/2502.02525v1)
+- 2025-02-04, **Privacy Attacks on Image AutoRegressive Models**, Antoni Kowalczuk et.al., Paper: [http://arxiv.org/abs/2502.02514v1](http://arxiv.org/abs/2502.02514v1)
+- 2025-02-04, **Generative Modeling on Lie Groups via Euclidean Generalized Score Matching**, Marco Bertolini et.al., Paper: [http://arxiv.org/abs/2502.02513v1](http://arxiv.org/abs/2502.02513v1)
+- 2025-02-04, **Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**, Xiyuan Wang et.al., Paper: [http://arxiv.org/abs/2502.02488v1](http://arxiv.org/abs/2502.02488v1)
+- 2025-02-04, **Distributional Diffusion Models with Scoring Rules**, Valentin De Bortoli et.al., Paper: [http://arxiv.org/abs/2502.02483v1](http://arxiv.org/abs/2502.02483v1)
+- 2025-02-04, **Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**, Emir Ahmed et.al., Paper: [http://arxiv.org/abs/2502.02475v1](http://arxiv.org/abs/2502.02475v1)
+- 2025-02-04, **Multiple front and pulse solutions in spatially periodic systems**, Lukas Bengel et.al., Paper: [http://arxiv.org/abs/2502.02467v1](http://arxiv.org/abs/2502.02467v1)
+- 2025-02-04, **Towards Consistent and Controllable Image Synthesis for Face Editing**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2502.02465v1](http://arxiv.org/abs/2502.02465v1)
+- 2025-02-04, **Sparse Data Generation Using Diffusion Models**, Phil Ostheimer et.al., Paper: [http://arxiv.org/abs/2502.02448v1](http://arxiv.org/abs/2502.02448v1)
+- 2025-02-04, **Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**, Markus Krimmel et.al., Paper: [http://arxiv.org/abs/2502.02415v1](http://arxiv.org/abs/2502.02415v1)
+- 2025-02-04, **Neural network potential molecular dynamics simulations of (La,Ce,Pr,Nd)0.95(Mg,Zn,Pb,Cd,Ca,Sr,Ba)0.05F2.95**, Yoyo Hinuma et.al., Paper: [http://arxiv.org/abs/2502.02408v1](http://arxiv.org/abs/2502.02408v1)
+- 2025-02-04, **Search for a diffuse flux of photons with energies above tens of PeV at the Pierre Auger Observatory**, The Pierre Auger Collaboration et.al., Paper: [http://arxiv.org/abs/2502.02381v1](http://arxiv.org/abs/2502.02381v1)
+- 2025-02-04, **Stochastic optimal control problems with measurable coefficients via $L^p$-viscosity solutions and applications to optimal advertising models**, Filippo de Feo et.al., Paper: [http://arxiv.org/abs/2502.02352v1](http://arxiv.org/abs/2502.02352v1)
+- 2025-02-04, **Identifying Large-Scale Linear Parameter Varying Systems with Dynamic Mode Decomposition Methods**, Jean Panaioti Jordanou et.al., Paper: [http://arxiv.org/abs/2502.02336v1](http://arxiv.org/abs/2502.02336v1)
+- 2025-02-04, **Composition Effects on Ni/Al Reactive Multilayers: A Comprehensive Study of Mechanical Properties, Reaction Dynamics and Phase Evolution**, Nensi Toncich et.al., Paper: [http://arxiv.org/abs/2502.02333v1](http://arxiv.org/abs/2502.02333v1)
+- 2025-02-04, **DIME:Diffusion-Based Maximum Entropy Reinforcement Learning**, Onur Celik et.al., Paper: [http://arxiv.org/abs/2502.02316v1](http://arxiv.org/abs/2502.02316v1)
+- 2025-02-04, **Real-Time Operator Takeover for Visuomotor Diffusion Policy Training**, Nils Ingelhag et.al., Paper: [http://arxiv.org/abs/2502.02308v1](http://arxiv.org/abs/2502.02308v1)
 - 2025-01-31, **Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**, Sören Christensen et.al., Paper: [http://arxiv.org/abs/2501.19373v1](http://arxiv.org/abs/2501.19373v1)
 - 2025-01-31, **CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**, Javier Solís-García et.al., Paper: [http://arxiv.org/abs/2501.19364v1](http://arxiv.org/abs/2501.19364v1), Code: **[https://github.com/javiersgjavi/costi](https://github.com/javiersgjavi/costi)**
 - 2025-01-31, **Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**, Misha P. T Kaandorp et.al., Paper: [http://arxiv.org/abs/2501.19338v1](http://arxiv.org/abs/2501.19338v1)
@@ -12470,6 +12490,8 @@
 
 ## Diffusion_Segment
 
+- 2025-02-01, **Exploring Representation-Aligned Latent Space for Better Generation**, Wanghan Xu et.al., Paper: [http://arxiv.org/abs/2502.00359v1](http://arxiv.org/abs/2502.00359v1)
+- 2025-02-01, **A Diffusion Model Translator for Efficient Image-to-Image Translation**, Mengfei Xia et.al., Paper: [http://arxiv.org/abs/2502.00307v1](http://arxiv.org/abs/2502.00307v1)
 - 2025-01-31, **Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**, Misha P. T Kaandorp et.al., Paper: [http://arxiv.org/abs/2501.19338v1](http://arxiv.org/abs/2501.19338v1)
 - 2025-01-31, **Medical Semantic Segmentation with Diffusion Pretrain**, David Li et.al., Paper: [http://arxiv.org/abs/2501.19265v1](http://arxiv.org/abs/2501.19265v1)
 - 2025-01-27, **Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**, Zhiyuan Lu et.al., Paper: [http://arxiv.org/abs/2501.16147v1](http://arxiv.org/abs/2501.16147v1)
