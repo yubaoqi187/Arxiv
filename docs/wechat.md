@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-07, **FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**, Shilong Zhang et.al., Paper: [http://arxiv.org/abs/2502.05179v1](http://arxiv.org/abs/2502.05179v1)
+- 2025-02-07, **AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**, Chung-Ho Wu et.al., Paper: [http://arxiv.org/abs/2502.05176v1](http://arxiv.org/abs/2502.05176v1)
+- 2025-02-07, **Fillerbuster: Multi-View Scene Completion for Casual Captures**, Ethan Weber et.al., Paper: [http://arxiv.org/abs/2502.05175v1](http://arxiv.org/abs/2502.05175v1)
+- 2025-02-07, **Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment**, Minh-Quan Le et.al., Paper: [http://arxiv.org/abs/2502.05153v1](http://arxiv.org/abs/2502.05153v1)
+- 2025-02-07, **Latent Swap Joint Diffusion for Long-Form Audio Generation**, Yusheng Dai et.al., Paper: [http://arxiv.org/abs/2502.05130v1](http://arxiv.org/abs/2502.05130v1)
+- 2025-02-07, **Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**, Aditya Kumar et.al., Paper: [http://arxiv.org/abs/2502.05066v1](http://arxiv.org/abs/2502.05066v1)
+- 2025-02-07, **On modified Euler methods for McKean-Vlasov stochastic differential equations with super-linear coefficients**, Jiamin Jian et.al., Paper: [http://arxiv.org/abs/2502.05057v1](http://arxiv.org/abs/2502.05057v1)
+- 2025-02-07, **Assessment of averaged 1D models for column adsorption with 3D computational experiments**, Maria Aguareles et.al., Paper: [http://arxiv.org/abs/2502.05029v1](http://arxiv.org/abs/2502.05029v1)
+- 2025-02-07, **Impact of radiative accelerations on the stellar characterization of FGK-type stars using spectroscopic and seismic constraints**, Nuno Moedas et.al., Paper: [http://arxiv.org/abs/2502.05025v1](http://arxiv.org/abs/2502.05025v1)
+- 2025-02-07, **Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**, Jiayi Luo et.al., Paper: [http://arxiv.org/abs/2502.05000v1](http://arxiv.org/abs/2502.05000v1)
+- 2025-02-07, **C2GM: Cascading Conditional Generation of Multi-scale Maps from Remote Sensing Images Constrained by Geographic Features**, Chenxing Sun et.al., Paper: [http://arxiv.org/abs/2502.04991v1](http://arxiv.org/abs/2502.04991v1)
+- 2025-02-07, **Semi-discrete linear hyperbolic polyharmonic flows of closed polygons**, James McCoy et.al., Paper: [http://arxiv.org/abs/2502.04939v1](http://arxiv.org/abs/2502.04939v1)
+- 2025-02-07, **The head-tail radio galaxy and revived fossil plasma in Abell 1775**, A. Bushi et.al., Paper: [http://arxiv.org/abs/2502.04913v1](http://arxiv.org/abs/2502.04913v1)
+- 2025-02-07, **Advancing Wasserstein Convergence Analysis of Score-Based Models: Insights from Discretization and Second-Order Acceleration**, Yifeng Yu et.al., Paper: [http://arxiv.org/abs/2502.04849v1](http://arxiv.org/abs/2502.04849v1)
+- 2025-02-07, **HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**, Qijun Gan et.al., Paper: [http://arxiv.org/abs/2502.04847v1](http://arxiv.org/abs/2502.04847v1)
+- 2025-02-07, **Puzzling Ultra-Diffuse Galaxy Evolution (PUDGE). I. The existence of a Nube-like galaxy in IllustrisTNG**, Nataša Pavlov et.al., Paper: [http://arxiv.org/abs/2502.04833v1](http://arxiv.org/abs/2502.04833v1)
+- 2025-02-07, **Radio emission from a massive node of the cosmic web. A discovery powered by machine learning**, C. Stuardi et.al., Paper: [http://arxiv.org/abs/2502.04823v1](http://arxiv.org/abs/2502.04823v1)
+- 2025-02-07, **Behavior-Regularized Diffusion Policy Optimization for Offline Reinforcement Learning**, Chen-Xiao Gao et.al., Paper: [http://arxiv.org/abs/2502.04778v1](http://arxiv.org/abs/2502.04778v1)
+- 2025-02-07, **Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**, Yujin Han et.al., Paper: [http://arxiv.org/abs/2502.04725v1](http://arxiv.org/abs/2502.04725v1)
+- 2025-02-07, **G2PDiffusion: Genotype-to-Phenotype Prediction with Diffusion Models**, Mengdi Liu et.al., Paper: [http://arxiv.org/abs/2502.04684v1](http://arxiv.org/abs/2502.04684v1)
 - 2025-02-06, **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**, Alec Helbling et.al., Paper: [http://arxiv.org/abs/2502.04320v1](http://arxiv.org/abs/2502.04320v1)
 - 2025-02-06, **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**, Yiming Huang et.al., Paper: [http://arxiv.org/abs/2502.04308v1](http://arxiv.org/abs/2502.04308v1)
 - 2025-02-06, **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2502.04299v1](http://arxiv.org/abs/2502.04299v1)
@@ -12530,6 +12550,8 @@
 
 ## Diffusion_Segment
 
+- 2025-02-06, **Towards Fair and Robust Face Parsing for Generative AI: A Multi-Objective Approach**, Sophia J. Abraham et.al., Paper: [http://arxiv.org/abs/2502.04391v1](http://arxiv.org/abs/2502.04391v1)
+- 2025-02-05, **DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2502.04378v1](http://arxiv.org/abs/2502.04378v1)
 - 2025-02-06, **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**, Alec Helbling et.al., Paper: [http://arxiv.org/abs/2502.04320v1](http://arxiv.org/abs/2502.04320v1)
 - 2025-02-06, **Hierarchical Entropic Diffusion for Ransomware Detection: A Probabilistic Approach to Behavioral Anomaly Isolation**, Vasili Iskorohodov et.al., Paper: [http://arxiv.org/abs/2502.03882v1](http://arxiv.org/abs/2502.03882v1)
 - 2025-02-05, **Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**, Indrashis Das et.al., Paper: [http://arxiv.org/abs/2502.03654v1](http://arxiv.org/abs/2502.03654v1)
