@@ -9548,7 +9548,7 @@
 - 2025-02-10, **Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**, Tianyong Yao et.al., Paper: [http://arxiv.org/abs/2502.06723v1](http://arxiv.org/abs/2502.06723v1)
 - 2025-02-10, **Neumann eigenmaps for landmark embedding**, Shashank Sule et.al., Paper: [http://arxiv.org/abs/2502.06689v1](http://arxiv.org/abs/2502.06689v1)
 - 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
-- 2025-02-10, **Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2502.06619v1](http://arxiv.org/abs/2502.06619v1)
+- 2025-02-10, **Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2502.06619v1](http://arxiv.org/abs/2502.06619v1), Code: **[https://github.com/RikoLi/DCAC](https://github.com/RikoLi/DCAC)**
 - 2025-02-10, **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**, Yangguang Li et.al., Paper: [http://arxiv.org/abs/2502.06608v1](http://arxiv.org/abs/2502.06608v1)
 - 2025-02-10, **MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**, Kamil Garifullin et.al., Paper: [http://arxiv.org/abs/2502.06606v1](http://arxiv.org/abs/2502.06606v1)
 - 2025-02-10, **Surrogate models for diffusion on graphs via sparse polynomials**, Giuseppe Alessio D'Inverno et.al., Paper: [http://arxiv.org/abs/2502.06595v1](http://arxiv.org/abs/2502.06595v1)
