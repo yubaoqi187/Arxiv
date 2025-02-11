@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-10, **Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2502.06782v1](http://arxiv.org/abs/2502.06782v1)
+- 2025-02-10, **Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**, Jaeyeon Kim et.al., Paper: [http://arxiv.org/abs/2502.06768v1](http://arxiv.org/abs/2502.06768v1)
+- 2025-02-10, **History-Guided Video Diffusion**, Kiwhan Song et.al., Paper: [http://arxiv.org/abs/2502.06764v1](http://arxiv.org/abs/2502.06764v1)
+- 2025-02-10, **Persistent spin grids with spin-orbit coupled 2D electron gas**, A. V. Poshakinskiy et.al., Paper: [http://arxiv.org/abs/2502.06745v1](http://arxiv.org/abs/2502.06745v1)
+- 2025-02-10, **Spatial Pattern Formation in Eco-Evolutionary Games with Environment-Driven Motion**, Tianyong Yao et.al., Paper: [http://arxiv.org/abs/2502.06723v1](http://arxiv.org/abs/2502.06723v1)
+- 2025-02-10, **Neumann eigenmaps for landmark embedding**, Shashank Sule et.al., Paper: [http://arxiv.org/abs/2502.06689v1](http://arxiv.org/abs/2502.06689v1)
+- 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
+- 2025-02-10, **Unleashing the Potential of Pre-Trained Diffusion Models for Generalizable Person Re-Identification**, Jiachen Li et.al., Paper: [http://arxiv.org/abs/2502.06619v1](http://arxiv.org/abs/2502.06619v1)
+- 2025-02-10, **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**, Yangguang Li et.al., Paper: [http://arxiv.org/abs/2502.06608v1](http://arxiv.org/abs/2502.06608v1)
+- 2025-02-10, **MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**, Kamil Garifullin et.al., Paper: [http://arxiv.org/abs/2502.06606v1](http://arxiv.org/abs/2502.06606v1)
+- 2025-02-10, **Surrogate models for diffusion on graphs via sparse polynomials**, Giuseppe Alessio D'Inverno et.al., Paper: [http://arxiv.org/abs/2502.06595v1](http://arxiv.org/abs/2502.06595v1)
+- 2025-02-10, **A Large-scale AI-generated Image Inpainting Benchmark**, Paschalis Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2502.06593v1](http://arxiv.org/abs/2502.06593v1)
+- 2025-02-10, **pH gradient-driven deformation of a crista-like vesicle**, Yorgos Chatziantoniou et.al., Paper: [http://arxiv.org/abs/2502.06582v1](http://arxiv.org/abs/2502.06582v1)
+- 2025-02-10, **Predictive Red Teaming: Breaking Policies Without Breaking Robots**, Anirudha Majumdar et.al., Paper: [http://arxiv.org/abs/2502.06575v1](http://arxiv.org/abs/2502.06575v1)
+- 2025-02-10, **Diffusion Models for Computational Neuroimaging: A Survey**, Haokai Zhao et.al., Paper: [http://arxiv.org/abs/2502.06552v1](http://arxiv.org/abs/2502.06552v1)
+- 2025-02-10, **CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**, D. She et.al., Paper: [http://arxiv.org/abs/2502.06527v1](http://arxiv.org/abs/2502.06527v1)
+- 2025-02-10, **Electric Field-Induced Formation of a 2D Adatom Gas on Cryogenic Li Surfaces**, Shyam Katnagallu et.al., Paper: [http://arxiv.org/abs/2502.06518v1](http://arxiv.org/abs/2502.06518v1)
+- 2025-02-10, **Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation**, Soobin Um et.al., Paper: [http://arxiv.org/abs/2502.06516v1](http://arxiv.org/abs/2502.06516v1)
+- 2025-02-10, **Gradient flow of the infinite-volume free energy for lattice systems of continuous spins**, Ronan Herry et.al., Paper: [http://arxiv.org/abs/2502.06500v1](http://arxiv.org/abs/2502.06500v1)
+- 2025-02-10, **WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**, Filip Ekström Kelvinius et.al., Paper: [http://arxiv.org/abs/2502.06485v1](http://arxiv.org/abs/2502.06485v1)
 - 2025-02-07, **FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**, Shilong Zhang et.al., Paper: [http://arxiv.org/abs/2502.05179v1](http://arxiv.org/abs/2502.05179v1)
 - 2025-02-07, **AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**, Chung-Ho Wu et.al., Paper: [http://arxiv.org/abs/2502.05176v1](http://arxiv.org/abs/2502.05176v1)
 - 2025-02-07, **Fillerbuster: Multi-View Scene Completion for Casual Captures**, Ethan Weber et.al., Paper: [http://arxiv.org/abs/2502.05175v1](http://arxiv.org/abs/2502.05175v1)
@@ -12550,6 +12570,10 @@
 
 ## Diffusion_Segment
 
+- 2025-02-10, **A Large-scale AI-generated Image Inpainting Benchmark**, Paschalis Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2502.06593v1](http://arxiv.org/abs/2502.06593v1)
+- 2025-02-10, **Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**, Hangliang Ding et.al., Paper: [http://arxiv.org/abs/2502.06155v1](http://arxiv.org/abs/2502.06155v1)
+- 2025-02-09, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979v1](http://arxiv.org/abs/2502.05979v1)
+- 2025-02-08, **Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**, Chenkai Xu et.al., Paper: [http://arxiv.org/abs/2502.05415v1](http://arxiv.org/abs/2502.05415v1)
 - 2025-02-06, **Towards Fair and Robust Face Parsing for Generative AI: A Multi-Objective Approach**, Sophia J. Abraham et.al., Paper: [http://arxiv.org/abs/2502.04391v1](http://arxiv.org/abs/2502.04391v1)
 - 2025-02-05, **DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2502.04378v1](http://arxiv.org/abs/2502.04378v1)
 - 2025-02-06, **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**, Alec Helbling et.al., Paper: [http://arxiv.org/abs/2502.04320v1](http://arxiv.org/abs/2502.04320v1)
