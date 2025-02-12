@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-11, **Pippo: High-Resolution Multi-View Humans from a Single Image**, Yash Kant et.al., Paper: [http://arxiv.org/abs/2502.07785v1](http://arxiv.org/abs/2502.07785v1)
+- 2025-02-11, **MatSwap: Light-aware material transfers in images**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2502.07784v1](http://arxiv.org/abs/2502.07784v1)
+- 2025-02-11, **CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation**, Rabeya Tus Sadia et.al., Paper: [http://arxiv.org/abs/2502.07751v1](http://arxiv.org/abs/2502.07751v1)
+- 2025-02-11, **A BDDC Preconditioner for the Cardiac EMI Model in three Dimensions**, Fritz Goebel et.al., Paper: [http://arxiv.org/abs/2502.07722v1](http://arxiv.org/abs/2502.07722v1)
+- 2025-02-11, **RenderBox: Expressive Performance Rendering with Text Control**, Huan Zhang et.al., Paper: [http://arxiv.org/abs/2502.07711v1](http://arxiv.org/abs/2502.07711v1)
+- 2025-02-11, **A note on the $\mathcal{W}_2$-convergence rate of the empirical measure of an ergodic $\mathbb{R}^d$-valued diffusion**, Jean-Francois Chassagneux et.al., Paper: [http://arxiv.org/abs/2502.07704v1](http://arxiv.org/abs/2502.07704v1)
+- 2025-02-11, **Magic 1-For-1: Generating One Minute Video Clips within One Minute**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2502.07701v1](http://arxiv.org/abs/2502.07701v1)
+- 2025-02-11, **Matrix3D: Large Photogrammetry Model All-in-One**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2502.07685v1](http://arxiv.org/abs/2502.07685v1)
+- 2025-02-11, **Consistency Training with Physical Constraints**, Che-Chia Chang et.al., Paper: [http://arxiv.org/abs/2502.07636v1](http://arxiv.org/abs/2502.07636v1)
+- 2025-02-11, **Tractable Transformers for Flexible Conditional Generation**, Anji Liu et.al., Paper: [http://arxiv.org/abs/2502.07616v1](http://arxiv.org/abs/2502.07616v1)
+- 2025-02-11, **DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**, Xin Tan et.al., Paper: [http://arxiv.org/abs/2502.07590v1](http://arxiv.org/abs/2502.07590v1)
+- 2025-02-11, **Generative Modeling with Bayesian Sample Inference**, Marten Lienen et.al., Paper: [http://arxiv.org/abs/2502.07580v1](http://arxiv.org/abs/2502.07580v1)
+- 2025-02-11, **Single-Step Consistent Diffusion Samplers**, Pascal Jutras-Dubé et.al., Paper: [http://arxiv.org/abs/2502.07579v1](http://arxiv.org/abs/2502.07579v1)
+- 2025-02-11, **Diffusion-LAM: Probabilistic Limited Area Weather Forecasting with Diffusion**, Erik Larsson et.al., Paper: [http://arxiv.org/abs/2502.07532v1](http://arxiv.org/abs/2502.07532v1)
+- 2025-02-11, **The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**, Raman Dutt et.al., Paper: [http://arxiv.org/abs/2502.07516v1](http://arxiv.org/abs/2502.07516v1)
+- 2025-02-11, **Magnetic Domain Suppression in Fe/Si Multilayers with 11B4C Integration for Polarizing Neutron Optics**, Anton Zubayer et.al., Paper: [http://arxiv.org/abs/2502.07515v1](http://arxiv.org/abs/2502.07515v1)
+- 2025-02-11, **The Role of 11B4C Interlayers in Enhancing Fe/Si Multilayer Performance for Polarized Neutron Mirrors**, Anton Zubayer et.al., Paper: [http://arxiv.org/abs/2502.07507v1](http://arxiv.org/abs/2502.07507v1)
+- 2025-02-11, **Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models**, Lin Zhu et.al., Paper: [http://arxiv.org/abs/2502.07466v1](http://arxiv.org/abs/2502.07466v1)
+- 2025-02-11, **Effective description of Taylor dispersion in strongly corrugated channels**, Arthur Alexandre et.al., Paper: [http://arxiv.org/abs/2502.07464v1](http://arxiv.org/abs/2502.07464v1)
+- 2025-02-11, **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution**, Hongyu An et.al., Paper: [http://arxiv.org/abs/2502.07381v1](http://arxiv.org/abs/2502.07381v1)
 - 2025-02-10, **Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**, Dongyang Liu et.al., Paper: [http://arxiv.org/abs/2502.06782v1](http://arxiv.org/abs/2502.06782v1)
 - 2025-02-10, **Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**, Jaeyeon Kim et.al., Paper: [http://arxiv.org/abs/2502.06768v1](http://arxiv.org/abs/2502.06768v1)
 - 2025-02-10, **History-Guided Video Diffusion**, Kiwhan Song et.al., Paper: [http://arxiv.org/abs/2502.06764v1](http://arxiv.org/abs/2502.06764v1)
@@ -12570,9 +12590,12 @@
 
 ## Diffusion_Segment
 
+- 2025-02-10, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997v1](http://arxiv.org/abs/2502.06997v1)
+- 2025-02-10, **Generalizable automated ischaemic stroke lesion segmentation with vision transformers**, Chris Foulon et.al., Paper: [http://arxiv.org/abs/2502.06939v1](http://arxiv.org/abs/2502.06939v1)
+- 2025-02-05, **Diffusion-empowered AutoPrompt MedSAM**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2502.06817v1](http://arxiv.org/abs/2502.06817v1)
 - 2025-02-10, **A Large-scale AI-generated Image Inpainting Benchmark**, Paschalis Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2502.06593v1](http://arxiv.org/abs/2502.06593v1)
 - 2025-02-10, **Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**, Hangliang Ding et.al., Paper: [http://arxiv.org/abs/2502.06155v1](http://arxiv.org/abs/2502.06155v1)
-- 2025-02-09, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979v1](http://arxiv.org/abs/2502.05979v1)
+- 2025-02-11, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979v2](http://arxiv.org/abs/2502.05979v2)
 - 2025-02-08, **Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**, Chenkai Xu et.al., Paper: [http://arxiv.org/abs/2502.05415v1](http://arxiv.org/abs/2502.05415v1)
 - 2025-02-06, **Towards Fair and Robust Face Parsing for Generative AI: A Multi-Objective Approach**, Sophia J. Abraham et.al., Paper: [http://arxiv.org/abs/2502.04391v1](http://arxiv.org/abs/2502.04391v1)
 - 2025-02-05, **DILLEMA: Diffusion and Large Language Models for Multi-Modal Augmentation**, Luciano Baresi et.al., Paper: [http://arxiv.org/abs/2502.04378v1](http://arxiv.org/abs/2502.04378v1)
