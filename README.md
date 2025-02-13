@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642v1](http://arxiv.org/abs/2502.08642v1)|null|
+|**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639v1](http://arxiv.org/abs/2502.08639v1)|null|
+|**2025-02-12**|**Chasing Charge Carriers: Diffusion Dynamics in Mixed-n Quasi-Two-Dimensional Colloidal MAPbBr3 Perovskites**|Ronja Maria Piehler et.al.|[2502.08601v1](http://arxiv.org/abs/2502.08601v1)|null|
+|**2025-02-12**|**Enhancing Diffusion Models Efficiency by Disentangling Total-Variance and Signal-to-Noise Ratio**|Khaled Kahouli et.al.|[2502.08598v1](http://arxiv.org/abs/2502.08598v1)|null|
+|**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590v1](http://arxiv.org/abs/2502.08590v1)|**[link](https://github.com/bcmi/Light-A-Video)**|
+|**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580v1](http://arxiv.org/abs/2502.08580v1)|null|
+|**2025-02-12**|**Mapping the Landscape of Generative AI in Network Monitoring and Management**|Giampaolo Bovenzi et.al.|[2502.08576v1](http://arxiv.org/abs/2502.08576v1)|null|
+|**2025-02-12**|**Brain Latent Progression: Individual-based Spatiotemporal Disease Progression on 3D Brain MRIs via Latent Diffusion**|Lemuel Puglisi et.al.|[2502.08560v1](http://arxiv.org/abs/2502.08560v1)|null|
+|**2025-02-12**|**Foliar Uptake of Biocides: Statistical Assessment of Compartmental and Diffusion-Based Models**|Enrico Sangoi et.al.|[2502.08533v1](http://arxiv.org/abs/2502.08533v1)|null|
+|**2025-02-12**|**BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation**|Ao liu et.al.|[2502.08528v1](http://arxiv.org/abs/2502.08528v1)|null|
+|**2025-02-12**|**On the potential cosmogenic origin of the ultra-high-energy event KM3-230213A**|The KM3NeT collaboration et.al.|[2502.08508v1](http://arxiv.org/abs/2502.08508v1)|null|
+|**2025-02-12**|**One-Shot Federated Learning with Classifier-Free Diffusion Models**|Obaidullah Zaland et.al.|[2502.08488v1](http://arxiv.org/abs/2502.08488v1)|null|
+|**2025-02-12**|**Searching for Nearby Diffuse Dwarf Galaxies in the COSMOS Field**|Dongdong Shi et.al.|[2502.08466v1](http://arxiv.org/abs/2502.08466v1)|null|
+|**2025-02-12**|**Discontinuous stochastic forcing in Greenland ice core data**|Keno Riechers et.al.|[2502.08460v1](http://arxiv.org/abs/2502.08460v1)|null|
+|**2025-02-12**|**Learning to Group and Grasp Multiple Objects**|Takahiro Yonemaru et.al.|[2502.08452v1](http://arxiv.org/abs/2502.08452v1)|null|
+|**2025-02-12**|**On the Potential Galactic Origin of the Ultra-High-Energy Event KM3-230213A**|O. Adriani et.al.|[2502.08387v1](http://arxiv.org/abs/2502.08387v1)|null|
+|**2025-02-12**|**A Survey on Pre-Trained Diffusion Model Distillations**|Xuhui Fan et.al.|[2502.08364v1](http://arxiv.org/abs/2502.08364v1)|null|
+|**2025-02-12**|**CO2 Hydration at the Air-Water Interface: A Surface-Mediated 'In and Out' Mechanism**|Samuel G. H. Brookes et.al.|[2502.08348v1](http://arxiv.org/abs/2502.08348v1)|null|
+|**2025-02-12**|**Evidence of a diffuse, extended continuum source in quasars from the relative sizes of the broad line region and the UV-optical continuum source measured with microlensing**|Damien Hutsemékers et.al.|[2502.08313v1](http://arxiv.org/abs/2502.08313v1)|null|
+|**2025-02-12**|**A posteriori error control for a finite volume scheme for a cross-diffusion model of ion transport**|Arne Berrens et.al.|[2502.08306v1](http://arxiv.org/abs/2502.08306v1)|null|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785v1](http://arxiv.org/abs/2502.07785v1)|null|
 |**2025-02-11**|**MatSwap: Light-aware material transfers in images**|Ivan Lopes et.al.|[2502.07784v1](http://arxiv.org/abs/2502.07784v1)|null|
 |**2025-02-11**|**CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation**|Rabeya Tus Sadia et.al.|[2502.07751v1](http://arxiv.org/abs/2502.07751v1)|null|
@@ -3055,6 +3075,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580v1](http://arxiv.org/abs/2502.08580v1)|null|
 |**2025-02-10**|**Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**|Behzad Hejrati et.al.|[2502.06997v1](http://arxiv.org/abs/2502.06997v1)|null|
 |**2025-02-10**|**Generalizable automated ischaemic stroke lesion segmentation with vision transformers**|Chris Foulon et.al.|[2502.06939v1](http://arxiv.org/abs/2502.06939v1)|null|
 |**2025-02-05**|**Diffusion-empowered AutoPrompt MedSAM**|Peng Huang et.al.|[2502.06817v1](http://arxiv.org/abs/2502.06817v1)|null|
