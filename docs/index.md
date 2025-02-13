@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 
 ## Diffusion
 
@@ -19,7 +19,7 @@ layout: default
 |**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636v1](http://arxiv.org/abs/2502.07636v1)|null|
 |**2025-02-11**|**Tractable Transformers for Flexible Conditional Generation**|Anji Liu et.al.|[2502.07616v1](http://arxiv.org/abs/2502.07616v1)|null|
 |**2025-02-11**|**DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training**|Xin Tan et.al.|[2502.07590v1](http://arxiv.org/abs/2502.07590v1)|null|
-|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|null|
+|**2025-02-11**|**Generative Modeling with Bayesian Sample Inference**|Marten Lienen et.al.|[2502.07580v1](http://arxiv.org/abs/2502.07580v1)|**[link](https://github.com/martenlienen/bsi)**|
 |**2025-02-11**|**Single-Step Consistent Diffusion Samplers**|Pascal Jutras-Dubé et.al.|[2502.07579v1](http://arxiv.org/abs/2502.07579v1)|null|
 |**2025-02-11**|**Diffusion-LAM: Probabilistic Limited Area Weather Forecasting with Diffusion**|Erik Larsson et.al.|[2502.07532v1](http://arxiv.org/abs/2502.07532v1)|null|
 |**2025-02-11**|**The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation**|Raman Dutt et.al.|[2502.07516v1](http://arxiv.org/abs/2502.07516v1)|null|
@@ -3380,7 +3380,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**Well-posedness of aggregation-diffusion systems with irregular kernels**|José A. Carrillo et.al.|[2406.09227v1](http://arxiv.org/abs/2406.09227v1)|null|
-|**2023-08-22**|**A continuum limit for dense networks**|Sidney Holden et.al.|[2301.07086v3](http://arxiv.org/abs/2301.07086v3)|null|
+|**2025-02-11**|**A continuum limit for dense spatial networks**|Sidney Holden et.al.|[2301.07086v4](http://arxiv.org/abs/2301.07086v4)|null|
 |**2022-06-10**|**Stellar migration in the Auriga simulations**|Periklis Okalidis et.al.|[2206.05304v1](http://arxiv.org/abs/2206.05304v1)|null|
 |**2021-10-11**|**The One Step Malliavin scheme: new discretization of BSDEs implemented with deep learning regressions**|Balint Negyesi et.al.|[2110.05421v1](http://arxiv.org/abs/2110.05421v1)|null|
 |**2021-07-16**|**Stabilizing spiral structures in the asymmetric May-Leonard model**|Shannon R. Serrao et.al.|[2105.08126v2](http://arxiv.org/abs/2105.08126v2)|null|
