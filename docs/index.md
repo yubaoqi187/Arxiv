@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389v1](http://arxiv.org/abs/2502.10389v1)|null|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
+|**2025-02-14**|**Dimension-free Score Matching and Time Bootstrapping for Diffusion Models**|Syamantak Kumar et.al.|[2502.10354v1](http://arxiv.org/abs/2502.10354v1)|null|
+|**2025-02-14**|**Stretching theory of Hookean metashells**|Luca Giomi et.al.|[2502.10345v1](http://arxiv.org/abs/2502.10345v1)|null|
+|**2025-02-14**|**Bifurcation of global energy minimizers for a diffusion-aggregation model on sphere**|Razvan C. Fetecau et.al.|[2502.10337v1](http://arxiv.org/abs/2502.10337v1)|null|
+|**2025-02-14**|**DiOpt: Self-supervised Diffusion for Constrained Optimization**|Shutong Ding et.al.|[2502.10330v1](http://arxiv.org/abs/2502.10330v1)|null|
+|**2025-02-14**|**Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions**|Leo Zhang et.al.|[2502.10328v1](http://arxiv.org/abs/2502.10328v1)|null|
+|**2025-02-14**|**Dark Matter Attenuation Effects: Sensitivity Ceilings for Spin-Dependent and Spin-Independent Interactions**|QUEST-DMC Collaboration et.al.|[2502.10251v1](http://arxiv.org/abs/2502.10251v1)|null|
+|**2025-02-14**|**Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model**|Guoqing Ma et.al.|[2502.10248v1](http://arxiv.org/abs/2502.10248v1)|null|
+|**2025-02-14**|**Shaping Inductive Bias in Diffusion Models through Frequency-Based Noise Control**|Thomas Jiralerspong et.al.|[2502.10236v1](http://arxiv.org/abs/2502.10236v1)|null|
+|**2025-02-14**|**Agentic End-to-End De Novo Protein Design for Tailored Dynamics Using a Language Diffusion Model**|Bo Ni et.al.|[2502.10173v1](http://arxiv.org/abs/2502.10173v1)|null|
+|**2025-02-14**|**IRS-assisted Edge Computing for Vehicular Networks: A Generative Diffusion Model-based Stackelberg Game Approach**|Yixian Wang et.al.|[2502.10149v1](http://arxiv.org/abs/2502.10149v1)|null|
+|**2025-02-14**|**Energy diffusion in the long-range interacting spin systems**|Hideaki Nishikawa et.al.|[2502.10139v1](http://arxiv.org/abs/2502.10139v1)|null|
+|**2025-02-14**|**Planckian Bounds From Local Uncertainty Relations**|Saurish Chakrabarty et.al.|[2502.10129v1](http://arxiv.org/abs/2502.10129v1)|null|
+|**2025-02-14**|**Modelling methanol and hydride formation in the JWST Ice Age era**|Izaskun Jiménez-Serra et.al.|[2502.10123v1](http://arxiv.org/abs/2502.10123v1)|null|
+|**2025-02-14**|**Theory of enhanced-by-coincidence neural information transmission**|Miguel Ibáñez-Berganza et.al.|[2502.10094v1](http://arxiv.org/abs/2502.10094v1)|null|
+|**2025-02-14**|**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control**|Teng Li et.al.|[2502.10059v1](http://arxiv.org/abs/2502.10059v1)|null|
+|**2025-02-14**|**Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation**|Shichao Fan et.al.|[2502.10040v1](http://arxiv.org/abs/2502.10040v1)|null|
+|**2025-02-14**|**Solvability of a doubly singular boundary value problem arising in front propagation for reaction-diffusion equations**|Cristina Marcelli et.al.|[2502.10035v1](http://arxiv.org/abs/2502.10035v1)|null|
+|**2025-02-14**|**Wavefront Solutions for Reaction-diffusion-convection Models with Accumulation Term and Aggregative Movements**|Marco Cantarini et.al.|[2502.10026v1](http://arxiv.org/abs/2502.10026v1)|null|
 |**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|null|
 |**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615v1](http://arxiv.org/abs/2502.09615v1)|null|
 |**2025-02-14**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple via Score Estimation of Mixture Distributions**|Tejas Jayashankar et.al.|[2502.09609v2](http://arxiv.org/abs/2502.09609v2)|null|
@@ -3099,8 +3119,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
+|**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793v1](http://arxiv.org/abs/2502.09793v1)|null|
 |**2025-02-13**|**Multimodal HIE Lesion Segmentation in Neonates: A Comparative Study of Loss Functions**|Annayah Usman et.al.|[2502.09148v1](http://arxiv.org/abs/2502.09148v1)|null|
-|**2025-02-12**|**HistoSmith: Single-Stage Histology Image-Label Generation via Conditional Latent Diffusion for Enhanced Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.08754v1](http://arxiv.org/abs/2502.08754v1)|null|
+|**2025-02-12**|**HistoSmith: Single-Stage Histology Image-Label Generation via Conditional Latent Diffusion for Enhanced Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.08754v1](http://arxiv.org/abs/2502.08754v1)|**[link](https://github.com/Vadori/CytoArk)**|
 |**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580v1](http://arxiv.org/abs/2502.08580v1)|null|
 |**2025-02-10**|**Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**|Behzad Hejrati et.al.|[2502.06997v1](http://arxiv.org/abs/2502.06997v1)|**[link](https://github.com/hejrati/cdal)**|
 |**2025-02-10**|**Generalizable automated ischaemic stroke lesion segmentation with vision transformers**|Chris Foulon et.al.|[2502.06939v1](http://arxiv.org/abs/2502.06939v1)|null|
