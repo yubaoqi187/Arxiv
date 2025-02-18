@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-17, **Diffusion Models without Classifier-free Guidance**, Zhicong Tang et.al., Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/abs/2502.12154v1)
+- 2025-02-17, **Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**, Ye Tian et.al., Paper: [http://arxiv.org/abs/2502.12146v1](http://arxiv.org/abs/2502.12146v1)
+- 2025-02-17, **MagicArticulate: Make Your 3D Models Articulation-Ready**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2502.12135v1](http://arxiv.org/abs/2502.12135v1)
+- 2025-02-17, **How compositional generalization and creativity improve as diffusion models are trained**, Alessandro Favero et.al., Paper: [http://arxiv.org/abs/2502.12089v1](http://arxiv.org/abs/2502.12089v1)
+- 2025-02-17, **HumanGif: Single-View Human Diffusion with Generative Prior**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2502.12080v1](http://arxiv.org/abs/2502.12080v1)
+- 2025-02-17, **A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**, Shreya Shukla et.al., Paper: [http://arxiv.org/abs/2502.12048v1](http://arxiv.org/abs/2502.12048v1)
+- 2025-02-17, **Adiabatic Gauge Potential as a Tool for Detecting Chaos in Classical Systems**, Nachiket Karve et.al., Paper: [http://arxiv.org/abs/2502.12046v1](http://arxiv.org/abs/2502.12046v1)
+- 2025-02-17, **Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images**, Negar Kamali et.al., Paper: [http://arxiv.org/abs/2502.11989v1](http://arxiv.org/abs/2502.11989v1)
+- 2025-02-17, **Image Inversion: A Survey from GANs to Diffusion and Beyond**, Yinan Chen et.al., Paper: [http://arxiv.org/abs/2502.11974v1](http://arxiv.org/abs/2502.11974v1)
+- 2025-02-17, **Single-Molecule Water Motion on h-BN and Graphene: A Paradigm Shift in Understanding the Behaviour of Water on 2D Material Interfaces**, Philipp Seiler et.al., Paper: [http://arxiv.org/abs/2502.11944v1](http://arxiv.org/abs/2502.11944v1)
+- 2025-02-17, **Neural Guided Diffusion Bridges**, Gefan Yang et.al., Paper: [http://arxiv.org/abs/2502.11909v1](http://arxiv.org/abs/2502.11909v1)
+- 2025-02-17, **Approximating a spatially-heterogeneously mass-emitting object by multiple point sources in a diffusion model**, Qiyao Peng et.al., Paper: [http://arxiv.org/abs/2502.11908v1](http://arxiv.org/abs/2502.11908v1)
+- 2025-02-17, **Diffusive spin transport of the spin-1/2 XXZ chain in the Ising regime at zero magnetic field and finite temperature**, Jose M. P. Carmelo et.al., Paper: [http://arxiv.org/abs/2502.11855v1](http://arxiv.org/abs/2502.11855v1)
+- 2025-02-17, **Weak solutions and sharp interface limit of the anisotropic Cahn-Hilliard equation with disparate mobility and inhomogeneous potential**, Charles Elbar et.al., Paper: [http://arxiv.org/abs/2502.11849v1](http://arxiv.org/abs/2502.11849v1)
+- 2025-02-17, **BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model**, Weilin Lin et.al., Paper: [http://arxiv.org/abs/2502.11798v1](http://arxiv.org/abs/2502.11798v1)
+- 2025-02-17, **MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow**, Hanzhuo Huang et.al., Paper: [http://arxiv.org/abs/2502.11697v1](http://arxiv.org/abs/2502.11697v1)
+- 2025-02-17, **Breaking the Low Concentration Barrier of Single-Molecule Fluorescence Quantification to the Sub-Picomolar Range**, Malavika Kayyil Veedu et.al., Paper: [http://arxiv.org/abs/2502.11675v1](http://arxiv.org/abs/2502.11675v1)
+- 2025-02-17, **MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**, Jingcheng Ni et.al., Paper: [http://arxiv.org/abs/2502.11663v1](http://arxiv.org/abs/2502.11663v1)
+- 2025-02-17, **Bose-Bose gases with nonuniversal corrections to the interactions: a droplet phase**, Emerson Chiquillo et.al., Paper: [http://arxiv.org/abs/2502.11654v1](http://arxiv.org/abs/2502.11654v1)
+- 2025-02-17, **GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text**, Gyumin Shim et.al., Paper: [http://arxiv.org/abs/2502.11642v1](http://arxiv.org/abs/2502.11642v1)
 - 2025-02-14, **Region-Adaptive Sampling for Diffusion Transformers**, Ziming Liu et.al., Paper: [http://arxiv.org/abs/2502.10389v1](http://arxiv.org/abs/2502.10389v1)
 - 2025-02-14, **ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2502.10377v1](http://arxiv.org/abs/2502.10377v1)
 - 2025-02-14, **Dimension-free Score Matching and Time Bootstrapping for Diffusion Models**, Syamantak Kumar et.al., Paper: [http://arxiv.org/abs/2502.10354v1](http://arxiv.org/abs/2502.10354v1)
@@ -12650,6 +12670,7 @@
 
 ## Diffusion_Segment
 
+- 2025-02-16, **ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**, Bowen Jiang et.al., Paper: [http://arxiv.org/abs/2502.10999v1](http://arxiv.org/abs/2502.10999v1)
 - 2025-02-14, **ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**, Liyuan Zhu et.al., Paper: [http://arxiv.org/abs/2502.10377v1](http://arxiv.org/abs/2502.10377v1)
 - 2025-02-13, **Noise Controlled CT Super-Resolution with Conditional Diffusion Model**, Yuang Wang et.al., Paper: [http://arxiv.org/abs/2502.09793v1](http://arxiv.org/abs/2502.09793v1)
 - 2025-02-13, **Multimodal HIE Lesion Segmentation in Neonates: A Comparative Study of Loss Functions**, Annayah Usman et.al., Paper: [http://arxiv.org/abs/2502.09148v1](http://arxiv.org/abs/2502.09148v1)
@@ -12659,7 +12680,7 @@
 - 2025-02-10, **Generalizable automated ischaemic stroke lesion segmentation with vision transformers**, Chris Foulon et.al., Paper: [http://arxiv.org/abs/2502.06939v1](http://arxiv.org/abs/2502.06939v1)
 - 2025-02-05, **Diffusion-empowered AutoPrompt MedSAM**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2502.06817v1](http://arxiv.org/abs/2502.06817v1), Code: **[https://github.com/hp-ml/autopromptmedsam](https://github.com/hp-ml/autopromptmedsam)**
 - 2025-02-10, **A Large-scale AI-generated Image Inpainting Benchmark**, Paschalis Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2502.06593v1](http://arxiv.org/abs/2502.06593v1)
-- 2025-02-10, **Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**, Hangliang Ding et.al., Paper: [http://arxiv.org/abs/2502.06155v1](http://arxiv.org/abs/2502.06155v1)
+- 2025-02-17, **Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**, Hangliang Ding et.al., Paper: [http://arxiv.org/abs/2502.06155v2](http://arxiv.org/abs/2502.06155v2)
 - 2025-02-11, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979v2](http://arxiv.org/abs/2502.05979v2)
 - 2025-02-08, **Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation**, Chenkai Xu et.al., Paper: [http://arxiv.org/abs/2502.05415v1](http://arxiv.org/abs/2502.05415v1)
 - 2025-02-06, **Towards Fair and Robust Face Parsing for Generative AI: A Multi-Objective Approach**, Sophia J. Abraham et.al., Paper: [http://arxiv.org/abs/2502.04391v1](http://arxiv.org/abs/2502.04391v1)
