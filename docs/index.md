@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133v1](http://arxiv.org/abs/2502.13133v1)|null|
+|**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129v1](http://arxiv.org/abs/2502.13129v1)|null|
+|**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106v1](http://arxiv.org/abs/2502.13106v1)|null|
+|**2025-02-18**|**Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry**|José A. Carrillo et.al.|[2502.13094v1](http://arxiv.org/abs/2502.13094v1)|null|
+|**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081v1](http://arxiv.org/abs/2502.13081v1)|null|
+|**2025-02-18**|**On the Vulnerability of UMOSFETs in Terrestrial Radiation Environments**|Saulo G. Alberton et.al.|[2502.13041v1](http://arxiv.org/abs/2502.13041v1)|null|
+|**2025-02-18**|**KM3-230213A: An Ultra-High Energy Neutrino from a Year-Long Astrophysical Transient**|Andrii Neronov et.al.|[2502.12986v1](http://arxiv.org/abs/2502.12986v1)|null|
+|**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976v1](http://arxiv.org/abs/2502.12976v1)|null|
+|**2025-02-18**|**Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression**|Jaemoon Lee et.al.|[2502.12951v1](http://arxiv.org/abs/2502.12951v1)|null|
+|**2025-02-18**|**Separation of time scales in weakly interacting diffusions**|Zachary P. Adams et.al.|[2502.12881v1](http://arxiv.org/abs/2502.12881v1)|null|
+|**2025-02-18**|**The diffusion approximation of the Multiclass Processor Sharing queue**|Mohamed Ghazali et.al.|[2502.12824v1](http://arxiv.org/abs/2502.12824v1)|null|
+|**2025-02-18**|**Effect of Annealing on Al Diffusion and its Impact on the Properties of Ga$_2$O$_3$ Thin Films Deposited on c-plane Sapphire by RF Sputtering**|Ana Sofia Sousa et.al.|[2502.12823v1](http://arxiv.org/abs/2502.12823v1)|null|
+|**2025-02-18**|**Dynamics of Open Quantum Systems with Initial System-Environment Correlations via Stochastic Unravelings**|Federico Settimo et.al.|[2502.12818v1](http://arxiv.org/abs/2502.12818v1)|null|
+|**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794v1](http://arxiv.org/abs/2502.12794v1)|null|
+|**2025-02-18**|**Finger properties in bounded double diffusive finger convection**|A. Rosenthal et.al.|[2502.12792v1](http://arxiv.org/abs/2502.12792v1)|null|
+|**2025-02-18**|**Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo**|James Thornton et.al.|[2502.12786v1](http://arxiv.org/abs/2502.12786v1)|null|
+|**2025-02-18**|**Ultrafast annealing process of MTJ using hybrid microwave annealing**|Ming-Chun Hsu et.al.|[2502.12772v1](http://arxiv.org/abs/2502.12772v1)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752v1](http://arxiv.org/abs/2502.12752v1)|null|
+|**2025-02-18**|**3D Shape-to-Image Brownian Bridge Diffusion for Brain MRI Synthesis from Cortical Surfaces**|Fabian Bongratz et.al.|[2502.12742v1](http://arxiv.org/abs/2502.12742v1)|null|
+|**2025-02-18**|**Mechanism of Heteroepitaxial Growth of Boron Carbide on the Si-Face of 4H-SiC**|Yamina Benamra et.al.|[2502.12726v1](http://arxiv.org/abs/2502.12726v1)|null|
 |**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154v1](http://arxiv.org/abs/2502.12154v1)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146v1](http://arxiv.org/abs/2502.12146v1)|null|
 |**2025-02-17**|**MagicArticulate: Make Your 3D Models Articulation-Ready**|Chaoyue Song et.al.|[2502.12135v1](http://arxiv.org/abs/2502.12135v1)|null|
@@ -3139,6 +3159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632v1](http://arxiv.org/abs/2502.12632v1)|null|
 |**2025-02-16**|**ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**|Bowen Jiang et.al.|[2502.10999v1](http://arxiv.org/abs/2502.10999v1)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
 |**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793v1](http://arxiv.org/abs/2502.09793v1)|null|
