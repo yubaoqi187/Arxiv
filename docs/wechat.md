@@ -1,4 +1,4 @@
-> Updated on 2025.02.18
+> Updated on 2025.02.19
 
 ## Video_Classification
 
@@ -9541,7 +9541,7 @@
 
 ## Diffusion
 
-- 2025-02-17, **Diffusion Models without Classifier-free Guidance**, Zhicong Tang et.al., Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/abs/2502.12154v1)
+- 2025-02-17, **Diffusion Models without Classifier-free Guidance**, Zhicong Tang et.al., Paper: [http://arxiv.org/abs/2502.12154v1](http://arxiv.org/abs/2502.12154v1), Code: **[https://github.com/tzco/Diffusion-wo-CFG](https://github.com/tzco/Diffusion-wo-CFG)**
 - 2025-02-17, **Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**, Ye Tian et.al., Paper: [http://arxiv.org/abs/2502.12146v1](http://arxiv.org/abs/2502.12146v1)
 - 2025-02-17, **MagicArticulate: Make Your 3D Models Articulation-Ready**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2502.12135v1](http://arxiv.org/abs/2502.12135v1)
 - 2025-02-17, **How compositional generalization and creativity improve as diffusion models are trained**, Alessandro Favero et.al., Paper: [http://arxiv.org/abs/2502.12089v1](http://arxiv.org/abs/2502.12089v1)
