@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951v1](http://arxiv.org/abs/2502.13951v1)|null|
+|**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936v1](http://arxiv.org/abs/2502.13936v1)|null|
+|**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917v1](http://arxiv.org/abs/2502.13917v1)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894v1](http://arxiv.org/abs/2502.13894v1)|null|
+|**2025-02-19**|**Generative Video Semantic Communication via Multimodal Semantic Fusion with Large Model**|Hang Yin et.al.|[2502.13838v1](http://arxiv.org/abs/2502.13838v1)|null|
+|**2025-02-19**|**The anisotropic Cahn--Hilliard equation with degenerate mobility: Existence of weak solutions**|Harald Garcke et.al.|[2502.13799v1](http://arxiv.org/abs/2502.13799v1)|null|
+|**2025-02-19**|**The link between Microstructural Heterogeneity, Diffusivity, and Hydrogen Embrittlement**|Daniel J Long et.al.|[2502.13793v1](http://arxiv.org/abs/2502.13793v1)|null|
+|**2025-02-19**|**A class of parabolic reaction-diffusion systems governed by spectral fractional Laplacians : Analysis and numerical simulations**|Maha Daoud et.al.|[2502.13771v1](http://arxiv.org/abs/2502.13771v1)|null|
+|**2025-02-19**|**Reverse Markov Learning: Multi-Step Generative Models for Complex Distributions**|Xinwei Shen et.al.|[2502.13747v1](http://arxiv.org/abs/2502.13747v1)|null|
+|**2025-02-19**|**Models of liquid samples confinement for nanoscale NMR**|Santiago Oviedo Casado et.al.|[2502.13578v1](http://arxiv.org/abs/2502.13578v1)|null|
+|**2025-02-19**|**RestoreGrad: Signal Restoration Using Conditional Denoising Diffusion Models with Jointly Learned Prior**|Ching-Hua Lee et.al.|[2502.13574v1](http://arxiv.org/abs/2502.13574v1)|null|
+|**2025-02-19**|**Diffusion Model Agnostic Social Influence Maximization in Hyperbolic Space**|Hongliang Qiao et.al.|[2502.13571v1](http://arxiv.org/abs/2502.13571v1)|null|
+|**2025-02-19**|**Consistency for the surface diffusion flat flow in three dimensions**|Marco Cicalese et.al.|[2502.13556v1](http://arxiv.org/abs/2502.13556v1)|null|
+|**2025-02-19**|**AS-GCL: Asymmetric Spectral Augmentation on Graph Contrastive Learning**|Ruyue Liu et.al.|[2502.13525v1](http://arxiv.org/abs/2502.13525v1)|null|
+|**2025-02-19**|**Diffusion Transients in Motility-Induced Phase Separation**|Shubhadip Nayak et.al.|[2502.13504v1](http://arxiv.org/abs/2502.13504v1)|null|
+|**2025-02-19**|**Ferromagnetic resonance and spin Hall magnetoresistance of Tm3Fe5O12 films**|Yufeng Wang et.al.|[2502.13493v1](http://arxiv.org/abs/2502.13493v1)|null|
+|**2025-02-19**|**Interleaved Gibbs Diffusion for Constrained Generation**|Gautham Govind Anil et.al.|[2502.13450v1](http://arxiv.org/abs/2502.13450v1)|null|
+|**2025-02-19**|**Generative Predictive Control: Flow Matching Policies for Dynamic and Difficult-to-Demonstrate Tasks**|Vince Kurtz et.al.|[2502.13406v1](http://arxiv.org/abs/2502.13406v1)|null|
+|**2025-02-19**|**Quantum Recurrent Neural Networks with Encoder-Decoder for Time-Dependent Partial Differential Equations**|Yuan Chen et.al.|[2502.13370v1](http://arxiv.org/abs/2502.13370v1)|null|
+|**2025-02-18**|**Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios**|Liangqi Lei et.al.|[2502.13345v1](http://arxiv.org/abs/2502.13345v1)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133v1](http://arxiv.org/abs/2502.13133v1)|null|
 |**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129v1](http://arxiv.org/abs/2502.13129v1)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106v1](http://arxiv.org/abs/2502.13106v1)|null|
@@ -3155,6 +3175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**|Danli Shi et.al.|[2502.13182v1](http://arxiv.org/abs/2502.13182v1)|null|
 |**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632v1](http://arxiv.org/abs/2502.12632v1)|null|
 |**2025-02-16**|**ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**|Bowen Jiang et.al.|[2502.10999v1](http://arxiv.org/abs/2502.10999v1)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
