@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844v1](http://arxiv.org/abs/2502.14844v1)|null|
+|**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831v1](http://arxiv.org/abs/2502.14831v1)|null|
+|**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801v1](http://arxiv.org/abs/2502.14801v1)|null|
+|**2025-02-20**|**A Survey on Text-Driven 360-Degree Panorama Generation**|Hai Wang et.al.|[2502.14799v1](http://arxiv.org/abs/2502.14799v1)|null|
+|**2025-02-20**|**DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models**|Hongji Yang et.al.|[2502.14779v1](http://arxiv.org/abs/2502.14779v1)|null|
+|**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777v1](http://arxiv.org/abs/2502.14777v1)|null|
+|**2025-02-20**|**Asymptotic behavior of solutions of a time-space fractional diffusive Volterra equation**|Sofwah Ahmad et.al.|[2502.14725v1](http://arxiv.org/abs/2502.14725v1)|null|
+|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659v1](http://arxiv.org/abs/2502.14659v1)|null|
+|**2025-02-20**|**ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation**|Angxiao Yue et.al.|[2502.14637v1](http://arxiv.org/abs/2502.14637v1)|**[link](https://github.com/AngxiaoYue/ReQFlow)**|
+|**2025-02-20**|**Random walks with homotopic spatial inhomogeneities**|Ignacio S Gomez et.al.|[2502.14590v1](http://arxiv.org/abs/2502.14590v1)|null|
+|**2025-02-20**|**The diffusive dynamics and electrochemical regulation of weak polyelectrolytes across liquid interfaces**|Giulia Laura Celora et.al.|[2502.14555v1](http://arxiv.org/abs/2502.14555v1)|null|
+|**2025-02-20**|**Enhanced dynamo drive for the sawtooth relaxation process due to non-uniform resistivity distribution in a reversed field pinch**|Wentan Yan et.al.|[2502.14506v1](http://arxiv.org/abs/2502.14506v1)|null|
+|**2025-02-20**|**Nadaraya-Watson Type Estimator of the Transition Density Function for Diffusion Processes**|Nicolas Marie et.al.|[2502.14498v1](http://arxiv.org/abs/2502.14498v1)|null|
+|**2025-02-20**|**A multi-model study of the air pollution related to traffic flow in a two-dimensional porous metropolitan area**|N. Garcia-Chan et.al.|[2502.14466v1](http://arxiv.org/abs/2502.14466v1)|null|
+|**2025-02-20**|**Single-image Reflectance and Transmittance Estimation from Any Flatbed Scanner**|Carlos Rodriguez-Pardo et.al.|[2502.14462v1](http://arxiv.org/abs/2502.14462v1)|null|
+|**2025-02-20**|**Growth of Ex-situ Diffuse Intragroup Light in Simulated Galaxy Groups**|B. Bilata-Woldeyes et.al.|[2502.14461v1](http://arxiv.org/abs/2502.14461v1)|null|
+|**2025-02-20**|**Isotropic superconductivity in pressurized trilayer nickelate La4Ni3O10**|Di Peng et.al.|[2502.14410v1](http://arxiv.org/abs/2502.14410v1)|null|
+|**2025-02-20**|**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**|Ke Cao et.al.|[2502.14377v1](http://arxiv.org/abs/2502.14377v1)|null|
+|**2025-02-20**|**Textured 3D Regenerative Morphing with 3D Diffusion Prior**|Songlin Yang et.al.|[2502.14316v1](http://arxiv.org/abs/2502.14316v1)|null|
+|**2025-02-20**|**Towards efficient quantum algorithms for diffusion probability models**|Yunfei Wang et.al.|[2502.14252v1](http://arxiv.org/abs/2502.14252v1)|null|
 |**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951v1](http://arxiv.org/abs/2502.13951v1)|null|
 |**2025-02-19**|**Image compositing is all you need for data augmentation**|Ang Jia Ning Shermaine et.al.|[2502.13936v1](http://arxiv.org/abs/2502.13936v1)|null|
 |**2025-02-19**|**TESS 2: A Large-Scale Generalist Diffusion Language Model**|Jaesung Tae et.al.|[2502.13917v1](http://arxiv.org/abs/2502.13917v1)|null|
@@ -3175,9 +3195,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659v1](http://arxiv.org/abs/2502.14659v1)|null|
+|**2025-02-20**|**Bayesian SegNet for Semantic Segmentation with Improved Interpretation of Microstructural Evolution During Irradiation of Materials**|Marjolein Oostrom et.al.|[2502.14184v1](http://arxiv.org/abs/2502.14184v1)|null|
 |**2025-02-18**|**Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**|Danli Shi et.al.|[2502.13182v1](http://arxiv.org/abs/2502.13182v1)|null|
 |**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632v1](http://arxiv.org/abs/2502.12632v1)|null|
-|**2025-02-16**|**ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**|Bowen Jiang et.al.|[2502.10999v1](http://arxiv.org/abs/2502.10999v1)|null|
+|**2025-02-16**|**ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations**|Bowen Jiang et.al.|[2502.10999v1](http://arxiv.org/abs/2502.10999v1)|**[link](https://github.com/bowen-upenn/controltext)**|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377v1](http://arxiv.org/abs/2502.10377v1)|null|
 |**2025-02-13**|**Noise Controlled CT Super-Resolution with Conditional Diffusion Model**|Yuang Wang et.al.|[2502.09793v1](http://arxiv.org/abs/2502.09793v1)|null|
 |**2025-02-13**|**Multimodal HIE Lesion Segmentation in Neonates: A Comparative Study of Loss Functions**|Annayah Usman et.al.|[2502.09148v1](http://arxiv.org/abs/2502.09148v1)|null|
