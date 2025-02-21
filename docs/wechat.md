@@ -1,4 +1,4 @@
-> Updated on 2025.02.20
+> Updated on 2025.02.21
 
 ## Video_Classification
 
@@ -12718,7 +12718,7 @@
 - 2025-02-13, **Multimodal HIE Lesion Segmentation in Neonates: A Comparative Study of Loss Functions**, Annayah Usman et.al., Paper: [http://arxiv.org/abs/2502.09148v1](http://arxiv.org/abs/2502.09148v1)
 - 2025-02-12, **HistoSmith: Single-Stage Histology Image-Label Generation via Conditional Latent Diffusion for Enhanced Cell Segmentation and Classification**, Valentina Vadori et.al., Paper: [http://arxiv.org/abs/2502.08754v1](http://arxiv.org/abs/2502.08754v1), Code: **[https://github.com/Vadori/CytoArk](https://github.com/Vadori/CytoArk)**
 - 2025-02-12, **Ultrasound Image Generation using Latent Diffusion Models**, Benoit Freiche et.al., Paper: [http://arxiv.org/abs/2502.08580v1](http://arxiv.org/abs/2502.08580v1)
-- 2025-02-10, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997v1](http://arxiv.org/abs/2502.06997v1), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
+- 2025-02-19, **Conditional diffusion model with spatial attention and latent embedding for medical image segmentation**, Behzad Hejrati et.al., Paper: [http://arxiv.org/abs/2502.06997v2](http://arxiv.org/abs/2502.06997v2), Code: **[https://github.com/hejrati/cdal](https://github.com/hejrati/cdal)**
 - 2025-02-10, **Generalizable automated ischaemic stroke lesion segmentation with vision transformers**, Chris Foulon et.al., Paper: [http://arxiv.org/abs/2502.06939v1](http://arxiv.org/abs/2502.06939v1)
 - 2025-02-05, **Diffusion-empowered AutoPrompt MedSAM**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2502.06817v1](http://arxiv.org/abs/2502.06817v1), Code: **[https://github.com/hp-ml/autopromptmedsam](https://github.com/hp-ml/autopromptmedsam)**
 - 2025-02-10, **A Large-scale AI-generated Image Inpainting Benchmark**, Paschalis Giakoumoglou et.al., Paper: [http://arxiv.org/abs/2502.06593v1](http://arxiv.org/abs/2502.06593v1)
