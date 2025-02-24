@@ -1,4 +1,4 @@
-> Updated on 2025.02.23
+> Updated on 2025.02.24
 
 ## Video_Classification
 
@@ -9543,7 +9543,7 @@
 
 - 2025-02-20, **Dynamic Concepts Personalization from Single Videos**, Rameen Abdal et.al., Paper: [http://arxiv.org/abs/2502.14844v1](http://arxiv.org/abs/2502.14844v1)
 - 2025-02-20, **Improving the Diffusability of Autoencoders**, Ivan Skorokhodov et.al., Paper: [http://arxiv.org/abs/2502.14831v1](http://arxiv.org/abs/2502.14831v1)
-- 2025-02-20, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v1](http://arxiv.org/abs/2502.14801v1)
+- 2025-02-21, **AVD2: Accident Video Diffusion for Accident Video Description**, Cheng Li et.al., Paper: [http://arxiv.org/abs/2502.14801v2](http://arxiv.org/abs/2502.14801v2)
 - 2025-02-20, **A Survey on Text-Driven 360-Degree Panorama Generation**, Hai Wang et.al., Paper: [http://arxiv.org/abs/2502.14799v1](http://arxiv.org/abs/2502.14799v1)
 - 2025-02-20, **DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models**, Hongji Yang et.al., Paper: [http://arxiv.org/abs/2502.14779v1](http://arxiv.org/abs/2502.14779v1)
 - 2025-02-20, **Making Universal Policies Universal**, Niklas Höpner et.al., Paper: [http://arxiv.org/abs/2502.14777v1](http://arxiv.org/abs/2502.14777v1)
@@ -9558,7 +9558,7 @@
 - 2025-02-20, **Single-image Reflectance and Transmittance Estimation from Any Flatbed Scanner**, Carlos Rodriguez-Pardo et.al., Paper: [http://arxiv.org/abs/2502.14462v1](http://arxiv.org/abs/2502.14462v1)
 - 2025-02-20, **Growth of Ex-situ Diffuse Intragroup Light in Simulated Galaxy Groups**, B. Bilata-Woldeyes et.al., Paper: [http://arxiv.org/abs/2502.14461v1](http://arxiv.org/abs/2502.14461v1)
 - 2025-02-20, **Isotropic superconductivity in pressurized trilayer nickelate La4Ni3O10**, Di Peng et.al., Paper: [http://arxiv.org/abs/2502.14410v1](http://arxiv.org/abs/2502.14410v1)
-- 2025-02-20, **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, Ke Cao et.al., Paper: [http://arxiv.org/abs/2502.14377v1](http://arxiv.org/abs/2502.14377v1)
+- 2025-02-21, **RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers**, Ke Cao et.al., Paper: [http://arxiv.org/abs/2502.14377v2](http://arxiv.org/abs/2502.14377v2)
 - 2025-02-20, **Textured 3D Regenerative Morphing with 3D Diffusion Prior**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2502.14316v1](http://arxiv.org/abs/2502.14316v1)
 - 2025-02-20, **Towards efficient quantum algorithms for diffusion probability models**, Yunfei Wang et.al., Paper: [http://arxiv.org/abs/2502.14252v1](http://arxiv.org/abs/2502.14252v1)
 - 2025-02-19, **IP-Composer: Semantic Composition of Visual Concepts**, Sara Dorfman et.al., Paper: [http://arxiv.org/abs/2502.13951v1](http://arxiv.org/abs/2502.13951v1)
