@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**One-step Diffusion Models with $f$-Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681v1](http://arxiv.org/abs/2502.15681v1)|null|
+|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643v1](http://arxiv.org/abs/2502.15643v1)|null|
+|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640v1](http://arxiv.org/abs/2502.15640v1)|null|
+|**2025-02-21**|**Infinite-dimensional diffusions and depletion interaction for a model of colloids**|Myriam Fradon et.al.|[2502.15628v1](http://arxiv.org/abs/2502.15628v1)|null|
+|**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613v1](http://arxiv.org/abs/2502.15613v1)|null|
+|**2025-02-21**|**Accurate and efficient machine learning interatomic potentials for finite temperature modeling of molecular crystals**|Flaviano Della Pia et.al.|[2502.15530v1](http://arxiv.org/abs/2502.15530v1)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484v1](http://arxiv.org/abs/2502.15484v1)|null|
+|**2025-02-21**|**On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches**|Florian Hofherr et.al.|[2502.15480v1](http://arxiv.org/abs/2502.15480v1)|null|
+|**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476v1](http://arxiv.org/abs/2502.15476v1)|null|
+|**2025-02-21**|**Correlations of density and current fluctuations in single-file motion of hard spheres and in driven lattice gas with nearest-neighbor interaction**|Sören Schweers et.al.|[2502.15469v1](http://arxiv.org/abs/2502.15469v1)|null|
+|**2025-02-21**|**Modeling Infectious Diseases: From SIR Models to Diffusion-Based Approaches and Numerical Solutions**|Ayesha Baig et.al.|[2502.15439v1](http://arxiv.org/abs/2502.15439v1)|null|
+|**2025-02-21**|**Semi-implicit relaxed finite volume schemes for hyperbolic multi-scale systems of conservation laws**|Andrea Thomann et.al.|[2502.15402v1](http://arxiv.org/abs/2502.15402v1)|null|
+|**2025-02-21**|**Spatially Controlled Evolution of Composite Materials via Stochastic Partial Differential Equations**|Nacira Agram et.al.|[2502.15351v1](http://arxiv.org/abs/2502.15351v1)|null|
+|**2025-02-21**|**BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**|Tonghan Wang et.al.|[2502.15283v1](http://arxiv.org/abs/2502.15283v1)|null|
+|**2025-02-21**|**CopyJudge: Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models**|Shunchang Liu et.al.|[2502.15278v1](http://arxiv.org/abs/2502.15278v1)|null|
+|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204v1](http://arxiv.org/abs/2502.15204v1)|null|
+|**2025-02-21**|**Spectrum of Lévy-Ornstein-Uhlenbeck semigroups on $\mathbb{R}^d$**|Rohan Sarkar et.al.|[2502.15183v1](http://arxiv.org/abs/2502.15183v1)|null|
+|**2025-02-21**|**Methods and Trends in Detecting Generated Images: A Comprehensive Review**|Arpan Mahara et.al.|[2502.15176v1](http://arxiv.org/abs/2502.15176v1)|null|
+|**2025-02-21**|**Quantum Emitters in Flux Grown hBN**|Evan Williams et.al.|[2502.15171v1](http://arxiv.org/abs/2502.15171v1)|null|
+|**2025-02-21**|**Optimized Pap Smear Image Enhancement: Hybrid PMD Filter-CLAHE Using Spider Monkey Optimization**|Ach Khozaimi et.al.|[2502.15156v1](http://arxiv.org/abs/2502.15156v1)|null|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844v1](http://arxiv.org/abs/2502.14844v1)|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831v1](http://arxiv.org/abs/2502.14831v1)|null|
 |**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801v2](http://arxiv.org/abs/2502.14801v2)|null|
@@ -3195,7 +3215,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659v1](http://arxiv.org/abs/2502.14659v1)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484v1](http://arxiv.org/abs/2502.15484v1)|null|
+|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204v1](http://arxiv.org/abs/2502.15204v1)|null|
+|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659v1](http://arxiv.org/abs/2502.14659v1)|**[link](https://github.com/robert-graf/mago-sp)**|
 |**2025-02-20**|**Bayesian SegNet for Semantic Segmentation with Improved Interpretation of Microstructural Evolution During Irradiation of Materials**|Marjolein Oostrom et.al.|[2502.14184v1](http://arxiv.org/abs/2502.14184v1)|null|
 |**2025-02-18**|**Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**|Danli Shi et.al.|[2502.13182v1](http://arxiv.org/abs/2502.13182v1)|null|
 |**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632v1](http://arxiv.org/abs/2502.12632v1)|null|
