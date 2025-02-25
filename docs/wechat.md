@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-24, **GCC: Generative Color Constancy via Diffusing a Color Checker**, Chen-Wei Chang et.al., Paper: [http://arxiv.org/abs/2502.17435v1](http://arxiv.org/abs/2502.17435v1)
+- 2025-02-24, **S4S: Solving for a Diffusion Model Solver**, Eric Frankel et.al., Paper: [http://arxiv.org/abs/2502.17423v1](http://arxiv.org/abs/2502.17423v1)
+- 2025-02-24, **X-Dancer: Expressive Music to Human Dance Video Generation**, Zeyuan Chen et.al., Paper: [http://arxiv.org/abs/2502.17414v1](http://arxiv.org/abs/2502.17414v1)
+- 2025-02-24, **Singular diffusion limit of a tagged particle in zero range processes with Sinai-type random environment**, Marcel Hudiani et.al., Paper: [http://arxiv.org/abs/2502.17365v1](http://arxiv.org/abs/2502.17365v1)
+- 2025-02-24, **HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation**, Minyeong Hwang et.al., Paper: [http://arxiv.org/abs/2502.17349v1](http://arxiv.org/abs/2502.17349v1)
+- 2025-02-24, **AnyTop: Character Animation Diffusion with Any Topology**, Inbar Gat et.al., Paper: [http://arxiv.org/abs/2502.17327v1](http://arxiv.org/abs/2502.17327v1)
+- 2025-02-24, **Photoluminescence efficiency of MBE-grown MoSe$_2$ monolayers featuring sharp excitonic lines and diverse grain structures**, Mateusz Raczyński et.al., Paper: [http://arxiv.org/abs/2502.17314v1](http://arxiv.org/abs/2502.17314v1)
+- 2025-02-24, **A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE) XVII. Statistical properties of individual HII regions in unperturbed systems**, A. Boselli et.al., Paper: [http://arxiv.org/abs/2502.17299v1](http://arxiv.org/abs/2502.17299v1)
+- 2025-02-24, **Integrating protein sequence embeddings with structure via graph-based deep learning for the prediction of single-residue properties**, Kevin Michalewicz et.al., Paper: [http://arxiv.org/abs/2502.17294v1](http://arxiv.org/abs/2502.17294v1)
+- 2025-02-24, **Exponential mixing by random cellular flows**, Víctor Navarro-Fernández et.al., Paper: [http://arxiv.org/abs/2502.17273v1](http://arxiv.org/abs/2502.17273v1)
+- 2025-02-24, **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**, Xiangpeng Yang et.al., Paper: [http://arxiv.org/abs/2502.17258v1](http://arxiv.org/abs/2502.17258v1)
+- 2025-02-24, **A hyperbolic model for two-layer thin film flow with a perfectly soluble anti-surfactant**, Rahul Barthwal et.al., Paper: [http://arxiv.org/abs/2502.17205v1](http://arxiv.org/abs/2502.17205v1)
+- 2025-02-24, **Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**, Baptiste Chopin et.al., Paper: [http://arxiv.org/abs/2502.17198v1](http://arxiv.org/abs/2502.17198v1)
+- 2025-02-24, **Thermoelectric and heavy quark transport coefficients of hot QCD matter in the presence of magnetic field**, Debarshi Dey et.al., Paper: [http://arxiv.org/abs/2502.17158v1](http://arxiv.org/abs/2502.17158v1)
+- 2025-02-24, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v1](http://arxiv.org/abs/2502.17157v1), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
+- 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1)
+- 2025-02-24, **Strong convergence of the adaptive Milstein method for nonlinear stochastic differential equations with piecewise continuous arguments**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2502.17126v1](http://arxiv.org/abs/2502.17126v1)
+- 2025-02-24, **Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**, Zhong Li et.al., Paper: [http://arxiv.org/abs/2502.17119v1](http://arxiv.org/abs/2502.17119v1)
+- 2025-02-24, **SFLD: Reducing the content bias for AI-generated Image Detection**, Seoyeon Gye et.al., Paper: [http://arxiv.org/abs/2502.17105v1](http://arxiv.org/abs/2502.17105v1)
+- 2025-02-24, **Generative Models in Decision Making: A Survey**, Yinchuan Li et.al., Paper: [http://arxiv.org/abs/2502.17100v1](http://arxiv.org/abs/2502.17100v1)
 - 2025-02-21, **One-step Diffusion Models with $f$-Divergence Distribution Matching**, Yilun Xu et.al., Paper: [http://arxiv.org/abs/2502.15681v1](http://arxiv.org/abs/2502.15681v1)
 - 2025-02-21, **AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**, Luka Grbcic et.al., Paper: [http://arxiv.org/abs/2502.15643v1](http://arxiv.org/abs/2502.15643v1)
 - 2025-02-21, **The SARAO MeerKAT Galactic Plane Survey extended source catalogue**, C. Bordiu et.al., Paper: [http://arxiv.org/abs/2502.15640v1](http://arxiv.org/abs/2502.15640v1)
@@ -12750,6 +12770,11 @@
 
 ## Diffusion_Segment
 
+- 2025-02-24, **AnyTop: Character Animation Diffusion with Any Topology**, Inbar Gat et.al., Paper: [http://arxiv.org/abs/2502.17327v1](http://arxiv.org/abs/2502.17327v1)
+- 2025-02-24, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v1](http://arxiv.org/abs/2502.17157v1), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
+- 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1)
+- 2025-02-24, **SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**, Wendi Liu et.al., Paper: [http://arxiv.org/abs/2502.17056v1](http://arxiv.org/abs/2502.17056v1)
+- 2025-02-22, **USegMix: Unsupervised Segment Mix for Efficient Data Augmentation in Pathology Images**, Jiamu Wang et.al., Paper: [http://arxiv.org/abs/2502.16160v1](http://arxiv.org/abs/2502.16160v1)
 - 2025-02-21, **Confidence-Based Annotation Of Brain Tumours In Ultrasound**, Alistair Weld et.al., Paper: [http://arxiv.org/abs/2502.15484v1](http://arxiv.org/abs/2502.15484v1)
 - 2025-02-21, **Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**, Yifan Jiang et.al., Paper: [http://arxiv.org/abs/2502.15204v1](http://arxiv.org/abs/2502.15204v1)
 - 2025-02-20, **MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**, Robert Graf et.al., Paper: [http://arxiv.org/abs/2502.14659v1](http://arxiv.org/abs/2502.14659v1), Code: **[https://github.com/robert-graf/mago-sp](https://github.com/robert-graf/mago-sp)**
