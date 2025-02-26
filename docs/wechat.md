@@ -1,4 +1,4 @@
-> Updated on 2025.02.25
+> Updated on 2025.02.26
 
 ## Video_Classification
 
@@ -9555,10 +9555,10 @@
 - 2025-02-24, **A hyperbolic model for two-layer thin film flow with a perfectly soluble anti-surfactant**, Rahul Barthwal et.al., Paper: [http://arxiv.org/abs/2502.17205v1](http://arxiv.org/abs/2502.17205v1)
 - 2025-02-24, **Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**, Baptiste Chopin et.al., Paper: [http://arxiv.org/abs/2502.17198v1](http://arxiv.org/abs/2502.17198v1)
 - 2025-02-24, **Thermoelectric and heavy quark transport coefficients of hot QCD matter in the presence of magnetic field**, Debarshi Dey et.al., Paper: [http://arxiv.org/abs/2502.17158v1](http://arxiv.org/abs/2502.17158v1)
-- 2025-02-24, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v1](http://arxiv.org/abs/2502.17157v1), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
+- 2025-02-25, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v2](http://arxiv.org/abs/2502.17157v2), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
 - 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1)
 - 2025-02-24, **Strong convergence of the adaptive Milstein method for nonlinear stochastic differential equations with piecewise continuous arguments**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2502.17126v1](http://arxiv.org/abs/2502.17126v1)
-- 2025-02-24, **Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**, Zhong Li et.al., Paper: [http://arxiv.org/abs/2502.17119v1](http://arxiv.org/abs/2502.17119v1)
+- 2025-02-24, **Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**, Zhong Li et.al., Paper: [http://arxiv.org/abs/2502.17119v1](http://arxiv.org/abs/2502.17119v1), Code: **[https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**
 - 2025-02-24, **SFLD: Reducing the content bias for AI-generated Image Detection**, Seoyeon Gye et.al., Paper: [http://arxiv.org/abs/2502.17105v1](http://arxiv.org/abs/2502.17105v1)
 - 2025-02-24, **Generative Models in Decision Making: A Survey**, Yinchuan Li et.al., Paper: [http://arxiv.org/abs/2502.17100v1](http://arxiv.org/abs/2502.17100v1)
 - 2025-02-21, **One-step Diffusion Models with $f$-Divergence Distribution Matching**, Yilun Xu et.al., Paper: [http://arxiv.org/abs/2502.15681v1](http://arxiv.org/abs/2502.15681v1)
@@ -12771,12 +12771,12 @@
 ## Diffusion_Segment
 
 - 2025-02-24, **AnyTop: Character Animation Diffusion with Any Topology**, Inbar Gat et.al., Paper: [http://arxiv.org/abs/2502.17327v1](http://arxiv.org/abs/2502.17327v1)
-- 2025-02-24, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v1](http://arxiv.org/abs/2502.17157v1), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
+- 2025-02-25, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v2](http://arxiv.org/abs/2502.17157v2), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
 - 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1)
 - 2025-02-24, **SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**, Wendi Liu et.al., Paper: [http://arxiv.org/abs/2502.17056v1](http://arxiv.org/abs/2502.17056v1)
 - 2025-02-22, **USegMix: Unsupervised Segment Mix for Efficient Data Augmentation in Pathology Images**, Jiamu Wang et.al., Paper: [http://arxiv.org/abs/2502.16160v1](http://arxiv.org/abs/2502.16160v1)
 - 2025-02-21, **Confidence-Based Annotation Of Brain Tumours In Ultrasound**, Alistair Weld et.al., Paper: [http://arxiv.org/abs/2502.15484v1](http://arxiv.org/abs/2502.15484v1)
-- 2025-02-21, **Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**, Yifan Jiang et.al., Paper: [http://arxiv.org/abs/2502.15204v1](http://arxiv.org/abs/2502.15204v1)
+- 2025-02-21, **Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**, Yifan Jiang et.al., Paper: [http://arxiv.org/abs/2502.15204v1](http://arxiv.org/abs/2502.15204v1), Code: **[https://github.com/manem-lab/lung-ddpm](https://github.com/manem-lab/lung-ddpm)**
 - 2025-02-20, **MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**, Robert Graf et.al., Paper: [http://arxiv.org/abs/2502.14659v1](http://arxiv.org/abs/2502.14659v1), Code: **[https://github.com/robert-graf/mago-sp](https://github.com/robert-graf/mago-sp)**
 - 2025-02-20, **Bayesian SegNet for Semantic Segmentation with Improved Interpretation of Microstructural Evolution During Irradiation of Materials**, Marjolein Oostrom et.al., Paper: [http://arxiv.org/abs/2502.14184v1](http://arxiv.org/abs/2502.14184v1)
 - 2025-02-18, **Fundus2Globe: Generative AI-Driven 3D Digital Twins for Personalized Myopia Management**, Danli Shi et.al., Paper: [http://arxiv.org/abs/2502.13182v1](http://arxiv.org/abs/2502.13182v1)
