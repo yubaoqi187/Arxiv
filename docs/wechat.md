@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-26, **Measurements of extreme first passage times in photon transport**, Aileen N. Carroll-Godfrey et.al., Paper: [http://arxiv.org/abs/2502.19359v1](http://arxiv.org/abs/2502.19359v1)
+- 2025-02-26, **Time-Reversal Mirror inside a granular suspension: a way of measuring the ultrasound diffusion coefficient**, Y. Abraham et.al., Paper: [http://arxiv.org/abs/2502.19304v1](http://arxiv.org/abs/2502.19304v1)
+- 2025-02-26, **General diffusions on the star graph as time-changed Walsh Brownian motion**, Alexis Anagnostakis et.al., Paper: [http://arxiv.org/abs/2502.19299v1](http://arxiv.org/abs/2502.19299v1)
+- 2025-02-26, **Second order in time finite element schemes for curve shortening flow and curve diffusion**, Klaus Deckelnick et.al., Paper: [http://arxiv.org/abs/2502.19277v1](http://arxiv.org/abs/2502.19277v1)
+- 2025-02-26, **Limits and challenges of the detection of cluster-scale diffuse radio emission at high redshift: The Massive and Distant Clusters of WISE Survey (MaDCoWS) in LoTSS-DR2**, G. Di Gennaro et.al., Paper: [http://arxiv.org/abs/2502.19273v1](http://arxiv.org/abs/2502.19273v1)
+- 2025-02-26, **U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**, Solomon Asghar et.al., Paper: [http://arxiv.org/abs/2502.19253v1](http://arxiv.org/abs/2502.19253v1)
+- 2025-02-26, **HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**, Zekang Weng et.al., Paper: [http://arxiv.org/abs/2502.19200v1](http://arxiv.org/abs/2502.19200v1)
+- 2025-02-26, **The size of the continuum emission region and its scaling relations with active galactic nucleus luminosity and the broad-line region size**, Amit Kumar Mandal et.al., Paper: [http://arxiv.org/abs/2502.19184v1](http://arxiv.org/abs/2502.19184v1)
+- 2025-02-26, **RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**, Yuhan Tang et.al., Paper: [http://arxiv.org/abs/2502.19153v1](http://arxiv.org/abs/2502.19153v1)
+- 2025-02-26, **Quantifying local heterogeneities in the 3D morphology of X-PVMPT battery electrodes based on FIB-SEM measurements**, L. Dodell et.al., Paper: [http://arxiv.org/abs/2502.19085v1](http://arxiv.org/abs/2502.19085v1)
+- 2025-02-26, **Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science**, Fraser Birks et.al., Paper: [http://arxiv.org/abs/2502.19081v1](http://arxiv.org/abs/2502.19081v1)
+- 2025-02-26, **Modulation of the galactic cosmic ray spectrum in an anisotropic diffusion approach**, V. D. Borisov et.al., Paper: [http://arxiv.org/abs/2502.19062v1](http://arxiv.org/abs/2502.19062v1)
+- 2025-02-26, **Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation**, Patrick Seifner et.al., Paper: [http://arxiv.org/abs/2502.19049v1](http://arxiv.org/abs/2502.19049v1)
+- 2025-02-26, **A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**, Vu Tuan Truong Long et.al., Paper: [http://arxiv.org/abs/2502.19047v1](http://arxiv.org/abs/2502.19047v1)
+- 2025-02-26, **On conservative, stable boundary and coupling conditions for diffusion equations I -- The conservation property for explicit schemes**, Taj Munir et.al., Paper: [http://arxiv.org/abs/2502.19003v1](http://arxiv.org/abs/2502.19003v1)
+- 2025-02-26, **DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model**, Lei Zhao et.al., Paper: [http://arxiv.org/abs/2502.18952v1](http://arxiv.org/abs/2502.18952v1)
+- 2025-02-26, **Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**, Ziyue Jiang et.al., Paper: [http://arxiv.org/abs/2502.18924v1](http://arxiv.org/abs/2502.18924v1)
+- 2025-02-26, **Machine Learning a Phosphor's Excitation Band Position**, Nakyung Lee et.al., Paper: [http://arxiv.org/abs/2502.18859v1](http://arxiv.org/abs/2502.18859v1)
+- 2025-02-26, **Physics-Aware Inverse Design for Nanowire Single-Photon Avalanche Detectors via Deep Learning**, Boyang Zhang et.al., Paper: [http://arxiv.org/abs/2502.18857v1](http://arxiv.org/abs/2502.18857v1)
+- 2025-02-26, **Optimal Stochastic Trace Estimation in Generative Modeling**, Xinyang Liu et.al., Paper: [http://arxiv.org/abs/2502.18808v1](http://arxiv.org/abs/2502.18808v1)
 - 2025-02-25, **K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**, Ziheng Ouyang et.al., Paper: [http://arxiv.org/abs/2502.18461v1](http://arxiv.org/abs/2502.18461v1)
 - 2025-02-25, **Broadband surface phonon spectroscopy by time-domain extreme ultraviolet diffuse scattering**, F. Capotondi et.al., Paper: [http://arxiv.org/abs/2502.18445v1](http://arxiv.org/abs/2502.18445v1)
 - 2025-02-25, **ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**, Pedro Sequeira et.al., Paper: [http://arxiv.org/abs/2502.18438v1](http://arxiv.org/abs/2502.18438v1)
@@ -12790,6 +12810,7 @@
 
 ## Diffusion_Segment
 
+- 2025-02-26, **U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**, Solomon Asghar et.al., Paper: [http://arxiv.org/abs/2502.19253v1](http://arxiv.org/abs/2502.19253v1)
 - 2025-02-25, **Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**, Jia Yu et.al., Paper: [http://arxiv.org/abs/2502.17951v1](http://arxiv.org/abs/2502.17951v1)
 - 2025-02-24, **AnyTop: Character Animation Diffusion with Any Topology**, Inbar Gat et.al., Paper: [http://arxiv.org/abs/2502.17327v1](http://arxiv.org/abs/2502.17327v1)
 - 2025-02-25, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v2](http://arxiv.org/abs/2502.17157v2), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
