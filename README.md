@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376v1](http://arxiv.org/abs/2502.20376v1)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371v1](http://arxiv.org/abs/2502.20371v1)|null|
+|**2025-02-27**|**Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation**|Zhi Cen et.al.|[2502.20370v1](http://arxiv.org/abs/2502.20370v1)|null|
+|**2025-02-27**|**ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**|Xuangeng Chu et.al.|[2502.20323v1](http://arxiv.org/abs/2502.20323v1)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307v1](http://arxiv.org/abs/2502.20307v1)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277v1](http://arxiv.org/abs/2502.20277v1)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235v1](http://arxiv.org/abs/2502.20235v1)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**DGFM: Full Body Dance Generation Driven by Music Foundation Models**|Xinran Liu et.al.|[2502.20176v1](http://arxiv.org/abs/2502.20176v1)|null|
+|**2025-02-27**|**Strong-damping limit of quantum Brownian motion in a disordered environment**|Arthur M. Faria et.al.|[2502.20174v1](http://arxiv.org/abs/2502.20174v1)|null|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172v1](http://arxiv.org/abs/2502.20172v1)|null|
+|**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126v1](http://arxiv.org/abs/2502.20126v1)|null|
+|**2025-02-27**|**Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise**|Timo Schorlepp et.al.|[2502.20114v1](http://arxiv.org/abs/2502.20114v1)|null|
+|**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108v1](http://arxiv.org/abs/2502.20108v1)|null|
+|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100v1](http://arxiv.org/abs/2502.20100v1)|null|
+|**2025-02-27**|**Fiber-based Ultra-High Speed Diffuse Speckle Contrast Analysis System for Deep Blood Flow Sensing Using a Large SPAD Camera**|Quan Wang et.al.|[2502.20048v1](http://arxiv.org/abs/2502.20048v1)|null|
+|**2025-02-27**|**Global existence of martingale solutions to stochastic keller-segel system with degenerate diffusion**|Jinhuan Wang et.al.|[2502.20042v1](http://arxiv.org/abs/2502.20042v1)|null|
+|**2025-02-27**|**On Malliavin differentiability and absolute continuity of one-dimensional doubly perturbed diffusion processes**|Rachid Belfadli et.al.|[2502.19999v1](http://arxiv.org/abs/2502.19999v1)|null|
+|**2025-02-27**|**On Designing Novel ISI-Reducing Single Error Correcting Codes in an MCvD System**|Tamoghno Nath et.al.|[2502.19943v1](http://arxiv.org/abs/2502.19943v1)|null|
 |**2025-02-26**|**Measurements of extreme first passage times in photon transport**|Aileen N. Carroll-Godfrey et.al.|[2502.19359v1](http://arxiv.org/abs/2502.19359v1)|null|
 |**2025-02-26**|**Time-Reversal Mirror inside a granular suspension: a way of measuring the ultrasound diffusion coefficient**|Y. Abraham et.al.|[2502.19304v1](http://arxiv.org/abs/2502.19304v1)|null|
 |**2025-02-26**|**General diffusions on the star graph as time-changed Walsh Brownian motion**|Alexis Anagnostakis et.al.|[2502.19299v1](http://arxiv.org/abs/2502.19299v1)|null|
@@ -3275,6 +3295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100v1](http://arxiv.org/abs/2502.20100v1)|null|
 |**2025-02-26**|**U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**|Solomon Asghar et.al.|[2502.19253v1](http://arxiv.org/abs/2502.19253v1)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951v1](http://arxiv.org/abs/2502.17951v1)|null|
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327v1](http://arxiv.org/abs/2502.17327v1)|null|
