@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 
 ## Diffusion
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-02-26**|**U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**|Solomon Asghar et.al.|[2502.19253v1](http://arxiv.org/abs/2502.19253v1)|null|
 |**2025-02-26**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al.|[2502.19200v1](http://arxiv.org/abs/2502.19200v1)|null|
 |**2025-02-26**|**The size of the continuum emission region and its scaling relations with active galactic nucleus luminosity and the broad-line region size**|Amit Kumar Mandal et.al.|[2502.19184v1](http://arxiv.org/abs/2502.19184v1)|null|
-|**2025-02-26**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153v1](http://arxiv.org/abs/2502.19153v1)|null|
+|**2025-02-27**|**RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images**|Yuhan Tang et.al.|[2502.19153v2](http://arxiv.org/abs/2502.19153v2)|null|
 |**2025-02-26**|**Quantifying local heterogeneities in the 3D morphology of X-PVMPT battery electrodes based on FIB-SEM measurements**|L. Dodell et.al.|[2502.19085v1](http://arxiv.org/abs/2502.19085v1)|null|
 |**2025-02-26**|**Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science**|Fraser Birks et.al.|[2502.19081v1](http://arxiv.org/abs/2502.19081v1)|null|
 |**2025-02-26**|**Modulation of the galactic cosmic ray spectrum in an anisotropic diffusion approach**|V. D. Borisov et.al.|[2502.19062v1](http://arxiv.org/abs/2502.19062v1)|null|
