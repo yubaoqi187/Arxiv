@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 
 ## Diffusion
 
@@ -3301,7 +3301,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100v1](http://arxiv.org/abs/2502.20100v1)|null|
 |**2025-02-26**|**U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**|Solomon Asghar et.al.|[2502.19253v1](http://arxiv.org/abs/2502.19253v1)|null|
-|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951v1](http://arxiv.org/abs/2502.17951v1)|null|
+|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951v1](http://arxiv.org/abs/2502.17951v1)|**[link](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)**|
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327v1](http://arxiv.org/abs/2502.17327v1)|null|
 |**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157v2](http://arxiv.org/abs/2502.17157v2)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Diffusion-Shock Filtering on the Space of Positions and Orientations**|Finn M. Sherry et.al.|[2502.17146v1](http://arxiv.org/abs/2502.17146v1)|null|
