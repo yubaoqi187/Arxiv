@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-02-28, **Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2502.21314v1](http://arxiv.org/abs/2502.21314v1)
+- 2025-02-28, **Oscillatory finite-time singularities in rockbursts**, Qinghua Lei et.al., Paper: [http://arxiv.org/abs/2502.21296v1](http://arxiv.org/abs/2502.21296v1)
+- 2025-02-28, **MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**, Xueyun Tian et.al., Paper: [http://arxiv.org/abs/2502.21291v1](http://arxiv.org/abs/2502.21291v1)
+- 2025-02-28, **Flow-Driven Rotor Simulations of Seyi-Chunlei Ducted Turbine**, Seyi Oluwadare et.al., Paper: [http://arxiv.org/abs/2502.21289v1](http://arxiv.org/abs/2502.21289v1)
+- 2025-02-28, **Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**, Kulin Shah et.al., Paper: [http://arxiv.org/abs/2502.21278v1](http://arxiv.org/abs/2502.21278v1)
+- 2025-02-28, **Log-Periodic Precursors to Volcanic Eruptions: Evidence from 34 Events**, Qinghua Lei et.al., Paper: [http://arxiv.org/abs/2502.21277v1](http://arxiv.org/abs/2502.21277v1)
+- 2025-02-28, **PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**, Boxiao Yu et.al., Paper: [http://arxiv.org/abs/2502.21260v1](http://arxiv.org/abs/2502.21260v1)
+- 2025-02-28, **Short-Rate Derivatives in a Higher-for-Longer Environment**, Aram Karakhanyan et.al., Paper: [http://arxiv.org/abs/2502.21252v1](http://arxiv.org/abs/2502.21252v1)
+- 2025-02-28, **Stability of axial free-boundary hyperplanes in convex circular cones**, Gian Paolo Leonardi et.al., Paper: [http://arxiv.org/abs/2502.21205v1](http://arxiv.org/abs/2502.21205v1)
+- 2025-02-28, **Sub-elliptic diffusions on compact groups via Dirichlet form perturbation**, Qi Hou et.al., Paper: [http://arxiv.org/abs/2502.21152v1](http://arxiv.org/abs/2502.21152v1)
+- 2025-02-28, **A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**, Zineb Sordo et.al., Paper: [http://arxiv.org/abs/2502.21151v1](http://arxiv.org/abs/2502.21151v1)
+- 2025-02-28, **Tracks to Modernity: Railroads, Growth, and Social Movements in Denmark**, Tom Görges et.al., Paper: [http://arxiv.org/abs/2502.21141v1](http://arxiv.org/abs/2502.21141v1)
+- 2025-02-28, **Microscopic Propagator Imaging (MPI) with Diffusion MRI**, Tommaso Zajac et.al., Paper: [http://arxiv.org/abs/2502.21129v1](http://arxiv.org/abs/2502.21129v1)
+- 2025-02-28, **Training-free and Adaptive Sparse Attention for Efficient Long Video Generation**, Yifei Xia et.al., Paper: [http://arxiv.org/abs/2502.21079v1](http://arxiv.org/abs/2502.21079v1)
+- 2025-02-28, **Spatial Reasoning with Denoising Models**, Christopher Wewer et.al., Paper: [http://arxiv.org/abs/2502.21075v1](http://arxiv.org/abs/2502.21075v1)
+- 2025-02-28, **The spatially discrete to continuous limit in the nonlocal quantum diffusion equation**, Daniel Matthes et.al., Paper: [http://arxiv.org/abs/2502.21062v1](http://arxiv.org/abs/2502.21062v1)
+- 2025-02-28, **Bound-state formation and thermalization within the Lindblad approach**, Jan Rais et.al., Paper: [http://arxiv.org/abs/2502.21047v1](http://arxiv.org/abs/2502.21047v1)
+- 2025-02-28, **Sharp Boundary Estimates and Harnack Inequalities for Fractional Porous Medium type Equation**, Matteo Bonforte et.al., Paper: [http://arxiv.org/abs/2502.21023v1](http://arxiv.org/abs/2502.21023v1)
+- 2025-02-28, **Diffusive and Adiabatic Meridional Overturning Circulations in the Cooling Abyss of the Indo-Pacific Ocean**, Lei Han et.al., Paper: [http://arxiv.org/abs/2502.21006v1](http://arxiv.org/abs/2502.21006v1)
+- 2025-02-28, **Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection**, Fuyun Wang et.al., Paper: [http://arxiv.org/abs/2502.20981v1](http://arxiv.org/abs/2502.20981v1)
 - 2025-02-27, **Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**, Lujie Yang et.al., Paper: [http://arxiv.org/abs/2502.20382v1](http://arxiv.org/abs/2502.20382v1)
 - 2025-02-27, **Tight Inversion: Image-Conditioned Inversion for Real Image Editing**, Edo Kadosh et.al., Paper: [http://arxiv.org/abs/2502.20376v1](http://arxiv.org/abs/2502.20376v1)
 - 2025-02-27, **Constrained Generative Modeling with Manually Bridged Diffusion Models**, Saeid Naderiparizi et.al., Paper: [http://arxiv.org/abs/2502.20371v1](http://arxiv.org/abs/2502.20371v1)
@@ -12830,12 +12850,12 @@
 
 ## Diffusion_Segment
 
-- 2025-02-27, **Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**, Gilles Van De Vyver et.al., Paper: [http://arxiv.org/abs/2502.20100v1](http://arxiv.org/abs/2502.20100v1)
+- 2025-02-27, **Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**, Gilles Van De Vyver et.al., Paper: [http://arxiv.org/abs/2502.20100v1](http://arxiv.org/abs/2502.20100v1), Code: **[https://github.com/gillesvandevyver/echogains](https://github.com/gillesvandevyver/echogains)**
 - 2025-02-26, **U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**, Solomon Asghar et.al., Paper: [http://arxiv.org/abs/2502.19253v1](http://arxiv.org/abs/2502.19253v1)
-- 2025-02-25, **Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**, Jia Yu et.al., Paper: [http://arxiv.org/abs/2502.17951v1](http://arxiv.org/abs/2502.17951v1), Code: **[https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)**
+- 2025-02-25, **Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**, Jia Yu et.al., Paper: [http://arxiv.org/abs/2502.17951v1](http://arxiv.org/abs/2502.17951v1)
 - 2025-02-24, **AnyTop: Character Animation Diffusion with Any Topology**, Inbar Gat et.al., Paper: [http://arxiv.org/abs/2502.17327v1](http://arxiv.org/abs/2502.17327v1)
 - 2025-02-25, **DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**, Canyu Zhao et.al., Paper: [http://arxiv.org/abs/2502.17157v2](http://arxiv.org/abs/2502.17157v2), Code: **[https://github.com/aim-uofa/Diception](https://github.com/aim-uofa/Diception)**
-- 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1)
+- 2025-02-24, **Diffusion-Shock Filtering on the Space of Positions and Orientations**, Finn M. Sherry et.al., Paper: [http://arxiv.org/abs/2502.17146v1](http://arxiv.org/abs/2502.17146v1), Code: **[https://github.com/finnsherry/M2RDSFiltering](https://github.com/finnsherry/M2RDSFiltering)**
 - 2025-02-24, **SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**, Wendi Liu et.al., Paper: [http://arxiv.org/abs/2502.17056v1](http://arxiv.org/abs/2502.17056v1)
 - 2025-02-22, **USegMix: Unsupervised Segment Mix for Efficient Data Augmentation in Pathology Images**, Jiamu Wang et.al., Paper: [http://arxiv.org/abs/2502.16160v1](http://arxiv.org/abs/2502.16160v1)
 - 2025-02-21, **Confidence-Based Annotation Of Brain Tumours In Ultrasound**, Alistair Weld et.al., Paper: [http://arxiv.org/abs/2502.15484v1](http://arxiv.org/abs/2502.15484v1)
