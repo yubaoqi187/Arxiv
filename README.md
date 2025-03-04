@@ -6,13 +6,13 @@
 |---|---|---|---|---|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314v1](http://arxiv.org/abs/2502.21314v1)|null|
 |**2025-02-28**|**Oscillatory finite-time singularities in rockbursts**|Qinghua Lei et.al.|[2502.21296v1](http://arxiv.org/abs/2502.21296v1)|null|
-|**2025-02-28**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291v1](http://arxiv.org/abs/2502.21291v1)|null|
+|**2025-03-03**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291v2](http://arxiv.org/abs/2502.21291v2)|null|
 |**2025-02-28**|**Flow-Driven Rotor Simulations of Seyi-Chunlei Ducted Turbine**|Seyi Oluwadare et.al.|[2502.21289v1](http://arxiv.org/abs/2502.21289v1)|null|
 |**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278v1](http://arxiv.org/abs/2502.21278v1)|null|
 |**2025-02-28**|**Log-Periodic Precursors to Volcanic Eruptions: Evidence from 34 Events**|Qinghua Lei et.al.|[2502.21277v1](http://arxiv.org/abs/2502.21277v1)|null|
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260v1](http://arxiv.org/abs/2502.21260v1)|null|
 |**2025-02-28**|**Short-Rate Derivatives in a Higher-for-Longer Environment**|Aram Karakhanyan et.al.|[2502.21252v1](http://arxiv.org/abs/2502.21252v1)|null|
-|**2025-02-28**|**Stability of axial free-boundary hyperplanes in convex circular cones**|Gian Paolo Leonardi et.al.|[2502.21205v1](http://arxiv.org/abs/2502.21205v1)|null|
+|**2025-03-03**|**Stability of axial free-boundary hyperplanes in circular cones**|Gian Paolo Leonardi et.al.|[2502.21205v2](http://arxiv.org/abs/2502.21205v2)|null|
 |**2025-02-28**|**Sub-elliptic diffusions on compact groups via Dirichlet form perturbation**|Qi Hou et.al.|[2502.21152v1](http://arxiv.org/abs/2502.21152v1)|null|
 |**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151v1](http://arxiv.org/abs/2502.21151v1)|null|
 |**2025-02-28**|**Tracks to Modernity: Railroads, Growth, and Social Movements in Denmark**|Tom Görges et.al.|[2502.21141v1](http://arxiv.org/abs/2502.21141v1)|null|
