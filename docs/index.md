@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732v1](http://arxiv.org/abs/2503.03732v1)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708v1](http://arxiv.org/abs/2503.03708v1)|null|
+|**2025-03-05**|**Capturing methane in a barn environment: the CH4 Livestock Emission (CH4rLiE) project**|Francesco Alessandro Angiulli et.al.|[2503.03692v1](http://arxiv.org/abs/2503.03692v1)|null|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
+|**2025-03-05**|**Lithographically-controlled liquid metal diffusion in graphene: Fabrication and magneto-transport signatures of superconductivity**|S. Wundrack et.al.|[2503.03665v1](http://arxiv.org/abs/2503.03665v1)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664v1](http://arxiv.org/abs/2503.03664v1)|null|
+|**2025-03-05**|**New routes for PN destruction and formation in the ISM via neutral-neutral gas-phase reactions and an extended database for reactions involving phosphorus**|Mateus X. Silva et.al.|[2503.03635v1](http://arxiv.org/abs/2503.03635v1)|null|
+|**2025-03-05**|**Theory of Cation Solvation in the Helmholtz Layer of Li-ion Battery Electrolytes**|Zachary A. H. Goodwin et.al.|[2503.03616v1](http://arxiv.org/abs/2503.03616v1)|null|
+|**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595v1](http://arxiv.org/abs/2503.03595v1)|null|
+|**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579v1](http://arxiv.org/abs/2503.03579v1)|null|
+|**2025-03-05**|**Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction**|Linyu Fan et.al.|[2503.03475v1](http://arxiv.org/abs/2503.03475v1)|null|
+|**2025-03-05**|**A semi-adaptive finite difference method for simulating two-sided fractional convection-diffusion quenching problems**|Rumin Dong et.al.|[2503.03468v1](http://arxiv.org/abs/2503.03468v1)|null|
+|**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464v1](http://arxiv.org/abs/2503.03464v1)|null|
+|**2025-03-05**|**Revisiting the globular clusters of NGC1052-DF2**|K. Fahrion et.al.|[2503.03404v1](http://arxiv.org/abs/2503.03404v1)|null|
+|**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367v1](http://arxiv.org/abs/2503.03367v1)|null|
+|**2025-03-05**|**Momentum-Resolved Signatures of Carrier Screening Effects on Electron-Phonon Coupling in MoS$_2$**|Yiming Pan et.al.|[2503.03363v1](http://arxiv.org/abs/2503.03363v1)|null|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355v1](http://arxiv.org/abs/2503.03355v1)|null|
+|**2025-03-05**|**Drift estimation for rough processes under small noise asymptotic: trajectory fitting method**|Arnaud Gloter et.al.|[2503.03347v1](http://arxiv.org/abs/2503.03347v1)|null|
+|**2025-03-05**|**Quantitative Magnetohydrodynamic Modelling of Flux Pumping in ASDEX Upgrade**|Haowei Zhang et.al.|[2503.03344v1](http://arxiv.org/abs/2503.03344v1)|null|
+|**2025-03-05**|**A parabolic Hardy-Hénon equation with quasilinear degenerate diffusion**|Razvan Gabriel Iagar et.al.|[2503.03343v1](http://arxiv.org/abs/2503.03343v1)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881v1](http://arxiv.org/abs/2503.02881v1)|null|
 |**2025-03-04**|**Critical Dynamics in Short-Range Quadratic Hamiltonians**|Miroslav Hopjan et.al.|[2503.02828v1](http://arxiv.org/abs/2503.02828v1)|null|
 |**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819v1](http://arxiv.org/abs/2503.02819v1)|null|
@@ -3339,6 +3359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
+|**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367v1](http://arxiv.org/abs/2503.03367v1)|null|
+|**2025-03-05**|**GenColor: Generative Color-Concept Association in Visual Design**|Yihan Hou et.al.|[2503.03236v1](http://arxiv.org/abs/2503.03236v1)|null|
 |**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578v1](http://arxiv.org/abs/2503.02578v1)|null|
 |**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345v1](http://arxiv.org/abs/2503.02345v1)|null|
 |**2025-03-03**|**The emergent dynamics of double-folded randomly branching ring polymers**|Elham Ghobadpour et.al.|[2503.01446v1](http://arxiv.org/abs/2503.01446v1)|null|
