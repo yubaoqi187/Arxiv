@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 
 ## Diffusion
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-03-06**|**Annihilation-limited Long-range Exciton Transport in High-mobility Conjugated Copolymer Films**|Yuping Shi et.al.|[2503.04627v1](http://arxiv.org/abs/2503.04627v1)|null|
 |**2025-03-06**|**Numerical investigation of the Brownian $q=2$ Potts Model**|Letian Chen et.al.|[2503.04609v1](http://arxiv.org/abs/2503.04609v1)|null|
 |**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606v1](http://arxiv.org/abs/2503.04606v1)|null|
-|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v1](http://arxiv.org/abs/2503.04499v1)|null|
+|**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|null|
 |**2025-03-06**|**Generalized Interpolating Discrete Diffusion**|Dimitri von Rütte et.al.|[2503.04482v1](http://arxiv.org/abs/2503.04482v1)|null|
 |**2025-03-06**|**Averaged Controllability of the Random Schrödinger Equation with Diffusivity Following Absolutely Continuous Distributions**|Jon Asier Bárcena-Petisco et.al.|[2503.04465v1](http://arxiv.org/abs/2503.04465v1)|null|
 |**2025-03-06**|**An integrable bound for semilinear rough partial differential equations with unbounded diffusion coefficients**|Alexandra Blessing et.al.|[2503.04415v1](http://arxiv.org/abs/2503.04415v1)|null|
@@ -24,7 +24,7 @@ layout: default
 |**2025-03-06**|**Non-parametric kernel density estimation of magnitude distribution for the analysis of seismic hazard posed by anthropogenic seismicity**|Francis Tong et.al.|[2503.04393v1](http://arxiv.org/abs/2503.04393v1)|null|
 |**2025-03-06**|**scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge**|Zhen Yu et.al.|[2503.04357v1](http://arxiv.org/abs/2503.04357v1)|null|
 |**2025-03-06**|**Unveiling the effect of adding B4C at the W-on-Si interface**|Adele Valpreda et.al.|[2503.04356v1](http://arxiv.org/abs/2503.04356v1)|null|
-|**2025-03-06**|**LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding**|Shen Zhang et.al.|[2503.04344v1](http://arxiv.org/abs/2503.04344v1)|null|
+|**2025-03-07**|**LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding**|Shen Zhang et.al.|[2503.04344v2](http://arxiv.org/abs/2503.04344v2)|null|
 |**2025-03-06**|**Guided smoothing and control for diffusion processes**|Oskar Eklund et.al.|[2503.04326v1](http://arxiv.org/abs/2503.04326v1)|**[link](https://github.com/mschauer/GuiSDE.jl)**|
 |**2025-03-06**|**T-MSD: An improved method for ionic diffusion coefficient calculation from molecular dynamics**|Yuxiang Gao et.al.|[2503.04281v1](http://arxiv.org/abs/2503.04281v1)|null|
 |**2025-03-06**|**ControlFill: Spatially Adjustable Image Inpainting from Prompt Learning**|Boseong Jeon et.al.|[2503.04268v1](http://arxiv.org/abs/2503.04268v1)|null|
@@ -3379,7 +3379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v1](http://arxiv.org/abs/2503.04499v1)|null|
+|**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|null|
 |**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785v1](http://arxiv.org/abs/2503.03785v1)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
 |**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367v1](http://arxiv.org/abs/2503.03367v1)|null|
