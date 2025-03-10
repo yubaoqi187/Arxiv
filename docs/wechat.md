@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-07, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v1](http://arxiv.org/abs/2503.05689v1)
+- 2025-03-07, **AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**, Zengqun Zhao et.al., Paper: [http://arxiv.org/abs/2503.05665v1](http://arxiv.org/abs/2503.05665v1)
+- 2025-03-07, **TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**, Mark YU et.al., Paper: [http://arxiv.org/abs/2503.05638v1](http://arxiv.org/abs/2503.05638v1)
+- 2025-03-07, **Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2503.05595v1](http://arxiv.org/abs/2503.05595v1)
+- 2025-03-07, **QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution**, Libo Zhu et.al., Paper: [http://arxiv.org/abs/2503.05584v1](http://arxiv.org/abs/2503.05584v1)
+- 2025-03-07, **Diffusion Models for Cayley Graphs**, Michael R. Douglas et.al., Paper: [http://arxiv.org/abs/2503.05558v1](http://arxiv.org/abs/2503.05558v1)
+- 2025-03-07, **Accelerating db-A$^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**, Julius Franke et.al., Paper: [http://arxiv.org/abs/2503.05539v1](http://arxiv.org/abs/2503.05539v1)
+- 2025-03-07, **Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model**, Guolin Yin et.al., Paper: [http://arxiv.org/abs/2503.05514v1](http://arxiv.org/abs/2503.05514v1)
+- 2025-03-07, **Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**, Md Atik Ahamed et.al., Paper: [http://arxiv.org/abs/2503.05499v1](http://arxiv.org/abs/2503.05499v1)
+- 2025-03-07, **RiLoCo: An ISAC-oriented AI Solution to Build RIS-empowered Networks**, Guillermo Encinas-Lago et.al., Paper: [http://arxiv.org/abs/2503.05480v1](http://arxiv.org/abs/2503.05480v1)
+- 2025-03-07, **Desorption-induced decoherence of nanoparticle motion**, Jonas Schäfer et.al., Paper: [http://arxiv.org/abs/2503.05475v1](http://arxiv.org/abs/2503.05475v1)
+- 2025-03-07, **First-passage-time statistics of active Brownian particles: A perturbative approach**, Yanis Baouche et.al., Paper: [http://arxiv.org/abs/2503.05401v1](http://arxiv.org/abs/2503.05401v1)
+- 2025-03-07, **Phenomenological Scaling Crossovers in Non-Equilibrium Critical Dynamics**, Rong Li et.al., Paper: [http://arxiv.org/abs/2503.05356v1](http://arxiv.org/abs/2503.05356v1)
+- 2025-03-07, **On the $\mathcal R$-boundedness of solution operators for a compressible fluid model of Korteweg type in general domains**, Sri Maryani et.al., Paper: [http://arxiv.org/abs/2503.05352v1](http://arxiv.org/abs/2503.05352v1)
+- 2025-03-07, **CoinRobot: Generalized End-to-end Robotic Learning for Physical Intelligence**, Yu Zhao et.al., Paper: [http://arxiv.org/abs/2503.05316v1](http://arxiv.org/abs/2503.05316v1)
+- 2025-03-07, **A Possible Common Physic Picture Reflected by the Gamma Ray Emission of the Galactic Center**, Lin Nie et.al., Paper: [http://arxiv.org/abs/2503.05261v1](http://arxiv.org/abs/2503.05261v1)
+- 2025-03-07, **Discrete Contrastive Learning for Diffusion Policies in Autonomous Driving**, Kalle Kujanpää et.al., Paper: [http://arxiv.org/abs/2503.05229v1](http://arxiv.org/abs/2503.05229v1)
+- 2025-03-07, **Policy Constraint by Only Support Constraint for Offline Reinforcement Learning**, Yunkai Gao et.al., Paper: [http://arxiv.org/abs/2503.05207v1](http://arxiv.org/abs/2503.05207v1)
+- 2025-03-07, **Accelerating Diffusion Transformer via Gradient-Optimized Cache**, Junxiang Qiu et.al., Paper: [http://arxiv.org/abs/2503.05156v1](http://arxiv.org/abs/2503.05156v1)
+- 2025-03-07, **Generative Trajectory Stitching through Diffusion Composition**, Yunhao Luo et.al., Paper: [http://arxiv.org/abs/2503.05153v1](http://arxiv.org/abs/2503.05153v1)
 - 2025-03-06, **FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**, Yue Gao et.al., Paper: [http://arxiv.org/abs/2503.04720v1](http://arxiv.org/abs/2503.04720v1)
 - 2025-03-06, **Coarse graining and reduced order models for plume ejection dynamics**, Ike Griss Salas et.al., Paper: [http://arxiv.org/abs/2503.04690v1](http://arxiv.org/abs/2503.04690v1)
 - 2025-03-06, **Compositional World Knowledge leads to High Utility Synthetic data**, Sachit Gaudi et.al., Paper: [http://arxiv.org/abs/2503.04687v1](http://arxiv.org/abs/2503.04687v1)
@@ -12910,6 +12930,8 @@
 
 ## Diffusion_Segment
 
+- 2025-03-07, **Generative Trajectory Stitching through Diffusion Composition**, Yunhao Luo et.al., Paper: [http://arxiv.org/abs/2503.05153v1](http://arxiv.org/abs/2503.05153v1)
+- 2025-03-06, **Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**, Siyeop Yoon et.al., Paper: [http://arxiv.org/abs/2503.04966v1](http://arxiv.org/abs/2503.04966v1)
 - 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2)
 - 2025-03-05, **Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**, Steve Andreas Immanuel et.al., Paper: [http://arxiv.org/abs/2503.03785v1](http://arxiv.org/abs/2503.03785v1)
 - 2025-03-05, **DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**, Zhao Yang et.al., Paper: [http://arxiv.org/abs/2503.03689v1](http://arxiv.org/abs/2503.03689v1)
