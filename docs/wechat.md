@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-10, **Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**, Prabhash Kumar et.al., Paper: [http://arxiv.org/abs/2503.07480v1](http://arxiv.org/abs/2503.07480v1)
+- 2025-03-10, **DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**, Feiran You et.al., Paper: [http://arxiv.org/abs/2503.07433v1](http://arxiv.org/abs/2503.07433v1)
+- 2025-03-10, **AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**, Mingzhen Sun et.al., Paper: [http://arxiv.org/abs/2503.07418v1](http://arxiv.org/abs/2503.07418v1)
+- 2025-03-10, **TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**, Shaobin Zhuang et.al., Paper: [http://arxiv.org/abs/2503.07416v1](http://arxiv.org/abs/2503.07416v1)
+- 2025-03-10, **Bound state formation within the Lindblad approach**, Jan Rais et.al., Paper: [http://arxiv.org/abs/2503.07402v1](http://arxiv.org/abs/2503.07402v1)
+- 2025-03-10, **SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models**, Ouxiang Li et.al., Paper: [http://arxiv.org/abs/2503.07392v1](http://arxiv.org/abs/2503.07392v1)
+- 2025-03-10, **PersonaBooth: Personalized Text-to-Motion Generation**, Boeun Kim et.al., Paper: [http://arxiv.org/abs/2503.07390v1](http://arxiv.org/abs/2503.07390v1)
+- 2025-03-10, **TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**, Ruidong Chen et.al., Paper: [http://arxiv.org/abs/2503.07389v1](http://arxiv.org/abs/2503.07389v1)
+- 2025-03-10, **Molecular Weight-Dependent Evaporation Dynamics and Morphology of PEG Sessile Drops on Hydrophobic Substrates**, Feiyu An et.al., Paper: [http://arxiv.org/abs/2503.07372v1](http://arxiv.org/abs/2503.07372v1)
+- 2025-03-10, **AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**, Bo Huang et.al., Paper: [http://arxiv.org/abs/2503.07307v1](http://arxiv.org/abs/2503.07307v1)
+- 2025-03-10, **Is fitting error a reliable metric for assessing deformable motion correction in quantitative MRI?**, Fanwen Wang et.al., Paper: [http://arxiv.org/abs/2503.07293v1](http://arxiv.org/abs/2503.07293v1)
+- 2025-03-10, **Hydrogen Bond Strength Dictates the Rate-Limiting Steps of Diffusion in Proton-Conducting Perovskites:A Critical Length Perspective**, Hang Ma et.al., Paper: [http://arxiv.org/abs/2503.07291v1](http://arxiv.org/abs/2503.07291v1)
+- 2025-03-10, **Efficient Distillation of Classifier-Free Guidance using Adapters**, Cristian Perez Jensen et.al., Paper: [http://arxiv.org/abs/2503.07274v1](http://arxiv.org/abs/2503.07274v1)
+- 2025-03-10, **DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**, Haolin He et.al., Paper: [http://arxiv.org/abs/2503.07263v1](http://arxiv.org/abs/2503.07263v1), Code: **[https://github.com/HarlandZZC/deep_nuclei_parcellation](https://github.com/HarlandZZC/deep_nuclei_parcellation)**
+- 2025-03-10, **Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**, Dariusz Wójcik et.al., Paper: [http://arxiv.org/abs/2503.07255v1](http://arxiv.org/abs/2503.07255v1)
+- 2025-03-10, **AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**, Zhangyu Lai et.al., Paper: [http://arxiv.org/abs/2503.07253v1](http://arxiv.org/abs/2503.07253v1)
+- 2025-03-10, **Stochastic Epidemic Models with Partial Information**, Florent Ouabo Kamkumo et.al., Paper: [http://arxiv.org/abs/2503.07251v1](http://arxiv.org/abs/2503.07251v1)
+- 2025-03-10, **Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**, Chenglu Pan et.al., Paper: [http://arxiv.org/abs/2503.07232v1](http://arxiv.org/abs/2503.07232v1)
+- 2025-03-10, **Exact solutions to the cancer laser ablation modeling**, Luisa Consiglieri et.al., Paper: [http://arxiv.org/abs/2503.07226v1](http://arxiv.org/abs/2503.07226v1)
+- 2025-03-10, **Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**, Ruochen Pi et.al., Paper: [http://arxiv.org/abs/2503.07209v1](http://arxiv.org/abs/2503.07209v1)
 - 2025-03-07, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v1](http://arxiv.org/abs/2503.05689v1)
 - 2025-03-07, **AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**, Zengqun Zhao et.al., Paper: [http://arxiv.org/abs/2503.05665v1](http://arxiv.org/abs/2503.05665v1)
 - 2025-03-07, **TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**, Mark YU et.al., Paper: [http://arxiv.org/abs/2503.05638v1](http://arxiv.org/abs/2503.05638v1)
@@ -12930,6 +12950,18 @@
 
 ## Diffusion_Segment
 
+- 2025-03-10, **DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**, Haolin He et.al., Paper: [http://arxiv.org/abs/2503.07263v1](http://arxiv.org/abs/2503.07263v1), Code: **[https://github.com/HarlandZZC/deep_nuclei_parcellation](https://github.com/HarlandZZC/deep_nuclei_parcellation)**
+- 2025-03-10, **Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**, Ruochen Pi et.al., Paper: [http://arxiv.org/abs/2503.07209v1](http://arxiv.org/abs/2503.07209v1)
+- 2025-03-10, **Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**, Pengchen Liang et.al., Paper: [http://arxiv.org/abs/2503.06976v1](http://arxiv.org/abs/2503.06976v1)
+- 2025-03-10, **CAFusion: Controllable Anatomical Synthesis of Perirectal Lymph Nodes via SDF-guided Diffusion**, Weidong Guo et.al., Paper: [http://arxiv.org/abs/2503.06919v1](http://arxiv.org/abs/2503.06919v1)
+- 2025-03-10, **Interactive Tumor Progression Modeling via Sketch-Based Image Editing**, Gexin Huang et.al., Paper: [http://arxiv.org/abs/2503.06809v1](http://arxiv.org/abs/2503.06809v1)
+- 2025-03-09, **DiffAtlas: GenAI-fying Atlas Segmentation via Image-Mask Diffusion**, Hantao Zhang et.al., Paper: [http://arxiv.org/abs/2503.06748v1](http://arxiv.org/abs/2503.06748v1)
+- 2025-03-09, **Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**, Zhaowei Chen et.al., Paper: [http://arxiv.org/abs/2503.06685v1](http://arxiv.org/abs/2503.06685v1)
+- 2025-03-08, **Text2Story: Advancing Video Storytelling with Text Guidance**, Taewon Kang et.al., Paper: [http://arxiv.org/abs/2503.06310v1](http://arxiv.org/abs/2503.06310v1)
+- 2025-03-08, **WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models**, Aditya Shankar et.al., Paper: [http://arxiv.org/abs/2503.06231v1](http://arxiv.org/abs/2503.06231v1)
+- 2025-03-08, **FORESCENE: FOREcasting human activity via latent SCENE graphs diffusion**, Antonio Alliegro et.al., Paper: [http://arxiv.org/abs/2503.06182v1](http://arxiv.org/abs/2503.06182v1)
+- 2025-03-08, **Patch-Depth Fusion: Dichotomous Image Segmentation via Fine-Grained Patch Strategy and Depth Integrity-Prior**, Xianjie Liu et.al., Paper: [http://arxiv.org/abs/2503.06100v1](http://arxiv.org/abs/2503.06100v1)
+- 2025-03-08, **PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation**, Yong He et.al., Paper: [http://arxiv.org/abs/2503.06094v1](http://arxiv.org/abs/2503.06094v1)
 - 2025-03-07, **Generative Trajectory Stitching through Diffusion Composition**, Yunhao Luo et.al., Paper: [http://arxiv.org/abs/2503.05153v1](http://arxiv.org/abs/2503.05153v1)
 - 2025-03-06, **Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**, Siyeop Yoon et.al., Paper: [http://arxiv.org/abs/2503.04966v1](http://arxiv.org/abs/2503.04966v1)
 - 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2)
