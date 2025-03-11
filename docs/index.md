@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 
 ## Diffusion
 
@@ -3406,7 +3406,7 @@ layout: default
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
 |**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367v1](http://arxiv.org/abs/2503.03367v1)|null|
 |**2025-03-05**|**GenColor: Generative Color-Concept Association in Visual Design**|Yihan Hou et.al.|[2503.03236v1](http://arxiv.org/abs/2503.03236v1)|null|
-|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578v1](http://arxiv.org/abs/2503.02578v1)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578v1](http://arxiv.org/abs/2503.02578v1)|**[link](https://github.com/krabs-h/ts-cgnet)**|
 |**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345v1](http://arxiv.org/abs/2503.02345v1)|null|
 |**2025-03-03**|**The emergent dynamics of double-folded randomly branching ring polymers**|Elham Ghobadpour et.al.|[2503.01446v1](http://arxiv.org/abs/2503.01446v1)|null|
 |**2025-03-03**|**Fine-Grained Controllable Apparel Showcase Image Generation via Garment-Centric Outpainting**|Rong Zhang et.al.|[2503.01294v1](http://arxiv.org/abs/2503.01294v1)|null|
