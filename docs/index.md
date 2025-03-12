@@ -2,12 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578v1](http://arxiv.org/abs/2503.07578v1)|null|
+|**2025-03-11**|**Inductive Moment Matching**|Linqi Zhou et.al.|[2503.07565v2](http://arxiv.org/abs/2503.07565v2)|null|
+|**2025-03-10**|**Coupled electron-phonon hydrodynamics and viscous thermoelectric equations**|Jennifer Coulter et.al.|[2503.07560v1](http://arxiv.org/abs/2503.07560v1)|null|
+|**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511v1](http://arxiv.org/abs/2503.07511v1)|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480v1](http://arxiv.org/abs/2503.07480v1)|null|
 |**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433v1](http://arxiv.org/abs/2503.07433v1)|null|
 |**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418v1](http://arxiv.org/abs/2503.07418v1)|null|
@@ -23,7 +27,7 @@ layout: default
 |**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274v1](http://arxiv.org/abs/2503.07274v1)|null|
 |**2025-03-10**|**DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**|Haolin He et.al.|[2503.07263v1](http://arxiv.org/abs/2503.07263v1)|**[link](https://github.com/HarlandZZC/deep_nuclei_parcellation)**|
 |**2025-03-10**|**Testing for Markovian character of transfer of fluctuations in solar wind turbulence on kinetic scales**|Dariusz Wójcik et.al.|[2503.07255v1](http://arxiv.org/abs/2503.07255v1)|null|
-|**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253v1](http://arxiv.org/abs/2503.07253v1)|null|
+|**2025-03-11**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253v2](http://arxiv.org/abs/2503.07253v2)|null|
 |**2025-03-10**|**Stochastic Epidemic Models with Partial Information**|Florent Ouabo Kamkumo et.al.|[2503.07251v1](http://arxiv.org/abs/2503.07251v1)|null|
 |**2025-03-10**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232v1](http://arxiv.org/abs/2503.07232v1)|null|
 |**2025-03-10**|**Exact solutions to the cancer laser ablation modeling**|Luisa Consiglieri et.al.|[2503.07226v1](http://arxiv.org/abs/2503.07226v1)|null|
@@ -3430,9 +3434,9 @@ layout: default
 |**2025-03-08**|**WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models**|Aditya Shankar et.al.|[2503.06231v1](http://arxiv.org/abs/2503.06231v1)|null|
 |**2025-03-08**|**FORESCENE: FOREcasting human activity via latent SCENE graphs diffusion**|Antonio Alliegro et.al.|[2503.06182v1](http://arxiv.org/abs/2503.06182v1)|null|
 |**2025-03-08**|**Patch-Depth Fusion: Dichotomous Image Segmentation via Fine-Grained Patch Strategy and Depth Integrity-Prior**|Xianjie Liu et.al.|[2503.06100v1](http://arxiv.org/abs/2503.06100v1)|null|
-|**2025-03-08**|**PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation**|Yong He et.al.|[2503.06094v1](http://arxiv.org/abs/2503.06094v1)|null|
+|**2025-03-11**|**PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation**|Yong He et.al.|[2503.06094v2](http://arxiv.org/abs/2503.06094v2)|null|
 |**2025-03-07**|**Generative Trajectory Stitching through Diffusion Composition**|Yunhao Luo et.al.|[2503.05153v1](http://arxiv.org/abs/2503.05153v1)|null|
-|**2025-03-06**|**Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**|Siyeop Yoon et.al.|[2503.04966v1](http://arxiv.org/abs/2503.04966v1)|null|
+|**2025-03-11**|**Prediction of Frozen Region Growth in Kidney Cryoablation Intervention Using a 3D Flow-Matching Model**|Siyeop Yoon et.al.|[2503.04966v2](http://arxiv.org/abs/2503.04966v2)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499v2](http://arxiv.org/abs/2503.04499v2)|null|
 |**2025-03-05**|**Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model**|Steve Andreas Immanuel et.al.|[2503.03785v1](http://arxiv.org/abs/2503.03785v1)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689v1](http://arxiv.org/abs/2503.03689v1)|null|
