@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-11, **"Principal Components" Enable A New Language of Images**, Xin Wen et.al., Paper: [http://arxiv.org/abs/2503.08685v1](http://arxiv.org/abs/2503.08685v1)
+- 2025-03-11, **GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**, Yuanhao Wang et.al., Paper: [http://arxiv.org/abs/2503.08678v1](http://arxiv.org/abs/2503.08678v1)
+- 2025-03-11, **OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2503.08677v1](http://arxiv.org/abs/2503.08677v1)
+- 2025-03-11, **Language-Depth Navigated Thermal and Visible Image Fusion**, Jinchang Zhang et.al., Paper: [http://arxiv.org/abs/2503.08676v1](http://arxiv.org/abs/2503.08676v1)
+- 2025-03-11, **Modeling Stock Return Distributions and Pricing Options**, Xinxin Jiang et.al., Paper: [http://arxiv.org/abs/2503.08666v1](http://arxiv.org/abs/2503.08666v1)
+- 2025-03-11, **REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**, Yitian Zhang et.al., Paper: [http://arxiv.org/abs/2503.08665v1](http://arxiv.org/abs/2503.08665v1)
+- 2025-03-11, **MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**, Yuhan Wang et.al., Paper: [http://arxiv.org/abs/2503.08664v1](http://arxiv.org/abs/2503.08664v1)
+- 2025-03-11, **MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**, Zhenchen Wan et.al., Paper: [http://arxiv.org/abs/2503.08650v1](http://arxiv.org/abs/2503.08650v1)
+- 2025-03-11, **Rethinking Diffusion Model in High Dimension**, Zhenxin Zheng et.al., Paper: [http://arxiv.org/abs/2503.08643v1](http://arxiv.org/abs/2503.08643v1)
+- 2025-03-11, **Birth of magnetized low-mass protostars and circumstellar disks**, Adnan Ali Ahmad et.al., Paper: [http://arxiv.org/abs/2503.08637v1](http://arxiv.org/abs/2503.08637v1)
+- 2025-03-11, **Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**, Subin Kim et.al., Paper: [http://arxiv.org/abs/2503.08605v1](http://arxiv.org/abs/2503.08605v1)
+- 2025-03-11, **3D Point Cloud Generation via Autoregressive Up-sampling**, Ziqiao Meng et.al., Paper: [http://arxiv.org/abs/2503.08594v1](http://arxiv.org/abs/2503.08594v1)
+- 2025-03-11, **Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation**, Mingkang Zhu et.al., Paper: [http://arxiv.org/abs/2503.08575v1](http://arxiv.org/abs/2503.08575v1)
+- 2025-03-11, **TLA: Tactile-Language-Action Model for Contact-Rich Manipulation**, Peng Hao et.al., Paper: [http://arxiv.org/abs/2503.08548v1](http://arxiv.org/abs/2503.08548v1)
+- 2025-03-11, **Posterior-Mean Denoising Diffusion Model for Realistic PET Image Reconstruction**, Yiran Sun et.al., Paper: [http://arxiv.org/abs/2503.08546v1](http://arxiv.org/abs/2503.08546v1)
+- 2025-03-11, **High-Quality 3D Head Reconstruction from Any Single Portrait Image**, Jianfu Zhang et.al., Paper: [http://arxiv.org/abs/2503.08516v1](http://arxiv.org/abs/2503.08516v1)
+- 2025-03-11, **SAS: Segment Any 3D Scene with Integrated 2D Priors**, Zhuoyuan Li et.al., Paper: [http://arxiv.org/abs/2503.08512v1](http://arxiv.org/abs/2503.08512v1)
+- 2025-03-11, **Learning to Match Unpaired Data with Minimum Entropy Coupling**, Mustapha Bounoua et.al., Paper: [http://arxiv.org/abs/2503.08501v1](http://arxiv.org/abs/2503.08501v1)
+- 2025-03-11, **Generalizable AI-Generated Image Detection Based on Fractal Self-Similarity in the Spectrum**, Shengpeng Xiao et.al., Paper: [http://arxiv.org/abs/2503.08484v1](http://arxiv.org/abs/2503.08484v1)
+- 2025-03-11, **NullFace: Training-Free Localized Face Anonymization**, Han-Wei Kung et.al., Paper: [http://arxiv.org/abs/2503.08478v1](http://arxiv.org/abs/2503.08478v1)
 - 2025-03-10, **Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**, Tianyu Chen et.al., Paper: [http://arxiv.org/abs/2503.07578v1](http://arxiv.org/abs/2503.07578v1)
 - 2025-03-11, **Inductive Moment Matching**, Linqi Zhou et.al., Paper: [http://arxiv.org/abs/2503.07565v2](http://arxiv.org/abs/2503.07565v2)
 - 2025-03-10, **Coupled electron-phonon hydrodynamics and viscous thermoelectric equations**, Jennifer Coulter et.al., Paper: [http://arxiv.org/abs/2503.07560v1](http://arxiv.org/abs/2503.07560v1)
@@ -12954,6 +12974,11 @@
 
 ## Diffusion_Segment
 
+- 2025-03-11, **SAS: Segment Any 3D Scene with Integrated 2D Priors**, Zhuoyuan Li et.al., Paper: [http://arxiv.org/abs/2503.08512v1](http://arxiv.org/abs/2503.08512v1)
+- 2025-03-11, **TSCnet: A Text-driven Semantic-level Controllable Framework for Customized Low-Light Image Enhancement**, Miao Zhang et.al., Paper: [http://arxiv.org/abs/2503.08168v1](http://arxiv.org/abs/2503.08168v1)
+- 2025-03-11, **MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution**, Xinrui Li et.al., Paper: [http://arxiv.org/abs/2503.08096v1](http://arxiv.org/abs/2503.08096v1)
+- 2025-03-11, **DiffEGG: Diffusion-Driven Edge Generation as a Pixel-Annotation-Free Alternative for Instance Annotation**, Sanghyun Jo et.al., Paper: [http://arxiv.org/abs/2503.07982v1](http://arxiv.org/abs/2503.07982v1)
+- 2025-03-10, **Can Generative Geospatial Diffusion Models Excel as Discriminative Geospatial Foundation Models?**, Yuru Jia et.al., Paper: [http://arxiv.org/abs/2503.07890v1](http://arxiv.org/abs/2503.07890v1)
 - 2025-03-10, **DeepNuParc: A Novel Deep Clustering Framework for Fine-scale Parcellation of Brain Nuclei Using Diffusion MRI Tractography**, Haolin He et.al., Paper: [http://arxiv.org/abs/2503.07263v1](http://arxiv.org/abs/2503.07263v1), Code: **[https://github.com/HarlandZZC/deep_nuclei_parcellation](https://github.com/HarlandZZC/deep_nuclei_parcellation)**
 - 2025-03-10, **Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**, Ruochen Pi et.al., Paper: [http://arxiv.org/abs/2503.07209v1](http://arxiv.org/abs/2503.07209v1)
 - 2025-03-10, **Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**, Pengchen Liang et.al., Paper: [http://arxiv.org/abs/2503.06976v1](http://arxiv.org/abs/2503.06976v1)
