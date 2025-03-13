@@ -1,4 +1,4 @@
-> Updated on 2025.03.12
+> Updated on 2025.03.13
 
 ## Video_Classification
 
@@ -9543,7 +9543,7 @@
 
 - 2025-03-11, **"Principal Components" Enable A New Language of Images**, Xin Wen et.al., Paper: [http://arxiv.org/abs/2503.08685v1](http://arxiv.org/abs/2503.08685v1)
 - 2025-03-11, **GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**, Yuanhao Wang et.al., Paper: [http://arxiv.org/abs/2503.08678v1](http://arxiv.org/abs/2503.08678v1)
-- 2025-03-11, **OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2503.08677v1](http://arxiv.org/abs/2503.08677v1)
+- 2025-03-12, **OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2503.08677v2](http://arxiv.org/abs/2503.08677v2)
 - 2025-03-11, **Language-Depth Navigated Thermal and Visible Image Fusion**, Jinchang Zhang et.al., Paper: [http://arxiv.org/abs/2503.08676v1](http://arxiv.org/abs/2503.08676v1)
 - 2025-03-11, **Modeling Stock Return Distributions and Pricing Options**, Xinxin Jiang et.al., Paper: [http://arxiv.org/abs/2503.08666v1](http://arxiv.org/abs/2503.08666v1)
 - 2025-03-11, **REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**, Yitian Zhang et.al., Paper: [http://arxiv.org/abs/2503.08665v1](http://arxiv.org/abs/2503.08665v1)
