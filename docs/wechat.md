@@ -1,4 +1,4 @@
-> Updated on 2025.03.16
+> Updated on 2025.03.17
 
 ## Video_Classification
 
@@ -9541,9 +9541,9 @@
 
 ## Diffusion
 
-- 2025-03-13, **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**, Rongyao Fang et.al., Paper: [http://arxiv.org/abs/2503.10639v1](http://arxiv.org/abs/2503.10639v1)
+- 2025-03-13, **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**, Rongyao Fang et.al., Paper: [http://arxiv.org/abs/2503.10639v1](http://arxiv.org/abs/2503.10639v1), Code: **[https://github.com/rongyaofang/got](https://github.com/rongyaofang/got)**
 - 2025-03-13, **Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2503.10638v1](http://arxiv.org/abs/2503.10638v1)
-- 2025-03-13, **Distilling Diversity and Control in Diffusion Models**, Rohit Gandikota et.al., Paper: [http://arxiv.org/abs/2503.10637v1](http://arxiv.org/abs/2503.10637v1)
+- 2025-03-14, **Distilling Diversity and Control in Diffusion Models**, Rohit Gandikota et.al., Paper: [http://arxiv.org/abs/2503.10637v2](http://arxiv.org/abs/2503.10637v2)
 - 2025-03-13, **V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**, Yanming Zhang et.al., Paper: [http://arxiv.org/abs/2503.10634v1](http://arxiv.org/abs/2503.10634v1)
 - 2025-03-13, **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**, Jiaming Liu et.al., Paper: [http://arxiv.org/abs/2503.10631v1](http://arxiv.org/abs/2503.10631v1)
 - 2025-03-13, **NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**, Mert Albaba et.al., Paper: [http://arxiv.org/abs/2503.10626v1](http://arxiv.org/abs/2503.10626v1)
