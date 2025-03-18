@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434v1](http://arxiv.org/abs/2503.13434v1)|null|
+|**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371v1](http://arxiv.org/abs/2503.13371v1)|null|
+|**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358v1](http://arxiv.org/abs/2503.13358v1)|null|
+|**2025-03-17**|**MagicDistillation: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis**|Shitong Shao et.al.|[2503.13319v1](http://arxiv.org/abs/2503.13319v1)|null|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272v1](http://arxiv.org/abs/2503.13272v1)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|null|
+|**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257v1](http://arxiv.org/abs/2503.13257v1)|null|
+|**2025-03-17**|**HoloGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures**|Yongkang Cheng et.al.|[2503.13229v1](http://arxiv.org/abs/2503.13229v1)|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|null|
+|**2025-03-17**|**The Lyman alpha Sky as Observed by New Horizons**|G. R. Gladstone et.al.|[2503.13182v1](http://arxiv.org/abs/2503.13182v1)|null|
+|**2025-03-17**|**Simulation of infinite-dimensional diffusion bridges**|Thorben Pieper-Sethmacher et.al.|[2503.13177v1](http://arxiv.org/abs/2503.13177v1)|null|
+|**2025-03-17**|**Evolution of a trait distributed over a large fragmented population: Propagation of chaos meets adaptive dynamics**|Amaury Lambert et.al.|[2503.13154v1](http://arxiv.org/abs/2503.13154v1)|null|
+|**2025-03-17**|**Exact Results in Stochastic Processes with Division, Death, and Diffusion: Spatial Correlations, Marginal Entropy Production, and Macroscopic Currents**|Samuel Cameron et.al.|[2503.13150v1](http://arxiv.org/abs/2503.13150v1)|null|
+|**2025-03-17**|**Effects of Disorder on the Energy Landscape and Motional Mechanisms Involved in Lithium Ion Dynamics and Transport in Solid Electrolytes: Li5.5PS4.5Cl1.5 Argyrodite as a Case Study**|Mohammad Ali Badragheh et.al.|[2503.13142v1](http://arxiv.org/abs/2503.13142v1)|null|
+|**2025-03-17**|**Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images**|Yaxi Chen et.al.|[2503.13131v1](http://arxiv.org/abs/2503.13131v1)|null|
+|**2025-03-17**|**DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry**|Jing Li et.al.|[2503.13110v1](http://arxiv.org/abs/2503.13110v1)|null|
+|**2025-03-17**|**Drivers of chemical diffusion of hydrogen in the thin transition metallic glass V80Zr20**|Lennart Spode et.al.|[2503.13103v1](http://arxiv.org/abs/2503.13103v1)|null|
+|**2025-03-17**|**Combined impact of grey and superficial white matter abnormalities: implications for epilepsy surgery**|Csaba Kozma et.al.|[2503.13097v1](http://arxiv.org/abs/2503.13097v1)|null|
+|**2025-03-17**|**Beyond Classical Diffusion: Fractional Derivatives in Transport and Stochastic Systems**|Cypres Verbeeck et.al.|[2503.13096v1](http://arxiv.org/abs/2503.13096v1)|null|
+|**2025-03-17**|**Generalized reciprocal diffractive imaging for stand-alone, reference-free, fast-measurable quantitative phase microscopy**|Jeonghun Oh et.al.|[2503.13083v1](http://arxiv.org/abs/2503.13083v1)|null|
 |**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615v1](http://arxiv.org/abs/2503.11615v1)|null|
 |**2025-03-14**|**Excitability and oscillations of active droplets**|Ivar S. Haugerud et.al.|[2503.11604v1](http://arxiv.org/abs/2503.11604v1)|null|
 |**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|null|
@@ -3499,6 +3519,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257v1](http://arxiv.org/abs/2503.13257v1)|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|null|
+|**2025-03-17**|**TransDiff: Diffusion-Based Method for Manipulating Transparent Objects Using a Single RGB-D Image**|Haoxiao Wang et.al.|[2503.12779v1](http://arxiv.org/abs/2503.12779v1)|null|
+|**2025-03-16**|**UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing**|Tsu-Jui Fu et.al.|[2503.12652v1](http://arxiv.org/abs/2503.12652v1)|null|
+|**2025-03-16**|**Segment Any-Quality Images with Generative Latent Space Enhancement**|Guangqian Guo et.al.|[2503.12507v1](http://arxiv.org/abs/2503.12507v1)|null|
 |**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591v1](http://arxiv.org/abs/2503.11591v1)|null|
 |**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529v1](http://arxiv.org/abs/2503.11529v1)|**[link](https://github.com/JunwooParkSaribu/BI_ADD)**|
 |**2025-03-14**|**CyclePose -- Leveraging Cycle-Consistency for Annotation-Free Nuclei Segmentation in Fluorescence Microscopy**|Jonas Utz et.al.|[2503.11266v1](http://arxiv.org/abs/2503.11266v1)|null|
