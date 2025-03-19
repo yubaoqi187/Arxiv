@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505v1](http://arxiv.org/abs/2503.14505v1)|null|
+|**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503v1](http://arxiv.org/abs/2503.14503v1)|null|
+|**2025-03-18**|**Stable Virtual Camera: Generative View Synthesis with Diffusion Models**|Jensen et.al.|[2503.14489v1](http://arxiv.org/abs/2503.14489v1)|null|
+|**2025-03-18**|**DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers**|Minglei Shi et.al.|[2503.14487v1](http://arxiv.org/abs/2503.14487v1)|null|
+|**2025-03-18**|**Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset**|Yiqun Mei et.al.|[2503.14485v1](http://arxiv.org/abs/2503.14485v1)|null|
+|**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463v1](http://arxiv.org/abs/2503.14463v1)|null|
+|**2025-03-18**|**Tomographic electron flow in confined geometries: Beyond the dual-relaxation time approximation**|Nitay Ben-Shachar et.al.|[2503.14461v1](http://arxiv.org/abs/2503.14461v1)|null|
+|**2025-03-18**|**Bolt3D: Generating 3D Scenes in Seconds**|Stanislaw Szymanowicz et.al.|[2503.14445v1](http://arxiv.org/abs/2503.14445v1)|null|
+|**2025-03-18**|**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation**|Hongyu Zhang et.al.|[2503.14428v1](http://arxiv.org/abs/2503.14428v1)|null|
+|**2025-03-18**|**Neutron portal to ultra-high-energy neutrinos**|Gustavo F. S. Alves et.al.|[2503.14419v1](http://arxiv.org/abs/2503.14419v1)|null|
+|**2025-03-18**|**Diffusion-based Facial Aesthetics Enhancement with 3D Structure Guidance**|Lisha Li et.al.|[2503.14402v1](http://arxiv.org/abs/2503.14402v1)|null|
+|**2025-03-18**|**RFMI: Estimating Mutual Information on Rectified Flow for Text-to-Image Alignment**|Chao Wang et.al.|[2503.14358v1](http://arxiv.org/abs/2503.14358v1)|null|
+|**2025-03-18**|**Unified Analysis of Decentralized Gradient Descent: a Contraction Mapping Framework**|Erik G. Larsson et.al.|[2503.14353v1](http://arxiv.org/abs/2503.14353v1)|null|
+|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350v1](http://arxiv.org/abs/2503.14350v1)|null|
+|**2025-03-18**|**The H$α$ sky in three dimensions**|Lewis McCallum et.al.|[2503.14348v1](http://arxiv.org/abs/2503.14348v1)|null|
+|**2025-03-18**|**Revealing higher-order neural representations with generative artificial intelligence**|Hojjat Azimi Asrari et.al.|[2503.14333v1](http://arxiv.org/abs/2503.14333v1)|null|
+|**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325v1](http://arxiv.org/abs/2503.14325v1)|null|
+|**2025-03-18**|**Fractional fast diffusion with initial data a Radon measure**|Jorge Ruiz-Cases et.al.|[2503.14296v1](http://arxiv.org/abs/2503.14296v1)|null|
+|**2025-03-18**|**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation**|Jiang Qin et.al.|[2503.14275v1](http://arxiv.org/abs/2503.14275v1)|null|
+|**2025-03-18**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272v1](http://arxiv.org/abs/2503.14272v1)|null|
 |**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434v1](http://arxiv.org/abs/2503.13434v1)|null|
 |**2025-03-17**|**SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**|Xulin Fan et.al.|[2503.13371v1](http://arxiv.org/abs/2503.13371v1)|null|
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358v1](http://arxiv.org/abs/2503.13358v1)|null|
@@ -3519,6 +3539,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503v1](http://arxiv.org/abs/2503.14503v1)|null|
+|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350v1](http://arxiv.org/abs/2503.14350v1)|null|
+|**2025-03-18**|**CINNAMON: A hybrid approach to change point detection and parameter estimation in single-particle tracking data**|Jakub Malinowski et.al.|[2503.14253v1](http://arxiv.org/abs/2503.14253v1)|null|
+|**2025-03-18**|**SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models**|Subhadeep Koley et.al.|[2503.14129v1](http://arxiv.org/abs/2503.14129v1)|null|
+|**2025-03-18**|**Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization**|Long Tang et.al.|[2503.13945v1](http://arxiv.org/abs/2503.13945v1)|null|
+|**2025-03-17**|**SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint**|Zhenlong Yuan et.al.|[2503.13721v1](http://arxiv.org/abs/2503.13721v1)|null|
+|**2025-03-17**|**Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization**|Hao Li et.al.|[2503.13617v1](http://arxiv.org/abs/2503.13617v1)|null|
+|**2025-03-17**|**Is Crime Displacement Inevitable? Evidence from Police Crackdowns in Fortaleza, Brazil**|José Raimundo Carvalho et.al.|[2503.13571v1](http://arxiv.org/abs/2503.13571v1)|null|
+|**2025-03-16**|**DDPM-Polycube: A Denoising Diffusion Probabilistic Model for Polycube-Based Hexahedral Mesh Generation and Volumetric Spline Construction**|Yuxuan Yu et.al.|[2503.13541v1](http://arxiv.org/abs/2503.13541v1)|null|
 |**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257v1](http://arxiv.org/abs/2503.13257v1)|null|
 |**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211v1](http://arxiv.org/abs/2503.13211v1)|null|
 |**2025-03-17**|**TransDiff: Diffusion-Based Method for Manipulating Transparent Objects Using a Single RGB-D Image**|Haoxiao Wang et.al.|[2503.12779v1](http://arxiv.org/abs/2503.12779v1)|null|
