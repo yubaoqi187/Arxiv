@@ -1,4 +1,4 @@
-> Updated on 2025.03.20
+> Updated on 2025.03.21
 
 ## Video_Classification
 
@@ -13096,7 +13096,7 @@
 
 - 2025-03-19, **POSTA: A Go-to Framework for Customized Artistic Poster Generation**, Haoyu Chen et.al., Paper: [http://arxiv.org/abs/2503.14908v1](http://arxiv.org/abs/2503.14908v1)
 - 2025-03-18, **The Power of Context: How Multimodality Improves Image Super-Resolution**, Kangfu Mei et.al., Paper: [http://arxiv.org/abs/2503.14503v1](http://arxiv.org/abs/2503.14503v1)
-- 2025-03-18, **VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2503.14350v1](http://arxiv.org/abs/2503.14350v1)
+- 2025-03-19, **VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**, Shoubin Yu et.al., Paper: [http://arxiv.org/abs/2503.14350v2](http://arxiv.org/abs/2503.14350v2)
 - 2025-03-18, **CINNAMON: A hybrid approach to change point detection and parameter estimation in single-particle tracking data**, Jakub Malinowski et.al., Paper: [http://arxiv.org/abs/2503.14253v1](http://arxiv.org/abs/2503.14253v1)
 - 2025-03-18, **SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models**, Subhadeep Koley et.al., Paper: [http://arxiv.org/abs/2503.14129v1](http://arxiv.org/abs/2503.14129v1)
 - 2025-03-18, **Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization**, Long Tang et.al., Paper: [http://arxiv.org/abs/2503.13945v1](http://arxiv.org/abs/2503.13945v1)
