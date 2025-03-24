@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-21, **Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2503.17350v1](http://arxiv.org/abs/2503.17350v1)
+- 2025-03-21, **Dereflection Any Image with Diffusion Priors and Diversified Data**, Jichen Hu et.al., Paper: [http://arxiv.org/abs/2503.17347v1](http://arxiv.org/abs/2503.17347v1), Code: **[https://github.com/Abuuu122/Dereflection-Any-Image](https://github.com/Abuuu122/Dereflection-Any-Image)**
+- 2025-03-21, **Structure and kinematics of the interacting group NGC 5098/5096**, G. B. Lima Neto et.al., Paper: [http://arxiv.org/abs/2503.17341v1](http://arxiv.org/abs/2503.17341v1)
+- 2025-03-21, **Structure evolution with cosmic backgrounds from radio to far infrared**, Carlo Burigana et.al., Paper: [http://arxiv.org/abs/2503.17305v1](http://arxiv.org/abs/2503.17305v1)
+- 2025-03-21, **Preference-Guided Diffusion for Multi-Objective Offline Optimization**, Yashas Annadani et.al., Paper: [http://arxiv.org/abs/2503.17299v1](http://arxiv.org/abs/2503.17299v1)
+- 2025-03-21, **Universal fluctuation spectrum of Vlasov-Poisson turbulence**, Michael L. Nastac et.al., Paper: [http://arxiv.org/abs/2503.17278v1](http://arxiv.org/abs/2503.17278v1)
+- 2025-03-21, **Deep End-to-End Posterior ENergy (DEEPEN) for image recovery**, Jyothi Rikhab Chand et.al., Paper: [http://arxiv.org/abs/2503.17244v1](http://arxiv.org/abs/2503.17244v1)
+- 2025-03-21, **Leveraging Text-to-Image Generation for Handling Spurious Correlation**, Aryan Yazdan Parast et.al., Paper: [http://arxiv.org/abs/2503.17226v1](http://arxiv.org/abs/2503.17226v1)
+- 2025-03-21, **UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models**, Fanghua Yu et.al., Paper: [http://arxiv.org/abs/2503.17221v1](http://arxiv.org/abs/2503.17221v1)
+- 2025-03-21, **Hamiltonian Chaos: From Galactic Dynamics to Plasma Physics**, Henok Tenaw Moges et.al., Paper: [http://arxiv.org/abs/2503.17208v1](http://arxiv.org/abs/2503.17208v1)
+- 2025-03-21, **FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy**, Xingchao Yang et.al., Paper: [http://arxiv.org/abs/2503.17197v1](http://arxiv.org/abs/2503.17197v1)
+- 2025-03-21, **D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**, Panpan Wang et.al., Paper: [http://arxiv.org/abs/2503.17155v1](http://arxiv.org/abs/2503.17155v1)
+- 2025-03-21, **A model of full thermodynamic stabilization of nanocrystalline alloys**, Omar Hussein et.al., Paper: [http://arxiv.org/abs/2503.17129v1](http://arxiv.org/abs/2503.17129v1)
+- 2025-03-21, **R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**, Boyuan Zheng et.al., Paper: [http://arxiv.org/abs/2503.17097v1](http://arxiv.org/abs/2503.17097v1)
+- 2025-03-21, **Zero-Shot Styled Text Image Generation, but Make It Autoregressive**, Vittorio Pippi et.al., Paper: [http://arxiv.org/abs/2503.17074v1](http://arxiv.org/abs/2503.17074v1)
+- 2025-03-21, **DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**, Yongkang Cheng et.al., Paper: [http://arxiv.org/abs/2503.17059v1](http://arxiv.org/abs/2503.17059v1)
+- 2025-03-21, **Optimal control on a brain tumor growth model with lactate metabolism, viscoelastic effects, and tissue damage**, Giulia Cavalleri et.al., Paper: [http://arxiv.org/abs/2503.17049v1](http://arxiv.org/abs/2503.17049v1)
+- 2025-03-21, **Fluctuations of local plastic strain in granular media**, I. Awada et.al., Paper: [http://arxiv.org/abs/2503.17010v1](http://arxiv.org/abs/2503.17010v1)
+- 2025-03-21, **Enabling Versatile Controls for Video Diffusion Models**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2503.16983v1](http://arxiv.org/abs/2503.16983v1)
+- 2025-03-21, **Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**, Ruoqi Zhang et.al., Paper: [http://arxiv.org/abs/2503.16978v1](http://arxiv.org/abs/2503.16978v1)
 - 2025-03-20, **Tokenize Image as a Set**, Zigang Geng et.al., Paper: [http://arxiv.org/abs/2503.16425v1](http://arxiv.org/abs/2503.16425v1), Code: **[https://github.com/Gengzigang/TokenSet](https://github.com/Gengzigang/TokenSet)**
 - 2025-03-20, **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**, Liming Jiang et.al., Paper: [http://arxiv.org/abs/2503.16418v1](http://arxiv.org/abs/2503.16418v1)
 - 2025-03-20, **DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**, Ananta R. Bhattarai et.al., Paper: [http://arxiv.org/abs/2503.16412v1](http://arxiv.org/abs/2503.16412v1)
@@ -13114,6 +13134,9 @@
 
 ## Diffusion_Segment
 
+- 2025-03-21, **Leveraging Text-to-Image Generation for Handling Spurious Correlation**, Aryan Yazdan Parast et.al., Paper: [http://arxiv.org/abs/2503.17226v1](http://arxiv.org/abs/2503.17226v1)
+- 2025-03-21, **Enabling Versatile Controls for Video Diffusion Models**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2503.16983v1](http://arxiv.org/abs/2503.16983v1)
+- 2025-03-20, **Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2503.16707v1](http://arxiv.org/abs/2503.16707v1)
 - 2025-03-20, **Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**, Akhil Perincherry et.al., Paper: [http://arxiv.org/abs/2503.16394v1](http://arxiv.org/abs/2503.16394v1)
 - 2025-03-20, **M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2503.16254v1](http://arxiv.org/abs/2503.16254v1)
 - 2025-03-19, **CAM-Seg: A Continuous-valued Embedding Approach for Semantic Image Generation**, Masud Ahmed et.al., Paper: [http://arxiv.org/abs/2503.15617v1](http://arxiv.org/abs/2503.15617v1)
