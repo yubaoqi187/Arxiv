@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-25, **Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**, Sangwon Beak et.al., Paper: [http://arxiv.org/abs/2503.19914v1](http://arxiv.org/abs/2503.19914v1)
+- 2025-03-25, **PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**, Mingju Gao et.al., Paper: [http://arxiv.org/abs/2503.19913v1](http://arxiv.org/abs/2503.19913v1)
+- 2025-03-25, **AvatarArtist: Open-Domain 4D Avatarization**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2503.19906v1](http://arxiv.org/abs/2503.19906v1)
+- 2025-03-25, **ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**, Fernando Julio Cendra et.al., Paper: [http://arxiv.org/abs/2503.19902v1](http://arxiv.org/abs/2503.19902v1)
+- 2025-03-25, **Scaling Down Text Encoders of Text-to-Image Diffusion Models**, Lifu Wang et.al., Paper: [http://arxiv.org/abs/2503.19897v1](http://arxiv.org/abs/2503.19897v1)
+- 2025-03-25, **A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**, Jie Tian et.al., Paper: [http://arxiv.org/abs/2503.19889v1](http://arxiv.org/abs/2503.19889v1)
+- 2025-03-25, **Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**, Tianhao Qi et.al., Paper: [http://arxiv.org/abs/2503.19881v1](http://arxiv.org/abs/2503.19881v1)
+- 2025-03-25, **Role of enthalpy transport in laminar premixed hydrogen flames at atmospheric and elevated pressures**, Thomas L. Howarth et.al., Paper: [http://arxiv.org/abs/2503.19865v1](http://arxiv.org/abs/2503.19865v1)
+- 2025-03-25, **Comparing the Run-time Behavior of Modern PDES Engines on Alternative Hardware Architectures**, Romolo Marotta et.al., Paper: [http://arxiv.org/abs/2503.19857v1](http://arxiv.org/abs/2503.19857v1)
+- 2025-03-25, **FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**, Jun Zhou et.al., Paper: [http://arxiv.org/abs/2503.19839v1](http://arxiv.org/abs/2503.19839v1)
+- 2025-03-25, **AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2503.19824v1](http://arxiv.org/abs/2503.19824v1)
+- 2025-03-25, **Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**, Ruixi You et.al., Paper: [http://arxiv.org/abs/2503.19798v1](http://arxiv.org/abs/2503.19798v1)
+- 2025-03-25, **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et.al., Paper: [http://arxiv.org/abs/2503.19793v1](http://arxiv.org/abs/2503.19793v1)
+- 2025-03-25, **SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**, Jingdan Kang et.al., Paper: [http://arxiv.org/abs/2503.19791v1](http://arxiv.org/abs/2503.19791v1)
+- 2025-03-25, **Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**, Kartik Thakral et.al., Paper: [http://arxiv.org/abs/2503.19783v1](http://arxiv.org/abs/2503.19783v1)
+- 2025-03-25, **Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2503.19757v1](http://arxiv.org/abs/2503.19757v1)
+- 2025-03-25, **The impact of digital media-driven affective polarisation on epidemic dynamics**, Satoshi Komuro et.al., Paper: [http://arxiv.org/abs/2503.19756v1](http://arxiv.org/abs/2503.19756v1)
+- 2025-03-25, **Stellar-wind feedback and magnetic fields around young compact star clusters: 3D MHD simulations**, Lucia Härer et.al., Paper: [http://arxiv.org/abs/2503.19745v1](http://arxiv.org/abs/2503.19745v1)
+- 2025-03-25, **Hydrodynamic limit for repeated averages on the complete graph**, Alberto M. Campos et.al., Paper: [http://arxiv.org/abs/2503.19743v1](http://arxiv.org/abs/2503.19743v1)
+- 2025-03-25, **PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**, Junhyuk So et.al., Paper: [http://arxiv.org/abs/2503.19731v1](http://arxiv.org/abs/2503.19731v1)
 - 2025-03-24, **Target-Aware Video Diffusion Models**, Taeksoo Kim et.al., Paper: [http://arxiv.org/abs/2503.18950v1](http://arxiv.org/abs/2503.18950v1)
 - 2025-03-24, **Equivariant Image Modeling**, Ruixiao Dong et.al., Paper: [http://arxiv.org/abs/2503.18948v1](http://arxiv.org/abs/2503.18948v1), Code: **[https://github.com/drx-code/EquivariantModeling](https://github.com/drx-code/EquivariantModeling)**
 - 2025-03-24, **Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**, Jae Joong Lee et.al., Paper: [http://arxiv.org/abs/2503.18947v1](http://arxiv.org/abs/2503.18947v1)
@@ -13154,6 +13174,8 @@
 
 ## Diffusion_Segment
 
+- 2025-03-25, **Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**, Tianhao Qi et.al., Paper: [http://arxiv.org/abs/2503.19881v1](http://arxiv.org/abs/2503.19881v1)
+- 2025-03-25, **CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**, Rupak Bose et.al., Paper: [http://arxiv.org/abs/2503.19661v1](http://arxiv.org/abs/2503.19661v1)
 - 2025-03-24, **Target-Aware Video Diffusion Models**, Taeksoo Kim et.al., Paper: [http://arxiv.org/abs/2503.18950v1](http://arxiv.org/abs/2503.18950v1)
 - 2025-03-24, **Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**, Jae Joong Lee et.al., Paper: [http://arxiv.org/abs/2503.18947v1](http://arxiv.org/abs/2503.18947v1)
 - 2025-03-24, **PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes**, Xinhua Xu et.al., Paper: [http://arxiv.org/abs/2503.18393v1](http://arxiv.org/abs/2503.18393v1)
@@ -13164,7 +13186,7 @@
 - 2025-03-21, **PRIMAL: Physically Reactive and Interactive Motor Model for Avatar Learning**, Yan Zhang et.al., Paper: [http://arxiv.org/abs/2503.17544v1](http://arxiv.org/abs/2503.17544v1)
 - 2025-03-21, **Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks**, Bhishma Dedhia et.al., Paper: [http://arxiv.org/abs/2503.17539v1](http://arxiv.org/abs/2503.17539v1)
 - 2025-03-21, **Leveraging Text-to-Image Generation for Handling Spurious Correlation**, Aryan Yazdan Parast et.al., Paper: [http://arxiv.org/abs/2503.17226v1](http://arxiv.org/abs/2503.17226v1)
-- 2025-03-21, **Enabling Versatile Controls for Video Diffusion Models**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2503.16983v1](http://arxiv.org/abs/2503.16983v1)
+- 2025-03-21, **Enabling Versatile Controls for Video Diffusion Models**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2503.16983v1](http://arxiv.org/abs/2503.16983v1), Code: **[https://github.com/PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)**
 - 2025-03-20, **Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2503.16707v1](http://arxiv.org/abs/2503.16707v1)
 - 2025-03-20, **Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**, Akhil Perincherry et.al., Paper: [http://arxiv.org/abs/2503.16394v1](http://arxiv.org/abs/2503.16394v1)
 - 2025-03-20, **M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2503.16254v1](http://arxiv.org/abs/2503.16254v1)
