@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785v1](http://arxiv.org/abs/2503.20785v1)|null|
+|**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784v1](http://arxiv.org/abs/2503.20784v1)|null|
+|**2025-03-26**|**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching**|Guoqiang Zhang et.al.|[2503.20744v1](http://arxiv.org/abs/2503.20744v1)|null|
+|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731v1](http://arxiv.org/abs/2503.20731v1)|null|
+|**2025-03-26**|**Dynamic Motion Blending for Versatile Motion Editing**|Nan Jiang et.al.|[2503.20724v1](http://arxiv.org/abs/2503.20724v1)|null|
+|**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722v1](http://arxiv.org/abs/2503.20722v1)|null|
+|**2025-03-26**|**ARMO: Autoregressive Rigging for Multi-Category Objects**|Mingze Sun et.al.|[2503.20663v1](http://arxiv.org/abs/2503.20663v1)|null|
+|**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|null|
+|**2025-03-26**|**Fast relaxation of a viscous vortex in an external flow**|Martin Donati et.al.|[2503.20643v1](http://arxiv.org/abs/2503.20643v1)|null|
+|**2025-03-26**|**Diffusion Counterfactuals for Image Regressors**|Trung Duc Ha et.al.|[2503.20595v1](http://arxiv.org/abs/2503.20595v1)|null|
+|**2025-03-26**|**Stochastic Transport Maps in Diffusion Models and Sampling**|Xicheng Zhang et.al.|[2503.20573v1](http://arxiv.org/abs/2503.20573v1)|null|
+|**2025-03-26**|**Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling**|Vinzenz Uhr et.al.|[2503.20571v1](http://arxiv.org/abs/2503.20571v1)|null|
+|**2025-03-26**|**Multiparticle Collision Dynamics Simulations of the Flagellar Apparatus in Chlamydomonas reinhardtii**|Sai Venkata Ramana Ambadipudi et.al.|[2503.20553v1](http://arxiv.org/abs/2503.20553v1)|null|
+|**2025-03-26**|**TD-BFR: Truncated Diffusion Model for Efficient Blind Face Restoration**|Ziying Zhang et.al.|[2503.20537v1](http://arxiv.org/abs/2503.20537v1)|null|
+|**2025-03-26**|**Small-scale energetic phenomena in Hε: Ellerman bombs, UV bursts, and small flares**|K. Krikova et.al.|[2503.20535v1](http://arxiv.org/abs/2503.20535v1)|null|
+|**2025-03-26**|**Self-construction and destruction of living transport networks**|Chanoknun Sintavanuruk et.al.|[2503.20532v1](http://arxiv.org/abs/2503.20532v1)|null|
+|**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523v1](http://arxiv.org/abs/2503.20523v1)|null|
+|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519v1](http://arxiv.org/abs/2503.20519v1)|null|
+|**2025-03-26**|**Common envelopes in massive stars III: The obstructive role of radiation transport in envelope ejection**|Mike Y. M. Lau et.al.|[2503.20506v1](http://arxiv.org/abs/2503.20506v1)|null|
+|**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488v1](http://arxiv.org/abs/2503.20488v1)|**[link](https://github.com/HaoranZ99/laca)**|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914v1](http://arxiv.org/abs/2503.19914v1)|null|
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913v1](http://arxiv.org/abs/2503.19913v1)|null|
 |**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906v2](http://arxiv.org/abs/2503.19906v2)|null|
@@ -3639,6 +3659,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722v1](http://arxiv.org/abs/2503.20722v1)|null|
+|**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644v1](http://arxiv.org/abs/2503.20644v1)|null|
+|**2025-03-26**|**Exploring Robustness of Cortical Morphometry in the presence of white matter lesions, using Diffusion Models for Lesion Filling**|Vinzenz Uhr et.al.|[2503.20571v1](http://arxiv.org/abs/2503.20571v1)|null|
 |**2025-03-25**|**Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881v1](http://arxiv.org/abs/2503.19881v1)|null|
 |**2025-03-25**|**CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**|Rupak Bose et.al.|[2503.19661v1](http://arxiv.org/abs/2503.19661v1)|null|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950v1](http://arxiv.org/abs/2503.18950v1)|null|
