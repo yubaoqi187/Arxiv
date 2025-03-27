@@ -1,4 +1,4 @@
-> Updated on 2025.03.26
+> Updated on 2025.03.27
 
 ## Video_Classification
 
@@ -9543,7 +9543,7 @@
 
 - 2025-03-25, **Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**, Sangwon Beak et.al., Paper: [http://arxiv.org/abs/2503.19914v1](http://arxiv.org/abs/2503.19914v1)
 - 2025-03-25, **PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**, Mingju Gao et.al., Paper: [http://arxiv.org/abs/2503.19913v1](http://arxiv.org/abs/2503.19913v1)
-- 2025-03-25, **AvatarArtist: Open-Domain 4D Avatarization**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2503.19906v1](http://arxiv.org/abs/2503.19906v1)
+- 2025-03-26, **AvatarArtist: Open-Domain 4D Avatarization**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2503.19906v2](http://arxiv.org/abs/2503.19906v2)
 - 2025-03-25, **ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**, Fernando Julio Cendra et.al., Paper: [http://arxiv.org/abs/2503.19902v1](http://arxiv.org/abs/2503.19902v1)
 - 2025-03-25, **Scaling Down Text Encoders of Text-to-Image Diffusion Models**, Lifu Wang et.al., Paper: [http://arxiv.org/abs/2503.19897v1](http://arxiv.org/abs/2503.19897v1)
 - 2025-03-25, **A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design**, Jie Tian et.al., Paper: [http://arxiv.org/abs/2503.19889v1](http://arxiv.org/abs/2503.19889v1)
@@ -9553,7 +9553,7 @@
 - 2025-03-25, **FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**, Jun Zhou et.al., Paper: [http://arxiv.org/abs/2503.19839v1](http://arxiv.org/abs/2503.19839v1)
 - 2025-03-25, **AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2503.19824v1](http://arxiv.org/abs/2503.19824v1)
 - 2025-03-25, **Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**, Ruixi You et.al., Paper: [http://arxiv.org/abs/2503.19798v1](http://arxiv.org/abs/2503.19798v1)
-- 2025-03-25, **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et.al., Paper: [http://arxiv.org/abs/2503.19793v1](http://arxiv.org/abs/2503.19793v1)
+- 2025-03-26, **In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**, Vitaly Gnatyuk et.al., Paper: [http://arxiv.org/abs/2503.19793v2](http://arxiv.org/abs/2503.19793v2)
 - 2025-03-25, **SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**, Jingdan Kang et.al., Paper: [http://arxiv.org/abs/2503.19791v1](http://arxiv.org/abs/2503.19791v1)
 - 2025-03-25, **Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**, Kartik Thakral et.al., Paper: [http://arxiv.org/abs/2503.19783v1](http://arxiv.org/abs/2503.19783v1)
 - 2025-03-25, **Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**, Zhi Hou et.al., Paper: [http://arxiv.org/abs/2503.19757v1](http://arxiv.org/abs/2503.19757v1)
