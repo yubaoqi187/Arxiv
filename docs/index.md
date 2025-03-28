@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 
 ## Diffusion
 
@@ -25,7 +25,7 @@ layout: default
 |**2025-03-26**|**Small-scale energetic phenomena in Hε: Ellerman bombs, UV bursts, and small flares**|K. Krikova et.al.|[2503.20535v1](http://arxiv.org/abs/2503.20535v1)|null|
 |**2025-03-26**|**Self-construction and destruction of living transport networks**|Chanoknun Sintavanuruk et.al.|[2503.20532v1](http://arxiv.org/abs/2503.20532v1)|null|
 |**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523v1](http://arxiv.org/abs/2503.20523v1)|null|
-|**2025-03-26**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519v1](http://arxiv.org/abs/2503.20519v1)|null|
+|**2025-03-27**|**MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation**|Jinnan Chen et.al.|[2503.20519v2](http://arxiv.org/abs/2503.20519v2)|null|
 |**2025-03-26**|**Common envelopes in massive stars III: The obstructive role of radiation transport in envelope ejection**|Mike Y. M. Lau et.al.|[2503.20506v1](http://arxiv.org/abs/2503.20506v1)|null|
 |**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488v1](http://arxiv.org/abs/2503.20488v1)|**[link](https://github.com/HaoranZ99/laca)**|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914v1](http://arxiv.org/abs/2503.19914v1)|null|
