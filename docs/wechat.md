@@ -1,4 +1,4 @@
-> Updated on 2025.03.30
+> Updated on 2025.03.31
 
 ## Video_Classification
 
@@ -9558,7 +9558,7 @@
 - 2025-03-27, **Finite-temperature charge and spin transport in the one-dimensional Hubbard model accounting for its global [SU (2) X SU(2) X U(1)]/Z_2^2$ symmetry**, J. M. P. Carmelo et.al., Paper: [http://arxiv.org/abs/2503.21573v1](http://arxiv.org/abs/2503.21573v1)
 - 2025-03-27, **Statistical learning of structure-property relationships for transport in porous media, using hybrid AI modeling**, Somayeh Hosseinhashemi et.al., Paper: [http://arxiv.org/abs/2503.21560v1](http://arxiv.org/abs/2503.21560v1)
 - 2025-03-27, **SyncSDE: A Probabilistic Framework for Diffusion Synchronization**, Hyunjun Lee et.al., Paper: [http://arxiv.org/abs/2503.21555v1](http://arxiv.org/abs/2503.21555v1)
-- 2025-03-27, **LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**, Achint Soni et.al., Paper: [http://arxiv.org/abs/2503.21541v1](http://arxiv.org/abs/2503.21541v1), Code: **[https://github.com/locatedit/locatedit](https://github.com/locatedit/locatedit)**
+- 2025-03-28, **LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**, Achint Soni et.al., Paper: [http://arxiv.org/abs/2503.21541v2](http://arxiv.org/abs/2503.21541v2), Code: **[https://github.com/locatedit/locatedit](https://github.com/locatedit/locatedit)**
 - 2025-03-27, **Experimental and numerical investigation of wavelength and resolution dependency of dynamic optical coherence tomography signals**, Shumpei Fujimura et.al., Paper: [http://arxiv.org/abs/2503.21539v1](http://arxiv.org/abs/2503.21539v1)
 - 2025-03-27, **Exploring the Energy Landscape of RBMs: Reciprocal Space Insights into Bosons, Hierarchical Learning and Symmetry Breaking**, J. Quetzalcóatl Toledo-Marin et.al., Paper: [http://arxiv.org/abs/2503.21536v1](http://arxiv.org/abs/2503.21536v1)
 - 2025-03-26, **Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2503.20785v1](http://arxiv.org/abs/2503.20785v1)
@@ -13232,7 +13232,7 @@
 - 2025-03-21, **Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks**, Bhishma Dedhia et.al., Paper: [http://arxiv.org/abs/2503.17539v1](http://arxiv.org/abs/2503.17539v1)
 - 2025-03-21, **Leveraging Text-to-Image Generation for Handling Spurious Correlation**, Aryan Yazdan Parast et.al., Paper: [http://arxiv.org/abs/2503.17226v1](http://arxiv.org/abs/2503.17226v1)
 - 2025-03-21, **Enabling Versatile Controls for Video Diffusion Models**, Xu Zhang et.al., Paper: [http://arxiv.org/abs/2503.16983v1](http://arxiv.org/abs/2503.16983v1), Code: **[https://github.com/PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)**
-- 2025-03-20, **Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2503.16707v1](http://arxiv.org/abs/2503.16707v1), Code: **[https://github.com/tyroneli/cua_o3d](https://github.com/tyroneli/cua_o3d)**
+- 2025-03-28, **Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2503.16707v2](http://arxiv.org/abs/2503.16707v2), Code: **[https://github.com/tyroneli/cua_o3d](https://github.com/tyroneli/cua_o3d)**
 - 2025-03-20, **Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**, Akhil Perincherry et.al., Paper: [http://arxiv.org/abs/2503.16394v1](http://arxiv.org/abs/2503.16394v1)
 - 2025-03-20, **M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**, Markus Karmann et.al., Paper: [http://arxiv.org/abs/2503.16254v1](http://arxiv.org/abs/2503.16254v1)
 - 2025-03-19, **CAM-Seg: A Continuous-valued Embedding Approach for Semantic Image Generation**, Masud Ahmed et.al., Paper: [http://arxiv.org/abs/2503.15617v1](http://arxiv.org/abs/2503.15617v1)
