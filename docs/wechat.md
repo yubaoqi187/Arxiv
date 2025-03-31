@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-03-28, **DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**, Ruining Li et.al., Paper: [http://arxiv.org/abs/2503.22677v1](http://arxiv.org/abs/2503.22677v1)
+- 2025-03-28, **Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels**, Adam Wei et.al., Paper: [http://arxiv.org/abs/2503.22634v1](http://arxiv.org/abs/2503.22634v1)
+- 2025-03-28, **The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**, C. Maier et.al., Paper: [http://arxiv.org/abs/2503.22628v1](http://arxiv.org/abs/2503.22628v1)
+- 2025-03-28, **Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**, Jangho Park et.al., Paper: [http://arxiv.org/abs/2503.22622v1](http://arxiv.org/abs/2503.22622v1)
+- 2025-03-28, **Advancing DevSecOps in SMEs: Challenges and Best Practices for Secure CI/CD Pipelines**, Jayaprakashreddy Cheenepalli et.al., Paper: [http://arxiv.org/abs/2503.22612v1](http://arxiv.org/abs/2503.22612v1)
+- 2025-03-28, **Generative Latent Neural PDE Solver using Flow Matching**, Zijie Li et.al., Paper: [http://arxiv.org/abs/2503.22600v1](http://arxiv.org/abs/2503.22600v1)
+- 2025-03-28, **RELD: Regularization by Latent Diffusion Models for Image Restoration**, Pasquale Cascarano et.al., Paper: [http://arxiv.org/abs/2503.22563v1](http://arxiv.org/abs/2503.22563v1)
+- 2025-03-28, **Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation**, Zhuo-Yang Song et.al., Paper: [http://arxiv.org/abs/2503.22547v1](http://arxiv.org/abs/2503.22547v1)
+- 2025-03-28, **Scaling limit for the random walk on critical lattice trees**, Gérard Ben Arous et.al., Paper: [http://arxiv.org/abs/2503.22538v1](http://arxiv.org/abs/2503.22538v1)
+- 2025-03-28, **LIM: Large Interpolator Model for Dynamic Reconstruction**, Remy Sabathier et.al., Paper: [http://arxiv.org/abs/2503.22537v1](http://arxiv.org/abs/2503.22537v1)
+- 2025-03-28, **Deterministic Medical Image Translation via High-fidelity Brownian Bridges**, Qisheng He et.al., Paper: [http://arxiv.org/abs/2503.22531v1](http://arxiv.org/abs/2503.22531v1)
+- 2025-03-28, **Multi-stage model predictive control for slug flow crystallizers using uncertainty-aware surrogate models**, Collin R. Johnson et.al., Paper: [http://arxiv.org/abs/2503.22520v1](http://arxiv.org/abs/2503.22520v1)
+- 2025-03-28, **Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2503.22496v1](http://arxiv.org/abs/2503.22496v1)
+- 2025-03-28, **Almost Bayesian: The Fractal Dynamics of Stochastic Gradient Descent**, Max Hennick et.al., Paper: [http://arxiv.org/abs/2503.22478v1](http://arxiv.org/abs/2503.22478v1)
+- 2025-03-28, **On-site estimation of battery electrochemical parameters via transfer learning based physics-informed neural network approach**, Josu Yeregui et.al., Paper: [http://arxiv.org/abs/2503.22396v1](http://arxiv.org/abs/2503.22396v1)
+- 2025-03-28, **Volumetric Material Decomposition Using Spectral Diffusion Posterior Sampling with a Compressed Polychromatic Forward Model**, Xiao Jiang et.al., Paper: [http://arxiv.org/abs/2503.22392v1](http://arxiv.org/abs/2503.22392v1)
+- 2025-03-28, **Grasping a Handful: Sequential Multi-Object Dexterous Grasp Generation**, Haofei Lu et.al., Paper: [http://arxiv.org/abs/2503.22370v1](http://arxiv.org/abs/2503.22370v1)
+- 2025-03-28, **Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization**, Barış Batuhan Topal et.al., Paper: [http://arxiv.org/abs/2503.22352v1](http://arxiv.org/abs/2503.22352v1)
+- 2025-03-28, **GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**, Li-Heng Chen et.al., Paper: [http://arxiv.org/abs/2503.22349v1](http://arxiv.org/abs/2503.22349v1)
+- 2025-03-28, **Semantix: An Energy Guided Sampler for Semantic Style Transfer**, Huiang He et.al., Paper: [http://arxiv.org/abs/2503.22344v1](http://arxiv.org/abs/2503.22344v1)
 - 2025-03-27, **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**, Chi-Pin Huang et.al., Paper: [http://arxiv.org/abs/2503.21781v1](http://arxiv.org/abs/2503.21781v1)
 - 2025-03-27, **StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**, Ziyu Guo et.al., Paper: [http://arxiv.org/abs/2503.21775v1](http://arxiv.org/abs/2503.21775v1)
 - 2025-03-27, **Optimal Stepsize for Diffusion Sampling**, Jianning Pei et.al., Paper: [http://arxiv.org/abs/2503.21774v1](http://arxiv.org/abs/2503.21774v1), Code: **[https://github.com/bebebe666/optimalsteps](https://github.com/bebebe666/optimalsteps)**
