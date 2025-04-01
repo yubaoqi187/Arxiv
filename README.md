@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 ## Diffusion
 
@@ -20,7 +20,7 @@
 |**2025-03-28**|**Almost Bayesian: The Fractal Dynamics of Stochastic Gradient Descent**|Max Hennick et.al.|[2503.22478v1](http://arxiv.org/abs/2503.22478v1)|null|
 |**2025-03-28**|**On-site estimation of battery electrochemical parameters via transfer learning based physics-informed neural network approach**|Josu Yeregui et.al.|[2503.22396v1](http://arxiv.org/abs/2503.22396v1)|null|
 |**2025-03-28**|**Volumetric Material Decomposition Using Spectral Diffusion Posterior Sampling with a Compressed Polychromatic Forward Model**|Xiao Jiang et.al.|[2503.22392v1](http://arxiv.org/abs/2503.22392v1)|null|
-|**2025-03-28**|**Grasping a Handful: Sequential Multi-Object Dexterous Grasp Generation**|Haofei Lu et.al.|[2503.22370v1](http://arxiv.org/abs/2503.22370v1)|null|
+|**2025-03-31**|**Grasping a Handful: Sequential Multi-Object Dexterous Grasp Generation**|Haofei Lu et.al.|[2503.22370v2](http://arxiv.org/abs/2503.22370v2)|null|
 |**2025-03-28**|**Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization**|Barış Batuhan Topal et.al.|[2503.22352v1](http://arxiv.org/abs/2503.22352v1)|null|
 |**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349v1](http://arxiv.org/abs/2503.22349v1)|null|
 |**2025-03-28**|**Semantix: An Energy Guided Sampler for Semantic Style Transfer**|Huiang He et.al.|[2503.22344v1](http://arxiv.org/abs/2503.22344v1)|null|
