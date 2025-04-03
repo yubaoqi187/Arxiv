@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|null|
+|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956v1](http://arxiv.org/abs/2504.01956v1)|null|
+|**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953v1](http://arxiv.org/abs/2504.01953v1)|null|
+|**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938v1](http://arxiv.org/abs/2504.01938v1)|null|
+|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934v1](http://arxiv.org/abs/2504.01934v1)|null|
+|**2025-04-02**|**Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time**|Haykel Snoussi et.al.|[2504.01925v1](http://arxiv.org/abs/2504.01925v1)|null|
+|**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894v1](http://arxiv.org/abs/2504.01894v1)|null|
+|**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873v1](http://arxiv.org/abs/2504.01873v1)|null|
+|**2025-04-02**|**Enhanced Diffusion Sampling via Extrapolation with Multiple ODE Solutions**|Jinyoung Choi et.al.|[2504.01855v1](http://arxiv.org/abs/2504.01855v1)|null|
+|**2025-04-02**|**Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images**|Nusrat Munia et.al.|[2504.01838v1](http://arxiv.org/abs/2504.01838v1)|null|
+|**2025-04-02**|**Implicit Bias Injection Attacks against Text-to-Image Diffusion Models**|Huayang Huang et.al.|[2504.01819v1](http://arxiv.org/abs/2504.01819v1)|null|
+|**2025-04-02**|**A discussion on the origin of the sub-PeV Galactic gamma-ray emission**|S. Kato et.al.|[2504.01799v1](http://arxiv.org/abs/2504.01799v1)|null|
+|**2025-04-02**|**Quantifying the scale of star formation across the Perseus spiral arm using young clusters around Cas OB5**|Alexis L. Quintana et.al.|[2504.01748v1](http://arxiv.org/abs/2504.01748v1)|null|
+|**2025-04-02**|**The protein escape process at the ribosomal exit tunnel has conserved mechanisms across the domains of life**|Phuong Thuy Bui et.al.|[2504.01731v1](http://arxiv.org/abs/2504.01731v1)|null|
+|**2025-04-02**|**Acoustic Propagation/Refraction Through Diffuse Interface Models**|Abbas Ballout et.al.|[2504.01727v1](http://arxiv.org/abs/2504.01727v1)|null|
+|**2025-04-02**|**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**|Yuxuan Luo et.al.|[2504.01724v1](http://arxiv.org/abs/2504.01724v1)|null|
+|**2025-04-02**|**A Novel Dynamic Epidemic Model for Successive Opinion Diffusion in Social Networks**|Bin Han et.al.|[2504.01718v1](http://arxiv.org/abs/2504.01718v1)|null|
+|**2025-04-02**|**Method for Mitigating Attention to Inappropriate Content Based on Attention Dynamics Model**|Naoki Hirakura et.al.|[2504.01712v1](http://arxiv.org/abs/2504.01712v1)|null|
+|**2025-04-02**|**Single-atom-at-a-time adsorption studies of $^{211}$Bi and its precursor $^{211}$Pb on SiO$_{2}$ surfaces**|Dominik Dietzel et.al.|[2504.01697v1](http://arxiv.org/abs/2504.01697v1)|null|
+|**2025-04-02**|**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems**|Noam Elata et.al.|[2504.01689v1](http://arxiv.org/abs/2504.01689v1)|null|
 |**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357v1](http://arxiv.org/abs/2503.24357v1)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
 |**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354v1](http://arxiv.org/abs/2503.24354v1)|null|
 |**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322v1](http://arxiv.org/abs/2503.24322v1)|null|
@@ -3723,6 +3743,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577v1](http://arxiv.org/abs/2504.01577v1)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547v1](http://arxiv.org/abs/2504.01547v1)|null|
+|**2025-04-02**|**Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis**|Zixuan Wang et.al.|[2504.01515v1](http://arxiv.org/abs/2504.01515v1)|null|
+|**2025-04-01**|**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**|Zilong Huang et.al.|[2504.00387v1](http://arxiv.org/abs/2504.00387v1)|null|
+|**2025-04-01**|**Turbulent diffusion and dispersion in a superfluid**|Yuan Tang et.al.|[2504.00353v1](http://arxiv.org/abs/2504.00353v1)|null|
+|**2025-03-31**|**Few-Shot Generation of Brain Tumors for Secure and Fair Data Sharing**|Yongyi Shi et.al.|[2504.00150v1](http://arxiv.org/abs/2504.00150v1)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449v1](http://arxiv.org/abs/2503.21449v1)|**[link](https://github.com/prbonn/3diss)**|
 |**2025-03-27**|**Can Video Diffusion Model Reconstruct 4D Geometry?**|Jinjie Mai et.al.|[2503.21082v1](http://arxiv.org/abs/2503.21082v1)|null|
 |**2025-03-26**|**A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)**|A. Candito et.al.|[2503.20722v1](http://arxiv.org/abs/2503.20722v1)|null|
