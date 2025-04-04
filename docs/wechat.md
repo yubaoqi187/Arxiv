@@ -1,4 +1,4 @@
-> Updated on 2025.04.03
+> Updated on 2025.04.04
 
 ## Video_Classification
 
@@ -9542,10 +9542,10 @@
 ## Diffusion
 
 - 2025-04-02, **Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**, Niluthpol Chowdhury Mithun et.al., Paper: [http://arxiv.org/abs/2504.01960v1](http://arxiv.org/abs/2504.01960v1)
-- 2025-04-02, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956v1](http://arxiv.org/abs/2504.01956v1)
+- 2025-04-03, **VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Hanyang Wang et.al., Paper: [http://arxiv.org/abs/2504.01956v2](http://arxiv.org/abs/2504.01956v2)
 - 2025-04-02, **Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**, Mohini Anand et.al., Paper: [http://arxiv.org/abs/2504.01953v1](http://arxiv.org/abs/2504.01953v1)
 - 2025-04-02, **A Unified Approach to Analysis and Design of Denoising Markov Models**, Yinuo Ren et.al., Paper: [http://arxiv.org/abs/2504.01938v1](http://arxiv.org/abs/2504.01938v1)
-- 2025-04-02, **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**, Runhui Huang et.al., Paper: [http://arxiv.org/abs/2504.01934v1](http://arxiv.org/abs/2504.01934v1)
+- 2025-04-03, **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**, Runhui Huang et.al., Paper: [http://arxiv.org/abs/2504.01934v2](http://arxiv.org/abs/2504.01934v2)
 - 2025-04-02, **Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time**, Haykel Snoussi et.al., Paper: [http://arxiv.org/abs/2504.01925v1](http://arxiv.org/abs/2504.01925v1)
 - 2025-04-02, **Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**, Caroline Tatsuoka et.al., Paper: [http://arxiv.org/abs/2504.01894v1](http://arxiv.org/abs/2504.01894v1)
 - 2025-04-02, **A Diffusion-Based Framework for Occluded Object Movement**, Zheng-Peng Duan et.al., Paper: [http://arxiv.org/abs/2504.01873v1](http://arxiv.org/abs/2504.01873v1)
@@ -9556,7 +9556,7 @@
 - 2025-04-02, **Quantifying the scale of star formation across the Perseus spiral arm using young clusters around Cas OB5**, Alexis L. Quintana et.al., Paper: [http://arxiv.org/abs/2504.01748v1](http://arxiv.org/abs/2504.01748v1)
 - 2025-04-02, **The protein escape process at the ribosomal exit tunnel has conserved mechanisms across the domains of life**, Phuong Thuy Bui et.al., Paper: [http://arxiv.org/abs/2504.01731v1](http://arxiv.org/abs/2504.01731v1)
 - 2025-04-02, **Acoustic Propagation/Refraction Through Diffuse Interface Models**, Abbas Ballout et.al., Paper: [http://arxiv.org/abs/2504.01727v1](http://arxiv.org/abs/2504.01727v1)
-- 2025-04-02, **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2504.01724v1](http://arxiv.org/abs/2504.01724v1)
+- 2025-04-03, **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance**, Yuxuan Luo et.al., Paper: [http://arxiv.org/abs/2504.01724v2](http://arxiv.org/abs/2504.01724v2)
 - 2025-04-02, **A Novel Dynamic Epidemic Model for Successive Opinion Diffusion in Social Networks**, Bin Han et.al., Paper: [http://arxiv.org/abs/2504.01718v1](http://arxiv.org/abs/2504.01718v1)
 - 2025-04-02, **Method for Mitigating Attention to Inappropriate Content Based on Attention Dynamics Model**, Naoki Hirakura et.al., Paper: [http://arxiv.org/abs/2504.01712v1](http://arxiv.org/abs/2504.01712v1)
 - 2025-04-02, **Single-atom-at-a-time adsorption studies of $^{211}$Bi and its precursor $^{211}$Pb on SiO$_{2}$ surfaces**, Dominik Dietzel et.al., Paper: [http://arxiv.org/abs/2504.01697v1](http://arxiv.org/abs/2504.01697v1)
@@ -13276,7 +13276,7 @@
 
 - 2025-04-02, **Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**, Lirui Qi et.al., Paper: [http://arxiv.org/abs/2504.01577v1](http://arxiv.org/abs/2504.01577v1)
 - 2025-04-02, **Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**, Luca Ciampi et.al., Paper: [http://arxiv.org/abs/2504.01547v1](http://arxiv.org/abs/2504.01547v1)
-- 2025-04-02, **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis**, Zixuan Wang et.al., Paper: [http://arxiv.org/abs/2504.01515v1](http://arxiv.org/abs/2504.01515v1)
+- 2025-04-03, **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis**, Zixuan Wang et.al., Paper: [http://arxiv.org/abs/2504.01515v2](http://arxiv.org/abs/2504.01515v2)
 - 2025-04-01, **Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**, Zilong Huang et.al., Paper: [http://arxiv.org/abs/2504.00387v1](http://arxiv.org/abs/2504.00387v1)
 - 2025-04-01, **Turbulent diffusion and dispersion in a superfluid**, Yuan Tang et.al., Paper: [http://arxiv.org/abs/2504.00353v1](http://arxiv.org/abs/2504.00353v1)
 - 2025-03-31, **Few-Shot Generation of Brain Tumors for Secure and Fair Data Sharing**, Yongyi Shi et.al., Paper: [http://arxiv.org/abs/2504.00150v1](http://arxiv.org/abs/2504.00150v1)
