@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**|J. D. Soler et.al.|[2504.03642v1](http://arxiv.org/abs/2504.03642v1)|null|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630v1](http://arxiv.org/abs/2504.03630v1)|null|
+|**2025-04-04**|**Quantifying the uncertainty of model-based synthetic image quality metrics**|Ciaran Bench et.al.|[2504.03623v1](http://arxiv.org/abs/2504.03623v1)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607v1](http://arxiv.org/abs/2504.03607v1)|null|
+|**2025-04-04**|**The impact of diffuse Galactic emission on direction-independent gain calibration in high-redshift 21 cm observations**|C. Höfer et.al.|[2504.03554v1](http://arxiv.org/abs/2504.03554v1)|null|
+|**2025-04-04**|**Passive scalar dispersion along porous stratum with natural convection**|Chenglong Hu et.al.|[2504.03545v1](http://arxiv.org/abs/2504.03545v1)|null|
+|**2025-04-04**|**Exponential equilibration of an electro-energy-reaction-diffusion system arising from a two-level semiconductor model**|Michael Kniely et.al.|[2504.03534v1](http://arxiv.org/abs/2504.03534v1)|null|
+|**2025-04-04**|**Intracluster light is a biased tracer of the dark matter distribution in clusters**|J. Butler et.al.|[2504.03518v1](http://arxiv.org/abs/2504.03518v1)|null|
+|**2025-04-04**|**Multiscale Energy Spreading in Hard-Particle Chains**|Arkady Pikovsky et.al.|[2504.03511v1](http://arxiv.org/abs/2504.03511v1)|null|
+|**2025-04-04**|**Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography**|Luis Barba et.al.|[2504.03491v1](http://arxiv.org/abs/2504.03491v1)|null|
+|**2025-04-04**|**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution**|Zihao He et.al.|[2504.03490v1](http://arxiv.org/abs/2504.03490v1)|null|
+|**2025-04-04**|**Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis**|Xi Wang et.al.|[2504.03471v1](http://arxiv.org/abs/2504.03471v1)|null|
+|**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468v1](http://arxiv.org/abs/2504.03468v1)|null|
+|**2025-04-04**|**Conditioning Diffusions Using Malliavin Calculus**|Jakiw Pidstrigach et.al.|[2504.03461v1](http://arxiv.org/abs/2504.03461v1)|null|
+|**2025-04-04**|**Numerical simulation of atmospheric transport and dispersion of Phakopsora pachyrhizi urediniospores in South America using the state of Paraná-Brazil as a model**|Eduardo Oliveira Belinelli et.al.|[2504.03433v1](http://arxiv.org/abs/2504.03433v1)|null|
+|**2025-04-04**|**Uniqueness results of a nonlinear stochastic diffusion-convection equation with reflection**|Niklas Sapountzoglou et.al.|[2504.03417v1](http://arxiv.org/abs/2504.03417v1)|null|
+|**2025-04-04**|**A new energy method for shortening and straightening complete curves**|Tatsuya Miura et.al.|[2504.03395v1](http://arxiv.org/abs/2504.03395v1)|null|
+|**2025-04-04**|**Stochastic Control of Drawdowns via Reinsurance under Random Inspection**|Kira Dudziak et.al.|[2504.03319v1](http://arxiv.org/abs/2504.03319v1)|null|
+|**2025-04-04**|**Unexpected clustering pattern in dwarf galaxies challenges formation models**|Ziwen Zhang et.al.|[2504.03305v1](http://arxiv.org/abs/2504.03305v1)|null|
+|**2025-04-04**|**FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement**|Gia-Nghia Tran et.al.|[2504.03292v1](http://arxiv.org/abs/2504.03292v1)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792v1](http://arxiv.org/abs/2504.02792v1)|null|
