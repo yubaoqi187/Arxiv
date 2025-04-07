@@ -1,4 +1,4 @@
-> Updated on 2025.04.06
+> Updated on 2025.04.07
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2025-04-03, **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2504.02782v1](http://arxiv.org/abs/2504.02782v1)
 - 2025-04-03, **Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**, Shengjun Zhang et.al., Paper: [http://arxiv.org/abs/2504.02764v1](http://arxiv.org/abs/2504.02764v1)
 - 2025-04-03, **MD-ProjTex: Texturing 3D Shapes with Multi-Diffusion Projection**, Ahmet Burak Yildirim et.al., Paper: [http://arxiv.org/abs/2504.02762v1](http://arxiv.org/abs/2504.02762v1)
-- 2025-04-03, **RBR4DNN: Requirements-based Testing of Neural Networks**, Nusrat Jahan Mozumder et.al., Paper: [http://arxiv.org/abs/2504.02737v1](http://arxiv.org/abs/2504.02737v1)
+- 2025-04-04, **RBT4DNN: Requirements-based Testing of Neural Networks**, Nusrat Jahan Mozumder et.al., Paper: [http://arxiv.org/abs/2504.02737v2](http://arxiv.org/abs/2504.02737v2)
 - 2025-04-03, **Monitored Fluctuating Hydrodynamics**, Sarang Gopalakrishnan et.al., Paper: [http://arxiv.org/abs/2504.02734v1](http://arxiv.org/abs/2504.02734v1)
 - 2025-04-03, **Autonomous Human-Robot Interaction via Operator Imitation**, Sammy Christen et.al., Paper: [http://arxiv.org/abs/2504.02724v1](http://arxiv.org/abs/2504.02724v1)
 - 2025-04-03, **Phase transitions for interacting particle systems on random graphs**, Benedetta Bertoli et.al., Paper: [http://arxiv.org/abs/2504.02721v1](http://arxiv.org/abs/2504.02721v1)
@@ -9556,7 +9556,7 @@
 - 2025-04-03, **Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation**, Jiwoo Chung et.al., Paper: [http://arxiv.org/abs/2504.02612v1](http://arxiv.org/abs/2504.02612v1)
 - 2025-04-03, **Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**, Lucas Relic et.al., Paper: [http://arxiv.org/abs/2504.02579v1](http://arxiv.org/abs/2504.02579v1)
 - 2025-04-03, **MAD: Makeup All-in-One with Cross-Domain Diffusion Model**, Bo-Kai Ruan et.al., Paper: [http://arxiv.org/abs/2504.02545v1](http://arxiv.org/abs/2504.02545v1)
-- 2025-04-03, **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2504.02542v1](http://arxiv.org/abs/2504.02542v1)
+- 2025-04-04, **Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2504.02542v2](http://arxiv.org/abs/2504.02542v2)
 - 2025-04-03, **Globular cluster distributions as a dynamical probe of dark matter**, Nativ Ben-Yeda et.al., Paper: [http://arxiv.org/abs/2504.02476v1](http://arxiv.org/abs/2504.02476v1)
 - 2025-04-03, **Enhancing Compton telescope imaging with maximum a posteriori estimation: a modified Richardson-Lucy algorithm for the Compton Spectrometer and Imager**, Hiroki Yoneda et.al., Paper: [http://arxiv.org/abs/2504.02468v1](http://arxiv.org/abs/2504.02468v1)
 - 2025-04-03, **Optimal first-passage times of active Brownian particles under stochastic resetting**, Yanis Baouche et.al., Paper: [http://arxiv.org/abs/2504.02466v1](http://arxiv.org/abs/2504.02466v1)
