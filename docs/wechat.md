@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-04-07, **CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**, Kavana Venkatesh et.al., Paper: [http://arxiv.org/abs/2504.05306v1](http://arxiv.org/abs/2504.05306v1)
+- 2025-04-07, **Gaussian Mixture Flow Matching Models**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2504.05304v1](http://arxiv.org/abs/2504.05304v1)
+- 2025-04-07, **Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**, Gen Li et.al., Paper: [http://arxiv.org/abs/2504.05300v1](http://arxiv.org/abs/2504.05300v1)
+- 2025-04-07, **AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**, Yusef Ahsini et.al., Paper: [http://arxiv.org/abs/2504.05271v1](http://arxiv.org/abs/2504.05271v1)
+- 2025-04-07, **Federated Learning for Medical Image Classification: A Comprehensive Benchmark**, Zhekai Zhou et.al., Paper: [http://arxiv.org/abs/2504.05238v1](http://arxiv.org/abs/2504.05238v1)
+- 2025-04-07, **Universal Lymph Node Detection in Multiparametric MRI with Selective Augmentation**, Tejas Sudharshan Mathai et.al., Paper: [http://arxiv.org/abs/2504.05196v1](http://arxiv.org/abs/2504.05196v1)
+- 2025-04-07, **DDPM Score Matching and Distribution Learning**, Sinho Chewi et.al., Paper: [http://arxiv.org/abs/2504.05161v1](http://arxiv.org/abs/2504.05161v1)
+- 2025-04-07, **DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**, Jiamei Xiong et.al., Paper: [http://arxiv.org/abs/2504.05135v1](http://arxiv.org/abs/2504.05135v1)
+- 2025-04-07, **Kinetic study of compressible Rayleigh-Taylor instability with time-varying acceleration**, Huilin Lai et.al., Paper: [http://arxiv.org/abs/2504.05128v1](http://arxiv.org/abs/2504.05128v1)
+- 2025-04-07, **Morse Index Theorem for Sturm-Liouville Operators on the Real Line**, Ran Yang et.al., Paper: [http://arxiv.org/abs/2504.05091v1](http://arxiv.org/abs/2504.05091v1)
+- 2025-04-07, **Speech-to-Trajectory: Learning Human-Like Verbal Guidance for Robot Motion**, Eran Beeri Bamani et.al., Paper: [http://arxiv.org/abs/2504.05084v1](http://arxiv.org/abs/2504.05084v1)
+- 2025-04-07, **Turing instability for nonlocal heterogeneous reaction-diffusion systems: A computer-assisted proof approach**, Maxime Breden et.al., Paper: [http://arxiv.org/abs/2504.05066v1](http://arxiv.org/abs/2504.05066v1)
+- 2025-04-07, **Graph-based Diffusion Model for Collaborative Filtering**, Xuan Zhang et.al., Paper: [http://arxiv.org/abs/2504.05029v1](http://arxiv.org/abs/2504.05029v1)
+- 2025-04-07, **Multi-level Neural Networks for high-dimensional parametric obstacle problems**, Martin Eigel et.al., Paper: [http://arxiv.org/abs/2504.05026v1](http://arxiv.org/abs/2504.05026v1)
+- 2025-04-07, **Quantum walk with coherent multiple translations induces fast quantum gate operations**, Yixiang Zhang et.al., Paper: [http://arxiv.org/abs/2504.04990v1](http://arxiv.org/abs/2504.04990v1)
+- 2025-04-07, **Sub-diffusive behavior of a recurrent Axis-Driven Random Walk**, Pierre Andreoletti et.al., Paper: [http://arxiv.org/abs/2504.04972v1](http://arxiv.org/abs/2504.04972v1)
+- 2025-04-07, **REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**, Jihyun Lee et.al., Paper: [http://arxiv.org/abs/2504.04956v1](http://arxiv.org/abs/2504.04956v1)
+- 2025-04-07, **Anisotropic space-time goal-oriented error control and mesh adaptivity for convection-diffusion-reaction equations**, M. Bause et.al., Paper: [http://arxiv.org/abs/2504.04951v1](http://arxiv.org/abs/2504.04951v1)
+- 2025-04-07, **Phase transitions in swarm optimization algorithms**, Tomáš Vantuch et.al., Paper: [http://arxiv.org/abs/2504.04947v1](http://arxiv.org/abs/2504.04947v1)
+- 2025-04-07, **Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**, Yuandong Pu et.al., Paper: [http://arxiv.org/abs/2504.04903v1](http://arxiv.org/abs/2504.04903v1)
 - 2025-04-04, **Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**, J. D. Soler et.al., Paper: [http://arxiv.org/abs/2504.03642v1](http://arxiv.org/abs/2504.03642v1)
 - 2025-04-04, **Enhancing Causal Effect Estimation with Diffusion-Generated Data**, Li Chen et.al., Paper: [http://arxiv.org/abs/2504.03630v1](http://arxiv.org/abs/2504.03630v1)
 - 2025-04-04, **Quantifying the uncertainty of model-based synthetic image quality metrics**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2504.03623v1](http://arxiv.org/abs/2504.03623v1)
@@ -13314,6 +13334,9 @@
 
 ## Diffusion_Segment
 
+- 2025-04-07, **Continuous Locomotive Crowd Behavior Generation**, Inhwan Bae et.al., Paper: [http://arxiv.org/abs/2504.04756v1](http://arxiv.org/abs/2504.04756v1)
+- 2025-04-06, **Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**, Haonan Chen et.al., Paper: [http://arxiv.org/abs/2504.04612v1](http://arxiv.org/abs/2504.04612v1)
+- 2025-04-05, **DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**, Maksim Siniukov et.al., Paper: [http://arxiv.org/abs/2504.04010v1](http://arxiv.org/abs/2504.04010v1)
 - 2025-04-03, **Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation**, Laibin Chang et.al., Paper: [http://arxiv.org/abs/2504.02391v1](http://arxiv.org/abs/2504.02391v1)
 - 2025-04-02, **Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**, Lirui Qi et.al., Paper: [http://arxiv.org/abs/2504.01577v1](http://arxiv.org/abs/2504.01577v1)
 - 2025-04-02, **Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**, Luca Ciampi et.al., Paper: [http://arxiv.org/abs/2504.01547v1](http://arxiv.org/abs/2504.01547v1), Code: **[https://github.com/ciampluca/diffusion_semi_supervised_biomedical_image_segmentation](https://github.com/ciampluca/diffusion_semi_supervised_biomedical_image_segmentation)**
