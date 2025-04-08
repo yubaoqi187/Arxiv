@@ -1,4 +1,4 @@
-> Updated on 2025.04.07
+> Updated on 2025.04.08
 
 ## Video_Classification
 
@@ -9559,7 +9559,7 @@
 - 2025-04-04, **Uniqueness results of a nonlinear stochastic diffusion-convection equation with reflection**, Niklas Sapountzoglou et.al., Paper: [http://arxiv.org/abs/2504.03417v1](http://arxiv.org/abs/2504.03417v1)
 - 2025-04-04, **A new energy method for shortening and straightening complete curves**, Tatsuya Miura et.al., Paper: [http://arxiv.org/abs/2504.03395v1](http://arxiv.org/abs/2504.03395v1)
 - 2025-04-04, **Stochastic Control of Drawdowns via Reinsurance under Random Inspection**, Kira Dudziak et.al., Paper: [http://arxiv.org/abs/2504.03319v1](http://arxiv.org/abs/2504.03319v1)
-- 2025-04-04, **Unexpected clustering pattern in dwarf galaxies challenges formation models**, Ziwen Zhang et.al., Paper: [http://arxiv.org/abs/2504.03305v1](http://arxiv.org/abs/2504.03305v1)
+- 2025-04-07, **Unexpected clustering pattern in dwarf galaxies challenges formation models**, Ziwen Zhang et.al., Paper: [http://arxiv.org/abs/2504.03305v2](http://arxiv.org/abs/2504.03305v2)
 - 2025-04-04, **FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement**, Gia-Nghia Tran et.al., Paper: [http://arxiv.org/abs/2504.03292v1](http://arxiv.org/abs/2504.03292v1)
 - 2025-04-03, **Concept Lancet: Image Editing with Compositional Representation Transplant**, Jinqi Luo et.al., Paper: [http://arxiv.org/abs/2504.02828v1](http://arxiv.org/abs/2504.02828v1)
 - 2025-04-03, **F-ViTA: Foundation Model Guided Visible to Thermal Translation**, Jay N. Paranjape et.al., Paper: [http://arxiv.org/abs/2504.02801v1](http://arxiv.org/abs/2504.02801v1)
