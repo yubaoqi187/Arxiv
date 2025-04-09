@@ -1,4 +1,4 @@
-> Updated on 2025.04.08
+> Updated on 2025.04.09
 
 ## Video_Classification
 
@@ -9557,10 +9557,10 @@
 - 2025-04-07, **Multi-level Neural Networks for high-dimensional parametric obstacle problems**, Martin Eigel et.al., Paper: [http://arxiv.org/abs/2504.05026v1](http://arxiv.org/abs/2504.05026v1)
 - 2025-04-07, **Quantum walk with coherent multiple translations induces fast quantum gate operations**, Yixiang Zhang et.al., Paper: [http://arxiv.org/abs/2504.04990v1](http://arxiv.org/abs/2504.04990v1)
 - 2025-04-07, **Sub-diffusive behavior of a recurrent Axis-Driven Random Walk**, Pierre Andreoletti et.al., Paper: [http://arxiv.org/abs/2504.04972v1](http://arxiv.org/abs/2504.04972v1)
-- 2025-04-07, **REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**, Jihyun Lee et.al., Paper: [http://arxiv.org/abs/2504.04956v1](http://arxiv.org/abs/2504.04956v1)
+- 2025-04-08, **REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**, Jihyun Lee et.al., Paper: [http://arxiv.org/abs/2504.04956v2](http://arxiv.org/abs/2504.04956v2)
 - 2025-04-07, **Anisotropic space-time goal-oriented error control and mesh adaptivity for convection-diffusion-reaction equations**, M. Bause et.al., Paper: [http://arxiv.org/abs/2504.04951v1](http://arxiv.org/abs/2504.04951v1)
 - 2025-04-07, **Phase transitions in swarm optimization algorithms**, Tomáš Vantuch et.al., Paper: [http://arxiv.org/abs/2504.04947v1](http://arxiv.org/abs/2504.04947v1)
-- 2025-04-07, **Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**, Yuandong Pu et.al., Paper: [http://arxiv.org/abs/2504.04903v1](http://arxiv.org/abs/2504.04903v1)
+- 2025-04-08, **Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**, Yuandong Pu et.al., Paper: [http://arxiv.org/abs/2504.04903v2](http://arxiv.org/abs/2504.04903v2)
 - 2025-04-04, **Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**, J. D. Soler et.al., Paper: [http://arxiv.org/abs/2504.03642v1](http://arxiv.org/abs/2504.03642v1)
 - 2025-04-04, **Enhancing Causal Effect Estimation with Diffusion-Generated Data**, Li Chen et.al., Paper: [http://arxiv.org/abs/2504.03630v1](http://arxiv.org/abs/2504.03630v1)
 - 2025-04-04, **Quantifying the uncertainty of model-based synthetic image quality metrics**, Ciaran Bench et.al., Paper: [http://arxiv.org/abs/2504.03623v1](http://arxiv.org/abs/2504.03623v1)
