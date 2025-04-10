@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**The Lyman-alpha and Continuum Origins Survey II: the uneventful journey of escaping Ly$α$ and ionizing radiation through the neutral ISM and CGM of galaxies**|A. Saldana-Lopez et.al.|[2504.07074v1](http://arxiv.org/abs/2504.07074v1)|null|
+|**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025v1](http://arxiv.org/abs/2504.07025v1)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008v1](http://arxiv.org/abs/2504.07008v1)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
+|**2025-04-09**|**A Krylov projection algorithm for large symmetric matrices with dense spectra**|Vladimir Druskin Jörn Zimmerling et.al.|[2504.06998v1](http://arxiv.org/abs/2504.06998v1)|null|
+|**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997v1](http://arxiv.org/abs/2504.06997v1)|null|
+|**2025-04-09**|**Enhancing TiFe Alloy Activation for Hydrogen Storage Through Al, Cr, Co, and Cu Substitutions as a Step Towards Future Recycling**|Francesca Garelli et.al.|[2504.06990v1](http://arxiv.org/abs/2504.06990v1)|null|
+|**2025-04-09**|**Exact Current Fluctuations in a Tight-Binding Chain with Dephasing Noise**|Taiki Ishiyama et.al.|[2504.06989v1](http://arxiv.org/abs/2504.06989v1)|null|
+|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950v1](http://arxiv.org/abs/2504.06950v1)|null|
+|**2025-04-09**|**Density Approximation of Affine Jump Diffusions via Closed-Form Moment Matching**|Yan-Feng Wu et.al.|[2504.06942v1](http://arxiv.org/abs/2504.06942v1)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|null|
+|**2025-04-09**|**ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities**|Dingkun Yan et.al.|[2504.06895v1](http://arxiv.org/abs/2504.06895v1)|**[link](https://github.com/tellurion-kanata/colorizediffusion)**|
+|**2025-04-09**|**AI-Driven Consensus: Modeling Multi-Agent Networks with Long-Range Interactions through path-Laplacian Matrices**|Yusef Ahsini et.al.|[2504.06894v1](http://arxiv.org/abs/2504.06894v1)|null|
+|**2025-04-09**|**Anomalous transport models for fluid classification: insights from an experimentally driven approach**|Sara Bernardi et.al.|[2504.06876v1](http://arxiv.org/abs/2504.06876v1)|null|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861v1](http://arxiv.org/abs/2504.06861v1)|null|
+|**2025-04-09**|**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**|Mishan Aliev et.al.|[2504.06856v1](http://arxiv.org/abs/2504.06856v1)|null|
+|**2025-04-09**|**Symmetric splitting of one-dimensional noises**|Matija Vidmar et.al.|[2504.06850v1](http://arxiv.org/abs/2504.06850v1)|null|
+|**2025-04-09**|**Discrete-to-continuum limit for nonlinear reaction-diffusion systems via EDP convergence for gradient systems**|Georg Heinze et.al.|[2504.06837v1](http://arxiv.org/abs/2504.06837v1)|null|
+|**2025-04-09**|**A Graph Diffusion Algorithm for Lexical Similarity Evaluation**|Karol Mikula et.al.|[2504.06816v1](http://arxiv.org/abs/2504.06816v1)|null|
+|**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803v1](http://arxiv.org/abs/2504.06803v1)|null|
+|**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767v1](http://arxiv.org/abs/2504.06767v1)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256v1](http://arxiv.org/abs/2504.06256v1)|null|
 |**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249v1](http://arxiv.org/abs/2504.06249v1)|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232v1](http://arxiv.org/abs/2504.06232v1)|null|
@@ -3823,6 +3843,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950v1](http://arxiv.org/abs/2504.06950v1)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|null|
 |**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977v1](http://arxiv.org/abs/2504.05977v1)|null|
 |**2025-04-07**|**Studying Image Diffusion Features for Zero-Shot Video Object Segmentation**|Thanos Delatolas et.al.|[2504.05468v1](http://arxiv.org/abs/2504.05468v1)|null|
 |**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756v1](http://arxiv.org/abs/2504.04756v1)|null|
