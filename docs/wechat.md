@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-04-10, **Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**, Zeren Jiang et.al., Paper: [http://arxiv.org/abs/2504.07961v1](http://arxiv.org/abs/2504.07961v1)
+- 2025-04-10, **VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**, Zhong-Yu Li et.al., Paper: [http://arxiv.org/abs/2504.07960v1](http://arxiv.org/abs/2504.07960v1)
+- 2025-04-10, **GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**, Hao Yu et.al., Paper: [http://arxiv.org/abs/2504.07945v1](http://arxiv.org/abs/2504.07945v1)
+- 2025-04-10, **HoloPart: Generative 3D Part Amodal Segmentation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2504.07943v1](http://arxiv.org/abs/2504.07943v1)
+- 2025-04-10, **Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**, Wenrui Hao et.al., Paper: [http://arxiv.org/abs/2504.07913v1](http://arxiv.org/abs/2504.07913v1)
+- 2025-04-10, **Hodge Laplacians and Hodge Diffusion Maps**, Alvaro Almeida Gomez et.al., Paper: [http://arxiv.org/abs/2504.07910v1](http://arxiv.org/abs/2504.07910v1)
+- 2025-04-10, **Stupendously Large Primordial Black Holes from the QCD axion**, Miguel Faria et.al., Paper: [http://arxiv.org/abs/2504.07890v1](http://arxiv.org/abs/2504.07890v1)
+- 2025-04-10, **Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**, Elmehdi Cherrat et.al., Paper: [http://arxiv.org/abs/2504.07796v1](http://arxiv.org/abs/2504.07796v1)
+- 2025-04-10, **Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**, Yifan Ding et.al., Paper: [http://arxiv.org/abs/2504.07793v1](http://arxiv.org/abs/2504.07793v1)
+- 2025-04-10, **Millimeter emission from supermassive black hole coronae**, S. del Palacio et.al., Paper: [http://arxiv.org/abs/2504.07762v1](http://arxiv.org/abs/2504.07762v1)
+- 2025-04-10, **Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**, Zini Chen et.al., Paper: [http://arxiv.org/abs/2504.07753v1](http://arxiv.org/abs/2504.07753v1)
+- 2025-04-10, **On the instabilities of naive FEM discretizations for PDEs with sign-changing coefficients**, Martin Halla et.al., Paper: [http://arxiv.org/abs/2504.07712v1](http://arxiv.org/abs/2504.07712v1)
+- 2025-04-10, **Optimization Of The Survival Threshold For Anisotropic Logistic Equations With Mixed Boundary Conditions**, Serena Benigno et.al., Paper: [http://arxiv.org/abs/2504.07577v1](http://arxiv.org/abs/2504.07577v1)
+- 2025-04-10, **Diffusion Transformers for Tabular Data Time Series Generation**, Fabrizio Garuti et.al., Paper: [http://arxiv.org/abs/2504.07566v1](http://arxiv.org/abs/2504.07566v1)
+- 2025-04-10, **PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2504.07560v1](http://arxiv.org/abs/2504.07560v1), Code: **[https://github.com/TIO-IKIM/PhaseGen](https://github.com/TIO-IKIM/PhaseGen)**
+- 2025-04-10, **STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**, Bingliang Zhang et.al., Paper: [http://arxiv.org/abs/2504.07549v1](http://arxiv.org/abs/2504.07549v1)
+- 2025-04-10, **Stability and Convergence of Strang Splitting Method for the Allen-Cahn Equation with Homogeneous Neumann Boundary Condition**, Chaoyu Quan et.al., Paper: [http://arxiv.org/abs/2504.07520v1](http://arxiv.org/abs/2504.07520v1)
+- 2025-04-10, **Wigner distribution, Wigner entropy, and Anomalous Transport of a Generalized Aubry-André model**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2504.07510v1](http://arxiv.org/abs/2504.07510v1)
+- 2025-04-10, **Event Signal Filtering via Probability Flux Estimation**, Jinze Chen et.al., Paper: [http://arxiv.org/abs/2504.07503v1](http://arxiv.org/abs/2504.07503v1)
+- 2025-04-10, **A mass conserved reaction-diffusion system reveals switching between coexisting polar and oscillatory cell motility states**, Jack M. Hughes et.al., Paper: [http://arxiv.org/abs/2504.07446v1](http://arxiv.org/abs/2504.07446v1)
 - 2025-04-09, **The Lyman-alpha and Continuum Origins Survey II: the uneventful journey of escaping Ly$α$ and ionizing radiation through the neutral ISM and CGM of galaxies**, A. Saldana-Lopez et.al., Paper: [http://arxiv.org/abs/2504.07074v1](http://arxiv.org/abs/2504.07074v1)
 - 2025-04-09, **Glossy Object Reconstruction with Cost-effective Polarized Acquisition**, Bojian Wu et.al., Paper: [http://arxiv.org/abs/2504.07025v1](http://arxiv.org/abs/2504.07025v1)
 - 2025-04-09, **Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**, Jonas Loos et.al., Paper: [http://arxiv.org/abs/2504.07008v1](http://arxiv.org/abs/2504.07008v1), Code: **[https://github.com/JonasLoos/sd-representation-anomalies](https://github.com/JonasLoos/sd-representation-anomalies)**
@@ -13374,6 +13394,8 @@
 
 ## Diffusion_Segment
 
+- 2025-04-10, **HoloPart: Generative 3D Part Amodal Segmentation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2504.07943v1](http://arxiv.org/abs/2504.07943v1)
+- 2025-04-10, **PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2504.07560v1](http://arxiv.org/abs/2504.07560v1), Code: **[https://github.com/TIO-IKIM/PhaseGen](https://github.com/TIO-IKIM/PhaseGen)**
 - 2025-04-09, **PathSegDiff: Pathology Segmentation using Diffusion model representations**, Sachin Kumar Danisetty et.al., Paper: [http://arxiv.org/abs/2504.06950v1](http://arxiv.org/abs/2504.06950v1)
 - 2025-04-09, **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**, Jiawei Mao et.al., Paper: [http://arxiv.org/abs/2504.06897v1](http://arxiv.org/abs/2504.06897v1)
 - 2025-04-08, **Diffusion Based Ambiguous Image Segmentation**, Jakob Lønborg Christensen et.al., Paper: [http://arxiv.org/abs/2504.05977v1](http://arxiv.org/abs/2504.05977v1)
