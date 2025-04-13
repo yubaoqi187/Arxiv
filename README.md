@@ -12,7 +12,7 @@
 |**2025-04-10**|**Hodge Laplacians and Hodge Diffusion Maps**|Alvaro Almeida Gomez et.al.|[2504.07910v1](http://arxiv.org/abs/2504.07910v1)|null|
 |**2025-04-10**|**Stupendously Large Primordial Black Holes from the QCD axion**|Miguel Faria et.al.|[2504.07890v1](http://arxiv.org/abs/2504.07890v1)|null|
 |**2025-04-10**|**Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**|Elmehdi Cherrat et.al.|[2504.07796v1](http://arxiv.org/abs/2504.07796v1)|null|
-|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793v1](http://arxiv.org/abs/2504.07793v1)|null|
+|**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793v1](http://arxiv.org/abs/2504.07793v1)|**[link](https://github.com/limchaos/likelihood-ood)**|
 |**2025-04-10**|**Millimeter emission from supermassive black hole coronae**|S. del Palacio et.al.|[2504.07762v1](http://arxiv.org/abs/2504.07762v1)|null|
 |**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753v1](http://arxiv.org/abs/2504.07753v1)|null|
 |**2025-04-10**|**On the instabilities of naive FEM discretizations for PDEs with sign-changing coefficients**|Martin Halla et.al.|[2504.07712v1](http://arxiv.org/abs/2504.07712v1)|null|
@@ -3865,7 +3865,7 @@
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897v1](http://arxiv.org/abs/2504.06897v1)|null|
 |**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977v1](http://arxiv.org/abs/2504.05977v1)|null|
 |**2025-04-07**|**Studying Image Diffusion Features for Zero-Shot Video Object Segmentation**|Thanos Delatolas et.al.|[2504.05468v1](http://arxiv.org/abs/2504.05468v1)|null|
-|**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756v1](http://arxiv.org/abs/2504.04756v1)|null|
+|**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756v1](http://arxiv.org/abs/2504.04756v1)|**[link](https://github.com/inhwanbae/crowdes)**|
 |**2025-04-06**|**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**|Haonan Chen et.al.|[2504.04612v1](http://arxiv.org/abs/2504.04612v1)|null|
 |**2025-04-05**|**DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**|Maksim Siniukov et.al.|[2504.04010v1](http://arxiv.org/abs/2504.04010v1)|null|
 |**2025-04-03**|**Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation**|Laibin Chang et.al.|[2504.02391v1](http://arxiv.org/abs/2504.02391v1)|null|
