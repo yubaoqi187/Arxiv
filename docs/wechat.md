@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-04-11, **Generating Fine Details of Entity Interactions**, Xinyi Gu et.al., Paper: [http://arxiv.org/abs/2504.08714v1](http://arxiv.org/abs/2504.08714v1)
+- 2025-04-11, **ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**, Sahil Sethi et.al., Paper: [http://arxiv.org/abs/2504.08713v1](http://arxiv.org/abs/2504.08713v1)
+- 2025-04-11, **Constraints on diffuse X-ray Emission from the TeV halo Candidate HESS J1813-126**, David Guevel et.al., Paper: [http://arxiv.org/abs/2504.08689v1](http://arxiv.org/abs/2504.08689v1)
+- 2025-04-11, **Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics**, Alessia Loi et.al., Paper: [http://arxiv.org/abs/2504.08686v1](http://arxiv.org/abs/2504.08686v1)
+- 2025-04-11, **Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**, Team Seawead et.al., Paper: [http://arxiv.org/abs/2504.08685v1](http://arxiv.org/abs/2504.08685v1)
+- 2025-04-11, **Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**, Xiaobing Dai et.al., Paper: [http://arxiv.org/abs/2504.08661v1](http://arxiv.org/abs/2504.08661v1)
+- 2025-04-11, **The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**, Masashi Hatano et.al., Paper: [http://arxiv.org/abs/2504.08654v1](http://arxiv.org/abs/2504.08654v1)
+- 2025-04-11, **Rational constitutive law for the viscous stress tensor in incompressible two-phase flows: Derivation and tests against a 3D benchmark experiment**, Jacques Magnaudet et.al., Paper: [http://arxiv.org/abs/2504.08648v1](http://arxiv.org/abs/2504.08648v1)
+- 2025-04-11, **Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2504.08641v1](http://arxiv.org/abs/2504.08641v1)
+- 2025-04-11, **Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**, Gabriele Lozupone et.al., Paper: [http://arxiv.org/abs/2504.08635v1](http://arxiv.org/abs/2504.08635v1), Code: **[https://github.com/GabrieleLozupone/LDAE](https://github.com/GabrieleLozupone/LDAE)**
+- 2025-04-11, **Discretization Error Analysis of a High Order Unfitted Space-Time Method for moving domain problems**, Fabian Heimann et.al., Paper: [http://arxiv.org/abs/2504.08608v1](http://arxiv.org/abs/2504.08608v1)
+- 2025-04-11, **Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**, Youwei Yu et.al., Paper: [http://arxiv.org/abs/2504.08604v1](http://arxiv.org/abs/2504.08604v1)
+- 2025-04-11, **ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**, Yongsheng Yu et.al., Paper: [http://arxiv.org/abs/2504.08591v1](http://arxiv.org/abs/2504.08591v1)
+- 2025-04-11, **Exact large-scale correlations in diffusive systems with general interactions: explicit characterisation without the Dean--Kawasaki equation**, Aurélien Grabsch et.al., Paper: [http://arxiv.org/abs/2504.08560v1](http://arxiv.org/abs/2504.08560v1)
+- 2025-04-11, **Multi-MeV electrons observed by CRRES during solar cycle 22**, R. T. Desai et.al., Paper: [http://arxiv.org/abs/2504.08559v1](http://arxiv.org/abs/2504.08559v1)
+- 2025-04-11, **COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**, Miguel Espinosa et.al., Paper: [http://arxiv.org/abs/2504.08548v1](http://arxiv.org/abs/2504.08548v1)
+- 2025-04-11, **Optimal Mode Decomposition for Control**, Lucas Mieg et.al., Paper: [http://arxiv.org/abs/2504.08545v1](http://arxiv.org/abs/2504.08545v1)
+- 2025-04-11, **Discriminator-Free Direct Preference Optimization for Video Diffusion**, Haoran Cheng et.al., Paper: [http://arxiv.org/abs/2504.08542v1](http://arxiv.org/abs/2504.08542v1)
+- 2025-04-11, **Controlled stochastic processes for simulated annealing**, Vincent Molin et.al., Paper: [http://arxiv.org/abs/2504.08506v1](http://arxiv.org/abs/2504.08506v1)
+- 2025-04-11, **Weak lensing analysis of A115, A2219 and A2261: Detection of galaxy groups and filaments around clusters**, Anirban Dutta et.al., Paper: [http://arxiv.org/abs/2504.08479v1](http://arxiv.org/abs/2504.08479v1)
 - 2025-04-10, **Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**, Zeren Jiang et.al., Paper: [http://arxiv.org/abs/2504.07961v1](http://arxiv.org/abs/2504.07961v1)
 - 2025-04-10, **VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**, Zhong-Yu Li et.al., Paper: [http://arxiv.org/abs/2504.07960v1](http://arxiv.org/abs/2504.07960v1)
 - 2025-04-10, **GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**, Hao Yu et.al., Paper: [http://arxiv.org/abs/2504.07945v1](http://arxiv.org/abs/2504.07945v1)
@@ -13394,6 +13414,10 @@
 
 ## Diffusion_Segment
 
+- 2025-04-11, **ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**, Sahil Sethi et.al., Paper: [http://arxiv.org/abs/2504.08713v1](http://arxiv.org/abs/2504.08713v1)
+- 2025-04-11, **Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2504.08641v1](http://arxiv.org/abs/2504.08641v1)
+- 2025-04-11, **Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2504.08473v1](http://arxiv.org/abs/2504.08473v1)
+- 2025-04-11, **In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**, Sauradip Nag et.al., Paper: [http://arxiv.org/abs/2504.08366v1](http://arxiv.org/abs/2504.08366v1)
 - 2025-04-10, **HoloPart: Generative 3D Part Amodal Segmentation**, Yunhan Yang et.al., Paper: [http://arxiv.org/abs/2504.07943v1](http://arxiv.org/abs/2504.07943v1)
 - 2025-04-10, **PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**, Moritz Rempe et.al., Paper: [http://arxiv.org/abs/2504.07560v1](http://arxiv.org/abs/2504.07560v1), Code: **[https://github.com/TIO-IKIM/PhaseGen](https://github.com/TIO-IKIM/PhaseGen)**
 - 2025-04-09, **PathSegDiff: Pathology Segmentation using Diffusion model representations**, Sachin Kumar Danisetty et.al., Paper: [http://arxiv.org/abs/2504.06950v1](http://arxiv.org/abs/2504.06950v1)
