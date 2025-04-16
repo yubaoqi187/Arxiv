@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457v1](http://arxiv.org/abs/2504.11457v1)|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447v1](http://arxiv.org/abs/2504.11447v1)|null|
+|**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432v1](http://arxiv.org/abs/2504.11432v1)|null|
+|**2025-04-15**|**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**|Yanrui Bin et.al.|[2504.11427v1](http://arxiv.org/abs/2504.11427v1)|null|
+|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423v1](http://arxiv.org/abs/2504.11423v1)|null|
+|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389v1](http://arxiv.org/abs/2504.11389v1)|null|
+|**2025-04-15**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347v1](http://arxiv.org/abs/2504.11347v1)|null|
+|**2025-04-15**|**Decorrelation in Complex Wave Scattering**|Qihang Zhang et.al.|[2504.11330v1](http://arxiv.org/abs/2504.11330v1)|null|
+|**2025-04-15**|**Autoregressive Distillation of Diffusion Transformers**|Yeongmin Kim et.al.|[2504.11295v1](http://arxiv.org/abs/2504.11295v1)|null|
+|**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289v1](http://arxiv.org/abs/2504.11289v1)|null|
+|**2025-04-15**|**Cryo-em images are intrinsically low dimensional**|Luke Evans et.al.|[2504.11249v1](http://arxiv.org/abs/2504.11249v1)|null|
+|**2025-04-15**|**Guided Wave-Based Structural Awareness Under Varying Operating States via Manifold Representations**|Yiming Fan et.al.|[2504.11235v1](http://arxiv.org/abs/2504.11235v1)|null|
+|**2025-04-15**|**A new approach to stochastic McKean-Vlasov limits with low-regularity coefficients**|Robert Alexander Crowell et.al.|[2504.11228v1](http://arxiv.org/abs/2504.11228v1)|null|
+|**2025-04-15**|**SAR-to-RGB Translation with Latent Diffusion for Earth Observation**|Kaan Aydin et.al.|[2504.11154v1](http://arxiv.org/abs/2504.11154v1)|null|
+|**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143v1](http://arxiv.org/abs/2504.11143v1)|null|
+|**2025-04-15**|**Hessian stability and convergence rates for entropic and Sinkhorn potentials via semiconcavity**|Giacomo Greco et.al.|[2504.11133v1](http://arxiv.org/abs/2504.11133v1)|null|
+|**2025-04-15**|**Compositional Effects on Structure, Dynamics, Thermodynamic and Mechanical Properties of Zr-Cu-Al alloys**|Kamal G. Soni et.al.|[2504.11123v1](http://arxiv.org/abs/2504.11123v1)|null|
+|**2025-04-15**|**An Invariance Principle for some Reaction-Diffusion Equations with a Multiplicative Random Source**|Davar Khoshnevisan et.al.|[2504.11107v1](http://arxiv.org/abs/2504.11107v1)|null|
+|**2025-04-15**|**Using LLMs as prompt modifier to avoid biases in AI image generators**|René Peinl et.al.|[2504.11104v1](http://arxiv.org/abs/2504.11104v1)|null|
+|**2025-04-15**|**AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification**|Maximilian G. Schuh et.al.|[2504.11091v1](http://arxiv.org/abs/2504.11091v1)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485v1](http://arxiv.org/abs/2504.10485v1)|null|
 |**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483v1](http://arxiv.org/abs/2504.10483v1)|null|
 |**2025-04-14**|**Bayesian Analysis of Interpretable Aging across Thousands of Lithium-ion Battery Cycles**|Marc D. Berliner et.al.|[2504.10439v1](http://arxiv.org/abs/2504.10439v1)|null|
@@ -3899,6 +3919,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457v1](http://arxiv.org/abs/2504.11457v1)|null|
+|**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143v1](http://arxiv.org/abs/2504.11143v1)|null|
+|**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825v1](http://arxiv.org/abs/2504.10825v1)|null|
 |**2025-04-13**|**TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**|Zhicong Wu et.al.|[2504.09588v1](http://arxiv.org/abs/2504.09588v1)|null|
 |**2025-04-12**|**Generation of Musical Timbres using a Text-Guided Diffusion Model**|Weixuan Yuan et.al.|[2504.09219v1](http://arxiv.org/abs/2504.09219v1)|null|
 |**2025-04-12**|**seg2med: a segmentation-based medical image generation framework using denoising diffusion probabilistic models**|Zeyu Yang et.al.|[2504.09182v1](http://arxiv.org/abs/2504.09182v1)|null|
