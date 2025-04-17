@@ -1,4 +1,4 @@
-> Updated on 2025.04.16
+> Updated on 2025.04.17
 
 ## Video_Classification
 
@@ -9542,12 +9542,12 @@
 ## Diffusion
 
 - 2025-04-15, **Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**, Ziqi Pang et.al., Paper: [http://arxiv.org/abs/2504.11457v1](http://arxiv.org/abs/2504.11457v1)
-- 2025-04-15, **Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**, An Zhaol et.al., Paper: [http://arxiv.org/abs/2504.11447v1](http://arxiv.org/abs/2504.11447v1)
+- 2025-04-16, **Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**, An Zhao et.al., Paper: [http://arxiv.org/abs/2504.11447v2](http://arxiv.org/abs/2504.11447v2)
 - 2025-04-15, **Analysis of Preheat Propagation in MagLIF-like Plasmas**, Fernando Garcia-Rubio et.al., Paper: [http://arxiv.org/abs/2504.11432v1](http://arxiv.org/abs/2504.11432v1)
 - 2025-04-15, **NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**, Yanrui Bin et.al., Paper: [http://arxiv.org/abs/2504.11427v1](http://arxiv.org/abs/2504.11427v1)
 - 2025-04-15, **ADT: Tuning Diffusion Models with Adversarial Supervision**, Dazhong Shen et.al., Paper: [http://arxiv.org/abs/2504.11423v1](http://arxiv.org/abs/2504.11423v1)
 - 2025-04-15, **VideoPanda: Video Panoramic Diffusion with Multi-view Attention**, Kevin Xie et.al., Paper: [http://arxiv.org/abs/2504.11389v1](http://arxiv.org/abs/2504.11389v1)
-- 2025-04-15, **DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**, Soyoung Yoo et.al., Paper: [http://arxiv.org/abs/2504.11347v1](http://arxiv.org/abs/2504.11347v1)
+- 2025-04-16, **DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**, Soyoung Yoo et.al., Paper: [http://arxiv.org/abs/2504.11347v2](http://arxiv.org/abs/2504.11347v2)
 - 2025-04-15, **Decorrelation in Complex Wave Scattering**, Qihang Zhang et.al., Paper: [http://arxiv.org/abs/2504.11330v1](http://arxiv.org/abs/2504.11330v1)
 - 2025-04-15, **Autoregressive Distillation of Diffusion Transformers**, Yeongmin Kim et.al., Paper: [http://arxiv.org/abs/2504.11295v1](http://arxiv.org/abs/2504.11295v1)
 - 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289v1](http://arxiv.org/abs/2504.11289v1)
@@ -13460,7 +13460,7 @@
 - 2025-04-13, **TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**, Zhicong Wu et.al., Paper: [http://arxiv.org/abs/2504.09588v1](http://arxiv.org/abs/2504.09588v1)
 - 2025-04-12, **Generation of Musical Timbres using a Text-Guided Diffusion Model**, Weixuan Yuan et.al., Paper: [http://arxiv.org/abs/2504.09219v1](http://arxiv.org/abs/2504.09219v1)
 - 2025-04-12, **seg2med: a segmentation-based medical image generation framework using denoising diffusion probabilistic models**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2504.09182v1](http://arxiv.org/abs/2504.09182v1)
-- 2025-04-11, **ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**, Sahil Sethi et.al., Paper: [http://arxiv.org/abs/2504.08713v1](http://arxiv.org/abs/2504.08713v1)
+- 2025-04-15, **ProtoECGNet: Case-Based Interpretable Deep Learning for Multi-Label ECG Classification with Contrastive Learning**, Sahil Sethi et.al., Paper: [http://arxiv.org/abs/2504.08713v2](http://arxiv.org/abs/2504.08713v2), Code: **[https://github.com/bbj-lab/protoecgnet](https://github.com/bbj-lab/protoecgnet)**
 - 2025-04-11, **Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2504.08641v1](http://arxiv.org/abs/2504.08641v1)
 - 2025-04-11, **Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2504.08473v1](http://arxiv.org/abs/2504.08473v1), Code: **[https://github.com/edm-research/cut-and-splat](https://github.com/edm-research/cut-and-splat)**
 - 2025-04-11, **In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**, Sauradip Nag et.al., Paper: [http://arxiv.org/abs/2504.08366v1](http://arxiv.org/abs/2504.08366v1)
