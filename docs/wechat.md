@@ -1,4 +1,4 @@
-> Updated on 2025.04.17
+> Updated on 2025.04.18
 
 ## Video_Classification
 
@@ -9555,10 +9555,10 @@
 - 2025-04-16, **AttentionDrop: A Novel Regularization Method for Transformer Models**, Mirza Samad Ahmed Baig et.al., Paper: [http://arxiv.org/abs/2504.12088v1](http://arxiv.org/abs/2504.12088v1)
 - 2025-04-16, **Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**, Zirui Pan et.al., Paper: [http://arxiv.org/abs/2504.12048v1](http://arxiv.org/abs/2504.12048v1)
 - 2025-04-16, **Periodic Potential for Point Defects in a 2D Hexagonal Colloidal Lattice**, Huang Xicheng et.al., Paper: [http://arxiv.org/abs/2504.12038v1](http://arxiv.org/abs/2504.12038v1)
-- 2025-04-16, **Understanding Attention Mechanism in Video Diffusion Models**, Bingyan Liu et.al., Paper: [http://arxiv.org/abs/2504.12027v1](http://arxiv.org/abs/2504.12027v1)
-- 2025-04-16, **Dual-Energy Cone-Beam CT Using Two Orthogonal Projection Views: A Phantom Study**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2504.12010v1](http://arxiv.org/abs/2504.12010v1)
+- 2025-04-17, **Understanding Attention Mechanism in Video Diffusion Models**, Bingyan Liu et.al., Paper: [http://arxiv.org/abs/2504.12027v2](http://arxiv.org/abs/2504.12027v2)
+- 2025-04-17, **Dual-Energy Cone-Beam CT Using Two Orthogonal Projection Views: A Phantom Study**, Junbo Peng et.al., Paper: [http://arxiv.org/abs/2504.12010v2](http://arxiv.org/abs/2504.12010v2)
 - 2025-04-16, **Generative Recommendation with Continuous-Token Diffusion**, Haohao Qu et.al., Paper: [http://arxiv.org/abs/2504.12007v1](http://arxiv.org/abs/2504.12007v1)
-- 2025-04-16, **Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**, Yifei Dong et.al., Paper: [http://arxiv.org/abs/2504.11967v1](http://arxiv.org/abs/2504.11967v1)
+- 2025-04-17, **Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**, Yifei Dong et.al., Paper: [http://arxiv.org/abs/2504.11967v2](http://arxiv.org/abs/2504.11967v2)
 - 2025-04-16, **A Koopman Operator Approach to Data-Driven Control of Semilinear Parabolic Systems**, Joachim Deutscher et.al., Paper: [http://arxiv.org/abs/2504.11959v1](http://arxiv.org/abs/2504.11959v1)
 - 2025-04-16, **R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**, Haoyang Wang et.al., Paper: [http://arxiv.org/abs/2504.11946v1](http://arxiv.org/abs/2504.11946v1)
 - 2025-04-15, **Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**, Ziqi Pang et.al., Paper: [http://arxiv.org/abs/2504.11457v1](http://arxiv.org/abs/2504.11457v1)
