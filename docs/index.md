@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**An eco-epidemiological model with prey-taxis and slow diffusion: Global existence, boundedness and novel dynamics**|Ranjit Kumar Upadhyay et.al.|[2504.13764v1](http://arxiv.org/abs/2504.13764v1)|null|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763v1](http://arxiv.org/abs/2504.13763v1)|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745v1](http://arxiv.org/abs/2504.13745v1)|null|
+|**2025-04-18**|**Theoretical and computational investigations of superposed interacting affine and more complex processes**|Hidekazu Yoshioka et.al.|[2504.13712v1](http://arxiv.org/abs/2504.13712v1)|null|
+|**2025-04-18**|**Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning**|Tao He et.al.|[2504.13643v1](http://arxiv.org/abs/2504.13643v1)|null|
+|**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622v1](http://arxiv.org/abs/2504.13622v1)|null|
+|**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612v1](http://arxiv.org/abs/2504.13612v1)|null|
+|**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561v1](http://arxiv.org/abs/2504.13561v1)|null|
+|**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554v1](http://arxiv.org/abs/2504.13554v1)|null|
+|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548v1](http://arxiv.org/abs/2504.13548v1)|null|
+|**2025-04-18**|**Convergence of the fully discrete JKO scheme**|Anastasiia Hraivoronska et.al.|[2504.13513v1](http://arxiv.org/abs/2504.13513v1)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499v1](http://arxiv.org/abs/2504.13499v1)|null|
+|**2025-04-18**|**Slow uniform flow of a rarefied gas past an infinitely thin circular disk**|Takuma Tomita et.al.|[2504.13493v1](http://arxiv.org/abs/2504.13493v1)|null|
+|**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490v1](http://arxiv.org/abs/2504.13490v1)|null|
+|**2025-04-18**|**An asymptotic preserving scheme for the quantum Liouville-BGK equation**|Romain Duboscq et.al.|[2504.13487v1](http://arxiv.org/abs/2504.13487v1)|null|
+|**2025-04-18**|**Local Ridge Formation and Domain Delimitation in Aggregation-Diffusion Equations**|Shin Nishihara et.al.|[2504.13411v1](http://arxiv.org/abs/2504.13411v1)|null|
+|**2025-04-18**|**Diffusion Limited Aggregation in Ants Biting off Wall Paint**|Suvrajyoti Chatterjee et.al.|[2504.13400v1](http://arxiv.org/abs/2504.13400v1)|null|
+|**2025-04-18**|**Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis**|Radek Daněček et.al.|[2504.13386v1](http://arxiv.org/abs/2504.13386v1)|null|
+|**2025-04-17**|**SMPL-GPTexture: Dual-View 3D Human Texture Estimation using Text-to-Image Generation Models**|Mingxiao Tu et.al.|[2504.13378v1](http://arxiv.org/abs/2504.13378v1)|null|
+|**2025-04-17**|**Geometric adaptive smoothed aggregation multigrid for discontinuous Galerkin discretisations**|Yulong Pan et.al.|[2504.13373v1](http://arxiv.org/abs/2504.13373v1)|null|
 |**2025-04-17**|**Single-Shot Shape and Reflectance with Spatial Polarization Multiplexing**|Tomoki Ichikawa et.al.|[2504.13177v1](http://arxiv.org/abs/2504.13177v1)|null|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162v1](http://arxiv.org/abs/2504.13162v1)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131v1](http://arxiv.org/abs/2504.13131v1)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
@@ -3963,7 +3983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**Deep Generative Model-Based Generation of Synthetic Individual-Specific Brain MRI Segmentations**|Ruijie Wang et.al.|[2504.12352v1](http://arxiv.org/abs/2504.12352v1)|null|
+|**2025-04-15**|**Deep Generative Model-Based Generation of Synthetic Individual-Specific Brain MRI Segmentations**|Ruijie Wang et.al.|[2504.12352v1](http://arxiv.org/abs/2504.12352v1)|**[link](https://github.com/ruijie-wang-uzh/CSegSynth)**|
 |**2025-04-16**|**VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**|Zhihang Yuan et.al.|[2504.12259v1](http://arxiv.org/abs/2504.12259v1)|null|
 |**2025-04-16**|**TextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation**|Kangbo Ma et.al.|[2504.11825v1](http://arxiv.org/abs/2504.11825v1)|null|
 |**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457v1](http://arxiv.org/abs/2504.11457v1)|**[link](https://github.com/ziqipang/addp)**|
