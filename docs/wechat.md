@@ -1,4 +1,4 @@
-> Updated on 2025.04.21
+> Updated on 2025.04.22
 
 ## Video_Classification
 
@@ -9550,7 +9550,7 @@
 - 2025-04-18, **Entropic Time Schedulers for Generative Diffusion Models**, Dejan Stancevic et.al., Paper: [http://arxiv.org/abs/2504.13612v1](http://arxiv.org/abs/2504.13612v1)
 - 2025-04-18, **WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**, Yang Wu et.al., Paper: [http://arxiv.org/abs/2504.13561v1](http://arxiv.org/abs/2504.13561v1)
 - 2025-04-18, **Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**, Xin Tang et.al., Paper: [http://arxiv.org/abs/2504.13554v1](http://arxiv.org/abs/2504.13554v1)
-- 2025-04-18, **Beyond One-Hot Labels: Semantic Mixing for Model Calibration**, Haoyang Luo et.al., Paper: [http://arxiv.org/abs/2504.13548v1](http://arxiv.org/abs/2504.13548v1)
+- 2025-04-18, **Beyond One-Hot Labels: Semantic Mixing for Model Calibration**, Haoyang Luo et.al., Paper: [http://arxiv.org/abs/2504.13548v1](http://arxiv.org/abs/2504.13548v1), Code: **[https://github.com/e-galois/csm](https://github.com/e-galois/csm)**
 - 2025-04-18, **Convergence of the fully discrete JKO scheme**, Anastasiia Hraivoronska et.al., Paper: [http://arxiv.org/abs/2504.13513v1](http://arxiv.org/abs/2504.13513v1)
 - 2025-04-18, **U-Shape Mamba: State Space Model for faster diffusion**, Alex Ergasti et.al., Paper: [http://arxiv.org/abs/2504.13499v1](http://arxiv.org/abs/2504.13499v1)
 - 2025-04-18, **Slow uniform flow of a rarefied gas past an infinitely thin circular disk**, Takuma Tomita et.al., Paper: [http://arxiv.org/abs/2504.13493v1](http://arxiv.org/abs/2504.13493v1)
@@ -13533,7 +13533,7 @@
 - 2025-04-09, **MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**, Jiawei Mao et.al., Paper: [http://arxiv.org/abs/2504.06897v1](http://arxiv.org/abs/2504.06897v1)
 - 2025-04-08, **Diffusion Based Ambiguous Image Segmentation**, Jakob Lønborg Christensen et.al., Paper: [http://arxiv.org/abs/2504.05977v1](http://arxiv.org/abs/2504.05977v1)
 - 2025-04-07, **Studying Image Diffusion Features for Zero-Shot Video Object Segmentation**, Thanos Delatolas et.al., Paper: [http://arxiv.org/abs/2504.05468v1](http://arxiv.org/abs/2504.05468v1)
-- 2025-04-07, **Continuous Locomotive Crowd Behavior Generation**, Inhwan Bae et.al., Paper: [http://arxiv.org/abs/2504.04756v1](http://arxiv.org/abs/2504.04756v1), Code: **[https://github.com/inhwanbae/crowdes](https://github.com/inhwanbae/crowdes)**
+- 2025-04-21, **Continuous Locomotive Crowd Behavior Generation**, Inhwan Bae et.al., Paper: [http://arxiv.org/abs/2504.04756v2](http://arxiv.org/abs/2504.04756v2), Code: **[https://github.com/inhwanbae/crowdes](https://github.com/inhwanbae/crowdes)**
 - 2025-04-06, **Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**, Haonan Chen et.al., Paper: [http://arxiv.org/abs/2504.04612v1](http://arxiv.org/abs/2504.04612v1)
 - 2025-04-05, **DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion**, Maksim Siniukov et.al., Paper: [http://arxiv.org/abs/2504.04010v1](http://arxiv.org/abs/2504.04010v1)
 - 2025-04-03, **Marine Saliency Segmenter: Object-Focused Conditional Diffusion with Region-Level Semantic Knowledge Distillation**, Laibin Chang et.al., Paper: [http://arxiv.org/abs/2504.02391v1](http://arxiv.org/abs/2504.02391v1)
