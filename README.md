@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081v1](http://arxiv.org/abs/2504.16081v1)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080v1](http://arxiv.org/abs/2504.16080v1)|null|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077v1](http://arxiv.org/abs/2504.16077v1)|null|
+|**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064v1](http://arxiv.org/abs/2504.16064v1)|null|
+|**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056v1](http://arxiv.org/abs/2504.16056v1)|null|
+|**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016v1](http://arxiv.org/abs/2504.16016v1)|null|
+|**2025-04-22**|**Adversarial Observations in Weather Forecasting**|Erik Imgrund et.al.|[2504.15942v1](http://arxiv.org/abs/2504.15942v1)|null|
+|**2025-04-22**|**Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning**|Wang Lin et.al.|[2504.15932v1](http://arxiv.org/abs/2504.15932v1)|null|
+|**2025-04-22**|**Text-based Animatable 3D Avatars with Morphable Model Alignment**|Yiqian Wu et.al.|[2504.15835v1](http://arxiv.org/abs/2504.15835v1)|null|
+|**2025-04-22**|**Spontaneous stochasticity and the Armstrong-Vicol passive scalar**|W. Ruffenach et.al.|[2504.15795v1](http://arxiv.org/abs/2504.15795v1)|null|
+|**2025-04-22**|**Satellite to GroundScape -- Large-scale Consistent Ground View Generation from Satellite Views**|Ningli Xu et.al.|[2504.15786v1](http://arxiv.org/abs/2504.15786v1)|null|
+|**2025-04-22**|**Clifford Group Equivariant Diffusion Models for 3D Molecular Generation**|Cong Liu et.al.|[2504.15773v1](http://arxiv.org/abs/2504.15773v1)|null|
+|**2025-04-22**|**Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering**|Alexis M. H. Teter et.al.|[2504.15753v1](http://arxiv.org/abs/2504.15753v1)|null|
+|**2025-04-22**|**Local Hölder Regularity For Nonlocal Porous Media And Fast Diffusion Equations With General Kernel**|Kyeongbae Kim et.al.|[2504.15735v1](http://arxiv.org/abs/2504.15735v1)|null|
+|**2025-04-22**|**Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models**|Dasol Jeong et.al.|[2504.15723v1](http://arxiv.org/abs/2504.15723v1)|null|
+|**2025-04-22**|**Spin and energy diffusion vs. subdiffusion in disordered spin chains**|J. Herbrych et.al.|[2504.15705v1](http://arxiv.org/abs/2504.15705v1)|null|
+|**2025-04-22**|**DiTPainter: Efficient Video Inpainting with Diffusion Transformers**|Xian Wu et.al.|[2504.15661v1](http://arxiv.org/abs/2504.15661v1)|null|
+|**2025-04-22**|**Diffuse X-ray emission in M51: a hierarchical Bayesian spatially-resolved spectral analysis**|Luan Luan et.al.|[2504.15641v1](http://arxiv.org/abs/2504.15641v1)|null|
+|**2025-04-22**|**RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**|Xiucheng Wang et.al.|[2504.15623v1](http://arxiv.org/abs/2504.15623v1)|null|
+|**2025-04-22**|**Bayesian Parameter Estimation for Partially Observed McKean-Vlasov Diffusions Using Multilevel Markov chain Monte Carlo**|Ajay Jasra et.al.|[2504.15588v1](http://arxiv.org/abs/2504.15588v1)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281v1](http://arxiv.org/abs/2504.15281v1)|null|
 |**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267v1](http://arxiv.org/abs/2504.15267v1)|null|
 |**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266v1](http://arxiv.org/abs/2504.15266v1)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
@@ -4453,6 +4473,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470v1](http://arxiv.org/abs/2504.15470v1)|null|
 |**2024-06-13**|**Well-posedness of aggregation-diffusion systems with irregular kernels**|José A. Carrillo et.al.|[2406.09227v1](http://arxiv.org/abs/2406.09227v1)|null|
 |**2025-02-11**|**A continuum limit for dense spatial networks**|Sidney Holden et.al.|[2301.07086v4](http://arxiv.org/abs/2301.07086v4)|null|
 |**2022-06-10**|**Stellar migration in the Auriga simulations**|Periklis Okalidis et.al.|[2206.05304v1](http://arxiv.org/abs/2206.05304v1)|null|
