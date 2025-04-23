@@ -1,4 +1,4 @@
-> Updated on 2025.04.22
+> Updated on 2025.04.23
 
 ## Video_Classification
 
@@ -9553,7 +9553,7 @@
 - 2025-04-21, **Artificial compressibility method for the incompressible Navier-Stokes equations with variable density**, Cappanera Loic et.al., Paper: [http://arxiv.org/abs/2504.15151v1](http://arxiv.org/abs/2504.15151v1)
 - 2025-04-21, **Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**, Yuhang Zhong et.al., Paper: [http://arxiv.org/abs/2504.15138v1](http://arxiv.org/abs/2504.15138v1)
 - 2025-04-21, **Bubble-assisted micromixing via thermally excited intrinsic air within microfluidic systems**, Seyed Shahriar Riazi et.al., Paper: [http://arxiv.org/abs/2504.15124v1](http://arxiv.org/abs/2504.15124v1)
-- 2025-04-21, **VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**, Mingxia Zhan et.al., Paper: [http://arxiv.org/abs/2504.15095v1](http://arxiv.org/abs/2504.15095v1)
+- 2025-04-22, **VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**, Mingxia Zhan et.al., Paper: [http://arxiv.org/abs/2504.15095v2](http://arxiv.org/abs/2504.15095v2)
 - 2025-04-21, **Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**, Geng Sun et.al., Paper: [http://arxiv.org/abs/2504.15079v1](http://arxiv.org/abs/2504.15079v1)
 - 2025-04-21, **Structure-guided Diffusion Transformer for Low-Light Image Enhancement**, Xiangchen Yin et.al., Paper: [http://arxiv.org/abs/2504.15054v1](http://arxiv.org/abs/2504.15054v1)
 - 2025-04-21, **Potential Vibrational Modes Tied to Diffuse Interstellar Bands**, Daniel Majaess et.al., Paper: [http://arxiv.org/abs/2504.15050v1](http://arxiv.org/abs/2504.15050v1)
