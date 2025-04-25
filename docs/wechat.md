@@ -1,4 +1,4 @@
-> Updated on 2025.04.24
+> Updated on 2025.04.25
 
 ## Video_Classification
 
@@ -9549,14 +9549,14 @@
 - 2025-04-23, **Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**, Ilyass Taouil et.al., Paper: [http://arxiv.org/abs/2504.16843v1](http://arxiv.org/abs/2504.16843v1)
 - 2025-04-23, **Distributed Unknown Input Observers for Discrete-Time Linear Time-Invariant Systems**, Franco Angelo Torchiaro et.al., Paper: [http://arxiv.org/abs/2504.16815v1](http://arxiv.org/abs/2504.16815v1)
 - 2025-04-23, **Thermal Evolution and Mass Loss on Short-Period, Low-Mass Planets During FU Orionis Outbursts**, Juliette Becker et.al., Paper: [http://arxiv.org/abs/2504.16772v1](http://arxiv.org/abs/2504.16772v1)
-- 2025-04-23, **Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**, Yanan Zhao et.al., Paper: [http://arxiv.org/abs/2504.16748v1](http://arxiv.org/abs/2504.16748v1)
+- 2025-04-24, **Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**, Yanan Zhao et.al., Paper: [http://arxiv.org/abs/2504.16748v2](http://arxiv.org/abs/2504.16748v2)
 - 2025-04-23, **Gaussian Splatting is an Effective Data Generator for 3D Object Detection**, Farhad G. Zanjani et.al., Paper: [http://arxiv.org/abs/2504.16740v1](http://arxiv.org/abs/2504.16740v1)
 - 2025-04-23, **MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**, Itamar Mishani et.al., Paper: [http://arxiv.org/abs/2504.16738v1](http://arxiv.org/abs/2504.16738v1)
 - 2025-04-23, **Electronic Paddlewheels Impact the Dynamics of Superionic Conduction in AgI**, Harender S. Dhattarwal et.al., Paper: [http://arxiv.org/abs/2504.16704v1](http://arxiv.org/abs/2504.16704v1)
 - 2025-04-23, **PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**, Pei Lin et.al., Paper: [http://arxiv.org/abs/2504.16649v1](http://arxiv.org/abs/2504.16649v1)
 - 2025-04-23, **3D-1D modelling of cranial plate heating induced by low or medium frequency magnetic fields**, Alessandro Arduino et.al., Paper: [http://arxiv.org/abs/2504.16600v1](http://arxiv.org/abs/2504.16600v1)
 - 2025-04-23, **$R_{\rm e}$. II. Understanding (IC 3475)-type galaxy, aka ultra-diffuse galaxy, structural scaling relations**, Alister W. Graham et.al., Paper: [http://arxiv.org/abs/2504.16593v1](http://arxiv.org/abs/2504.16593v1)
-- 2025-04-23, **Hyper-Transforming Latent Diffusion Models**, Ignacio Peis et.al., Paper: [http://arxiv.org/abs/2504.16580v1](http://arxiv.org/abs/2504.16580v1)
+- 2025-04-24, **Hyper-Transforming Latent Diffusion Models**, Ignacio Peis et.al., Paper: [http://arxiv.org/abs/2504.16580v2](http://arxiv.org/abs/2504.16580v2)
 - 2025-04-23, **Self-organized fractal architectures driven by motility-dependent chemotactic feedback**, Subhashree Subhrasmita Khuntia et.al., Paper: [http://arxiv.org/abs/2504.16539v1](http://arxiv.org/abs/2504.16539v1)
 - 2025-04-23, **Brownian motion and generalized Lifson-Jackson formula in quasi-periodic systems**, Sang Yang et.al., Paper: [http://arxiv.org/abs/2504.16527v1](http://arxiv.org/abs/2504.16527v1)
 - 2025-04-23, **Non-equilibrium dynamics of disordered fractal spring network with active forces**, Debjyoti Majumdar et.al., Paper: [http://arxiv.org/abs/2504.16510v1](http://arxiv.org/abs/2504.16510v1)
@@ -13577,7 +13577,7 @@
 - 2025-04-22, **SignX: The Foundation Model for Sign Recognition**, Sen Fang et.al., Paper: [http://arxiv.org/abs/2504.16315v1](http://arxiv.org/abs/2504.16315v1)
 - 2025-04-21, **TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**, Mazharul Islam Rakib et.al., Paper: [http://arxiv.org/abs/2504.14933v1](http://arxiv.org/abs/2504.14933v1)
 - 2025-04-21, **Novel Concept-Oriented Synthetic Data approach for Training Generative AI-Driven Crystal Grain Analysis Using Diffusion Model**, Ahmed Sobhi Saleh et.al., Paper: [http://arxiv.org/abs/2504.14782v1](http://arxiv.org/abs/2504.14782v1)
-- 2025-04-15, **Deep Generative Model-Based Generation of Synthetic Individual-Specific Brain MRI Segmentations**, Ruijie Wang et.al., Paper: [http://arxiv.org/abs/2504.12352v1](http://arxiv.org/abs/2504.12352v1), Code: **[https://github.com/ruijie-wang-uzh/CSegSynth](https://github.com/ruijie-wang-uzh/CSegSynth)**
+- 2025-04-23, **Deep Generative Model-Based Generation of Synthetic Individual-Specific Brain MRI Segmentations**, Ruijie Wang et.al., Paper: [http://arxiv.org/abs/2504.12352v2](http://arxiv.org/abs/2504.12352v2), Code: **[https://github.com/ruijie-wang-uzh/CSegSynth](https://github.com/ruijie-wang-uzh/CSegSynth)**
 - 2025-04-16, **VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**, Zhihang Yuan et.al., Paper: [http://arxiv.org/abs/2504.12259v1](http://arxiv.org/abs/2504.12259v1)
 - 2025-04-16, **TextDiffSeg: Text-guided Latent Diffusion Model for 3d Medical Images Segmentation**, Kangbo Ma et.al., Paper: [http://arxiv.org/abs/2504.11825v1](http://arxiv.org/abs/2504.11825v1)
 - 2025-04-15, **Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**, Ziqi Pang et.al., Paper: [http://arxiv.org/abs/2504.11457v1](http://arxiv.org/abs/2504.11457v1), Code: **[https://github.com/ziqipang/addp](https://github.com/ziqipang/addp)**
