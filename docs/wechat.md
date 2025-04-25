@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-04-24, **LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**, Tetiana Martyniuk et.al., Paper: [http://arxiv.org/abs/2504.17791v1](http://arxiv.org/abs/2504.17791v1)
+- 2025-04-24, **Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**, Xu Ma et.al., Paper: [http://arxiv.org/abs/2504.17789v1](http://arxiv.org/abs/2504.17789v1)
+- 2025-04-24, **Thermal Product Formula for Shear Modes**, Jyotirmoy Bhattacharya et.al., Paper: [http://arxiv.org/abs/2504.17781v1](http://arxiv.org/abs/2504.17781v1)
+- 2025-04-24, **Step1X-Edit: A Practical Framework for General Image Editing**, Shiyu Liu et.al., Paper: [http://arxiv.org/abs/2504.17761v1](http://arxiv.org/abs/2504.17761v1)
+- 2025-04-24, **Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations**, Milena Stanislavova et.al., Paper: [http://arxiv.org/abs/2504.17745v1](http://arxiv.org/abs/2504.17745v1)
+- 2025-04-24, **Time-reversed Stochastic Inflation**, Baptiste Blachier et.al., Paper: [http://arxiv.org/abs/2504.17680v1](http://arxiv.org/abs/2504.17680v1)
+- 2025-04-24, **Sharp Material Interface Limit of the Darcy-Boussinesq System**, Hongjie Dong et.al., Paper: [http://arxiv.org/abs/2504.17661v1](http://arxiv.org/abs/2504.17661v1)
+- 2025-04-24, **polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**, Ayush Jain et.al., Paper: [http://arxiv.org/abs/2504.17656v1](http://arxiv.org/abs/2504.17656v1)
+- 2025-04-24, **Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**, Abderrachid Hamrani et.al., Paper: [http://arxiv.org/abs/2504.17628v1](http://arxiv.org/abs/2504.17628v1)
+- 2025-04-24, **TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation**, Bowen Deng et.al., Paper: [http://arxiv.org/abs/2504.17613v1](http://arxiv.org/abs/2504.17613v1)
+- 2025-04-24, **Permeation and thermal desorption model of hydrogen in steel: a sensitivity analysis**, Paolo Emilio Di Nunzio et.al., Paper: [http://arxiv.org/abs/2504.17532v1](http://arxiv.org/abs/2504.17532v1)
+- 2025-04-24, **Text-to-Image Alignment in Denoising-Based Models through Step Selection**, Paul Grimal et.al., Paper: [http://arxiv.org/abs/2504.17525v1](http://arxiv.org/abs/2504.17525v1)
+- 2025-04-24, **ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**, Junyan Zhang et.al., Paper: [http://arxiv.org/abs/2504.17524v1](http://arxiv.org/abs/2504.17524v1)
+- 2025-04-24, **Optimizing thermoelectric performance of graphene antidot lattices via quantum transport and machine-learning molecular dynamics simulations**, Yang Xiao et.al., Paper: [http://arxiv.org/abs/2504.17450v1](http://arxiv.org/abs/2504.17450v1)
+- 2025-04-24, **3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models**, Min Wei et.al., Paper: [http://arxiv.org/abs/2504.17414v1](http://arxiv.org/abs/2504.17414v1)
+- 2025-04-24, **Trapping microswimmers in acoustic streaming flow**, Xuyang Sun et.al., Paper: [http://arxiv.org/abs/2504.17378v1](http://arxiv.org/abs/2504.17378v1)
+- 2025-04-24, **Formation of the glycine isomer glycolamide (NH$_2$C(O)CH$_2$OH) on the surfaces of interstellar ice grains: Insights from atomistic simulations**, Jessica Perrero et.al., Paper: [http://arxiv.org/abs/2504.17372v1](http://arxiv.org/abs/2504.17372v1)
+- 2025-04-24, **DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition**, Yiyan Xu et.al., Paper: [http://arxiv.org/abs/2504.17349v1](http://arxiv.org/abs/2504.17349v1)
+- 2025-04-24, **CKMDiff: A Generative Diffusion Model for CKM Construction via Inverse Problems with Learned Priors**, Shen Fu et.al., Paper: [http://arxiv.org/abs/2504.17323v1](http://arxiv.org/abs/2504.17323v1)
+- 2025-04-24, **Physics-based super-resolved simulation of 3D elastic wave propagation adopting scalable Diffusion Transformer**, Hugo Gabrielidis et.al., Paper: [http://arxiv.org/abs/2504.17308v1](http://arxiv.org/abs/2504.17308v1)
 - 2025-04-23, **Latent Diffusion Planning for Imitation Learning**, Amber Xie et.al., Paper: [http://arxiv.org/abs/2504.16925v1](http://arxiv.org/abs/2504.16925v1)
 - 2025-04-23, **DreamO: A Unified Framework for Image Customization**, Chong Mou et.al., Paper: [http://arxiv.org/abs/2504.16915v1](http://arxiv.org/abs/2504.16915v1)
 - 2025-04-23, **Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**, Peichen Zhong et.al., Paper: [http://arxiv.org/abs/2504.16893v1](http://arxiv.org/abs/2504.16893v1)
@@ -13574,6 +13594,8 @@
 
 ## Diffusion_Segment
 
+- 2025-04-24, **Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**, Abderrachid Hamrani et.al., Paper: [http://arxiv.org/abs/2504.17628v1](http://arxiv.org/abs/2504.17628v1)
+- 2025-04-24, **AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**, Mohammad Zarei et.al., Paper: [http://arxiv.org/abs/2504.17179v1](http://arxiv.org/abs/2504.17179v1)
 - 2025-04-22, **SignX: The Foundation Model for Sign Recognition**, Sen Fang et.al., Paper: [http://arxiv.org/abs/2504.16315v1](http://arxiv.org/abs/2504.16315v1)
 - 2025-04-21, **TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**, Mazharul Islam Rakib et.al., Paper: [http://arxiv.org/abs/2504.14933v1](http://arxiv.org/abs/2504.14933v1)
 - 2025-04-21, **Novel Concept-Oriented Synthetic Data approach for Training Generative AI-Driven Crystal Grain Analysis Using Diffusion Model**, Ahmed Sobhi Saleh et.al., Paper: [http://arxiv.org/abs/2504.14782v1](http://arxiv.org/abs/2504.14782v1)
