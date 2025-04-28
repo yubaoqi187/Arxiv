@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Robust semi-implicit multilevel SDC methods for conservation laws**|Erik Pfister et.al.|[2504.18526v1](http://arxiv.org/abs/2504.18526v1)|null|
+|**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
+|**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518v1](http://arxiv.org/abs/2504.18518v1)|null|
+|**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|null|
+|**2025-04-25**|**On a Cross-Diffusion System with Independent Drifts and no Self-Diffusion: The Existence of Totally Mixed Solutions**|Alpár R. Mészáros et.al.|[2504.18484v1](http://arxiv.org/abs/2504.18484v1)|null|
+|**2025-04-25**|**Interface phonon modes governing the ideal limit of thermal transport across diamond/cubic boron nitride interfaces**|Xiaonan Wang et.al.|[2504.18473v1](http://arxiv.org/abs/2504.18473v1)|null|
+|**2025-04-25**|**MROP: Modulated Rank-One Projections for compressive radio interferometric imaging**|Olivier Leblanc et.al.|[2504.18446v1](http://arxiv.org/abs/2504.18446v1)|null|
+|**2025-04-25**|**HepatoGEN: Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models**|Jens Hooge et.al.|[2504.18405v1](http://arxiv.org/abs/2504.18405v1)|null|
+|**2025-04-25**|**A Multimodal Deep Learning Approach for White Matter Shape Prediction in Diffusion MRI Tractography**|Yui Lo et.al.|[2504.18400v1](http://arxiv.org/abs/2504.18400v1)|null|
+|**2025-04-25**|**Statistical Disaggregation -- a Monte Carlo Approach for Imputation under Constraints**|Shenggang Hu et.al.|[2504.18377v1](http://arxiv.org/abs/2504.18377v1)|null|
+|**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332v1](http://arxiv.org/abs/2504.18332v1)|null|
+|**2025-04-25**|**Measurement compatibility in multiparameter quantum interferometry**|Jayanth Jayakumar et.al.|[2504.18324v1](http://arxiv.org/abs/2504.18324v1)|null|
+|**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318v1](http://arxiv.org/abs/2504.18318v1)|null|
+|**2025-04-25**|**Sharp decay estimates and numerical analysis for weakly coupled systems of two subdiffusion equations**|Zhiyuan Li et.al.|[2504.18295v1](http://arxiv.org/abs/2504.18295v1)|null|
+|**2025-04-25**|**ReGrayssion: Machine Learning-Based Analytical Expressions for Gray-Body Factors and Application to Primordial Black Holes**|Guan-Wen Yuan et.al.|[2504.18270v1](http://arxiv.org/abs/2504.18270v1)|null|
+|**2025-04-25**|**Neural operators struggle to learn complex PDEs in pedestrian mobility: Hughes model case study**|Prajwal Chauhan et.al.|[2504.18267v1](http://arxiv.org/abs/2504.18267v1)|null|
+|**2025-04-25**|**Ultra-fast feature learning for the training of two-layer neural networks in the two-timescale regime**|Raphaël Barboni et.al.|[2504.18208v1](http://arxiv.org/abs/2504.18208v1)|null|
+|**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204v1](http://arxiv.org/abs/2504.18204v1)|null|
+|**2025-04-25**|**Generative AI for Physical-Layer Authentication**|Rui Meng et.al.|[2504.18175v1](http://arxiv.org/abs/2504.18175v1)|null|
+|**2025-04-25**|**Role of Diffusive and Non-Diffusive Grain-Surface Processes in Cold Cores: Insights from the PEGASIS Three-Phase Astrochemical Model**|S. Maitrey et.al.|[2504.18138v1](http://arxiv.org/abs/2504.18138v1)|null|
 |**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791v1](http://arxiv.org/abs/2504.17791v1)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789v1](http://arxiv.org/abs/2504.17789v1)|null|
 |**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781v1](http://arxiv.org/abs/2504.17781v1)|null|
@@ -4063,6 +4083,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179v1](http://arxiv.org/abs/2504.17179v1)|null|
 |**2025-04-22**|**SignX: The Foundation Model for Sign Recognition**|Sen Fang et.al.|[2504.16315v1](http://arxiv.org/abs/2504.16315v1)|null|
