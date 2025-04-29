@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries**|Fandi Oktasendra et.al.|[2504.19941v1](http://arxiv.org/abs/2504.19941v1)|null|
+|**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
+|**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860v1](http://arxiv.org/abs/2504.19860v1)|null|
+|**2025-04-28**|**A nonlinear diffusion equation of the Gurtin-MacCamy type: existence, uniqueness, and numerical simulations**|Dragos-Patru Covei et.al.|[2504.19823v1](http://arxiv.org/abs/2504.19823v1)|null|
+|**2025-04-28**|**RepText: Rendering Visual Text via Replicating**|Haofan Wang et.al.|[2504.19724v1](http://arxiv.org/abs/2504.19724v1)|null|
+|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706v1](http://arxiv.org/abs/2504.19706v1)|null|
+|**2025-04-28**|**Multimodal Conditioned Diffusive Time Series Forecasting**|Chen Su et.al.|[2504.19669v1](http://arxiv.org/abs/2504.19669v1)|null|
+|**2025-04-28**|**Robot Motion Planning using One-Step Diffusion with Noise-Optimized Approximate Motions**|Tomoharu Aizu et.al.|[2504.19652v1](http://arxiv.org/abs/2504.19652v1)|null|
+|**2025-04-28**|**Diffusion Stochastic Learning Over Adaptive Competing Networks**|Yike Zhao et.al.|[2504.19635v1](http://arxiv.org/abs/2504.19635v1)|null|
+|**2025-04-28**|**Molecular Dynamics Investigation of Static and Dynamic Interfacial Properties in Ice-Polymer Premelting Layers**|Takumi Sato et.al.|[2504.19628v1](http://arxiv.org/abs/2504.19628v1)|null|
+|**2025-04-28**|**AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis**|Haroui Ma et.al.|[2504.19621v1](http://arxiv.org/abs/2504.19621v1)|null|
+|**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614v1](http://arxiv.org/abs/2504.19614v1)|null|
+|**2025-04-28**|**Magnetic order and Li-diffusion in the 1/3-filled Kagome layers of antiperovskite Lithium-ion battery materials (Li$_2$Fe)SO and (Li$_2$Fe)SeO**|F. Seewald et.al.|[2504.19603v1](http://arxiv.org/abs/2504.19603v1)|null|
+|**2025-04-28**|**Image Generation Method Based on Heat Diffusion Models**|Pengfei Zhang et.al.|[2504.19600v1](http://arxiv.org/abs/2504.19600v1)|null|
+|**2025-04-28**|**GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization**|Zhenliang Gan et.al.|[2504.19567v1](http://arxiv.org/abs/2504.19567v1)|null|
+|**2025-04-28**|**Thermodiffusion mechanism for the formation of an amorphous phase during the quenching of a metal melt**|A. I. Karasevskii et.al.|[2504.19532v1](http://arxiv.org/abs/2504.19532v1)|null|
+|**2025-04-28**|**Stokes drag on a sphere in a three-dimensional anisotropic porous medium**|Andrej Vilfan et.al.|[2504.19517v1](http://arxiv.org/abs/2504.19517v1)|null|
+|**2025-04-28**|**SynergyAmodal: Deocclude Anything with Text Control**|Xinyang Li et.al.|[2504.19506v1](http://arxiv.org/abs/2504.19506v1)|null|
+|**2025-04-28**|**Simultaneous Pick and Place Detection by Combining SE(3) Diffusion Models with Differential Kinematics**|Tianyi Ko et.al.|[2504.19502v1](http://arxiv.org/abs/2504.19502v1)|null|
+|**2025-04-28**|**Uniqueness and stability of monostable pulsating fronts for multi-dimensional reaction-diffusion-advection systems in periodic media**|Li-Jun Du et.al.|[2504.19447v1](http://arxiv.org/abs/2504.19447v1)|null|
 |**2025-04-25**|**Robust semi-implicit multilevel SDC methods for conservation laws**|Erik Pfister et.al.|[2504.18526v1](http://arxiv.org/abs/2504.18526v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-25**|**Complex morphology and precession indicators of AGN jets in LoTSS DR2**|Maya Horton et.al.|[2504.18518v1](http://arxiv.org/abs/2504.18518v1)|null|
@@ -4079,6 +4099,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706v1](http://arxiv.org/abs/2504.19706v1)|null|
+|**2025-04-27**|**Viscosity's impact on nutrient uptake along the gut**|Fabian Karl Henn et.al.|[2504.19235v1](http://arxiv.org/abs/2504.19235v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628v1](http://arxiv.org/abs/2504.17628v1)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179v1](http://arxiv.org/abs/2504.17179v1)|null|
