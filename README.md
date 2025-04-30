@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941v1](http://arxiv.org/abs/2504.20941v1)|null|
+|**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865v1](http://arxiv.org/abs/2504.20865v1)|null|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808v1](http://arxiv.org/abs/2504.20808v1)|null|
+|**2025-04-29**|**Q-Fusion: Diffusing Quantum Circuits**|Collin Beaudoin et.al.|[2504.20794v1](http://arxiv.org/abs/2504.20794v1)|null|
+|**2025-04-29**|**Critical clusters in liquid crystals: Fractal geometry and conformal invariance**|Renan A. L. Almeida et.al.|[2504.20788v1](http://arxiv.org/abs/2504.20788v1)|null|
+|**2025-04-29**|**JTreeformer: Graph-Transformer via Latent-Diffusion Model for Molecular Generation**|Ji Shi et.al.|[2504.20770v1](http://arxiv.org/abs/2504.20770v1)|null|
+|**2025-04-29**|**Influence network reconstruction from discrete time-series of count data modelled by multidimensional Hawkes processes**|Naratip Santitissadeekorn et.al.|[2504.20758v1](http://arxiv.org/abs/2504.20758v1)|null|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754v1](http://arxiv.org/abs/2504.20754v1)|null|
+|**2025-04-29**|**On optimal error rates for strong approximation of SDEs with a Hölder continuous drift coefficient**|Simon Ellinger et.al.|[2504.20728v1](http://arxiv.org/abs/2504.20728v1)|null|
+|**2025-04-29**|**Neural semi-Lagrangian method for high-dimensional advection-diffusion problems**|Emmanuel Franck et.al.|[2504.20715v1](http://arxiv.org/abs/2504.20715v1)|null|
+|**2025-04-29**|**Inhomogeneous Diffusion in Confined Colloidal Suspensions**|Gerhard Jung et.al.|[2504.20692v1](http://arxiv.org/abs/2504.20692v1)|null|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690v1](http://arxiv.org/abs/2504.20690v1)|null|
+|**2025-04-29**|**DICOM Compatible, 3D Multimodality Image Encryption using Hyperchaotic Signal**|Anandik N Anand et.al.|[2504.20689v1](http://arxiv.org/abs/2504.20689v1)|null|
+|**2025-04-29**|**Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion**|Zesheng Wang et.al.|[2504.20685v1](http://arxiv.org/abs/2504.20685v1)|null|
+|**2025-04-29**|**LDPoly: Latent Diffusion for Polygonal Road Outline Extraction in Large-Scale Topographic Mapping**|Weiqin Jiao et.al.|[2504.20645v1](http://arxiv.org/abs/2504.20645v1)|null|
+|**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629v1](http://arxiv.org/abs/2504.20629v1)|null|
+|**2025-04-29**|**DiffusionRIR: Room Impulse Response Interpolation using Diffusion Models**|Sagi Della Torre et.al.|[2504.20625v1](http://arxiv.org/abs/2504.20625v1)|null|
+|**2025-04-29**|**Breaking the Barrier of Self-Concordant Barriers: Faster Interior Point Methods for M-Matrices**|Adrian Vladu et.al.|[2504.20619v1](http://arxiv.org/abs/2504.20619v1)|null|
+|**2025-04-29**|**From small dust to micron-sized aggregates: the influence of structure and composition on the dust optical properties**|M. -A. Carpine et.al.|[2504.20578v1](http://arxiv.org/abs/2504.20578v1)|null|
+|**2025-04-29**|**DLCM: a versatile multi-level solver for heterogeneous multicellular systems**|Erik Blom et.al.|[2504.20565v1](http://arxiv.org/abs/2504.20565v1)|null|
 |**2025-04-28**|**The Diffuse Solid Method for Wetting and Multiphase Fluid Simulations in Complex Geometries**|Fandi Oktasendra et.al.|[2504.19941v1](http://arxiv.org/abs/2504.19941v1)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
 |**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860v1](http://arxiv.org/abs/2504.19860v1)|null|
@@ -4099,6 +4119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359v1](http://arxiv.org/abs/2504.20359v1)|null|
 |**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706v1](http://arxiv.org/abs/2504.19706v1)|null|
 |**2025-04-27**|**Viscosity's impact on nutrient uptake along the gut**|Fabian Karl Henn et.al.|[2504.19235v1](http://arxiv.org/abs/2504.19235v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
