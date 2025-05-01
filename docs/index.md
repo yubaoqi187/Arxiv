@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855v1](http://arxiv.org/abs/2504.21855v1)|null|
+|**2025-04-30**|**A Comparison of the Consistent and Independent Second Moment Methods Applied to Thermal Radiative Transfer**|Samuel Olivier et.al.|[2504.21784v1](http://arxiv.org/abs/2504.21784v1)|null|
+|**2025-04-30**|**Diffusion Limit and the optimal convergence rate of the classical solution to the one-species Vlasov-Maxwell-Boltzmann system**|Ke Chen et.al.|[2504.21729v1](http://arxiv.org/abs/2504.21729v1)|null|
+|**2025-04-30**|**Approximation and regularity results for the Heston model and related processes**|Edoardo Lombardo et.al.|[2504.21658v1](http://arxiv.org/abs/2504.21658v1)|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650v1](http://arxiv.org/abs/2504.21650v1)|null|
+|**2025-04-30**|**Diffusion-based Adversarial Identity Manipulation for Facial Privacy Protection**|Liqin Wang et.al.|[2504.21646v1](http://arxiv.org/abs/2504.21646v1)|null|
+|**2025-04-30**|**Sparsity for Infinite-Parametric Holomorphic Functions on Gaussian Spaces**|Carlo Marcati et.al.|[2504.21639v1](http://arxiv.org/abs/2504.21639v1)|null|
+|**2025-04-30**|**ODE and PDE models for COVID-19, with reinfection and vaccination process for Cameroon and Germany**|Hamadjam Abboubakar et.al.|[2504.21613v1](http://arxiv.org/abs/2504.21613v1)|null|
+|**2025-04-30**|**No Evidence of Anomalous Diffusion in Yukawa Crystals**|Matthew E. Caplan et.al.|[2504.21608v1](http://arxiv.org/abs/2504.21608v1)|null|
+|**2025-04-30**|**Long time dynamics of the Cauchy problem for the predator-prey model with cross-diffusion**|Chunhua Jin et.al.|[2504.21587v1](http://arxiv.org/abs/2504.21587v1)|null|
+|**2025-04-30**|**Latent Feature-Guided Conditional Diffusion for High-Fidelity Generative Image Semantic Communication**|Zehao Chen et.al.|[2504.21577v1](http://arxiv.org/abs/2504.21577v1)|null|
+|**2025-04-30**|**The role of dendritic spines in water exchange measurements with diffusion MRI: Double Diffusion Encoding and free-waveform MRI**|Arthur Chakwizira et.al.|[2504.21537v1](http://arxiv.org/abs/2504.21537v1)|null|
+|**2025-04-30**|**Regularity properties of densities of SDEs using the Fourier analytic approach**|Simon Ellinger et.al.|[2504.21516v1](http://arxiv.org/abs/2504.21516v1)|null|
+|**2025-04-30**|**Multi-lump, lump-kink and interaction of breather with other nonlinear waves of a couple Boussinesq system**|Snehalata Nasipuri et.al.|[2504.21506v1](http://arxiv.org/abs/2504.21506v1)|null|
+|**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497v1](http://arxiv.org/abs/2504.21497v1)|null|
+|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487v1](http://arxiv.org/abs/2504.21487v1)|null|
+|**2025-04-30**|**GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers**|Xinyu Li et.al.|[2504.21476v1](http://arxiv.org/abs/2504.21476v1)|null|
+|**2025-04-30**|**Imperfect diffusion-controlled reactions on a torus and on a pair of balls**|Denis S. Grebenkov et.al.|[2504.21449v1](http://arxiv.org/abs/2504.21449v1)|null|
+|**2025-04-30**|**Diffusion of intruders in a granular gas thermostatted by a bath of elastic hard spheres**|Rubén Gómez González et.al.|[2504.21441v1](http://arxiv.org/abs/2504.21441v1)|null|
+|**2025-04-30**|**Diff-Prompt: Diffusion-Driven Prompt Generator with Mask Supervision**|Weicai Yan et.al.|[2504.21423v1](http://arxiv.org/abs/2504.21423v1)|null|
 |**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941v1](http://arxiv.org/abs/2504.20941v1)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865v1](http://arxiv.org/abs/2504.20865v1)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Florian Vahl et.al.|[2504.20808v1](http://arxiv.org/abs/2504.20808v1)|null|
