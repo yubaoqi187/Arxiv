@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 
 ## Diffusion
 
@@ -4143,7 +4143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-29**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359v1](http://arxiv.org/abs/2504.20359v1)|null|
+|**2025-05-01**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359v2](http://arxiv.org/abs/2504.20359v2)|null|
 |**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706v1](http://arxiv.org/abs/2504.19706v1)|null|
 |**2025-04-27**|**Viscosity's impact on nutrient uptake along the gut**|Fabian Karl Henn et.al.|[2504.19235v1](http://arxiv.org/abs/2504.19235v1)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
