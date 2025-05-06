@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-05, **No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves**, Dengyang Jiang et.al., Paper: [http://arxiv.org/abs/2505.02831v1](http://arxiv.org/abs/2505.02831v1), Code: **[https://github.com/vvvvvjdy/SRA](https://github.com/vvvvvjdy/SRA)**
+- 2025-05-05, **Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**, Kuofeng Gao et.al., Paper: [http://arxiv.org/abs/2505.02824v1](http://arxiv.org/abs/2505.02824v1)
+- 2025-05-05, **Particles, trajectories and diffusion: random walks in cooling granular gases**, Santos Bravo Yuste et.al., Paper: [http://arxiv.org/abs/2505.02777v1](http://arxiv.org/abs/2505.02777v1)
+- 2025-05-05, **Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**, Yankai Jiang et.al., Paper: [http://arxiv.org/abs/2505.02753v1](http://arxiv.org/abs/2505.02753v1)
+- 2025-05-05, **Measuring Interstellar Carbon Abundance via 158 um [CII] Absorption with SOFIA -- A Potential Detection, and Proof-of-Concept for Depletion Studies with Future Far-IR Facilities**, Christopher J. R. Clark et.al., Paper: [http://arxiv.org/abs/2505.02748v1](http://arxiv.org/abs/2505.02748v1)
+- 2025-05-05, **A random walk model for the evolution of the halo spin vector**, Jun Hou et.al., Paper: [http://arxiv.org/abs/2505.02669v1](http://arxiv.org/abs/2505.02669v1)
+- 2025-05-05, **MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**, Mingcheng Li et.al., Paper: [http://arxiv.org/abs/2505.02648v1](http://arxiv.org/abs/2505.02648v1)
+- 2025-05-05, **Mirror Mean-Field Langevin Dynamics**, Anming Gu et.al., Paper: [http://arxiv.org/abs/2505.02621v1](http://arxiv.org/abs/2505.02621v1)
+- 2025-05-05, **Observations of the temporal evolution of Saturn's stratosphere following the Great Storm of 2010-2011 I. Temporal evolution of the water abundance in Saturn's hot vortex of 2011-2013**, Camille Lefour et.al., Paper: [http://arxiv.org/abs/2505.02595v1](http://arxiv.org/abs/2505.02595v1)
+- 2025-05-05, **RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**, Eliraz Orfaig et.al., Paper: [http://arxiv.org/abs/2505.02586v1](http://arxiv.org/abs/2505.02586v1)
+- 2025-05-05, **Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**, Xinjie Zhang et.al., Paper: [http://arxiv.org/abs/2505.02567v1](http://arxiv.org/abs/2505.02567v1)
+- 2025-05-05, **Linear analysis of shear-flow instabilities in a prominence-corona interface with ambipolar diffusion**, Llorenç Melis et.al., Paper: [http://arxiv.org/abs/2505.02534v1](http://arxiv.org/abs/2505.02534v1)
+- 2025-05-05, **A posteriori error estimates for the finite element approximation of the convection-diffusion-reaction equation based on the variational multiscale concept**, Ramon Codina et.al., Paper: [http://arxiv.org/abs/2505.02531v1](http://arxiv.org/abs/2505.02531v1)
+- 2025-05-05, **Text to Image Generation and Editing: A Survey**, Pengfei Yang et.al., Paper: [http://arxiv.org/abs/2505.02527v1](http://arxiv.org/abs/2505.02527v1)
+- 2025-05-05, **Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**, Yang Lyu et.al., Paper: [http://arxiv.org/abs/2505.02508v1](http://arxiv.org/abs/2505.02508v1)
+- 2025-05-05, **About diffusion equations in bounded systems**, F. Sattin et.al., Paper: [http://arxiv.org/abs/2505.02496v1](http://arxiv.org/abs/2505.02496v1)
+- 2025-05-05, **Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**, Biao Gong et.al., Paper: [http://arxiv.org/abs/2505.02471v1](http://arxiv.org/abs/2505.02471v1)
+- 2025-05-05, **How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte**, Vinay Thakur et.al., Paper: [http://arxiv.org/abs/2505.02457v1](http://arxiv.org/abs/2505.02457v1)
+- 2025-05-05, **Predicting the Dynamics of Complex System via Multiscale Diffusion Autoencoder**, Ruikun Li et.al., Paper: [http://arxiv.org/abs/2505.02450v1](http://arxiv.org/abs/2505.02450v1)
+- 2025-05-05, **T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models**, Yunfeng Ge et.al., Paper: [http://arxiv.org/abs/2505.02417v1](http://arxiv.org/abs/2505.02417v1)
 - 2025-05-02, **GENMO: A GENeralist Model for Human MOtion**, Jiefeng Li et.al., Paper: [http://arxiv.org/abs/2505.01425v1](http://arxiv.org/abs/2505.01425v1)
 - 2025-05-02, **VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**, Mohammadreza Teymoorianfard et.al., Paper: [http://arxiv.org/abs/2505.01406v1](http://arxiv.org/abs/2505.01406v1)
 - 2025-05-02, **Experiments in a novel quasi-1D diffusion flame with variable bulk flow**, Etienne Robert et.al., Paper: [http://arxiv.org/abs/2505.01384v1](http://arxiv.org/abs/2505.01384v1)
@@ -13714,6 +13734,9 @@
 
 ## Diffusion_Segment
 
+- 2025-05-05, **Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**, Yankai Jiang et.al., Paper: [http://arxiv.org/abs/2505.02753v1](http://arxiv.org/abs/2505.02753v1)
+- 2025-05-05, **An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**, Lei Xie et.al., Paper: [http://arxiv.org/abs/2505.02385v1](http://arxiv.org/abs/2505.02385v1)
+- 2025-05-03, **DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**, Haoteng Li et.al., Paper: [http://arxiv.org/abs/2505.01857v1](http://arxiv.org/abs/2505.01857v1)
 - 2025-05-02, **VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**, Mohammadreza Teymoorianfard et.al., Paper: [http://arxiv.org/abs/2505.01406v1](http://arxiv.org/abs/2505.01406v1)
 - 2025-05-02, **VSC: Visual Search Compositional Text-to-Image Diffusion Model**, Do Huu Dat et.al., Paper: [http://arxiv.org/abs/2505.01104v1](http://arxiv.org/abs/2505.01104v1)
 - 2025-05-05, **Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**, Luigi Sigillo et.al., Paper: [http://arxiv.org/abs/2505.00334v2](http://arxiv.org/abs/2505.00334v2)
