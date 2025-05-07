@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Critical habitat size of organisms diffusing with stochastic resetting**|Luiz Menon et.al.|[2505.03727v1](http://arxiv.org/abs/2505.03727v1)|null|
+|**2025-05-06**|**Anomalous proximity effect under Andreev and Majorana bound states**|Eslam Ahmed et.al.|[2505.03726v1](http://arxiv.org/abs/2505.03726v1)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
+|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|null|
+|**2025-05-06**|**Understanding large-scale dynamos in unstratified rotating shear flows**|Tushar Mondal et.al.|[2505.03660v1](http://arxiv.org/abs/2505.03660v1)|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|null|
+|**2025-05-06**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603v1](http://arxiv.org/abs/2505.03603v1)|null|
+|**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562v1](http://arxiv.org/abs/2505.03562v1)|null|
+|**2025-05-06**|**Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID**|Koray Ulusan et.al.|[2505.03557v1](http://arxiv.org/abs/2505.03557v1)|null|
+|**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556v1](http://arxiv.org/abs/2505.03556v1)|null|
+|**2025-05-06**|**Defect analysis of the $β$- to $γ$-Ga$_{2}$O$_{3}$ phase transition**|Umutcan Bektas et.al.|[2505.03541v1](http://arxiv.org/abs/2505.03541v1)|null|
+|**2025-05-06**|**Coop-WD: Cooperative Perception with Weighting and Denoising for Robust V2V Communication**|Chenguang Liu et.al.|[2505.03528v1](http://arxiv.org/abs/2505.03528v1)|null|
+|**2025-05-06**|**Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**|Shenglan Li et.al.|[2505.03507v1](http://arxiv.org/abs/2505.03507v1)|null|
+|**2025-05-06**|**DCO$^+$ and DCN 1-0 survey toward a sample of Planck cold clumps**|Fu Mo et.al.|[2505.03505v1](http://arxiv.org/abs/2505.03505v1)|null|
+|**2025-05-06**|**Heavy traffic limit of stationary distribution of the multi-level single server queue**|Masahiro Kobayashi et.al.|[2505.03504v1](http://arxiv.org/abs/2505.03504v1)|null|
+|**2025-05-06**|**MRI motion correction via efficient residual-guided denoising diffusion probabilistic models**|Mojtaba Safari et.al.|[2505.03498v1](http://arxiv.org/abs/2505.03498v1)|null|
+|**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435v1](http://arxiv.org/abs/2505.03435v1)|null|
+|**2025-05-06**|**Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients**|Stefano Bruno et.al.|[2505.03432v1](http://arxiv.org/abs/2505.03432v1)|null|
+|**2025-05-06**|**Phenotype-Guided Generative Model for High-Fidelity Cardiac MRI Synthesis: Advancing Pretraining and Clinical Applications**|Ziyu Li et.al.|[2505.03426v1](http://arxiv.org/abs/2505.03426v1)|null|
+|**2025-05-06**|**Close-Fitting Dressing Assistance Based on State Estimation of Feet and Garments with Semantic-based Visual Attention**|Takuma Tsukakoshi et.al.|[2505.03400v1](http://arxiv.org/abs/2505.03400v1)|null|
 |**2025-05-05**|**No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves**|Dengyang Jiang et.al.|[2505.02831v1](http://arxiv.org/abs/2505.02831v1)|**[link](https://github.com/vvvvvjdy/SRA)**|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|null|
 |**2025-05-05**|**Particles, trajectories and diffusion: random walks in cooling granular gases**|Santos Bravo Yuste et.al.|[2505.02777v1](http://arxiv.org/abs/2505.02777v1)|null|
@@ -4199,6 +4219,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|null|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|null|
 |**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|null|
 |**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857v1](http://arxiv.org/abs/2505.01857v1)|null|
