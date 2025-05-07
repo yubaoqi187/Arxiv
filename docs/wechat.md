@@ -1,4 +1,4 @@
-> Updated on 2025.05.06
+> Updated on 2025.05.07
 
 ## Video_Classification
 
@@ -9547,7 +9547,7 @@
 - 2025-05-05, **Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**, Yankai Jiang et.al., Paper: [http://arxiv.org/abs/2505.02753v1](http://arxiv.org/abs/2505.02753v1)
 - 2025-05-05, **Measuring Interstellar Carbon Abundance via 158 um [CII] Absorption with SOFIA -- A Potential Detection, and Proof-of-Concept for Depletion Studies with Future Far-IR Facilities**, Christopher J. R. Clark et.al., Paper: [http://arxiv.org/abs/2505.02748v1](http://arxiv.org/abs/2505.02748v1)
 - 2025-05-05, **A random walk model for the evolution of the halo spin vector**, Jun Hou et.al., Paper: [http://arxiv.org/abs/2505.02669v1](http://arxiv.org/abs/2505.02669v1)
-- 2025-05-05, **MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**, Mingcheng Li et.al., Paper: [http://arxiv.org/abs/2505.02648v1](http://arxiv.org/abs/2505.02648v1)
+- 2025-05-06, **MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**, Mingcheng Li et.al., Paper: [http://arxiv.org/abs/2505.02648v2](http://arxiv.org/abs/2505.02648v2)
 - 2025-05-05, **Mirror Mean-Field Langevin Dynamics**, Anming Gu et.al., Paper: [http://arxiv.org/abs/2505.02621v1](http://arxiv.org/abs/2505.02621v1)
 - 2025-05-05, **Observations of the temporal evolution of Saturn's stratosphere following the Great Storm of 2010-2011 I. Temporal evolution of the water abundance in Saturn's hot vortex of 2011-2013**, Camille Lefour et.al., Paper: [http://arxiv.org/abs/2505.02595v1](http://arxiv.org/abs/2505.02595v1)
 - 2025-05-05, **RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**, Eliraz Orfaig et.al., Paper: [http://arxiv.org/abs/2505.02586v1](http://arxiv.org/abs/2505.02586v1)
@@ -9555,7 +9555,7 @@
 - 2025-05-05, **Linear analysis of shear-flow instabilities in a prominence-corona interface with ambipolar diffusion**, Llorenç Melis et.al., Paper: [http://arxiv.org/abs/2505.02534v1](http://arxiv.org/abs/2505.02534v1)
 - 2025-05-05, **A posteriori error estimates for the finite element approximation of the convection-diffusion-reaction equation based on the variational multiscale concept**, Ramon Codina et.al., Paper: [http://arxiv.org/abs/2505.02531v1](http://arxiv.org/abs/2505.02531v1)
 - 2025-05-05, **Text to Image Generation and Editing: A Survey**, Pengfei Yang et.al., Paper: [http://arxiv.org/abs/2505.02527v1](http://arxiv.org/abs/2505.02527v1)
-- 2025-05-05, **Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**, Yang Lyu et.al., Paper: [http://arxiv.org/abs/2505.02508v1](http://arxiv.org/abs/2505.02508v1)
+- 2025-05-06, **Resolving Memorization in Empirical Diffusion Model for Manifold Data in High-Dimensional Spaces**, Yang Lyu et.al., Paper: [http://arxiv.org/abs/2505.02508v2](http://arxiv.org/abs/2505.02508v2)
 - 2025-05-05, **About diffusion equations in bounded systems**, F. Sattin et.al., Paper: [http://arxiv.org/abs/2505.02496v1](http://arxiv.org/abs/2505.02496v1)
 - 2025-05-05, **Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**, Biao Gong et.al., Paper: [http://arxiv.org/abs/2505.02471v1](http://arxiv.org/abs/2505.02471v1)
 - 2025-05-05, **How individual vs shared coordination governs the degree of correlation in rotational vs residence times in a high-viscosity lithium electrolyte**, Vinay Thakur et.al., Paper: [http://arxiv.org/abs/2505.02457v1](http://arxiv.org/abs/2505.02457v1)
