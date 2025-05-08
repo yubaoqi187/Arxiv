@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-07, **Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**, Jessie Richter-Powell et.al., Paper: [http://arxiv.org/abs/2505.04621v1](http://arxiv.org/abs/2505.04621v1)
+- 2025-05-07, **Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**, Wenhui Sophia Lu et.al., Paper: [http://arxiv.org/abs/2505.04603v1](http://arxiv.org/abs/2505.04603v1)
+- 2025-05-07, **Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**, Pengfei Guo et.al., Paper: [http://arxiv.org/abs/2505.04522v1](http://arxiv.org/abs/2505.04522v1)
+- 2025-05-07, **Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues**, G. Martin et.al., Paper: [http://arxiv.org/abs/2505.04509v1](http://arxiv.org/abs/2505.04509v1)
+- 2025-05-07, **Accelerated escape dynamics in non-Markovian stochastic feedback**, Francesco Coghi et.al., Paper: [http://arxiv.org/abs/2505.04489v1](http://arxiv.org/abs/2505.04489v1)
+- 2025-05-07, **Efficient Flow Matching using Latent Variables**, Anirban Samaddar et.al., Paper: [http://arxiv.org/abs/2505.04486v1](http://arxiv.org/abs/2505.04486v1)
+- 2025-05-07, **Localized Diffusion Models for High Dimensional Distributions Generation**, Georg A. Gottwald et.al., Paper: [http://arxiv.org/abs/2505.04417v1](http://arxiv.org/abs/2505.04417v1)
+- 2025-05-07, **Turbulence spreading and anomalous diffusion on combs**, Alexander V. Milovanov et.al., Paper: [http://arxiv.org/abs/2505.04411v1](http://arxiv.org/abs/2505.04411v1)
+- 2025-05-07, **Large Deviations and the Peano Phenomenon in Stochastic Differential Equations with Homogeneous Drift**, Paola Bermolen et.al., Paper: [http://arxiv.org/abs/2505.04377v1](http://arxiv.org/abs/2505.04377v1)
+- 2025-05-07, **Adaptive Equilibration of Molecular Dynamics Simulations**, Luciano G. Silvestri et.al., Paper: [http://arxiv.org/abs/2505.04362v1](http://arxiv.org/abs/2505.04362v1)
+- 2025-05-07, **Global solutions to 3D compressible MHD equations with partial magnetic diffusion**, Jiahong Wu et.al., Paper: [http://arxiv.org/abs/2505.04351v1](http://arxiv.org/abs/2505.04351v1)
+- 2025-05-07, **CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion**, Yanyu Li et.al., Paper: [http://arxiv.org/abs/2505.04347v1](http://arxiv.org/abs/2505.04347v1)
+- 2025-05-07, **Riemannian Denoising Diffusion Probabilistic Models**, Zichen Liu et.al., Paper: [http://arxiv.org/abs/2505.04338v1](http://arxiv.org/abs/2505.04338v1)
+- 2025-05-07, **Adjoint-based optimal control of jump-diffusion processes**, Jan Bartsch et.al., Paper: [http://arxiv.org/abs/2505.04328v1](http://arxiv.org/abs/2505.04328v1)
+- 2025-05-07, **Monotonic normalized heat diffusion for distance-regular graphs with classical parameters of diameter $3$**, Shiping Liu et.al., Paper: [http://arxiv.org/abs/2505.04314v1](http://arxiv.org/abs/2505.04314v1)
+- 2025-05-07, **MoDE: Mixture of Diffusion Experts for Any Occluded Face Recognition**, Qiannan Fan et.al., Paper: [http://arxiv.org/abs/2505.04306v1](http://arxiv.org/abs/2505.04306v1)
+- 2025-05-07, **TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**, Yi Li et.al., Paper: [http://arxiv.org/abs/2505.04281v1](http://arxiv.org/abs/2505.04281v1), Code: **[https://github.com/circcclek/ts-diff](https://github.com/circcclek/ts-diff)**
+- 2025-05-07, **Non-stationary Diffusion For Probabilistic Time Series Forecasting**, Weiwei Ye et.al., Paper: [http://arxiv.org/abs/2505.04278v1](http://arxiv.org/abs/2505.04278v1), Code: **[https://github.com/wwy155/nsdiff](https://github.com/wwy155/nsdiff)**
+- 2025-05-07, **HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation**, Yajie Fu et.al., Paper: [http://arxiv.org/abs/2505.04276v1](http://arxiv.org/abs/2505.04276v1), Code: **[https://github.com/circejie/hdifftg](https://github.com/circejie/hdifftg)**
+- 2025-05-07, **Physics-Informed DeepONets for drift-diffusion on metric graphs: simulation and parameter identification**, Jan Blechschmidt et.al., Paper: [http://arxiv.org/abs/2505.04263v1](http://arxiv.org/abs/2505.04263v1)
 - 2025-05-06, **Critical habitat size of organisms diffusing with stochastic resetting**, Luiz Menon et.al., Paper: [http://arxiv.org/abs/2505.03727v1](http://arxiv.org/abs/2505.03727v1)
 - 2025-05-06, **Anomalous proximity effect under Andreev and Majorana bound states**, Eslam Ahmed et.al., Paper: [http://arxiv.org/abs/2505.03726v1](http://arxiv.org/abs/2505.03726v1)
 - 2025-05-06, **CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**, Huawei Sun et.al., Paper: [http://arxiv.org/abs/2505.03679v1](http://arxiv.org/abs/2505.03679v1)
