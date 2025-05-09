@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475v1](http://arxiv.org/abs/2505.05475v1)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474v1](http://arxiv.org/abs/2505.05474v1)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472v1](http://arxiv.org/abs/2505.05472v1)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415v1](http://arxiv.org/abs/2505.05415v1)|null|
+|**2025-05-08**|**Ballistic-to-diffusive transition in engineered counter-propagating quantum Hall channels**|Aifei Zhang et.al.|[2505.05386v1](http://arxiv.org/abs/2505.05386v1)|null|
+|**2025-05-08**|**Diffuse Interface Models for Two-Phase Flows with Phase Transition: Modeling and Existence of Weak Solutions**|Helmut Abels et.al.|[2505.05383v1](http://arxiv.org/abs/2505.05383v1)|null|
+|**2025-05-08**|**Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting**|Kazi Ashik Islam et.al.|[2505.05381v1](http://arxiv.org/abs/2505.05381v1)|null|
+|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v1](http://arxiv.org/abs/2505.05376v1)|null|
+|**2025-05-08**|**Finite element approximation for quantitative photoacoustic tomography in a diffusive regime**|Giovanni S. Alberti et.al.|[2505.05361v1](http://arxiv.org/abs/2505.05361v1)|null|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301v1](http://arxiv.org/abs/2505.05301v1)|null|
+|**2025-05-08**|**Machine learning-enabled atomistic insights into phase boundary engineering of solid-solution ferroelectrics**|Weiru Wen et.al.|[2505.05245v1](http://arxiv.org/abs/2505.05245v1)|null|
+|**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216v1](http://arxiv.org/abs/2505.05216v1)|null|
+|**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215v1](http://arxiv.org/abs/2505.05215v1)|null|
+|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209v1](http://arxiv.org/abs/2505.05209v1)|null|
+|**2025-05-08**|**On the local well-posedness of strong solutions to the unsteady flows of shear-thinning non-Newtonian fluids with a concentration-dependent power-law index**|Kyueon Choi et.al.|[2505.05152v1](http://arxiv.org/abs/2505.05152v1)|null|
+|**2025-05-08**|**Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning**|Chuangtao Chen et.al.|[2505.05151v1](http://arxiv.org/abs/2505.05151v1)|null|
+|**2025-05-08**|**Research on Anomaly Detection Methods Based on Diffusion Models**|Yi Chen et.al.|[2505.05137v1](http://arxiv.org/abs/2505.05137v1)|null|
+|**2025-05-08**|**Taming OOD Actions for Offline Reinforcement Learning: An Advantage-Based Approach**|Xuyang Chen et.al.|[2505.05126v1](http://arxiv.org/abs/2505.05126v1)|null|
+|**2025-05-08**|**MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising**|Xiaolong Niu et.al.|[2505.05112v1](http://arxiv.org/abs/2505.05112v1)|null|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621v1](http://arxiv.org/abs/2505.04621v1)|null|
 |**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603v1](http://arxiv.org/abs/2505.04603v1)|null|
 |**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522v1](http://arxiv.org/abs/2505.04522v1)|null|
@@ -4243,12 +4263,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101v1](http://arxiv.org/abs/2505.05101v1)|null|
+|**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
 |**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623v1](http://arxiv.org/abs/2505.03623v1)|**[link](https://github.com/covisionlab/diffusion_labeling)**|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**[link](https://github.com/yankai96/diffugts)**|
-|**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|null|
+|**2025-05-05**|**An Arbitrary-Modal Fusion Network for Volumetric Cranial Nerves Tract Segmentation**|Lei Xie et.al.|[2505.02385v1](http://arxiv.org/abs/2505.02385v1)|**[link](https://github.com/ipis-xielei/cntseg)**|
 |**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857v1](http://arxiv.org/abs/2505.01857v1)|null|
-|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406v1](http://arxiv.org/abs/2505.01406v1)|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406v1](http://arxiv.org/abs/2505.01406v1)|**[link](https://github.com/spin-umass/vidstamp)**|
 |**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|null|
 |**2025-05-05**|**Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**|Luigi Sigillo et.al.|[2505.00334v2](http://arxiv.org/abs/2505.00334v2)|null|
 |**2025-05-05**|**Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**|Tien Comlekoglu et.al.|[2505.00316v2](http://arxiv.org/abs/2505.00316v2)|null|
