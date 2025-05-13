@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819v1](http://arxiv.org/abs/2505.07819v1)|null|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818v1](http://arxiv.org/abs/2505.07818v1)|null|
+|**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817v1](http://arxiv.org/abs/2505.07817v1)|null|
+|**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812v1](http://arxiv.org/abs/2505.07812v1)|**[link](https://github.com/shaochenze/ear)**|
+|**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe$_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781v1](http://arxiv.org/abs/2505.07781v1)|null|
+|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747v1](http://arxiv.org/abs/2505.07747v1)|null|
+|**2025-05-12**|**Spatio-temporal spin transport from first principles**|Mayada Fadel et.al.|[2505.07745v1](http://arxiv.org/abs/2505.07745v1)|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734v1](http://arxiv.org/abs/2505.07734v1)|null|
+|**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652v1](http://arxiv.org/abs/2505.07652v1)|null|
+|**2025-05-12**|**Langevin Diffusion Approximation to Same Marginal Schrödinger Bridge**|Medha Agarwal et.al.|[2505.07647v1](http://arxiv.org/abs/2505.07647v1)|null|
+|**2025-05-12**|**'Congratulations, morons': Dynamics of Toxicity and Interaction Polarization in the Covid Vaccination and Ukraine War Twitter Debates**|D. S. Axelrod et.al.|[2505.07646v1](http://arxiv.org/abs/2505.07646v1)|null|
+|**2025-05-12**|**Identifiability of SDEs for reaction networks**|Louis Faul et.al.|[2505.07638v1](http://arxiv.org/abs/2505.07638v1)|null|
+|**2025-05-12**|**Hydrogen peroxide electrosynthesis: A comparative study employing Vulcan carbon modification by different MnO2 nanostructures**|João Paulo C Moura et.al.|[2505.07616v1](http://arxiv.org/abs/2505.07616v1)|null|
+|**2025-05-12**|**Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models**|Riccardo Passoni et.al.|[2505.07615v1](http://arxiv.org/abs/2505.07615v1)|null|
+|**2025-05-12**|**Noise Optimized Conditional Diffusion for Domain Adaptation**|Lingkun Luo et.al.|[2505.07548v1](http://arxiv.org/abs/2505.07548v1)|null|
+|**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538v1](http://arxiv.org/abs/2505.07538v1)|null|
+|**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481v1](http://arxiv.org/abs/2505.07481v1)|null|
+|**2025-05-12**|**You Only Look One Step: Accelerating Backpropagation in Diffusion Sampling with Gradient Shortcuts**|Hongkun Dou et.al.|[2505.07477v1](http://arxiv.org/abs/2505.07477v1)|**[link](https://github.com/deng-ai-lab/sdo)**|
+|**2025-05-12**|**Understanding the IBEX ribbon using the kinetic model of pickup proton transport in a scatter-free limit**|Igor Baliukin et.al.|[2505.07471v1](http://arxiv.org/abs/2505.07471v1)|null|
+|**2025-05-12**|**Close-knit relatives: reproducing galactic rotation curves with a two-component bosonic dark matter model**|Jorge Castelo Mourelle et.al.|[2505.07465v1](http://arxiv.org/abs/2505.07465v1)|null|
 |**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183v1](http://arxiv.org/abs/2505.06183v1)|null|
 |**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166v1](http://arxiv.org/abs/2505.06166v1)|null|
 |**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164v1](http://arxiv.org/abs/2505.06164v1)|null|
@@ -4283,6 +4303,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**|Zihang Liu et.al.|[2505.07071v1](http://arxiv.org/abs/2505.07071v1)|**[link](https://github.com/liu-zihang/samsr)**|
+|**2025-05-11**|**UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**|Xueyang Guo et.al.|[2505.06832v1](http://arxiv.org/abs/2505.06832v1)|null|
+|**2025-05-10**|**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**|Lei Hu et.al.|[2505.06603v1](http://arxiv.org/abs/2505.06603v1)|**[link](https://github.com/hulei7/replaycad)**|
 |**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068v1](http://arxiv.org/abs/2505.06068v1)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
 |**2025-05-12**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101v2](http://arxiv.org/abs/2505.05101v2)|null|
 |**2025-05-08**|**ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**|Onkar Susladkar et.al.|[2505.04963v1](http://arxiv.org/abs/2505.04963v1)|null|
