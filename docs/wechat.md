@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-13, **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**, Wenzhe Cai et.al., Paper: [http://arxiv.org/abs/2505.08712v1](http://arxiv.org/abs/2505.08712v1)
+- 2025-05-13, **Controllable Image Colorization with Instance-aware Texts and Masks**, Yanru An et.al., Paper: [http://arxiv.org/abs/2505.08705v1](http://arxiv.org/abs/2505.08705v1)
+- 2025-05-13, **Global exponential stability of stationary profiles in a thin film equation with second-order diffusion**, Christian Parsch et.al., Paper: [http://arxiv.org/abs/2505.08641v1](http://arxiv.org/abs/2505.08641v1)
+- 2025-05-13, **Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**, Reihaneh Mirjalili et.al., Paper: [http://arxiv.org/abs/2505.08627v1](http://arxiv.org/abs/2505.08627v1)
+- 2025-05-13, **Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**, Donghoon Kim et.al., Paper: [http://arxiv.org/abs/2505.08622v1](http://arxiv.org/abs/2505.08622v1)
+- 2025-05-13, **Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**, Yuran Wang et.al., Paper: [http://arxiv.org/abs/2505.08607v1](http://arxiv.org/abs/2505.08607v1)
+- 2025-05-13, **Convergence and Wave Propagation for a System of Branching Rank-Based Interacting Brownian Particles**, Mete Demircigil et.al., Paper: [http://arxiv.org/abs/2505.08563v1](http://arxiv.org/abs/2505.08563v1)
+- 2025-05-13, **Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**, Chiara Manna et.al., Paper: [http://arxiv.org/abs/2505.08546v1](http://arxiv.org/abs/2505.08546v1)
+- 2025-05-13, **Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**, Linna Xu et.al., Paper: [http://arxiv.org/abs/2505.08535v1](http://arxiv.org/abs/2505.08535v1)
+- 2025-05-13, **Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**, Chenru Duan et.al., Paper: [http://arxiv.org/abs/2505.08531v1](http://arxiv.org/abs/2505.08531v1)
+- 2025-05-13, **Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**, Wuzhe Xu et.al., Paper: [http://arxiv.org/abs/2505.08526v1](http://arxiv.org/abs/2505.08526v1)
+- 2025-05-13, **Nonlinear Evolution Toward the Linear Diffusive Profile in the Presence of Couette Flow**, Ning Liu et.al., Paper: [http://arxiv.org/abs/2505.08486v1](http://arxiv.org/abs/2505.08486v1)
+- 2025-05-13, **Benchmarking distinguishable cluster methods to platinum standard CCSDT(Q) non covalent interaction energies in the A24 dataset**, S. Lambie et.al., Paper: [http://arxiv.org/abs/2505.08483v1](http://arxiv.org/abs/2505.08483v1)
+- 2025-05-13, **Determining evolutionary equations by a single passive boundary observation**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2505.08473v1](http://arxiv.org/abs/2505.08473v1)
+- 2025-05-13, **Linear instability in planar viscoelastic Taylor-Couette flow with and without explicit polymer diffusion**, Miguel Beneitez et.al., Paper: [http://arxiv.org/abs/2505.08454v1](http://arxiv.org/abs/2505.08454v1)
+- 2025-05-13, **Symbolically-Guided Visual Plan Inference from Uncurated Video Data**, Wenyan Yang et.al., Paper: [http://arxiv.org/abs/2505.08444v1](http://arxiv.org/abs/2505.08444v1)
+- 2025-05-13, **A nonlocal-to-local approach to aggregation-diffusion equations**, Carles Falcó et.al., Paper: [http://arxiv.org/abs/2505.08443v1](http://arxiv.org/abs/2505.08443v1)
+- 2025-05-13, **TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**, Wenkui Yang et.al., Paper: [http://arxiv.org/abs/2505.08437v1](http://arxiv.org/abs/2505.08437v1), Code: **[https://github.com/hashtag00002/tt-df](https://github.com/hashtag00002/tt-df)**
+- 2025-05-13, **ConDiSim: Conditional Diffusion Models for Simulation Based Inference**, Mayank Nautiyal et.al., Paper: [http://arxiv.org/abs/2505.08403v1](http://arxiv.org/abs/2505.08403v1)
+- 2025-05-13, **A Fourier finite volume approach for the optical inverse problem of quantitative photoacoustic tomography**, David J. Chappell et.al., Paper: [http://arxiv.org/abs/2505.08400v1](http://arxiv.org/abs/2505.08400v1)
 - 2025-05-12, **H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**, Yiyang Lu et.al., Paper: [http://arxiv.org/abs/2505.07819v1](http://arxiv.org/abs/2505.07819v1)
 - 2025-05-12, **DanceGRPO: Unleashing GRPO on Visual Generation**, Zeyue Xue et.al., Paper: [http://arxiv.org/abs/2505.07818v1](http://arxiv.org/abs/2505.07818v1)
 - 2025-05-12, **Pixel Motion as Universal Representation for Robot Control**, Kanchana Ranasinghe et.al., Paper: [http://arxiv.org/abs/2505.07817v1](http://arxiv.org/abs/2505.07817v1)
@@ -13834,6 +13854,9 @@
 
 ## Diffusion_Segment
 
+- 2025-05-13, **Controllable Image Colorization with Instance-aware Texts and Masks**, Yanru An et.al., Paper: [http://arxiv.org/abs/2505.08705v1](http://arxiv.org/abs/2505.08705v1)
+- 2025-05-13, **Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**, Reihaneh Mirjalili et.al., Paper: [http://arxiv.org/abs/2505.08627v1](http://arxiv.org/abs/2505.08627v1)
+- 2025-05-13, **Removing Watermarks with Partial Regeneration using Semantic Information**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2505.08234v1](http://arxiv.org/abs/2505.08234v1), Code: **[https://github.com/krtit/semanticregen](https://github.com/krtit/semanticregen)**
 - 2025-05-11, **Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**, Zihang Liu et.al., Paper: [http://arxiv.org/abs/2505.07071v1](http://arxiv.org/abs/2505.07071v1), Code: **[https://github.com/liu-zihang/samsr](https://github.com/liu-zihang/samsr)**
 - 2025-05-11, **UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**, Xueyang Guo et.al., Paper: [http://arxiv.org/abs/2505.06832v1](http://arxiv.org/abs/2505.06832v1)
 - 2025-05-10, **ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**, Lei Hu et.al., Paper: [http://arxiv.org/abs/2505.06603v1](http://arxiv.org/abs/2505.06603v1), Code: **[https://github.com/hulei7/replaycad](https://github.com/hulei7/replaycad)**
