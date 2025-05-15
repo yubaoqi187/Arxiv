@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 
 ## Diffusion
 
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-13**|**Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**|Chiara Manna et.al.|[2505.08546v1](http://arxiv.org/abs/2505.08546v1)|null|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535v1](http://arxiv.org/abs/2505.08535v1)|null|
 |**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531v1](http://arxiv.org/abs/2505.08531v1)|null|
-|**2025-05-13**|**Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**|Wuzhe Xu et.al.|[2505.08526v1](http://arxiv.org/abs/2505.08526v1)|null|
+|**2025-05-14**|**Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution**|Wuzhe Xu et.al.|[2505.08526v2](http://arxiv.org/abs/2505.08526v2)|null|
 |**2025-05-13**|**Nonlinear Evolution Toward the Linear Diffusive Profile in the Presence of Couette Flow**|Ning Liu et.al.|[2505.08486v1](http://arxiv.org/abs/2505.08486v1)|null|
 |**2025-05-13**|**Benchmarking distinguishable cluster methods to platinum standard CCSDT(Q) non covalent interaction energies in the A24 dataset**|S. Lambie et.al.|[2505.08483v1](http://arxiv.org/abs/2505.08483v1)|null|
 |**2025-05-13**|**Determining evolutionary equations by a single passive boundary observation**|Hongyu Liu et.al.|[2505.08473v1](http://arxiv.org/abs/2505.08473v1)|null|
