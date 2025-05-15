@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-14, **Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**, Washington Mio et.al., Paper: [http://arxiv.org/abs/2505.09609v1](http://arxiv.org/abs/2505.09609v1)
+- 2025-05-14, **LightLab: Controlling Light Sources in Images with Diffusion Models**, Nadav Magar et.al., Paper: [http://arxiv.org/abs/2505.09608v1](http://arxiv.org/abs/2505.09608v1)
+- 2025-05-14, **The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**, Ho-Chun Herbert Chang et.al., Paper: [http://arxiv.org/abs/2505.09605v1](http://arxiv.org/abs/2505.09605v1)
+- 2025-05-14, **VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**, Chaofan Zhang et.al., Paper: [http://arxiv.org/abs/2505.09577v1](http://arxiv.org/abs/2505.09577v1)
+- 2025-05-14, **Don't Forget your Inverse DDIM for Image Editing**, Guillermo Gomez-Trenado et.al., Paper: [http://arxiv.org/abs/2505.09571v1](http://arxiv.org/abs/2505.09571v1)
+- 2025-05-14, **BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**, Jiuhai Chen et.al., Paper: [http://arxiv.org/abs/2505.09568v1](http://arxiv.org/abs/2505.09568v1), Code: **[https://github.com/jiuhaichen/blip3o](https://github.com/jiuhaichen/blip3o)**
+- 2025-05-14, **Learning Long-Context Diffusion Policies via Past-Token Prediction**, Marcel Torne et.al., Paper: [http://arxiv.org/abs/2505.09561v1](http://arxiv.org/abs/2505.09561v1)
+- 2025-05-14, **Nonmonotonic diffusion in sheared active suspensions of squirmers**, Zhouyang Ge et.al., Paper: [http://arxiv.org/abs/2505.09457v1](http://arxiv.org/abs/2505.09457v1)
+- 2025-05-14, **Variational formulations of transport on combinatorial meshes**, Kiprian Berbatov et.al., Paper: [http://arxiv.org/abs/2505.09443v1](http://arxiv.org/abs/2505.09443v1)
+- 2025-05-14, **Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**, Yutong Hu et.al., Paper: [http://arxiv.org/abs/2505.09430v1](http://arxiv.org/abs/2505.09430v1), Code: **[https://github.com/utomm/mini-diffuse-actor](https://github.com/utomm/mini-diffuse-actor)**
+- 2025-05-14, **Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**, Han Sun et.al., Paper: [http://arxiv.org/abs/2505.09424v1](http://arxiv.org/abs/2505.09424v1)
+- 2025-05-14, **The meaning of Li diffusion in cathode materials for the cycling of Li-ion batteries: A case study on LiNi0.33Mn0.33Co0.33O2 thin films**, Erwin Hüger et.al., Paper: [http://arxiv.org/abs/2505.09404v1](http://arxiv.org/abs/2505.09404v1)
+- 2025-05-14, **Structured coalescents, coagulation equations and multi-type branching processes**, Fernando Cordero et.al., Paper: [http://arxiv.org/abs/2505.09400v1](http://arxiv.org/abs/2505.09400v1)
+- 2025-05-14, **Text-driven Motion Generation: Overview, Challenges and Directions**, Ali Rida Sahili et.al., Paper: [http://arxiv.org/abs/2505.09379v1](http://arxiv.org/abs/2505.09379v1)
+- 2025-05-14, **Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**, Michael Benigni et.al., Paper: [http://arxiv.org/abs/2505.09364v1](http://arxiv.org/abs/2505.09364v1)
+- 2025-05-14, **Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**, Bingxin Ke et.al., Paper: [http://arxiv.org/abs/2505.09358v1](http://arxiv.org/abs/2505.09358v1)
+- 2025-05-14, **Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**, Pengli Zhu et.al., Paper: [http://arxiv.org/abs/2505.09323v1](http://arxiv.org/abs/2505.09323v1)
+- 2025-05-14, **TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**, Xuefeng Jiang et.al., Paper: [http://arxiv.org/abs/2505.09315v1](http://arxiv.org/abs/2505.09315v1)
+- 2025-05-14, **Dephasing in Rydberg Facilitation Due to State-Dependent Dipole Forces**, Tom Schlegel et.al., Paper: [http://arxiv.org/abs/2505.09314v1](http://arxiv.org/abs/2505.09314v1)
+- 2025-05-14, **Unified gas-kinetic wave-particle method for multi-scale phonon transport**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2505.09297v1](http://arxiv.org/abs/2505.09297v1)
 - 2025-05-13, **NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**, Wenzhe Cai et.al., Paper: [http://arxiv.org/abs/2505.08712v1](http://arxiv.org/abs/2505.08712v1)
 - 2025-05-13, **Controllable Image Colorization with Instance-aware Texts and Masks**, Yanru An et.al., Paper: [http://arxiv.org/abs/2505.08705v1](http://arxiv.org/abs/2505.08705v1)
 - 2025-05-13, **Global exponential stability of stationary profiles in a thin film equation with second-order diffusion**, Christian Parsch et.al., Paper: [http://arxiv.org/abs/2505.08641v1](http://arxiv.org/abs/2505.08641v1)
@@ -13854,6 +13874,7 @@
 
 ## Diffusion_Segment
 
+- 2025-05-14, **Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**, Guan Gui et.al., Paper: [http://arxiv.org/abs/2505.09263v1](http://arxiv.org/abs/2505.09263v1), Code: **[https://github.com/gaobb/anogen](https://github.com/gaobb/anogen)**
 - 2025-05-13, **Controllable Image Colorization with Instance-aware Texts and Masks**, Yanru An et.al., Paper: [http://arxiv.org/abs/2505.08705v1](http://arxiv.org/abs/2505.08705v1)
 - 2025-05-13, **Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**, Reihaneh Mirjalili et.al., Paper: [http://arxiv.org/abs/2505.08627v1](http://arxiv.org/abs/2505.08627v1)
 - 2025-05-13, **Removing Watermarks with Partial Regeneration using Semantic Information**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2505.08234v1](http://arxiv.org/abs/2505.08234v1), Code: **[https://github.com/krtit/semanticregen](https://github.com/krtit/semanticregen)**
