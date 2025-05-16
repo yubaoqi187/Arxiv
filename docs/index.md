@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566v1](http://arxiv.org/abs/2505.10566v1)|null|
+|**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558v1](http://arxiv.org/abs/2505.10558v1)|null|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551v1](http://arxiv.org/abs/2505.10551v1)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
+|**2025-05-15**|**Computational screening and experimental validation of promising Wadsley-Roth Niobates**|Zachary J. L. Bare et.al.|[2505.10549v1](http://arxiv.org/abs/2505.10549v1)|null|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545v1](http://arxiv.org/abs/2505.10545v1)|null|
+|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492v1](http://arxiv.org/abs/2505.10492v1)|null|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482v1](http://arxiv.org/abs/2505.10482v1)|null|
+|**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446v1](http://arxiv.org/abs/2505.10446v1)|null|
+|**2025-05-15**|**Score-based diffusion nowcasting of GOES imagery**|Randy J. Chase et.al.|[2505.10432v1](http://arxiv.org/abs/2505.10432v1)|null|
+|**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405v1](http://arxiv.org/abs/2505.10405v1)|null|
+|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311v1](http://arxiv.org/abs/2505.10311v1)|null|
+|**2025-05-15**|**Stochastic oscillators out of equilibrium: scaling limits and correlation estimates**|Patrícia Gonçalves et.al.|[2505.10256v1](http://arxiv.org/abs/2505.10256v1)|null|
+|**2025-05-15**|**ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**|Wenhao Shen et.al.|[2505.10250v1](http://arxiv.org/abs/2505.10250v1)|**[link](https://github.com/shenwenhao01/adhmr)**|
+|**2025-05-15**|**Space-Time Multigrid Methods Suitable for Topology Optimisation of Transient Heat Conduction**|Magnus Appel et.al.|[2505.10168v1](http://arxiv.org/abs/2505.10168v1)|null|
+|**2025-05-15**|**Spectral quantum algorithm for passive scalar transport in shear flows**|Philipp Pfeffer et.al.|[2505.10136v1](http://arxiv.org/abs/2505.10136v1)|null|
+|**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109v1](http://arxiv.org/abs/2505.10109v1)|null|
+|**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Jun Guo et.al.|[2505.10075v1](http://arxiv.org/abs/2505.10075v1)|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046v1](http://arxiv.org/abs/2505.10046v1)|null|
+|**2025-05-15**|**ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**|Shijie Lyu et.al.|[2505.10027v1](http://arxiv.org/abs/2505.10027v1)|null|
+|**2025-05-15**|**From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching**|Ying Zang et.al.|[2505.09998v1](http://arxiv.org/abs/2505.09998v1)|null|
 |**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609v1](http://arxiv.org/abs/2505.09609v1)|null|
 |**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608v1](http://arxiv.org/abs/2505.09608v1)|null|
 |**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605v1](http://arxiv.org/abs/2505.09605v1)|null|
