@@ -1,4 +1,4 @@
-> Updated on 2025.05.15
+> Updated on 2025.05.16
 
 ## Video_Classification
 
@@ -13880,7 +13880,7 @@
 - 2025-05-13, **Removing Watermarks with Partial Regeneration using Semantic Information**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2505.08234v1](http://arxiv.org/abs/2505.08234v1), Code: **[https://github.com/krtit/semanticregen](https://github.com/krtit/semanticregen)**
 - 2025-05-11, **Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution**, Zihang Liu et.al., Paper: [http://arxiv.org/abs/2505.07071v1](http://arxiv.org/abs/2505.07071v1), Code: **[https://github.com/liu-zihang/samsr](https://github.com/liu-zihang/samsr)**
 - 2025-05-11, **UniDiffGrasp: A Unified Framework Integrating VLM Reasoning and VLM-Guided Part Diffusion for Open-Vocabulary Constrained Grasping with Dual Arms**, Xueyang Guo et.al., Paper: [http://arxiv.org/abs/2505.06832v1](http://arxiv.org/abs/2505.06832v1)
-- 2025-05-10, **ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**, Lei Hu et.al., Paper: [http://arxiv.org/abs/2505.06603v1](http://arxiv.org/abs/2505.06603v1), Code: **[https://github.com/hulei7/replaycad](https://github.com/hulei7/replaycad)**
+- 2025-05-10, **ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection**, Lei Hu et.al., Paper: [http://arxiv.org/abs/2505.06603v1](http://arxiv.org/abs/2505.06603v1)
 - 2025-05-09, **Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**, Kunpeng Qiu et.al., Paper: [http://arxiv.org/abs/2505.06068v1](http://arxiv.org/abs/2505.06068v1), Code: **[https://github.com/qiukunpeng/siamese-diffusion](https://github.com/qiukunpeng/siamese-diffusion)**
 - 2025-05-12, **MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**, Hongyang Zhu et.al., Paper: [http://arxiv.org/abs/2505.05101v2](http://arxiv.org/abs/2505.05101v2)
 - 2025-05-08, **ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis**, Onkar Susladkar et.al., Paper: [http://arxiv.org/abs/2505.04963v1](http://arxiv.org/abs/2505.04963v1)
@@ -13892,7 +13892,7 @@
 - 2025-05-02, **VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**, Mohammadreza Teymoorianfard et.al., Paper: [http://arxiv.org/abs/2505.01406v1](http://arxiv.org/abs/2505.01406v1), Code: **[https://github.com/spin-umass/vidstamp](https://github.com/spin-umass/vidstamp)**
 - 2025-05-02, **VSC: Visual Search Compositional Text-to-Image Diffusion Model**, Do Huu Dat et.al., Paper: [http://arxiv.org/abs/2505.01104v1](http://arxiv.org/abs/2505.01104v1)
 - 2025-05-05, **Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution**, Luigi Sigillo et.al., Paper: [http://arxiv.org/abs/2505.00334v2](http://arxiv.org/abs/2505.00334v2)
-- 2025-05-05, **Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**, Tien Comlekoglu et.al., Paper: [http://arxiv.org/abs/2505.00316v2](http://arxiv.org/abs/2505.00316v2)
+- 2025-05-05, **Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture**, Tien Comlekoglu et.al., Paper: [http://arxiv.org/abs/2505.00316v2](http://arxiv.org/abs/2505.00316v2), Code: **[https://github.com/tc2fh/cpm_unet_surrogate](https://github.com/tc2fh/cpm_unet_surrogate)**
 - 2025-04-30, **First Order Logic with Fuzzy Semantics for Describing and Recognizing Nerves in Medical Images**, Isabelle Bloch et.al., Paper: [http://arxiv.org/abs/2505.00173v1](http://arxiv.org/abs/2505.00173v1)
 - 2025-05-01, **PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**, Xiatao Sun et.al., Paper: [http://arxiv.org/abs/2504.20359v2](http://arxiv.org/abs/2504.20359v2)
 - 2025-04-28, **Open-set Anomaly Segmentation in Complex Scenarios**, Song Xia et.al., Paper: [http://arxiv.org/abs/2504.19706v1](http://arxiv.org/abs/2504.19706v1)
