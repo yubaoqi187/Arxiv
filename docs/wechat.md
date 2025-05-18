@@ -1,4 +1,4 @@
-> Updated on 2025.05.17
+> Updated on 2025.05.18
 
 ## Video_Classification
 
@@ -9558,7 +9558,7 @@
 - 2025-05-15, **Spectral quantum algorithm for passive scalar transport in shear flows**, Philipp Pfeffer et.al., Paper: [http://arxiv.org/abs/2505.10136v1](http://arxiv.org/abs/2505.10136v1)
 - 2025-05-15, **Data-driven discovery of the equations of turbulent convection**, Christopher J. Wareing et.al., Paper: [http://arxiv.org/abs/2505.10109v1](http://arxiv.org/abs/2505.10109v1)
 - 2025-05-15, **FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**, Jun Guo et.al., Paper: [http://arxiv.org/abs/2505.10075v1](http://arxiv.org/abs/2505.10075v1)
-- 2025-05-15, **Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**, Bingda Tang et.al., Paper: [http://arxiv.org/abs/2505.10046v1](http://arxiv.org/abs/2505.10046v1)
+- 2025-05-15, **Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**, Bingda Tang et.al., Paper: [http://arxiv.org/abs/2505.10046v1](http://arxiv.org/abs/2505.10046v1), Code: **[https://github.com/tang-bd/fuse-dit](https://github.com/tang-bd/fuse-dit)**
 - 2025-05-15, **ORL-LDM: Offline Reinforcement Learning Guided Latent Diffusion Model Super-Resolution Reconstruction**, Shijie Lyu et.al., Paper: [http://arxiv.org/abs/2505.10027v1](http://arxiv.org/abs/2505.10027v1)
 - 2025-05-15, **From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching**, Ying Zang et.al., Paper: [http://arxiv.org/abs/2505.09998v1](http://arxiv.org/abs/2505.09998v1)
 - 2025-05-14, **Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**, Washington Mio et.al., Paper: [http://arxiv.org/abs/2505.09609v1](http://arxiv.org/abs/2505.09609v1)
