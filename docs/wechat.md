@@ -1,4 +1,4 @@
-> Updated on 2025.05.18
+> Updated on 2025.05.19
 
 ## Video_Classification
 
@@ -9551,7 +9551,7 @@
 - 2025-05-15, **Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**, Zemin Huang et.al., Paper: [http://arxiv.org/abs/2505.10446v1](http://arxiv.org/abs/2505.10446v1)
 - 2025-05-15, **Score-based diffusion nowcasting of GOES imagery**, Randy J. Chase et.al., Paper: [http://arxiv.org/abs/2505.10432v1](http://arxiv.org/abs/2505.10432v1)
 - 2025-05-15, **Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**, Jianhao Huang et.al., Paper: [http://arxiv.org/abs/2505.10405v1](http://arxiv.org/abs/2505.10405v1)
-- 2025-05-15, **Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**, Jeffrey Alido et.al., Paper: [http://arxiv.org/abs/2505.10311v1](http://arxiv.org/abs/2505.10311v1)
+- 2025-05-16, **Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**, Jeffrey Alido et.al., Paper: [http://arxiv.org/abs/2505.10311v2](http://arxiv.org/abs/2505.10311v2)
 - 2025-05-15, **Stochastic oscillators out of equilibrium: scaling limits and correlation estimates**, Patrícia Gonçalves et.al., Paper: [http://arxiv.org/abs/2505.10256v1](http://arxiv.org/abs/2505.10256v1)
 - 2025-05-15, **ADHMR: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization**, Wenhao Shen et.al., Paper: [http://arxiv.org/abs/2505.10250v1](http://arxiv.org/abs/2505.10250v1), Code: **[https://github.com/shenwenhao01/adhmr](https://github.com/shenwenhao01/adhmr)**
 - 2025-05-15, **Space-Time Multigrid Methods Suitable for Topology Optimisation of Transient Heat Conduction**, Magnus Appel et.al., Paper: [http://arxiv.org/abs/2505.10168v1](http://arxiv.org/abs/2505.10168v1)
