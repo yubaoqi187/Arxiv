@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-19, **Mean Flows for One-step Generative Modeling**, Zhengyang Geng et.al., Paper: [http://arxiv.org/abs/2505.13447v1](http://arxiv.org/abs/2505.13447v1)
+- 2025-05-19, **FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**, Dian Shao et.al., Paper: [http://arxiv.org/abs/2505.13437v1](http://arxiv.org/abs/2505.13437v1)
+- 2025-05-19, **A Practical Guide for Incorporating Symmetry in Diffusion Policy**, Dian Wang et.al., Paper: [http://arxiv.org/abs/2505.13431v1](http://arxiv.org/abs/2505.13431v1)
+- 2025-05-19, **Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**, Sifeng Shang et.al., Paper: [http://arxiv.org/abs/2505.13430v1](http://arxiv.org/abs/2505.13430v1)
+- 2025-05-19, **Unraveling superradiance: entanglement and mutual information in collective decay**, Xin H. H. Zhang et.al., Paper: [http://arxiv.org/abs/2505.13401v1](http://arxiv.org/abs/2505.13401v1)
+- 2025-05-19, **Faster Video Diffusion with Trainable Sparse Attention**, Peiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2505.13389v1](http://arxiv.org/abs/2505.13389v1)
+- 2025-05-19, **The localization transition for the directed polymer in a random environment is smooth**, Hubert Lacoin et.al., Paper: [http://arxiv.org/abs/2505.13382v1](http://arxiv.org/abs/2505.13382v1)
+- 2025-05-19, **Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**, Yasi Zhang et.al., Paper: [http://arxiv.org/abs/2505.13377v1](http://arxiv.org/abs/2505.13377v1)
+- 2025-05-19, **Minimum-Excess-Work Guidance**, Christopher Kolloff et.al., Paper: [http://arxiv.org/abs/2505.13375v1](http://arxiv.org/abs/2505.13375v1)
+- 2025-05-19, **Structure-preserving schemes conserving entropy and kinetic energy**, Kunal Bahuguna et.al., Paper: [http://arxiv.org/abs/2505.13374v1](http://arxiv.org/abs/2505.13374v1)
+- 2025-05-19, **Heterogeneous diffusion in an harmonic potential: the role of the interpretation**, Adrian Pacheco-Pozo et.al., Paper: [http://arxiv.org/abs/2505.13363v1](http://arxiv.org/abs/2505.13363v1)
+- 2025-05-19, **One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**, Nimrod Berman et.al., Paper: [http://arxiv.org/abs/2505.13358v1](http://arxiv.org/abs/2505.13358v1), Code: **[https://github.com/azencot-group/kdm](https://github.com/azencot-group/kdm)**
+- 2025-05-19, **RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers**, Ahmet Berke Gokmen et.al., Paper: [http://arxiv.org/abs/2505.13344v1](http://arxiv.org/abs/2505.13344v1)
+- 2025-05-19, **Semi-analytical solutions of passive scalar transport in generalized Newtonian fluid flow**, Christopher A. Bowers et.al., Paper: [http://arxiv.org/abs/2505.13320v1](http://arxiv.org/abs/2505.13320v1)
+- 2025-05-19, **Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates**, Gabriele Spadaro et.al., Paper: [http://arxiv.org/abs/2505.13316v1](http://arxiv.org/abs/2505.13316v1), Code: **[https://github.com/eidoslab/ddpm-pcc](https://github.com/eidoslab/ddpm-pcc)**
+- 2025-05-19, **Kinematic dynamos and resolution limits for Smoothed Particle Magnetohydrodynamics**, Nikyta Shchutskyi et.al., Paper: [http://arxiv.org/abs/2505.13305v1](http://arxiv.org/abs/2505.13305v1)
+- 2025-05-19, **FlowPure: Continuous Normalizing Flows for Adversarial Purification**, Elias Collaert et.al., Paper: [http://arxiv.org/abs/2505.13280v1](http://arxiv.org/abs/2505.13280v1), Code: **[https://github.com/distrinet/flowpure](https://github.com/distrinet/flowpure)**
+- 2025-05-19, **Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**, Lucas Berry et.al., Paper: [http://arxiv.org/abs/2505.13273v1](http://arxiv.org/abs/2505.13273v1)
+- 2025-05-19, **Policy Contrastive Decoding for Robotic Foundation Models**, Shihan Wu et.al., Paper: [http://arxiv.org/abs/2505.13255v1](http://arxiv.org/abs/2505.13255v1), Code: **[https://github.com/Koorye/PCD](https://github.com/Koorye/PCD)**
+- 2025-05-19, **Swin DiT: Diffusion Transformer using Pseudo Shifted Windows**, Jiafu Wu et.al., Paper: [http://arxiv.org/abs/2505.13219v1](http://arxiv.org/abs/2505.13219v1)
 - 2025-05-16, **QVGen: Pushing the Limit of Quantized Video Generative Models**, Yushi Huang et.al., Paper: [http://arxiv.org/abs/2505.11497v1](http://arxiv.org/abs/2505.11497v1)
 - 2025-05-16, **Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models**, Shirin Shoushtari et.al., Paper: [http://arxiv.org/abs/2505.11482v1](http://arxiv.org/abs/2505.11482v1)
 - 2025-05-16, **PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment**, Dingbang Huang et.al., Paper: [http://arxiv.org/abs/2505.11468v1](http://arxiv.org/abs/2505.11468v1)
@@ -13914,6 +13934,11 @@
 
 ## Diffusion_Segment
 
+- 2025-05-19, **Implicit numerical approximation for stochastic delay differential equations with the nonlinear diffusion term in the infinite horizon**, Yudong Wang et.al., Paper: [http://arxiv.org/abs/2505.12883v1](http://arxiv.org/abs/2505.12883v1)
+- 2025-05-18, **Guiding Diffusion with Deep Geometric Moments: Balancing Fidelity and Variation**, Sangmin Jung et.al., Paper: [http://arxiv.org/abs/2505.12486v1](http://arxiv.org/abs/2505.12486v1)
+- 2025-05-18, **AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion**, Abrar Rahman Abir et.al., Paper: [http://arxiv.org/abs/2505.12358v1](http://arxiv.org/abs/2505.12358v1)
+- 2025-05-17, **EarthSynth: Generating Informative Earth Observation with Diffusion Models**, Jiancheng Pan et.al., Paper: [http://arxiv.org/abs/2505.12108v1](http://arxiv.org/abs/2505.12108v1)
+- 2025-05-16, **X-Edit: Detecting and Localizing Edits in Images Altered by Text-Guided Diffusion Models**, Valentina Bazyleva et.al., Paper: [http://arxiv.org/abs/2505.11753v1](http://arxiv.org/abs/2505.11753v1)
 - 2025-05-16, **MARRS: Masked Autoregressive Unit-based Reaction Synthesis**, Y. B. Wang et.al., Paper: [http://arxiv.org/abs/2505.11334v1](http://arxiv.org/abs/2505.11334v1)
 - 2025-05-16, **Universal scaling of segment fluctuations in polymer and chromatin dynamics**, Kirill Polovnikov et.al., Paper: [http://arxiv.org/abs/2505.10943v1](http://arxiv.org/abs/2505.10943v1)
 - 2025-05-15, **IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation**, Amritanshu Tiwari et.al., Paper: [http://arxiv.org/abs/2505.10743v1](http://arxiv.org/abs/2505.10743v1)
