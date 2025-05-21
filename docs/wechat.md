@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-20, **Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**, Sucheng Ren et.al., Paper: [http://arxiv.org/abs/2505.14687v1](http://arxiv.org/abs/2505.14687v1), Code: **[https://github.com/oliverrensu/grat](https://github.com/oliverrensu/grat)**
+- 2025-05-20, **Training-Free Watermarking for Autoregressive Image Generation**, Yu Tong et.al., Paper: [http://arxiv.org/abs/2505.14673v1](http://arxiv.org/abs/2505.14673v1)
+- 2025-05-20, **Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**, Marlène Careil et.al., Paper: [http://arxiv.org/abs/2505.14556v1](http://arxiv.org/abs/2505.14556v1), Code: **[https://github.com/facebookresearch/dynadiff](https://github.com/facebookresearch/dynadiff)**
+- 2025-05-20, **Credible Sets of Phylogenetic Tree Topology Distributions**, Jonathan Klawitter et.al., Paper: [http://arxiv.org/abs/2505.14532v1](http://arxiv.org/abs/2505.14532v1)
+- 2025-05-20, **diffDemorph: Extending Reference-Free Demorphing to Unseen Faces**, Nitish Shukla et.al., Paper: [http://arxiv.org/abs/2505.14527v1](http://arxiv.org/abs/2505.14527v1)
+- 2025-05-20, **SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**, Zhihao Li et.al., Paper: [http://arxiv.org/abs/2505.14521v1](http://arxiv.org/abs/2505.14521v1)
+- 2025-05-20, **Latent Flow Transformer**, Yen-Chen Wu et.al., Paper: [http://arxiv.org/abs/2505.14513v1](http://arxiv.org/abs/2505.14513v1), Code: **[https://github.com/mtkresearch/latent-flow-transformer](https://github.com/mtkresearch/latent-flow-transformer)**
+- 2025-05-20, **Learning to Integrate Diffusion ODEs by Averaging the Derivatives**, Wenze Liu et.al., Paper: [http://arxiv.org/abs/2505.14502v1](http://arxiv.org/abs/2505.14502v1)
+- 2025-05-20, **Acidity-Mediated Metal Oxide Heterointerfaces: Roles of Substrates and Surface Modification**, Gyu Rac Lee et.al., Paper: [http://arxiv.org/abs/2505.14488v1](http://arxiv.org/abs/2505.14488v1)
+- 2025-05-20, **CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**, Chihan Huang et.al., Paper: [http://arxiv.org/abs/2505.14455v1](http://arxiv.org/abs/2505.14455v1)
+- 2025-05-20, **RefiDiff: Refinement-Aware Diffusion for Efficient Missing Data Imputation**, Md Atik Ahamed et.al., Paper: [http://arxiv.org/abs/2505.14451v1](http://arxiv.org/abs/2505.14451v1)
+- 2025-05-20, **Compositional amortized inference for large-scale hierarchical Bayesian models**, Jonas Arruda et.al., Paper: [http://arxiv.org/abs/2505.14429v1](http://arxiv.org/abs/2505.14429v1)
+- 2025-05-20, **Vid2World: Crafting Video Diffusion Models to Interactive World Models**, Siqiao Huang et.al., Paper: [http://arxiv.org/abs/2505.14357v1](http://arxiv.org/abs/2505.14357v1)
+- 2025-05-20, **Non-ideal MHD simulations of hot Jupiter atmospheres**, Clàudia Soriano-Guerrero et.al., Paper: [http://arxiv.org/abs/2505.14342v1](http://arxiv.org/abs/2505.14342v1)
+- 2025-05-20, **Li-Yau Estimates and Harnack Inequalities for Nonlinear Slow Diffusion Equations on a Smooth Metric Measure Space**, Ali Taheri et.al., Paper: [http://arxiv.org/abs/2505.14290v1](http://arxiv.org/abs/2505.14290v1)
+- 2025-05-20, **Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization**, Yuanyuan Chang et.al., Paper: [http://arxiv.org/abs/2505.14254v1](http://arxiv.org/abs/2505.14254v1), Code: **[https://github.com/chang-yuanyuan/caso](https://github.com/chang-yuanyuan/caso)**
+- 2025-05-20, **Challenges and Limitations in the Synthetic Generation of mHealth Sensor Data**, Flavio Di Martino et.al., Paper: [http://arxiv.org/abs/2505.14206v1](http://arxiv.org/abs/2505.14206v1)
+- 2025-05-20, **From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling**, Marien Renaud et.al., Paper: [http://arxiv.org/abs/2505.14177v1](http://arxiv.org/abs/2505.14177v1)
+- 2025-05-20, **Nanoconfined superionic water is a molecular superionic**, Samuel W. Coles et.al., Paper: [http://arxiv.org/abs/2505.14171v1](http://arxiv.org/abs/2505.14171v1)
+- 2025-05-20, **LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer**, Changgu Chen et.al., Paper: [http://arxiv.org/abs/2505.14167v1](http://arxiv.org/abs/2505.14167v1)
 - 2025-05-19, **Mean Flows for One-step Generative Modeling**, Zhengyang Geng et.al., Paper: [http://arxiv.org/abs/2505.13447v1](http://arxiv.org/abs/2505.13447v1)
 - 2025-05-19, **FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**, Dian Shao et.al., Paper: [http://arxiv.org/abs/2505.13437v1](http://arxiv.org/abs/2505.13437v1)
 - 2025-05-20, **A Practical Guide for Incorporating Symmetry in Diffusion Policy**, Dian Wang et.al., Paper: [http://arxiv.org/abs/2505.13431v2](http://arxiv.org/abs/2505.13431v2)
@@ -13934,6 +13954,7 @@
 
 ## Diffusion_Segment
 
+- 2025-05-20, **CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**, Chihan Huang et.al., Paper: [http://arxiv.org/abs/2505.14455v1](http://arxiv.org/abs/2505.14455v1)
 - 2025-05-19, **Implicit numerical approximation for stochastic delay differential equations with the nonlinear diffusion term in the infinite horizon**, Yudong Wang et.al., Paper: [http://arxiv.org/abs/2505.12883v1](http://arxiv.org/abs/2505.12883v1)
 - 2025-05-18, **Guiding Diffusion with Deep Geometric Moments: Balancing Fidelity and Variation**, Sangmin Jung et.al., Paper: [http://arxiv.org/abs/2505.12486v1](http://arxiv.org/abs/2505.12486v1)
 - 2025-05-18, **AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion**, Abrar Rahman Abir et.al., Paper: [http://arxiv.org/abs/2505.12358v1](http://arxiv.org/abs/2505.12358v1)
