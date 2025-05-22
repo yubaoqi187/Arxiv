@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 
 ## Diffusion
 
@@ -9,7 +9,7 @@
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**[link](https://github.com/facebookresearch/dynadiff)**|
 |**2025-05-20**|**Credible Sets of Phylogenetic Tree Topology Distributions**|Jonathan Klawitter et.al.|[2505.14532v1](http://arxiv.org/abs/2505.14532v1)|null|
 |**2025-05-20**|**diffDemorph: Extending Reference-Free Demorphing to Unseen Faces**|Nitish Shukla et.al.|[2505.14527v1](http://arxiv.org/abs/2505.14527v1)|null|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v1](http://arxiv.org/abs/2505.14521v1)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521v2](http://arxiv.org/abs/2505.14521v2)|null|
 |**2025-05-20**|**Latent Flow Transformer**|Yen-Chen Wu et.al.|[2505.14513v1](http://arxiv.org/abs/2505.14513v1)|**[link](https://github.com/mtkresearch/latent-flow-transformer)**|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502v1](http://arxiv.org/abs/2505.14502v1)|null|
 |**2025-05-20**|**Acidity-Mediated Metal Oxide Heterointerfaces: Roles of Substrates and Surface Modification**|Gyu Rac Lee et.al.|[2505.14488v1](http://arxiv.org/abs/2505.14488v1)|null|
