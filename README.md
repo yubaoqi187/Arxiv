@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812v1](http://arxiv.org/abs/2505.15812v1)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
+|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809v1](http://arxiv.org/abs/2505.15809v1)|**[link](https://github.com/gen-verse/mmada)**|
+|**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800v1](http://arxiv.org/abs/2505.15800v1)|null|
+|**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791v1](http://arxiv.org/abs/2505.15791v1)|null|
+|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781v1](http://arxiv.org/abs/2505.15781v1)|**[link](https://github.com/horseee/dkv-cache)**|
+|**2025-05-21**|**Electro-Fenton treatment of benzophenone-4 solutions: A sustainable approach for its removal using an air-diffusion cathode**|Caio Machado Fernandes et.al.|[2505.15713v1](http://arxiv.org/abs/2505.15713v1)|null|
+|**2025-05-21**|**SENSE -- Sensor-Enhanced Neural Shear Stress Estimation for Quantitative Oilfilm Visualizations**|Lennart Rohlfs et.al.|[2505.15697v1](http://arxiv.org/abs/2505.15697v1)|null|
+|**2025-05-21**|**SwarmDiff: Swarm Robotic Trajectory Planning in Cluttered Environments via Diffusion Transformer**|Kang Ding et.al.|[2505.15679v1](http://arxiv.org/abs/2505.15679v1)|null|
+|**2025-05-21**|**Optimization of fipronil removal via electro-Fenton using a carbon cloth air-diffusion electrode**|Caio Machado Fernandes et.al.|[2505.15678v1](http://arxiv.org/abs/2505.15678v1)|null|
+|**2025-05-21**|**Lithium Intercalation in the Anisotropic van der Waals Magnetic Semiconductor CrSBr**|Kseniia Mosina et.al.|[2505.15663v1](http://arxiv.org/abs/2505.15663v1)|null|
+|**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Ruijie Zheng et.al.|[2505.15659v1](http://arxiv.org/abs/2505.15659v1)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644v1](http://arxiv.org/abs/2505.15644v1)|null|
+|**2025-05-21**|**Thermodynamically Admissible Diffuse Interface Model for Nanoscale Transport of Dense Fluids**|Rahul Bhattacharjee et.al.|[2505.15642v1](http://arxiv.org/abs/2505.15642v1)|null|
+|**2025-05-21**|**Time reversal of Brownian motion with Poissonian resetting**|Fausto Colantoni et.al.|[2505.15639v1](http://arxiv.org/abs/2505.15639v1)|null|
+|**2025-05-21**|**Lecture notes on large deviations in non-equilibrium diffusive systems**|Bernard Derrida et.al.|[2505.15618v1](http://arxiv.org/abs/2505.15618v1)|null|
+|**2025-05-21**|**Implementation of CR Energy SPectrum (CRESP) algorithm in PIERNIK MHD code. II. Propagation of Primary and Secondary nuclei in a magneto-hydrodynamical environment**|Antoine Baldacchino-Jordan et.al.|[2505.15614v1](http://arxiv.org/abs/2505.15614v1)|null|
+|**2025-05-21**|**Beyond Classification: Evaluating Diffusion Denoised Smoothing for Security-Utility Trade off**|Yury Belousov et.al.|[2505.15594v1](http://arxiv.org/abs/2505.15594v1)|null|
+|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571v1](http://arxiv.org/abs/2505.15571v1)|null|
+|**2025-05-21**|**Machine learning-based parameter optimization for Müntz spectral methods**|Wei Zeng et.al.|[2505.15538v1](http://arxiv.org/abs/2505.15538v1)|null|
+|**2025-05-21**|**Global well-posedness of 2D incompressible MHD equations without magnetic diffusion**|Shijin Ding et.al.|[2505.15532v1](http://arxiv.org/abs/2505.15532v1)|null|
 |**2025-05-20**|**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers**|Sucheng Ren et.al.|[2505.14687v1](http://arxiv.org/abs/2505.14687v1)|**[link](https://github.com/oliverrensu/grat)**|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673v1](http://arxiv.org/abs/2505.14673v1)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556v1](http://arxiv.org/abs/2505.14556v1)|**[link](https://github.com/facebookresearch/dynadiff)**|
@@ -4419,6 +4439,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**gen2seg: Generative Models Enable Generalizable Instance Segmentation**|Om Khangaonkar et.al.|[2505.15263v1](http://arxiv.org/abs/2505.15263v1)|null|
+|**2025-05-21**|**Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation**|Alessandro dos Santos Ferreira et.al.|[2505.15077v1](http://arxiv.org/abs/2505.15077v1)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455v1](http://arxiv.org/abs/2505.14455v1)|null|
 |**2025-05-19**|**Implicit numerical approximation for stochastic delay differential equations with the nonlinear diffusion term in the infinite horizon**|Yudong Wang et.al.|[2505.12883v1](http://arxiv.org/abs/2505.12883v1)|null|
 |**2025-05-18**|**Guiding Diffusion with Deep Geometric Moments: Balancing Fidelity and Variation**|Sangmin Jung et.al.|[2505.12486v1](http://arxiv.org/abs/2505.12486v1)|null|
