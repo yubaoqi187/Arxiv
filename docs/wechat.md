@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-22, **When Are Concepts Erased From Diffusion Models?**, Kevin Lu et.al., Paper: [http://arxiv.org/abs/2505.17013v1](http://arxiv.org/abs/2505.17013v1)
+- 2025-05-22, **CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**, Jiange Yang et.al., Paper: [http://arxiv.org/abs/2505.17006v1](http://arxiv.org/abs/2505.17006v1)
+- 2025-05-22, **Guided Diffusion Sampling on Function Spaces with Applications to PDEs**, Jiachen Yao et.al., Paper: [http://arxiv.org/abs/2505.17004v1](http://arxiv.org/abs/2505.17004v1)
+- 2025-05-22, **Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**, Runpeng Yu et.al., Paper: [http://arxiv.org/abs/2505.16990v1](http://arxiv.org/abs/2505.16990v1)
+- 2025-05-22, **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**, Dong Li et.al., Paper: [http://arxiv.org/abs/2505.16980v1](http://arxiv.org/abs/2505.16980v1)
+- 2025-05-22, **Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**, Siqi Wan et.al., Paper: [http://arxiv.org/abs/2505.16977v1](http://arxiv.org/abs/2505.16977v1)
+- 2025-05-22, **Creatively Upscaling Images with Global-Regional Priors**, Yurui Qian et.al., Paper: [http://arxiv.org/abs/2505.16976v1](http://arxiv.org/abs/2505.16976v1)
+- 2025-05-22, **3D Equivariant Visuomotor Policy Learning via Spherical Projection**, Boce Hu et.al., Paper: [http://arxiv.org/abs/2505.16969v1](http://arxiv.org/abs/2505.16969v1)
+- 2025-05-22, **Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**, Alessandro Favero et.al., Paper: [http://arxiv.org/abs/2505.16959v1](http://arxiv.org/abs/2505.16959v1)
+- 2025-05-22, **LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**, Zebin You et.al., Paper: [http://arxiv.org/abs/2505.16933v1](http://arxiv.org/abs/2505.16933v1)
+- 2025-05-22, **Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**, Zeyu Wei et.al., Paper: [http://arxiv.org/abs/2505.16894v1](http://arxiv.org/abs/2505.16894v1)
+- 2025-05-22, **FlashBack: Consistency Model-Accelerated Shared Autonomy**, Luzhe Sun et.al., Paper: [http://arxiv.org/abs/2505.16892v1](http://arxiv.org/abs/2505.16892v1)
+- 2025-05-22, **T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**, Zhehao Huang et.al., Paper: [http://arxiv.org/abs/2505.16875v1](http://arxiv.org/abs/2505.16875v1)
+- 2025-05-22, **Improvement of H$_2$O$_2$ electrogeneration using a Vulcan XC72 carbon-based electrocatalyst modified with Ce-doped Nb$_2$O$_5$**, Aline B. Trench et.al., Paper: [http://arxiv.org/abs/2505.16871v1](http://arxiv.org/abs/2505.16871v1)
+- 2025-05-22, **Training-Free Efficient Video Generation via Dynamic Token Carving**, Yuechen Zhang et.al., Paper: [http://arxiv.org/abs/2505.16864v1](http://arxiv.org/abs/2505.16864v1)
+- 2025-05-22, **Conditional Panoramic Image Generation via Masked Autoregressive Modeling**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2505.16862v1](http://arxiv.org/abs/2505.16862v1)
+- 2025-05-22, **LaViDa: A Large Diffusion Language Model for Multimodal Understanding**, Shufan Li et.al., Paper: [http://arxiv.org/abs/2505.16839v1](http://arxiv.org/abs/2505.16839v1)
+- 2025-05-22, **From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**, Haonian Ji et.al., Paper: [http://arxiv.org/abs/2505.16832v1](http://arxiv.org/abs/2505.16832v1)
+- 2025-05-22, **Interfacial Effects Determine Nonequilibrium Phase Behaviors in Chemically Driven Fluids**, Yongick Cho et.al., Paper: [http://arxiv.org/abs/2505.16824v1](http://arxiv.org/abs/2505.16824v1)
+- 2025-05-22, **SEED: Speaker Embedding Enhancement Diffusion Model**, KiHyun Nam et.al., Paper: [http://arxiv.org/abs/2505.16798v1](http://arxiv.org/abs/2505.16798v1)
 - 2025-05-21, **Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**, Satoshi Kosugi et.al., Paper: [http://arxiv.org/abs/2505.15812v1](http://arxiv.org/abs/2505.15812v1), Code: **[https://github.com/satoshi-kosugi/powerful-attention](https://github.com/satoshi-kosugi/powerful-attention)**
 - 2025-05-21, **MMaDA: Multimodal Large Diffusion Language Models**, Ling Yang et.al., Paper: [http://arxiv.org/abs/2505.15809v1](http://arxiv.org/abs/2505.15809v1), Code: **[https://github.com/gen-verse/mmada](https://github.com/gen-verse/mmada)**
 - 2025-05-21, **Interspatial Attention for Efficient 4D Human Video Generation**, Ruizhi Shao et.al., Paper: [http://arxiv.org/abs/2505.15800v1](http://arxiv.org/abs/2505.15800v1)
@@ -13974,6 +13994,7 @@
 
 ## Diffusion_Segment
 
+- 2025-05-22, **Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation**, Estelle Chigot et.al., Paper: [http://arxiv.org/abs/2505.16360v1](http://arxiv.org/abs/2505.16360v1)
 - 2025-05-21, **gen2seg: Generative Models Enable Generalizable Instance Segmentation**, Om Khangaonkar et.al., Paper: [http://arxiv.org/abs/2505.15263v1](http://arxiv.org/abs/2505.15263v1)
 - 2025-05-21, **Data Augmentation and Resolution Enhancement using GANs and Diffusion Models for Tree Segmentation**, Alessandro dos Santos Ferreira et.al., Paper: [http://arxiv.org/abs/2505.15077v1](http://arxiv.org/abs/2505.15077v1)
 - 2025-05-20, **CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**, Chihan Huang et.al., Paper: [http://arxiv.org/abs/2505.14455v1](http://arxiv.org/abs/2505.14455v1)
