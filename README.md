@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
+|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|null|
+|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469v1](http://arxiv.org/abs/2505.21469v1)|null|
+|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467v1](http://arxiv.org/abs/2505.21467v1)|null|
+|**2025-05-27**|**OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers**|Ziqiao Peng et.al.|[2505.21448v1](http://arxiv.org/abs/2505.21448v1)|null|
+|**2025-05-27**|**Full stochastic dynamics of a tracer in a dense single-file system**|Alexis Poncet et.al.|[2505.21446v1](http://arxiv.org/abs/2505.21446v1)|null|
+|**2025-05-27**|**CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects**|Huaijin Pi et.al.|[2505.21437v1](http://arxiv.org/abs/2505.21437v1)|null|
+|**2025-05-27**|**Scalar field stochastic dynamics in de Sitter spacetime from exact solutions of quantum deficient oscillators**|Yuta Nasuda et.al.|[2505.21429v1](http://arxiv.org/abs/2505.21429v1)|null|
+|**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426v1](http://arxiv.org/abs/2505.21426v1)|null|
+|**2025-05-27**|**A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective**|Gen Li et.al.|[2505.21400v1](http://arxiv.org/abs/2505.21400v1)|null|
+|**2025-05-27**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325v1](http://arxiv.org/abs/2505.21325v1)|null|
+|**2025-05-27**|**Rotational equilibrium of C$_2$ in diffuse interstellar clouds**|J. Le Bourlot et.al.|[2505.21273v1](http://arxiv.org/abs/2505.21273v1)|null|
+|**2025-05-27**|**Ill posedness in shallow multi-phase debris flow models**|Jake Langham et.al.|[2505.21254v1](http://arxiv.org/abs/2505.21254v1)|null|
+|**2025-05-27**|**LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners**|Yu He et.al.|[2505.21239v1](http://arxiv.org/abs/2505.21239v1)|null|
+|**2025-05-27**|**Simulations of the churning mode: toroidally symmetric plasma convection and turbulence around the X-points in a snowflake divertor**|D Power et.al.|[2505.21223v1](http://arxiv.org/abs/2505.21223v1)|null|
+|**2025-05-27**|**Quantum algorithms for solving a drift-diffusion equation**|Ellen Devereux et.al.|[2505.21221v1](http://arxiv.org/abs/2505.21221v1)|null|
+|**2025-05-27**|**Sci-Fi: Symmetric Constraint for Frame Inbetweening**|Liuhan Chen et.al.|[2505.21205v1](http://arxiv.org/abs/2505.21205v1)|null|
+|**2025-05-27**|**Normalized Attention Guidance: Universal Negative Guidance for Diffusion Model**|Dar-Yen Chen et.al.|[2505.21179v1](http://arxiv.org/abs/2505.21179v1)|null|
 |**2025-05-26**|**From one-dimensional diffusion processes metastable behaviour to parabolic equations asymptotics**|Claudio Landim et.al.|[2505.20217v1](http://arxiv.org/abs/2505.20217v1)|null|
 |**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199v1](http://arxiv.org/abs/2505.20199v1)|null|
 |**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Fengkang Ying et.al.|[2505.20175v1](http://arxiv.org/abs/2505.20175v1)|null|
