@@ -1,4 +1,4 @@
-> Updated on 2025.05.28
+> Updated on 2025.05.29
 
 ## Video_Classification
 
@@ -9553,7 +9553,7 @@
 - 2025-05-27, **Scalar field stochastic dynamics in de Sitter spacetime from exact solutions of quantum deficient oscillators**, Yuta Nasuda et.al., Paper: [http://arxiv.org/abs/2505.21429v1](http://arxiv.org/abs/2505.21429v1)
 - 2025-05-27, **Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**, Francesco Cozzi et.al., Paper: [http://arxiv.org/abs/2505.21426v1](http://arxiv.org/abs/2505.21426v1)
 - 2025-05-27, **A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective**, Gen Li et.al., Paper: [http://arxiv.org/abs/2505.21400v1](http://arxiv.org/abs/2505.21400v1)
-- 2025-05-27, **MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**, Guangyuan Li et.al., Paper: [http://arxiv.org/abs/2505.21325v1](http://arxiv.org/abs/2505.21325v1)
+- 2025-05-28, **MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**, Guangyuan Li et.al., Paper: [http://arxiv.org/abs/2505.21325v2](http://arxiv.org/abs/2505.21325v2)
 - 2025-05-27, **Rotational equilibrium of C$_2$ in diffuse interstellar clouds**, J. Le Bourlot et.al., Paper: [http://arxiv.org/abs/2505.21273v1](http://arxiv.org/abs/2505.21273v1)
 - 2025-05-27, **Ill posedness in shallow multi-phase debris flow models**, Jake Langham et.al., Paper: [http://arxiv.org/abs/2505.21254v1](http://arxiv.org/abs/2505.21254v1)
 - 2025-05-27, **LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners**, Yu He et.al., Paper: [http://arxiv.org/abs/2505.21239v1](http://arxiv.org/abs/2505.21239v1)
@@ -14058,7 +14058,7 @@
 
 ## Diffusion_Segment
 
-- 2025-05-26, **HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**, Jue Gong et.al., Paper: [http://arxiv.org/abs/2505.19742v1](http://arxiv.org/abs/2505.19742v1)
+- 2025-05-26, **HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**, Jue Gong et.al., Paper: [http://arxiv.org/abs/2505.19742v1](http://arxiv.org/abs/2505.19742v1), Code: **[https://github.com/gobunu/haodiff](https://github.com/gobunu/haodiff)**
 - 2025-05-19, **Generating Realistic Multi-Beat ECG Signals**, Paul Pöhl et.al., Paper: [http://arxiv.org/abs/2505.18189v1](http://arxiv.org/abs/2505.18189v1)
 - 2025-05-23, **Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**, Zhihua Liu et.al., Paper: [http://arxiv.org/abs/2505.17994v1](http://arxiv.org/abs/2505.17994v1)
 - 2025-05-23, **Generative Data Augmentation for Object Point Cloud Segmentation**, Dekai Zhu et.al., Paper: [http://arxiv.org/abs/2505.17783v1](http://arxiv.org/abs/2505.17783v1)
