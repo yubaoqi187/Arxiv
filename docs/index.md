@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Path-Dependent SDEs: Solutions and Parameter Estimation**|Pardis Semnani et.al.|[2505.22646v1](http://arxiv.org/abs/2505.22646v1)|null|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643v1](http://arxiv.org/abs/2505.22643v1)|null|
+|**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636v1](http://arxiv.org/abs/2505.22636v1)|null|
+|**2025-05-28**|**Lattice Compatibility and Energy Barriers in Intercalation Compounds**|Delin Zhang et.al.|[2505.22628v1](http://arxiv.org/abs/2505.22628v1)|null|
+|**2025-05-28**|**A theory for diffusion-controlled reactions within nonequilibrium steady-states**|Seokjin Moon et.al.|[2505.22623v1](http://arxiv.org/abs/2505.22623v1)|null|
+|**2025-05-28**|**Principled Out-of-Distribution Generalization via Simplicity**|Jiawei Ge et.al.|[2505.22622v1](http://arxiv.org/abs/2505.22622v1)|null|
+|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618v1](http://arxiv.org/abs/2505.22618v1)|null|
+|**2025-05-28**|**ImageReFL: Balancing Quality and Diversity in Human-Aligned Diffusion Models**|Dmitrii Sorokin et.al.|[2505.22569v1](http://arxiv.org/abs/2505.22569v1)|null|
+|**2025-05-28**|**Nonlinear time-reversal symmetry breaking in kagome spin ice HoAgGe**|Kan Zhao et.al.|[2505.22544v1](http://arxiv.org/abs/2505.22544v1)|null|
+|**2025-05-28**|**Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo**|Chinmay Pani et.al.|[2505.22524v1](http://arxiv.org/abs/2505.22524v1)|null|
+|**2025-05-28**|**PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models**|Junwen Chen et.al.|[2505.22523v1](http://arxiv.org/abs/2505.22523v1)|null|
+|**2025-05-28**|**Softness and Hydrodynamic Interactions Regulate Lipoprotein Transport in Crowded Yolk Environments**|Nimmi Das Anthuparambil et.al.|[2505.22520v1](http://arxiv.org/abs/2505.22520v1)|null|
+|**2025-05-28**|**Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics**|Siyeop Yoon et.al.|[2505.22489v1](http://arxiv.org/abs/2505.22489v1)|null|
+|**2025-05-28**|**Beyond Leaders and Laggards: A Typology of Renewable Energy Adoption Trajectories with Evidence from Off-Grid Communities**|Roni Blushtein-Livnon et.al.|[2505.22456v1](http://arxiv.org/abs/2505.22456v1)|null|
+|**2025-05-28**|**Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation**|Jiadong Pan et.al.|[2505.22407v1](http://arxiv.org/abs/2505.22407v1)|null|
+|**2025-05-28**|**Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation**|Yi Zhang et.al.|[2505.22391v1](http://arxiv.org/abs/2505.22391v1)|null|
+|**2025-05-28**|**Synaptic shot-noise triggers fast and slow global oscillations in balanced neural networks**|Denis S. Goldobin et.al.|[2505.22373v1](http://arxiv.org/abs/2505.22373v1)|null|
+|**2025-05-28**|**A Closer Look on Memorization in Tabular Diffusion Model: A Data-Centric Perspective**|Zhengyu Fang et.al.|[2505.22322v1](http://arxiv.org/abs/2505.22322v1)|null|
+|**2025-05-28**|**Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer**|Zehua Chen et.al.|[2505.22306v1](http://arxiv.org/abs/2505.22306v1)|null|
+|**2025-05-28**|**Forager with Inertia : Better for Survival?**|Md Aquib Molla et.al.|[2505.22262v1](http://arxiv.org/abs/2505.22262v1)|null|
 |**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
 |**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
@@ -4527,6 +4547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643v1](http://arxiv.org/abs/2505.22643v1)|null|
 |**2025-05-26**|**HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**|Jue Gong et.al.|[2505.19742v1](http://arxiv.org/abs/2505.19742v1)|**[link](https://github.com/gobunu/haodiff)**|
 |**2025-05-19**|**Generating Realistic Multi-Beat ECG Signals**|Paul Pöhl et.al.|[2505.18189v1](http://arxiv.org/abs/2505.18189v1)|null|
 |**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994v1](http://arxiv.org/abs/2505.17994v1)|null|
