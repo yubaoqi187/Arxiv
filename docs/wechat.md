@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-05-29, **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**, Yusuf Dalva et.al., Paper: [http://arxiv.org/abs/2505.23758v1](http://arxiv.org/abs/2505.23758v1)
+- 2025-05-29, **DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**, Amber Yijia Zheng et.al., Paper: [http://arxiv.org/abs/2505.23743v1](http://arxiv.org/abs/2505.23743v1)
+- 2025-05-29, **MAGREF: Masked Guidance for Any-Reference Video Generation**, Yufan Deng et.al., Paper: [http://arxiv.org/abs/2505.23742v1](http://arxiv.org/abs/2505.23742v1)
+- 2025-05-29, **LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**, Ronghuan Wu et.al., Paper: [http://arxiv.org/abs/2505.23740v1](http://arxiv.org/abs/2505.23740v1)
+- 2025-05-29, **How Animals Dance (When You're Not Looking)**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23738v1](http://arxiv.org/abs/2505.23738v1)
+- 2025-05-29, **DiffER: Categorical Diffusion for Chemical Retrosynthesis**, Sean Current et.al., Paper: [http://arxiv.org/abs/2505.23721v1](http://arxiv.org/abs/2505.23721v1)
+- 2025-05-29, **Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**, Danny Driess et.al., Paper: [http://arxiv.org/abs/2505.23705v1](http://arxiv.org/abs/2505.23705v1)
+- 2025-05-29, **Diffusive noise controls early stages of genetic demixing**, Rashmiranjan Bhutia et.al., Paper: [http://arxiv.org/abs/2505.23698v1](http://arxiv.org/abs/2505.23698v1)
+- 2025-05-29, **ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**, Moinak Bhattacharya et.al., Paper: [http://arxiv.org/abs/2505.23675v1](http://arxiv.org/abs/2505.23675v1)
+- 2025-05-29, **OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**, Size Wu et.al., Paper: [http://arxiv.org/abs/2505.23661v1](http://arxiv.org/abs/2505.23661v1)
+- 2025-05-29, **D-AR: Diffusion via Autoregressive Models**, Ziteng Gao et.al., Paper: [http://arxiv.org/abs/2505.23660v1](http://arxiv.org/abs/2505.23660v1)
+- 2025-05-29, **VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**, Xiangdong Zhang et.al., Paper: [http://arxiv.org/abs/2505.23656v1](http://arxiv.org/abs/2505.23656v1)
+- 2025-05-29, **Optimization-Free Diffusion Model -- A Perturbation Theory Approach**, Yuehaw Khoo et.al., Paper: [http://arxiv.org/abs/2505.23652v1](http://arxiv.org/abs/2505.23652v1)
+- 2025-05-29, **Initial Luminally Deposited FGF4 Critically Influences Blastocyst Patterning**, Michael A. Ramirez-Sierra et.al., Paper: [http://arxiv.org/abs/2505.23650v1](http://arxiv.org/abs/2505.23650v1)
+- 2025-05-29, **ZeroSep: Separate Anything in Audio with Zero Training**, Chao Huang et.al., Paper: [http://arxiv.org/abs/2505.23625v1](http://arxiv.org/abs/2505.23625v1)
+- 2025-05-29, **Inference-time Scaling of Diffusion Models through Classical Search**, Xiangcheng Zhang et.al., Paper: [http://arxiv.org/abs/2505.23614v1](http://arxiv.org/abs/2505.23614v1)
+- 2025-05-29, **Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2505.23606v1](http://arxiv.org/abs/2505.23606v1)
+- 2025-05-29, **The Intracluster Light of Abell 3667: Unveiling an Optical Bridge in LSST Precursor Data**, Anthony Englert et.al., Paper: [http://arxiv.org/abs/2505.23551v1](http://arxiv.org/abs/2505.23551v1)
+- 2025-05-29, **Metagalactic Ultraviolet Background Tables for Calculating Diffuse Astrophysical Plasma Properties**, Elias Taira et.al., Paper: [http://arxiv.org/abs/2505.23544v1](http://arxiv.org/abs/2505.23544v1)
+- 2025-05-29, **Normalizing Flows are Capable Models for RL**, Raj Ghugare et.al., Paper: [http://arxiv.org/abs/2505.23527v1](http://arxiv.org/abs/2505.23527v1)
 - 2025-05-28, **Path-Dependent SDEs: Solutions and Parameter Estimation**, Pardis Semnani et.al., Paper: [http://arxiv.org/abs/2505.22646v1](http://arxiv.org/abs/2505.22646v1)
 - 2025-05-28, **SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**, Dekai Zhu et.al., Paper: [http://arxiv.org/abs/2505.22643v1](http://arxiv.org/abs/2505.22643v1)
 - 2025-05-28, **ObjectClear: Complete Object Removal via Object-Effect Attention**, Jixin Zhao et.al., Paper: [http://arxiv.org/abs/2505.22636v1](http://arxiv.org/abs/2505.22636v1)
@@ -14078,6 +14098,7 @@
 
 ## Diffusion_Segment
 
+- 2025-05-28, **Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation**, Siddharth Ancha et.al., Paper: [http://arxiv.org/abs/2505.22805v1](http://arxiv.org/abs/2505.22805v1)
 - 2025-05-28, **SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**, Dekai Zhu et.al., Paper: [http://arxiv.org/abs/2505.22643v1](http://arxiv.org/abs/2505.22643v1)
 - 2025-05-26, **HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**, Jue Gong et.al., Paper: [http://arxiv.org/abs/2505.19742v1](http://arxiv.org/abs/2505.19742v1), Code: **[https://github.com/gobunu/haodiff](https://github.com/gobunu/haodiff)**
 - 2025-05-19, **Generating Realistic Multi-Beat ECG Signals**, Paul Pöhl et.al., Paper: [http://arxiv.org/abs/2505.18189v1](http://arxiv.org/abs/2505.18189v1)
