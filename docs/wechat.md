@@ -1,4 +1,4 @@
-> Updated on 2025.06.01
+> Updated on 2025.06.02
 
 ## Video_Classification
 
@@ -9550,7 +9550,7 @@
 - 2025-05-29, **Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**, Danny Driess et.al., Paper: [http://arxiv.org/abs/2505.23705v1](http://arxiv.org/abs/2505.23705v1)
 - 2025-05-29, **Diffusive noise controls early stages of genetic demixing**, Rashmiranjan Bhutia et.al., Paper: [http://arxiv.org/abs/2505.23698v1](http://arxiv.org/abs/2505.23698v1)
 - 2025-05-29, **ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**, Moinak Bhattacharya et.al., Paper: [http://arxiv.org/abs/2505.23675v1](http://arxiv.org/abs/2505.23675v1)
-- 2025-05-29, **OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**, Size Wu et.al., Paper: [http://arxiv.org/abs/2505.23661v1](http://arxiv.org/abs/2505.23661v1), Code: **[https://github.com/wusize/openuni](https://github.com/wusize/openuni)**
+- 2025-05-30, **OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**, Size Wu et.al., Paper: [http://arxiv.org/abs/2505.23661v2](http://arxiv.org/abs/2505.23661v2), Code: **[https://github.com/wusize/openuni](https://github.com/wusize/openuni)**
 - 2025-05-29, **D-AR: Diffusion via Autoregressive Models**, Ziteng Gao et.al., Paper: [http://arxiv.org/abs/2505.23660v1](http://arxiv.org/abs/2505.23660v1), Code: **[https://github.com/showlab/d-ar](https://github.com/showlab/d-ar)**
 - 2025-05-29, **VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**, Xiangdong Zhang et.al., Paper: [http://arxiv.org/abs/2505.23656v1](http://arxiv.org/abs/2505.23656v1)
 - 2025-05-29, **Optimization-Free Diffusion Model -- A Perturbation Theory Approach**, Yuehaw Khoo et.al., Paper: [http://arxiv.org/abs/2505.23652v1](http://arxiv.org/abs/2505.23652v1)
