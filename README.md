@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150v1](http://arxiv.org/abs/2506.03150v1)|null|
+|**2025-06-03**|**Change of bifurcation type in 2D free boundary model of a moving cell with nonlinear diffusion**|Leonid Berlyand et.al.|[2506.03138v1](http://arxiv.org/abs/2506.03138v1)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131v1](http://arxiv.org/abs/2506.03131v1)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126v1](http://arxiv.org/abs/2506.03126v1)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123v1](http://arxiv.org/abs/2506.03123v1)|null|
+|**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119v1](http://arxiv.org/abs/2506.03119v1)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111v1](http://arxiv.org/abs/2506.03111v1)|null|
+|**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107v1](http://arxiv.org/abs/2506.03107v1)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099v1](http://arxiv.org/abs/2506.03099v1)|null|
+|**2025-06-03**|**SG2VID: Scene Graphs Enable Fine-Grained Control for Video Synthesis**|Ssharvien Kumar Sivakumar et.al.|[2506.03082v1](http://arxiv.org/abs/2506.03082v1)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|null|
+|**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065v1](http://arxiv.org/abs/2506.03065v1)|null|
+|**2025-06-03**|**Sample complexity of Schrödinger potential estimation**|Nikita Puchkin et.al.|[2506.03043v1](http://arxiv.org/abs/2506.03043v1)|null|
+|**2025-06-03**|**Subdiffusion from competition between multi-exponential friction memory and energy barriers**|Anton Klimek et.al.|[2506.03036v1](http://arxiv.org/abs/2506.03036v1)|null|
+|**2025-06-03**|**InfiniteAudio: Infinite-Length Audio Generation with Consistency**|Chaeyoung Jung et.al.|[2506.03020v1](http://arxiv.org/abs/2506.03020v1)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004v1](http://arxiv.org/abs/2506.03004v1)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981v1](http://arxiv.org/abs/2506.02981v1)|null|
+|**2025-06-03**|**Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation**|Dingwei Chen et.al.|[2506.02973v1](http://arxiv.org/abs/2506.02973v1)|null|
+|**2025-06-03**|**Hölder continuous weak solutions of the 3D Boussinesq equation with thermal diffusion**|Zipeng Chen et.al.|[2506.02927v1](http://arxiv.org/abs/2506.02927v1)|null|
+|**2025-06-03**|**Enhanced zeta potentials caused by surface ion mobilities**|Evgeny S. Asmolov et.al.|[2506.02915v1](http://arxiv.org/abs/2506.02915v1)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873v1](http://arxiv.org/abs/2505.24873v1)|null|
 |**2025-05-30**|**A localized consensus-based sampling algorithm**|Arne Bouillon et.al.|[2505.24861v1](http://arxiv.org/abs/2505.24861v1)|null|
@@ -4583,6 +4603,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067v1](http://arxiv.org/abs/2506.03067v1)|null|
+|**2025-06-03**|**InfiniteAudio: Infinite-Length Audio Generation with Consistency**|Chaeyoung Jung et.al.|[2506.03020v1](http://arxiv.org/abs/2506.03020v1)|null|
+|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661v1](http://arxiv.org/abs/2506.02661v1)|null|
+|**2025-06-03**|**Classification of Hoyle State Decay Branches in Active Target Time Projection Chamber using Neural Network**|Pralay Kumar Das et.al.|[2506.02506v1](http://arxiv.org/abs/2506.02506v1)|null|
+|**2025-06-03**|**Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**|Hongtao Huang et.al.|[2506.02488v1](http://arxiv.org/abs/2506.02488v1)|null|
+|**2025-06-02**|**G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models**|Tianjiao Zhang et.al.|[2506.01539v1](http://arxiv.org/abs/2506.01539v1)|null|
+|**2025-06-01**|**Motion-Aware Concept Alignment for Consistent Video Editing**|Tong Zhang et.al.|[2506.01004v1](http://arxiv.org/abs/2506.01004v1)|null|
+|**2025-06-01**|**DS-VTON: High-Quality Virtual Try-on via Disentangled Dual-Scale Generation**|Xianbing Sun et.al.|[2506.00908v1](http://arxiv.org/abs/2506.00908v1)|null|
+|**2025-06-01**|**State-Covering Trajectory Stitching for Diffusion Planners**|Kyowoon Lee et.al.|[2506.00895v1](http://arxiv.org/abs/2506.00895v1)|null|
+|**2025-06-01**|**SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2506.00830v1](http://arxiv.org/abs/2506.00830v1)|null|
+|**2025-05-31**|**Seg2Any: Open-set Segmentation-Mask-to-Image Generation with Precise Shape and Semantic Control**|Danfeng li et.al.|[2506.00596v1](http://arxiv.org/abs/2506.00596v1)|null|
+|**2025-05-31**|**SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation**|Xingtong Ge et.al.|[2506.00523v1](http://arxiv.org/abs/2506.00523v1)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015v1](http://arxiv.org/abs/2505.24015v1)|null|
 |**2025-05-28**|**Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation**|Siddharth Ancha et.al.|[2505.22805v1](http://arxiv.org/abs/2505.22805v1)|null|
 |**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643v1](http://arxiv.org/abs/2505.22643v1)|null|
