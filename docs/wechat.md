@@ -1,4 +1,4 @@
-> Updated on 2025.06.05
+> Updated on 2025.06.06
 
 ## Video_Classification
 
@@ -9544,8 +9544,8 @@
 - 2025-06-04, **LayerFlow: A Unified Model for Layer-aware Video Generation**, Sihui Ji et.al., Paper: [http://arxiv.org/abs/2506.04228v1](http://arxiv.org/abs/2506.04228v1)
 - 2025-06-04, **Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**, Tianyu Huang et.al., Paper: [http://arxiv.org/abs/2506.04225v1](http://arxiv.org/abs/2506.04225v1)
 - 2025-06-04, **Sounding that Object: Interactive Object-Aware Image to Audio Generation**, Tingle Li et.al., Paper: [http://arxiv.org/abs/2506.04214v1](http://arxiv.org/abs/2506.04214v1)
-- 2025-06-04, **FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**, Xuanhua He et.al., Paper: [http://arxiv.org/abs/2506.04213v1](http://arxiv.org/abs/2506.04213v1)
-- 2025-06-04, **Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**, Boyong He et.al., Paper: [http://arxiv.org/abs/2506.04211v1](http://arxiv.org/abs/2506.04211v1)
+- 2025-06-05, **FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**, Xuanhua He et.al., Paper: [http://arxiv.org/abs/2506.04213v2](http://arxiv.org/abs/2506.04213v2)
+- 2025-06-04, **Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**, Boyong He et.al., Paper: [http://arxiv.org/abs/2506.04211v1](http://arxiv.org/abs/2506.04211v1), Code: **[https://github.com/heboyong/Diffusion-Domain-Teacher](https://github.com/heboyong/Diffusion-Domain-Teacher)**
 - 2025-06-04, **Fluctuations in the number of local minima in discrete-time fractional Brownian motion**, Maxim Dolgushev et.al., Paper: [http://arxiv.org/abs/2506.04159v1](http://arxiv.org/abs/2506.04159v1)
 - 2025-06-04, **Image Editing As Programs with Diffusion Models**, Yujia Hu et.al., Paper: [http://arxiv.org/abs/2506.04158v1](http://arxiv.org/abs/2506.04158v1)
 - 2025-06-04, **A robust matrix-free approach for large-scale non-isothermal high-contrast viscosity Stokes flow on blended domains with applications to geophysics**, Andreas Burkhart et.al., Paper: [http://arxiv.org/abs/2506.04157v1](http://arxiv.org/abs/2506.04157v1)
@@ -9556,9 +9556,9 @@
 - 2025-06-04, **MudiNet: Task-guided Disentangled Representation Learning for 5G Indoor Multipath-assisted Positioning**, Ye Tian et.al., Paper: [http://arxiv.org/abs/2506.04024v1](http://arxiv.org/abs/2506.04024v1)
 - 2025-06-04, **Large deviations for scaled families of Schrödinger bridges with reflection**, Viktor Nilsson et.al., Paper: [http://arxiv.org/abs/2506.03999v1](http://arxiv.org/abs/2506.03999v1)
 - 2025-06-04, **Beyond water limitation in vegetation-autotoxicity patterning: a cross-diffusion model**, Francesco Giannino et.al., Paper: [http://arxiv.org/abs/2506.03981v1](http://arxiv.org/abs/2506.03981v1)
-- 2025-06-04, **Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**, Haoxuan Chen et.al., Paper: [http://arxiv.org/abs/2506.03979v1](http://arxiv.org/abs/2506.03979v1)
+- 2025-06-05, **Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach**, Haoxuan Chen et.al., Paper: [http://arxiv.org/abs/2506.03979v2](http://arxiv.org/abs/2506.03979v2)
 - 2025-06-04, **Impact of triangularity on edge transport and divertor detachment: a SOLPS-ITER study of TCV L-mode plasmas**, Fabio Mombelli et.al., Paper: [http://arxiv.org/abs/2506.03966v1](http://arxiv.org/abs/2506.03966v1)
-- 2025-06-04, **Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**, Jemima M. Tabeart et.al., Paper: [http://arxiv.org/abs/2506.03947v1](http://arxiv.org/abs/2506.03947v1)
+- 2025-06-05, **Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators**, Jemima M. Tabeart et.al., Paper: [http://arxiv.org/abs/2506.03947v2](http://arxiv.org/abs/2506.03947v2)
 - 2025-06-04, **DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**, Jia Fu et.al., Paper: [http://arxiv.org/abs/2506.03933v1](http://arxiv.org/abs/2506.03933v1)
 - 2025-06-04, **Gravothermal expansion of dwarf spheroidal galaxies heated by dark subhaloes**, Jorge Peñarrubia et.al., Paper: [http://arxiv.org/abs/2506.03904v1](http://arxiv.org/abs/2506.03904v1)
 - 2025-06-03, **IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**, Yuanze Lin et.al., Paper: [http://arxiv.org/abs/2506.03150v1](http://arxiv.org/abs/2506.03150v1)
@@ -14165,7 +14165,7 @@
 - 2025-06-03, **InfiniteAudio: Infinite-Length Audio Generation with Consistency**, Chaeyoung Jung et.al., Paper: [http://arxiv.org/abs/2506.03020v1](http://arxiv.org/abs/2506.03020v1)
 - 2025-06-03, **MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**, Mingyang Huang et.al., Paper: [http://arxiv.org/abs/2506.02661v1](http://arxiv.org/abs/2506.02661v1)
 - 2025-06-03, **Classification of Hoyle State Decay Branches in Active Target Time Projection Chamber using Neural Network**, Pralay Kumar Das et.al., Paper: [http://arxiv.org/abs/2506.02506v1](http://arxiv.org/abs/2506.02506v1)
-- 2025-06-03, **Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**, Hongtao Huang et.al., Paper: [http://arxiv.org/abs/2506.02488v1](http://arxiv.org/abs/2506.02488v1)
+- 2025-06-04, **Flexiffusion: Training-Free Segment-Wise Neural Architecture Search for Efficient Diffusion Models**, Hongtao Huang et.al., Paper: [http://arxiv.org/abs/2506.02488v2](http://arxiv.org/abs/2506.02488v2)
 - 2025-06-02, **G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models**, Tianjiao Zhang et.al., Paper: [http://arxiv.org/abs/2506.01539v1](http://arxiv.org/abs/2506.01539v1)
 - 2025-06-01, **Motion-Aware Concept Alignment for Consistent Video Editing**, Tong Zhang et.al., Paper: [http://arxiv.org/abs/2506.01004v1](http://arxiv.org/abs/2506.01004v1)
 - 2025-06-01, **DS-VTON: High-Quality Virtual Try-on via Disentangled Dual-Scale Generation**, Xianbing Sun et.al., Paper: [http://arxiv.org/abs/2506.00908v1](http://arxiv.org/abs/2506.00908v1)
@@ -14173,7 +14173,7 @@
 - 2025-06-01, **SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**, Zhengcong Fei et.al., Paper: [http://arxiv.org/abs/2506.00830v1](http://arxiv.org/abs/2506.00830v1)
 - 2025-05-31, **Seg2Any: Open-set Segmentation-Mask-to-Image Generation with Precise Shape and Semantic Control**, Danfeng li et.al., Paper: [http://arxiv.org/abs/2506.00596v1](http://arxiv.org/abs/2506.00596v1)
 - 2025-05-31, **SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation**, Xingtong Ge et.al., Paper: [http://arxiv.org/abs/2506.00523v1](http://arxiv.org/abs/2506.00523v1)
-- 2025-05-29, **Semantics-Guided Generative Image Compression**, Cheng-Lin Wu et.al., Paper: [http://arxiv.org/abs/2505.24015v1](http://arxiv.org/abs/2505.24015v1)
+- 2025-05-29, **Semantics-Guided Generative Image Compression**, Cheng-Lin Wu et.al., Paper: [http://arxiv.org/abs/2505.24015v1](http://arxiv.org/abs/2505.24015v1), Code: **[https://github.com/CrashedBboy/SGGIC](https://github.com/CrashedBboy/SGGIC)**
 - 2025-05-28, **Anomalies by Synthesis: Anomaly Detection using Generative Diffusion Models for Off-Road Navigation**, Siddharth Ancha et.al., Paper: [http://arxiv.org/abs/2505.22805v1](http://arxiv.org/abs/2505.22805v1)
 - 2025-05-28, **SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**, Dekai Zhu et.al., Paper: [http://arxiv.org/abs/2505.22643v1](http://arxiv.org/abs/2505.22643v1)
 - 2025-05-26, **HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance**, Jue Gong et.al., Paper: [http://arxiv.org/abs/2505.19742v1](http://arxiv.org/abs/2505.19742v1), Code: **[https://github.com/gobunu/haodiff](https://github.com/gobunu/haodiff)**
