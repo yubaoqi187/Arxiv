@@ -2,12 +2,32 @@
 layout: default
 ---
 
-## Updated on 2025.06.08
+## Updated on 2025.06.10
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276v1](http://arxiv.org/abs/2506.06276v1)|null|
+|**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271v1](http://arxiv.org/abs/2506.06271v1)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220v1](http://arxiv.org/abs/2506.06220v1)|null|
+|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199v1](http://arxiv.org/abs/2506.06199v1)|null|
+|**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Jonathan Yang et.al.|[2506.06196v1](http://arxiv.org/abs/2506.06196v1)|null|
+|**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185v1](http://arxiv.org/abs/2506.06185v1)|null|
+|**2025-06-06**|**Robustness of complexity estimation in event-driven signals against accuracy of event detection method**|Marco Cafiso et.al.|[2506.06168v1](http://arxiv.org/abs/2506.06168v1)|null|
+|**2025-06-09**|**Faint absorption of the ground state hyperfine-splitting transitions of hydroxyl at 18 cm in the Galactic Disk**|M. R. Rugel et.al.|[2506.06149v2](http://arxiv.org/abs/2506.06149v2)|null|
+|**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085v1](http://arxiv.org/abs/2506.06085v1)|null|
+|**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045v1](http://arxiv.org/abs/2506.06045v1)|null|
+|**2025-06-06**|**HAVIR: HierArchical Vision to Image Reconstruction using CLIP-Guided Versatile Diffusion**|Shiyi Zhang et.al.|[2506.06035v1](http://arxiv.org/abs/2506.06035v1)|null|
+|**2025-06-06**|**Sample-Specific Noise Injection For Diffusion-Based Adversarial Purification**|Yuhao Sun et.al.|[2506.06027v1](http://arxiv.org/abs/2506.06027v1)|null|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023v1](http://arxiv.org/abs/2506.06023v1)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018v1](http://arxiv.org/abs/2506.06018v1)|null|
+|**2025-06-09**|**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**|Adil Hasan et.al.|[2506.05960v2](http://arxiv.org/abs/2506.05960v2)|null|
+|**2025-06-06**|**Elementary discrete diffusion/redistancing schemes for the mean curvature flow**|Antonin Chambolle et.al.|[2506.05946v1](http://arxiv.org/abs/2506.05946v1)|null|
+|**2025-06-06**|**Exponential Family Variational Flow Matching for Tabular Data Generation**|Andrés Guzmán-Cordero et.al.|[2506.05940v1](http://arxiv.org/abs/2506.05940v1)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934v1](http://arxiv.org/abs/2506.05934v1)|null|
+|**2025-06-06**|**Convection Anisotropies of Cosmic Rays in Highly Magnetized Plasma**|Yiran Zhang et.al.|[2506.05923v1](http://arxiv.org/abs/2506.05923v1)|null|
+|**2025-06-06**|**A Chimera method for high-fidelity simulation of turbulent flows**|Andrea Di Mascio et.al.|[2506.05914v1](http://arxiv.org/abs/2506.05914v1)|null|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350v1](http://arxiv.org/abs/2506.05350v1)|null|
 |**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340v1](http://arxiv.org/abs/2506.05340v1)|null|
 |**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311v1](http://arxiv.org/abs/2506.05311v1)|null|
@@ -4647,6 +4667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**|Yuchen Lin et.al.|[2506.05573v1](http://arxiv.org/abs/2506.05573v1)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276v1](http://arxiv.org/abs/2506.05276v1)|null|
 |**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127v1](http://arxiv.org/abs/2506.05127v1)|null|
 |**2025-06-05**|**DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration**|Lingxiao Guo et.al.|[2506.05064v1](http://arxiv.org/abs/2506.05064v1)|null|
@@ -4664,7 +4685,7 @@ layout: default
 |**2025-06-02**|**G4Seg: Generation for Inexact Segmentation Refinement with Diffusion Models**|Tianjiao Zhang et.al.|[2506.01539v1](http://arxiv.org/abs/2506.01539v1)|null|
 |**2025-06-01**|**Motion-Aware Concept Alignment for Consistent Video Editing**|Tong Zhang et.al.|[2506.01004v1](http://arxiv.org/abs/2506.01004v1)|null|
 |**2025-06-01**|**DS-VTON: High-Quality Virtual Try-on via Disentangled Dual-Scale Generation**|Xianbing Sun et.al.|[2506.00908v1](http://arxiv.org/abs/2506.00908v1)|null|
-|**2025-06-01**|**State-Covering Trajectory Stitching for Diffusion Planners**|Kyowoon Lee et.al.|[2506.00895v1](http://arxiv.org/abs/2506.00895v1)|null|
+|**2025-06-06**|**State-Covering Trajectory Stitching for Diffusion Planners**|Kyowoon Lee et.al.|[2506.00895v2](http://arxiv.org/abs/2506.00895v2)|null|
 |**2025-06-01**|**SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2506.00830v1](http://arxiv.org/abs/2506.00830v1)|null|
 |**2025-05-31**|**Seg2Any: Open-set Segmentation-Mask-to-Image Generation with Precise Shape and Semantic Control**|Danfeng li et.al.|[2506.00596v1](http://arxiv.org/abs/2506.00596v1)|null|
 |**2025-05-31**|**SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation**|Xingtong Ge et.al.|[2506.00523v1](http://arxiv.org/abs/2506.00523v1)|null|
