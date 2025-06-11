@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 
 ## Diffusion
 
@@ -4688,12 +4688,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v1](http://arxiv.org/abs/2506.07497v1)|null|
-|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280v1](http://arxiv.org/abs/2506.07280v1)|null|
+|**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280v2](http://arxiv.org/abs/2506.07280v2)|null|
 |**2025-06-07**|**Active Contour Models Driven by Hyperbolic Mean Curvature Flow for Image Segmentation**|Saiyu Hu et.al.|[2506.06712v1](http://arxiv.org/abs/2506.06712v1)|null|
 |**2025-06-05**|**PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**|Yuchen Lin et.al.|[2506.05573v1](http://arxiv.org/abs/2506.05573v1)|null|
 |**2025-06-05**|**How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control**|Hao Yu et.al.|[2506.05276v1](http://arxiv.org/abs/2506.05276v1)|null|
 |**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127v1](http://arxiv.org/abs/2506.05127v1)|null|
-|**2025-06-05**|**DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration**|Lingxiao Guo et.al.|[2506.05064v1](http://arxiv.org/abs/2506.05064v1)|null|
+|**2025-06-10**|**DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration**|Lingxiao Guo et.al.|[2506.05064v2](http://arxiv.org/abs/2506.05064v2)|null|
 |**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931v1](http://arxiv.org/abs/2506.04931v1)|null|
 |**2025-06-05**|**Gen-n-Val: Agentic Image Data Generation and Validation**|Jing-En Huang et.al.|[2506.04676v1](http://arxiv.org/abs/2506.04676v1)|null|
 |**2025-06-05**|**Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders**|Qiming Hu et.al.|[2506.04641v1](http://arxiv.org/abs/2506.04641v1)|null|
