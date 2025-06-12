@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-11, **Text-Aware Image Restoration with Diffusion Models**, Jaewon Min et.al., Paper: [http://arxiv.org/abs/2506.09993v1](http://arxiv.org/abs/2506.09993v1)
+- 2025-06-11, **ReSim: Reliable World Simulation for Autonomous Driving**, Jiazhi Yang et.al., Paper: [http://arxiv.org/abs/2506.09981v1](http://arxiv.org/abs/2506.09981v1)
+- 2025-06-11, **Canonical Latent Representations in Conditional Diffusion Models**, Yitao Xu et.al., Paper: [http://arxiv.org/abs/2506.09955v1](http://arxiv.org/abs/2506.09955v1)
+- 2025-06-11, **A Diffuse-Interface Marangoni Instability**, Xiangwei Li et.al., Paper: [http://arxiv.org/abs/2506.09945v1](http://arxiv.org/abs/2506.09945v1)
+- 2025-06-11, **HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**, Marco Federici et.al., Paper: [http://arxiv.org/abs/2506.09932v1](http://arxiv.org/abs/2506.09932v1)
+- 2025-06-11, **Discrete-space and -time analogue of a super-diffusive fractional Brownian motion**, Enzo Marinari et.al., Paper: [http://arxiv.org/abs/2506.09921v1](http://arxiv.org/abs/2506.09921v1)
+- 2025-06-11, **TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model**, Yijie Deng et.al., Paper: [http://arxiv.org/abs/2506.09909v1](http://arxiv.org/abs/2506.09909v1)
+- 2025-06-11, **Universality of scaling entropy in charged hadron multiplicity distributions at the LHC**, L. S. Moriggi et.al., Paper: [http://arxiv.org/abs/2506.09899v1](http://arxiv.org/abs/2506.09899v1)
+- 2025-06-11, **Magnetic excitations and exchange parameters of a nickel chain compound PbMn$_2$Ni$_6$Te$_3$O$_{18}$: Neutron scattering and density functional theory studies**, S. Uthayakumar et.al., Paper: [http://arxiv.org/abs/2506.09861v1](http://arxiv.org/abs/2506.09861v1)
+- 2025-06-11, **A Deep Generative Model for the Simulation of Discrete Karst Networks**, Dany Lauzon et.al., Paper: [http://arxiv.org/abs/2506.09832v1](http://arxiv.org/abs/2506.09832v1)
+- 2025-06-11, **A consistent description of the kinetic processes of electrolyte ion transport in a dynamic porous medium**, P. P. Kostrobij et.al., Paper: [http://arxiv.org/abs/2506.09753v1](http://arxiv.org/abs/2506.09753v1)
+- 2025-06-11, **ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**, Qin Zhou et.al., Paper: [http://arxiv.org/abs/2506.09740v1](http://arxiv.org/abs/2506.09740v1)
+- 2025-06-11, **Formation of stationary interfaces in the fast reaction limit**, Yuki Tsukamoto et.al., Paper: [http://arxiv.org/abs/2506.09716v1](http://arxiv.org/abs/2506.09716v1)
+- 2025-06-11, **Optimization and validation of charge transport simulation for hybrid pixel detectors incorporating the repulsion effect**, X. Xie et.al., Paper: [http://arxiv.org/abs/2506.09712v1](http://arxiv.org/abs/2506.09712v1)
+- 2025-06-11, **Binary Mixtures of Intelligent Active Brownian Particles with Visual Perception**, Rajendra Singh Negi et.al., Paper: [http://arxiv.org/abs/2506.09698v1](http://arxiv.org/abs/2506.09698v1)
+- 2025-06-11, **Assessing the Quality of Denoising Diffusion Models in Wasserstein Distance: Noisy Score and Optimal Bounds**, Vahan Arsenyan et.al., Paper: [http://arxiv.org/abs/2506.09681v1](http://arxiv.org/abs/2506.09681v1)
+- 2025-06-11, **VideoMat: Extracting PBR Materials from Video Diffusion Models**, Jacob Munkberg et.al., Paper: [http://arxiv.org/abs/2506.09665v1](http://arxiv.org/abs/2506.09665v1)
+- 2025-06-11, **HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**, Kunyu Peng et.al., Paper: [http://arxiv.org/abs/2506.09650v1](http://arxiv.org/abs/2506.09650v1)
+- 2025-06-11, **DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**, Dongxu Liu et.al., Paper: [http://arxiv.org/abs/2506.09644v1](http://arxiv.org/abs/2506.09644v1)
+- 2025-06-11, **Diffusion index forecasts under weaker loadings: PCA, ridge regression, and random projections**, Tom Boot et.al., Paper: [http://arxiv.org/abs/2506.09575v1](http://arxiv.org/abs/2506.09575v1)
 - 2025-06-10, **MagCache: Fast Video Generation with Magnitude-Aware Cache**, Zehong Ma et.al., Paper: [http://arxiv.org/abs/2506.09045v1](http://arxiv.org/abs/2506.09045v1)
 - 2025-06-10, **Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**, Karthik Prabhu et.al., Paper: [http://arxiv.org/abs/2506.09036v1](http://arxiv.org/abs/2506.09036v1)
 - 2025-06-10, **Diffuse and Disperse: Image Generation with Representation Regularization**, Runqian Wang et.al., Paper: [http://arxiv.org/abs/2506.09027v1](http://arxiv.org/abs/2506.09027v1)
@@ -14238,6 +14258,8 @@
 
 ## Diffusion_Segment
 
+- 2025-06-11, **ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**, Qin Zhou et.al., Paper: [http://arxiv.org/abs/2506.09740v1](http://arxiv.org/abs/2506.09740v1)
+- 2025-06-11, **HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**, Kunyu Peng et.al., Paper: [http://arxiv.org/abs/2506.09650v1](http://arxiv.org/abs/2506.09650v1)
 - 2025-06-10, **RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**, Yang Bai et.al., Paper: [http://arxiv.org/abs/2506.08632v1](http://arxiv.org/abs/2506.08632v1)
 - 2025-06-10, **LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4$\times$RTX 4090s**, Xijun Wang et.al., Paper: [http://arxiv.org/abs/2506.08529v1](http://arxiv.org/abs/2506.08529v1)
 - 2025-06-11, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v2](http://arxiv.org/abs/2506.07497v2)
