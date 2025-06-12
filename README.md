@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 
 ## Diffusion
 
@@ -13,7 +13,7 @@
 |**2025-06-10**|**Who is using AI to code? Global diffusion and impact of generative AI**|Simone Daniotti et.al.|[2506.08945v1](http://arxiv.org/abs/2506.08945v1)|null|
 |**2025-06-10**|**Asymptotic error distribution for stochastic Runge--Kutta methods of strong order one**|Diancong Jin et.al.|[2506.08937v1](http://arxiv.org/abs/2506.08937v1)|null|
 |**2025-06-10**|**Measurement of the Dispersion$\unicode{x2013}$Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932v1](http://arxiv.org/abs/2506.08932v1)|null|
-|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v1](http://arxiv.org/abs/2506.08895v1)|null|
+|**2025-06-11**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895v2](http://arxiv.org/abs/2506.08895v2)|null|
 |**2025-06-10**|**Brownian motion with stochastic energy renewals**|Ion Santra et.al.|[2506.08876v1](http://arxiv.org/abs/2506.08876v1)|null|
 |**2025-06-10**|**The MeerKAT Massive Distant Clusters Survey: Detection of Diffuse Radio Emission in Galaxy Clusters at $z > 1$**|Dakalo G. Phuravhathu et.al.|[2506.08853v1](http://arxiv.org/abs/2506.08853v1)|null|
 |**2025-06-10**|**IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)**|Siyi Sun et.al.|[2506.08844v1](http://arxiv.org/abs/2506.08844v1)|null|
@@ -4705,7 +4705,7 @@
 |---|---|---|---|---|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632v1](http://arxiv.org/abs/2506.08632v1)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4$\times$RTX 4090s**|Xijun Wang et.al.|[2506.08529v1](http://arxiv.org/abs/2506.08529v1)|null|
-|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v1](http://arxiv.org/abs/2506.07497v1)|null|
+|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v2](http://arxiv.org/abs/2506.07497v2)|null|
 |**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280v2](http://arxiv.org/abs/2506.07280v2)|null|
 |**2025-06-07**|**Active Contour Models Driven by Hyperbolic Mean Curvature Flow for Image Segmentation**|Saiyu Hu et.al.|[2506.06712v1](http://arxiv.org/abs/2506.06712v1)|null|
 |**2025-06-05**|**PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**|Yuchen Lin et.al.|[2506.05573v1](http://arxiv.org/abs/2506.05573v1)|null|
