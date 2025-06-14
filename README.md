@@ -4747,7 +4747,7 @@
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712v1](http://arxiv.org/abs/2506.10712v1)|null|
 |**2025-06-11**|**Conditional diffusion models for guided anomaly detection in brain images using fluid-driven anomaly randomization**|Ana Lawry Aguila et.al.|[2506.10233v1](http://arxiv.org/abs/2506.10233v1)|null|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740v1](http://arxiv.org/abs/2506.09740v1)|null|
-|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|**[link](https://github.com/kpeng9510/hopadiff)**|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632v1](http://arxiv.org/abs/2506.08632v1)|null|
 |**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4$\times$RTX 4090s**|Xijun Wang et.al.|[2506.08529v1](http://arxiv.org/abs/2506.08529v1)|null|
 |**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497v2](http://arxiv.org/abs/2506.07497v2)|null|
@@ -5277,7 +5277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470v1](http://arxiv.org/abs/2504.15470v1)|null|
+|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470v1](http://arxiv.org/abs/2504.15470v1)|**[link](https://github.com/jonathanbrok/manifold-induced-biases-for-zero-shot-and-few-shot-detection-of-generated-images)**|
 |**2024-06-13**|**Well-posedness of aggregation-diffusion systems with irregular kernels**|José A. Carrillo et.al.|[2406.09227v1](http://arxiv.org/abs/2406.09227v1)|null|
 |**2025-02-11**|**A continuum limit for dense spatial networks**|Sidney Holden et.al.|[2301.07086v4](http://arxiv.org/abs/2301.07086v4)|null|
 |**2022-06-10**|**Stellar migration in the Auriga simulations**|Periklis Okalidis et.al.|[2206.05304v1](http://arxiv.org/abs/2206.05304v1)|null|
