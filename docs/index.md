@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 
 ## Diffusion
 
@@ -12,7 +12,7 @@ layout: default
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981v1](http://arxiv.org/abs/2506.10981v1)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978v1](http://arxiv.org/abs/2506.10978v1)|null|
 |**2025-06-12**|**What Exactly Does Guidance Do in Masked Discrete Diffusion Models**|He Ye et.al.|[2506.10971v1](http://arxiv.org/abs/2506.10971v1)|null|
-|**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v1](http://arxiv.org/abs/2506.10963v1)|null|
+|**2025-06-13**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963v2](http://arxiv.org/abs/2506.10963v2)|null|
 |**2025-06-12**|**SpectralAR: Spectral Autoregressive Visual Generation**|Yuanhui Huang et.al.|[2506.10962v1](http://arxiv.org/abs/2506.10962v1)|null|
 |**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955v1](http://arxiv.org/abs/2506.10955v1)|null|
 |**2025-06-12**|**Coupled reaction and diffusion governing interface evolution in solid-state batteries**|Jingxuan Ding et.al.|[2506.10944v1](http://arxiv.org/abs/2506.10944v1)|null|
@@ -20,11 +20,11 @@ layout: default
 |**2025-06-12**|**M4V: Multi-Modal Mamba for Text-to-Video Generation**|Jiancheng Huang et.al.|[2506.10915v1](http://arxiv.org/abs/2506.10915v1)|null|
 |**2025-06-12**|**Numerical approximation of a PDE-constrained Optimization problem that appears in Data-Driven Computational Mechanics**|Pedro B. Bazon et.al.|[2506.10894v1](http://arxiv.org/abs/2506.10894v1)|null|
 |**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|null|
-|**2025-06-12**|**Accelerating Diffusion Large Language Models with SlowFast: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848v1](http://arxiv.org/abs/2506.10848v1)|null|
+|**2025-06-13**|**Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles**|Qingyan Wei et.al.|[2506.10848v2](http://arxiv.org/abs/2506.10848v2)|null|
 |**2025-06-12**|**Electric conductivity and flavor diffusion in a viscous, resistive quark-gluon plasma for weak and strong magnetic fields**|Ferdinando Frascà et.al.|[2506.10783v1](http://arxiv.org/abs/2506.10783v1)|null|
 |**2025-06-12**|**ME: Trigger Element Combination Backdoor Attack on Copyright Infringement**|Feiyu Yang et.al.|[2506.10776v1](http://arxiv.org/abs/2506.10776v1)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712v1](http://arxiv.org/abs/2506.10712v1)|null|
-|**2025-06-12**|**PDESpectralRefiner: Achieving More Accurate Long Rollouts with Spectral Adjustment**|Li Luo et.al.|[2506.10711v1](http://arxiv.org/abs/2506.10711v1)|null|
+|**2025-06-13**|**PDESpectralRefiner: Achieving More Accurate Long Rollouts with Spectral Adjustment**|Li Luo et.al.|[2506.10711v2](http://arxiv.org/abs/2506.10711v2)|null|
 |**2025-06-12**|**Unsourced Adversarial CAPTCHA: A Bi-Phase Adversarial CAPTCHA Framework**|Xia Du et.al.|[2506.10685v1](http://arxiv.org/abs/2506.10685v1)|null|
 |**2025-06-12**|**Numerical tests of cosmological Alfvén waves with Ohmic diffusion**|Orestis A. Karapiperis et.al.|[2506.10684v1](http://arxiv.org/abs/2506.10684v1)|null|
 |**2025-06-12**|**GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning**|Xiaoyi Bao et.al.|[2506.10639v1](http://arxiv.org/abs/2506.10639v1)|null|
