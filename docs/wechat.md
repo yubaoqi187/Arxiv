@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-16, **Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**, Yixian Xu et.al., Paper: [http://arxiv.org/abs/2506.13763v1](http://arxiv.org/abs/2506.13763v1)
+- 2025-06-16, **Discrete Diffusion in Large Language and Multimodal Models: A Survey**, Runpeng Yu et.al., Paper: [http://arxiv.org/abs/2506.13759v1](http://arxiv.org/abs/2506.13759v1)
+- 2025-06-16, **VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**, Edward Li et.al., Paper: [http://arxiv.org/abs/2506.13754v1](http://arxiv.org/abs/2506.13754v1)
+- 2025-06-16, **On uniqueness of coefficient identification in the Bloch-Torrey equation for magnetic resonance imaging**, Barbara Kaltenbacher et.al., Paper: [http://arxiv.org/abs/2506.13708v1](http://arxiv.org/abs/2506.13708v1)
+- 2025-06-16, **Viscosity, breakdown of Stokes-Einstein relation and dynamical heterogeneity in supercooled liquid Ge 2 Sb 2 Te 5 from simulations with a neural network potential**, Simone Marcorini et.al., Paper: [http://arxiv.org/abs/2506.13668v1](http://arxiv.org/abs/2506.13668v1)
+- 2025-06-16, **MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**, Bi Yuda et.al., Paper: [http://arxiv.org/abs/2506.13667v1](http://arxiv.org/abs/2506.13667v1)
+- 2025-06-16, **Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**, Kai Long et.al., Paper: [http://arxiv.org/abs/2506.13664v1](http://arxiv.org/abs/2506.13664v1)
+- 2025-06-16, **Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**, Gregory Bellchambers et.al., Paper: [http://arxiv.org/abs/2506.13614v1](http://arxiv.org/abs/2506.13614v1)
+- 2025-06-16, **Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching**, Weimin Bai et.al., Paper: [http://arxiv.org/abs/2506.13594v1](http://arxiv.org/abs/2506.13594v1)
+- 2025-06-16, **Flexible-length Text Infilling for Discrete Diffusion Models**, Andrew Zhang et.al., Paper: [http://arxiv.org/abs/2506.13579v1](http://arxiv.org/abs/2506.13579v1)
+- 2025-06-16, **X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2506.13558v1](http://arxiv.org/abs/2506.13558v1)
+- 2025-06-16, **Limited-Angle CBCT Reconstruction via Geometry-Integrated Cycle-domain Denoising Diffusion Probabilistic Models**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2506.13545v1](http://arxiv.org/abs/2506.13545v1)
+- 2025-06-16, **Seismic Acoustic Impedance Inversion Framework Based on Conditional Latent Generative Diffusion Model**, Jie Chen et.al., Paper: [http://arxiv.org/abs/2506.13529v1](http://arxiv.org/abs/2506.13529v1)
+- 2025-06-16, **DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving**, Heyang Huang et.al., Paper: [http://arxiv.org/abs/2506.13497v1](http://arxiv.org/abs/2506.13497v1)
+- 2025-06-16, **GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field**, Chengrui Zhang et.al., Paper: [http://arxiv.org/abs/2506.13492v1](http://arxiv.org/abs/2506.13492v1)
+- 2025-06-16, **Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis**, Martina Pastorino et.al., Paper: [http://arxiv.org/abs/2506.13484v1](http://arxiv.org/abs/2506.13484v1)
+- 2025-06-16, **On the diffusion of hard sphere fluids in disordered porous media: New extended Enskog theory description**, M. F. Holovko et.al., Paper: [http://arxiv.org/abs/2506.13483v1](http://arxiv.org/abs/2506.13483v1)
+- 2025-06-16, **Block-wise Adaptive Caching for Accelerating Diffusion Policy**, Kangye Ji et.al., Paper: [http://arxiv.org/abs/2506.13456v1](http://arxiv.org/abs/2506.13456v1)
+- 2025-06-16, **PRO: Projection Domain Synthesis for CT Imaging**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2506.13443v1](http://arxiv.org/abs/2506.13443v1)
+- 2025-06-16, **VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**, Jiaming Chen et.al., Paper: [http://arxiv.org/abs/2506.13428v1](http://arxiv.org/abs/2506.13428v1)
 - 2025-06-13, **pLSTM: parallelizable Linear Source Transition Mark networks**, Korbinian Pöppel et.al., Paper: [http://arxiv.org/abs/2506.11997v1](http://arxiv.org/abs/2506.11997v1)
 - 2025-06-13, **Near-extremal holographic charge correlators**, Blaise Goutéraux et.al., Paper: [http://arxiv.org/abs/2506.11974v1](http://arxiv.org/abs/2506.11974v1)
 - 2025-06-13, **Temperature Dependence of Heavy Quark Diffusion from (2+1)-flavor Lattice QCD**, Dennis Bollweg et.al., Paper: [http://arxiv.org/abs/2506.11958v1](http://arxiv.org/abs/2506.11958v1)
@@ -14298,6 +14318,10 @@
 
 ## Diffusion_Segment
 
+- 2025-06-16, **Flexible-length Text Infilling for Discrete Diffusion Models**, Andrew Zhang et.al., Paper: [http://arxiv.org/abs/2506.13579v1](http://arxiv.org/abs/2506.13579v1)
+- 2025-06-16, **StgcDiff: Spatial-Temporal Graph Condition Diffusion for Sign Language Transition Generation**, Jiashu He et.al., Paper: [http://arxiv.org/abs/2506.13156v1](http://arxiv.org/abs/2506.13156v1)
+- 2025-06-15, **Unleashing Diffusion and State Space Models for Medical Image Segmentation**, Rong Wu et.al., Paper: [http://arxiv.org/abs/2506.12747v1](http://arxiv.org/abs/2506.12747v1)
+- 2025-06-13, **Enhancing Privacy: The Utility of Stand-Alone Synthetic CT and MRI for Tumor and Bone Segmentation**, André Ferreira et.al., Paper: [http://arxiv.org/abs/2506.12106v1](http://arxiv.org/abs/2506.12106v1)
 - 2025-06-13, **Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection**, Tae-Seong Han et.al., Paper: [http://arxiv.org/abs/2506.11815v1](http://arxiv.org/abs/2506.11815v1)
 - 2025-06-13, **CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**, Byeongchan Lee et.al., Paper: [http://arxiv.org/abs/2506.11772v1](http://arxiv.org/abs/2506.11772v1)
 - 2025-06-13, **FAD-Net: Frequency-Domain Attention-Guided Diffusion Network for Coronary Artery Segmentation using Invasive Coronary Angiography**, Nan Mu et.al., Paper: [http://arxiv.org/abs/2506.11454v1](http://arxiv.org/abs/2506.11454v1)
