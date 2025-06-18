@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 
 ## Diffusion
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763v1](http://arxiv.org/abs/2506.13763v1)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759v1](http://arxiv.org/abs/2506.13759v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**On uniqueness of coefficient identification in the Bloch-Torrey equation for magnetic resonance imaging**|Barbara Kaltenbacher et.al.|[2506.13708v1](http://arxiv.org/abs/2506.13708v1)|null|
 |**2025-06-16**|**Viscosity, breakdown of Stokes-Einstein relation and dynamical heterogeneity in supercooled liquid Ge 2 Sb 2 Te 5 from simulations with a neural network potential**|Simone Marcorini et.al.|[2506.13668v1](http://arxiv.org/abs/2506.13668v1)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667v1](http://arxiv.org/abs/2506.13667v1)|null|
