@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards**|Qingming Liu et.al.|[2506.15684v1](http://arxiv.org/abs/2506.15684v1)|null|
-|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682v1](http://arxiv.org/abs/2506.15682v1)|null|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682v1](http://arxiv.org/abs/2506.15682v1)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting**|Kai He et.al.|[2506.15673v1](http://arxiv.org/abs/2506.15673v1)|null|
 |**2025-06-18**|**Fokker-Planck Score Learning: Efficient Free-Energy Estimation under Periodic Boundary Conditions**|Daniel Nagel et.al.|[2506.15653v1](http://arxiv.org/abs/2506.15653v1)|null|
 |**2025-06-18**|**Predictions of flow distortions inside a serpentine diffuser from large-eddy simulations**|Rahul Agrawal et.al.|[2506.15646v1](http://arxiv.org/abs/2506.15646v1)|null|
 |**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644v1](http://arxiv.org/abs/2506.15644v1)|null|
 |**2025-06-18**|**Flips Reveal the Universal Impact of Memory on Random Explorations**|Julien Brémont et.al.|[2506.15642v1](http://arxiv.org/abs/2506.15642v1)|null|
 |**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625v1](http://arxiv.org/abs/2506.15625v1)|null|
-|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591v1](http://arxiv.org/abs/2506.15591v1)|null|
+|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591v1](http://arxiv.org/abs/2506.15591v1)|**[link](https://github.com/yjsunnn/dloral)**|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563v1](http://arxiv.org/abs/2506.15563v1)|null|
 |**2025-06-18**|**CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**|Farheen Ramzan et.al.|[2506.15549v1](http://arxiv.org/abs/2506.15549v1)|null|
 |**2025-06-18**|**Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity**|Oluwadamilola Fasina et.al.|[2506.15541v1](http://arxiv.org/abs/2506.15541v1)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2025-06-18**|**On the Effectiveness of Classical Regression Methods for Optimal Switching Problems**|Martin Andersson et.al.|[2506.15436v1](http://arxiv.org/abs/2506.15436v1)|null|
 |**2025-06-18**|**Provable Maximum Entropy Manifold Exploration via Diffusion Models**|Riccardo De Santi et.al.|[2506.15385v1](http://arxiv.org/abs/2506.15385v1)|null|
 |**2025-06-18**|**When Model Knowledge meets Diffusion Model: Diffusion-assisted Data-free Image Synthesis with Alignment of Domain and Class**|Yujin Kim et.al.|[2506.15381v1](http://arxiv.org/abs/2506.15381v1)|null|
-|**2025-06-18**|**Sampling 3D Molecular Conformers with Diffusion Transformers**|J. Thorben Frank et.al.|[2506.15378v1](http://arxiv.org/abs/2506.15378v1)|null|
+|**2025-06-18**|**Sampling 3D Molecular Conformers with Diffusion Transformers**|J. Thorben Frank et.al.|[2506.15378v1](http://arxiv.org/abs/2506.15378v1)|**[link](https://github.com/ml4molsim/dit_mc)**|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
 |**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753v1](http://arxiv.org/abs/2506.14753v1)|null|
 |**2025-06-17**|**Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method**|Enrique Pérez-Montero et.al.|[2506.14736v1](http://arxiv.org/abs/2506.14736v1)|null|
