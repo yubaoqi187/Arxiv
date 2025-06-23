@@ -1,4 +1,4 @@
-> Updated on 2025.06.22
+> Updated on 2025.06.23
 
 ## Video_Classification
 
@@ -14376,7 +14376,7 @@
 - 2025-06-11, **HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**, Kunyu Peng et.al., Paper: [http://arxiv.org/abs/2506.09650v1](http://arxiv.org/abs/2506.09650v1), Code: **[https://github.com/kpeng9510/hopadiff](https://github.com/kpeng9510/hopadiff)**
 - 2025-06-10, **RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**, Yang Bai et.al., Paper: [http://arxiv.org/abs/2506.08632v1](http://arxiv.org/abs/2506.08632v1)
 - 2025-06-10, **LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4$\times$RTX 4090s**, Xijun Wang et.al., Paper: [http://arxiv.org/abs/2506.08529v1](http://arxiv.org/abs/2506.08529v1)
-- 2025-06-16, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v3](http://arxiv.org/abs/2506.07497v3)
+- 2025-06-20, **Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**, Xiangyu Guo et.al., Paper: [http://arxiv.org/abs/2506.07497v4](http://arxiv.org/abs/2506.07497v4)
 - 2025-06-10, **From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**, Pablo Acuaviva et.al., Paper: [http://arxiv.org/abs/2506.07280v2](http://arxiv.org/abs/2506.07280v2)
 - 2025-06-07, **Active Contour Models Driven by Hyperbolic Mean Curvature Flow for Image Segmentation**, Saiyu Hu et.al., Paper: [http://arxiv.org/abs/2506.06712v1](http://arxiv.org/abs/2506.06712v1)
 - 2025-06-05, **PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**, Yuchen Lin et.al., Paper: [http://arxiv.org/abs/2506.05573v1](http://arxiv.org/abs/2506.05573v1)
