@@ -1,4 +1,4 @@
-> Updated on 2025.06.23
+> Updated on 2025.06.24
 
 ## Video_Classification
 
@@ -9541,7 +9541,7 @@
 
 ## Diffusion
 
-- 2025-06-20, **Emergent Temporal Correspondences from Video Diffusion Transformers**, Jisu Nam et.al., Paper: [http://arxiv.org/abs/2506.17220v1](http://arxiv.org/abs/2506.17220v1), Code: **[https://github.com/cvlab-kaist/DiffTrack](https://github.com/cvlab-kaist/DiffTrack)**
+- 2025-06-23, **Emergent Temporal Correspondences from Video Diffusion Transformers**, Jisu Nam et.al., Paper: [http://arxiv.org/abs/2506.17220v2](http://arxiv.org/abs/2506.17220v2), Code: **[https://github.com/cvlab-kaist/DiffTrack](https://github.com/cvlab-kaist/DiffTrack)**
 - 2025-06-20, **DreamCube: 3D Panorama Generation via Multi-plane Synchronization**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2506.17206v1](http://arxiv.org/abs/2506.17206v1)
 - 2025-06-20, **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**, Jiaqi Li et.al., Paper: [http://arxiv.org/abs/2506.17201v1](http://arxiv.org/abs/2506.17201v1)
 - 2025-06-20, **Deep generative models as the probability transformation functions**, Vitalii Bondar et.al., Paper: [http://arxiv.org/abs/2506.17171v1](http://arxiv.org/abs/2506.17171v1)
@@ -9553,7 +9553,7 @@
 - 2025-06-20, **Nonlinear random perturbations of Reaction-Diffusion Equations**, Sandra Cerrai et.al., Paper: [http://arxiv.org/abs/2506.17094v1](http://arxiv.org/abs/2506.17094v1)
 - 2025-06-20, **A general multi-stratum model for a nanofunctionalized releasing capsule: a computational study**, Elia Onofri et.al., Paper: [http://arxiv.org/abs/2506.17078v1](http://arxiv.org/abs/2506.17078v1)
 - 2025-06-20, **Assembler: Scalable 3D Part Assembly via Anchor Point Diffusion**, Wang Zhao et.al., Paper: [http://arxiv.org/abs/2506.17074v1](http://arxiv.org/abs/2506.17074v1)
-- 2025-06-20, **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**, Aditya Sengar et.al., Paper: [http://arxiv.org/abs/2506.17064v1](http://arxiv.org/abs/2506.17064v1)
+- 2025-06-23, **Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**, Aditya Sengar et.al., Paper: [http://arxiv.org/abs/2506.17064v2](http://arxiv.org/abs/2506.17064v2)
 - 2025-06-20, **Mass Functions and Asymptotic Behavior of Caloric Functions on Affine Buildings**, Effie Papageorgiou et.al., Paper: [http://arxiv.org/abs/2506.17042v1](http://arxiv.org/abs/2506.17042v1)
 - 2025-06-20, **LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation**, Elizabeth Fons et.al., Paper: [http://arxiv.org/abs/2506.17039v1](http://arxiv.org/abs/2506.17039v1)
 - 2025-06-20, **A many-body characterization of the fundamental gap in monolayer CrI$_3$**, Daniel Staros et.al., Paper: [http://arxiv.org/abs/2506.17038v1](http://arxiv.org/abs/2506.17038v1)
@@ -14382,7 +14382,7 @@
 - 2025-06-18, **D2Diff : A Dual Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis**, Sanuwani Dayarathna et.al., Paper: [http://arxiv.org/abs/2506.15750v1](http://arxiv.org/abs/2506.15750v1)
 - 2025-06-18, **CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**, Farheen Ramzan et.al., Paper: [http://arxiv.org/abs/2506.15549v1](http://arxiv.org/abs/2506.15549v1)
 - 2025-06-18, **Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**, Abdur Rahman et.al., Paper: [http://arxiv.org/abs/2506.15166v1](http://arxiv.org/abs/2506.15166v1)
-- 2025-06-17, **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, Xiaoran Liu et.al., Paper: [http://arxiv.org/abs/2506.14429v1](http://arxiv.org/abs/2506.14429v1)
+- 2025-06-22, **LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**, Xiaoran Liu et.al., Paper: [http://arxiv.org/abs/2506.14429v2](http://arxiv.org/abs/2506.14429v2)
 - 2025-06-16, **Flexible-length Text Infilling for Discrete Diffusion Models**, Andrew Zhang et.al., Paper: [http://arxiv.org/abs/2506.13579v1](http://arxiv.org/abs/2506.13579v1)
 - 2025-06-16, **StgcDiff: Spatial-Temporal Graph Condition Diffusion for Sign Language Transition Generation**, Jiashu He et.al., Paper: [http://arxiv.org/abs/2506.13156v1](http://arxiv.org/abs/2506.13156v1)
 - 2025-06-15, **Unleashing Diffusion and State Space Models for Medical Image Segmentation**, Rong Wu et.al., Paper: [http://arxiv.org/abs/2506.12747v1](http://arxiv.org/abs/2506.12747v1)
