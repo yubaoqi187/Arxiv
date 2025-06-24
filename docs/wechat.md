@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-23, **Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**, Kiymet Akdemir et.al., Paper: [http://arxiv.org/abs/2506.18900v1](http://arxiv.org/abs/2506.18900v1)
+- 2025-06-23, **Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**, Jiaming Han et.al., Paper: [http://arxiv.org/abs/2506.18898v1](http://arxiv.org/abs/2506.18898v1)
+- 2025-06-23, **MinD: Unified Visual Imagination and Control via Hierarchical World Models**, Xiaowei Chi et.al., Paper: [http://arxiv.org/abs/2506.18897v1](http://arxiv.org/abs/2506.18897v1)
+- 2025-06-23, **CFD Modelling and Sensitivity-Guided Design of Silicon Filament CVD Reactors**, G. P. Gakis et.al., Paper: [http://arxiv.org/abs/2506.18889v1](http://arxiv.org/abs/2506.18889v1)
+- 2025-06-23, **Steering Conceptual Bias via Transformer Latent-Subspace Activation**, Vansh Sharma et.al., Paper: [http://arxiv.org/abs/2506.18887v1](http://arxiv.org/abs/2506.18887v1)
+- 2025-06-23, **Let Your Video Listen to Your Music!**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2506.18881v1](http://arxiv.org/abs/2506.18881v1)
+- 2025-06-23, **ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**, Michal Nazarczuk et.al., Paper: [http://arxiv.org/abs/2506.18792v1](http://arxiv.org/abs/2506.18792v1)
+- 2025-06-23, **Flow-Aware Diffusion for Real-Time VR Restoration: Enhancing Spatiotemporal Coherence and Efficiency**, Yitong Zhu et.al., Paper: [http://arxiv.org/abs/2506.18786v1](http://arxiv.org/abs/2506.18786v1)
+- 2025-06-23, **DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model**, Bao Thach et.al., Paper: [http://arxiv.org/abs/2506.18779v1](http://arxiv.org/abs/2506.18779v1)
+- 2025-06-23, **DPG loss functions for learning parameter-to-solution maps by neural networks**, Pablo Cortés Castillo et.al., Paper: [http://arxiv.org/abs/2506.18773v1](http://arxiv.org/abs/2506.18773v1)
+- 2025-06-23, **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2506.18729v1](http://arxiv.org/abs/2506.18729v1)
+- 2025-06-23, **Steady-State Heating of Diffuse Coronal Plasma in a Solar Active Region**, Gregory D. Fleishman et.al., Paper: [http://arxiv.org/abs/2506.18723v1](http://arxiv.org/abs/2506.18723v1)
+- 2025-06-23, **TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**, Yuqin Dai et.al., Paper: [http://arxiv.org/abs/2506.18671v1](http://arxiv.org/abs/2506.18671v1)
+- 2025-06-23, **Stabilization of Quasilinear Parabolic Equations by Cubic Feedback at Boundary with Estimated Region of Attraction**, Mohamed Camil Belhadjoudja et.al., Paper: [http://arxiv.org/abs/2506.18634v1](http://arxiv.org/abs/2506.18634v1)
+- 2025-06-23, **Emergent deterministic entanglement dynamics in monitored infinite-range bosonic systems**, Zejian Li et.al., Paper: [http://arxiv.org/abs/2506.18624v1](http://arxiv.org/abs/2506.18624v1)
+- 2025-06-23, **Simulation-Free Differential Dynamics through Neural Conservation Laws**, Mengjian Hua et.al., Paper: [http://arxiv.org/abs/2506.18604v1](http://arxiv.org/abs/2506.18604v1)
+- 2025-06-23, **BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**, Denys Rozumnyi et.al., Paper: [http://arxiv.org/abs/2506.18601v1](http://arxiv.org/abs/2506.18601v1)
+- 2025-06-23, **A Systematic Search for MeV-GeV Pulsar Wind Nebulae without Gamma-ray Detected Pulsars**, Jordan Eagle et.al., Paper: [http://arxiv.org/abs/2506.18599v1](http://arxiv.org/abs/2506.18599v1)
+- 2025-06-23, **Averaging principles for time-inhomogeneous multi-scale SDEs with partially dissipative coefficients**, Xiaobin Sun et.al., Paper: [http://arxiv.org/abs/2506.18558v1](http://arxiv.org/abs/2506.18558v1)
+- 2025-06-23, **Circular Mystery: Exploring Diffuse Emission Surrounding a Radio Galaxy with uGMRT and VLA Multiwavelength Observations**, Shobha Kumari et.al., Paper: [http://arxiv.org/abs/2506.18556v1](http://arxiv.org/abs/2506.18556v1)
 - 2025-06-23, **Emergent Temporal Correspondences from Video Diffusion Transformers**, Jisu Nam et.al., Paper: [http://arxiv.org/abs/2506.17220v2](http://arxiv.org/abs/2506.17220v2), Code: **[https://github.com/cvlab-kaist/DiffTrack](https://github.com/cvlab-kaist/DiffTrack)**
 - 2025-06-20, **DreamCube: 3D Panorama Generation via Multi-plane Synchronization**, Yukun Huang et.al., Paper: [http://arxiv.org/abs/2506.17206v1](http://arxiv.org/abs/2506.17206v1)
 - 2025-06-20, **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition**, Jiaqi Li et.al., Paper: [http://arxiv.org/abs/2506.17201v1](http://arxiv.org/abs/2506.17201v1)
@@ -14378,6 +14398,7 @@
 
 ## Diffusion_Segment
 
+- 2025-06-20, **BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**, Jiacheng Chen et.al., Paper: [http://arxiv.org/abs/2506.17450v1](http://arxiv.org/abs/2506.17450v1)
 - 2025-06-20, **FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2506.16806v1](http://arxiv.org/abs/2506.16806v1)
 - 2025-06-18, **D2Diff : A Dual Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis**, Sanuwani Dayarathna et.al., Paper: [http://arxiv.org/abs/2506.15750v1](http://arxiv.org/abs/2506.15750v1)
 - 2025-06-18, **CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**, Farheen Ramzan et.al., Paper: [http://arxiv.org/abs/2506.15549v1](http://arxiv.org/abs/2506.15549v1)
