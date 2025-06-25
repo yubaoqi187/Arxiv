@@ -1,4 +1,4 @@
-> Updated on 2025.06.24
+> Updated on 2025.06.25
 
 ## Video_Classification
 
@@ -9551,7 +9551,7 @@
 - 2025-06-23, **Flow-Aware Diffusion for Real-Time VR Restoration: Enhancing Spatiotemporal Coherence and Efficiency**, Yitong Zhu et.al., Paper: [http://arxiv.org/abs/2506.18786v1](http://arxiv.org/abs/2506.18786v1)
 - 2025-06-23, **DefFusionNet: Learning Multimodal Goal Shapes for Deformable Object Manipulation via a Diffusion-based Probabilistic Model**, Bao Thach et.al., Paper: [http://arxiv.org/abs/2506.18779v1](http://arxiv.org/abs/2506.18779v1)
 - 2025-06-23, **DPG loss functions for learning parameter-to-solution maps by neural networks**, Pablo Cortés Castillo et.al., Paper: [http://arxiv.org/abs/2506.18773v1](http://arxiv.org/abs/2506.18773v1)
-- 2025-06-23, **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2506.18729v1](http://arxiv.org/abs/2506.18729v1)
+- 2025-06-24, **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners**, Fang-Duo Tsai et.al., Paper: [http://arxiv.org/abs/2506.18729v2](http://arxiv.org/abs/2506.18729v2)
 - 2025-06-23, **Steady-State Heating of Diffuse Coronal Plasma in a Solar Active Region**, Gregory D. Fleishman et.al., Paper: [http://arxiv.org/abs/2506.18723v1](http://arxiv.org/abs/2506.18723v1)
 - 2025-06-23, **TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**, Yuqin Dai et.al., Paper: [http://arxiv.org/abs/2506.18671v1](http://arxiv.org/abs/2506.18671v1)
 - 2025-06-23, **Stabilization of Quasilinear Parabolic Equations by Cubic Feedback at Boundary with Estimated Region of Attraction**, Mohamed Camil Belhadjoudja et.al., Paper: [http://arxiv.org/abs/2506.18634v1](http://arxiv.org/abs/2506.18634v1)
@@ -14407,7 +14407,7 @@
 - 2025-06-16, **Flexible-length Text Infilling for Discrete Diffusion Models**, Andrew Zhang et.al., Paper: [http://arxiv.org/abs/2506.13579v1](http://arxiv.org/abs/2506.13579v1)
 - 2025-06-16, **StgcDiff: Spatial-Temporal Graph Condition Diffusion for Sign Language Transition Generation**, Jiashu He et.al., Paper: [http://arxiv.org/abs/2506.13156v1](http://arxiv.org/abs/2506.13156v1)
 - 2025-06-15, **Unleashing Diffusion and State Space Models for Medical Image Segmentation**, Rong Wu et.al., Paper: [http://arxiv.org/abs/2506.12747v1](http://arxiv.org/abs/2506.12747v1)
-- 2025-06-13, **Enhancing Privacy: The Utility of Stand-Alone Synthetic CT and MRI for Tumor and Bone Segmentation**, André Ferreira et.al., Paper: [http://arxiv.org/abs/2506.12106v1](http://arxiv.org/abs/2506.12106v1)
+- 2025-06-13, **Enhancing Privacy: The Utility of Stand-Alone Synthetic CT and MRI for Tumor and Bone Segmentation**, André Ferreira et.al., Paper: [http://arxiv.org/abs/2506.12106v1](http://arxiv.org/abs/2506.12106v1), Code: **[https://github.com/ShadowTwin41/generative_networks](https://github.com/ShadowTwin41/generative_networks)**
 - 2025-06-13, **Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection**, Tae-Seong Han et.al., Paper: [http://arxiv.org/abs/2506.11815v1](http://arxiv.org/abs/2506.11815v1), Code: **[https://github.com/Taeseong-Han/ECGNoiseQuantification](https://github.com/Taeseong-Han/ECGNoiseQuantification)**
 - 2025-06-13, **CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**, Byeongchan Lee et.al., Paper: [http://arxiv.org/abs/2506.11772v1](http://arxiv.org/abs/2506.11772v1)
 - 2025-06-13, **FAD-Net: Frequency-Domain Attention-Guided Diffusion Network for Coronary Artery Segmentation using Invasive Coronary Angiography**, Nan Mu et.al., Paper: [http://arxiv.org/abs/2506.11454v1](http://arxiv.org/abs/2506.11454v1)
