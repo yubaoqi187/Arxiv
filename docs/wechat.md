@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-24, **Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**, Xingyang Li et.al., Paper: [http://arxiv.org/abs/2506.19852v1](http://arxiv.org/abs/2506.19852v1)
+- 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851v1](http://arxiv.org/abs/2506.19851v1)
+- 2025-06-24, **GenHSI: Controllable Generation of Human-Scene Interaction Videos**, Zekun Li et.al., Paper: [http://arxiv.org/abs/2506.19840v1](http://arxiv.org/abs/2506.19840v1)
+- 2025-06-24, **Improving Progressive Generation with Decomposable Flow Matching**, Moayed Haji-Ali et.al., Paper: [http://arxiv.org/abs/2506.19839v1](http://arxiv.org/abs/2506.19839v1)
+- 2025-06-24, **SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**, Liangbin Xie et.al., Paper: [http://arxiv.org/abs/2506.19838v1](http://arxiv.org/abs/2506.19838v1)
+- 2025-06-24, **Machine Learning with Privacy for Protected Attributes**, Saeed Mahloujifar et.al., Paper: [http://arxiv.org/abs/2506.19836v1](http://arxiv.org/abs/2506.19836v1)
+- 2025-06-24, **ProxelGen: Generating Proteins as 3D Densities**, Felix Faltings et.al., Paper: [http://arxiv.org/abs/2506.19820v1](http://arxiv.org/abs/2506.19820v1)
+- 2025-06-24, **CoCo4D: Comprehensive and Complex 4D Scene Generation**, Junwei Zhou et.al., Paper: [http://arxiv.org/abs/2506.19798v1](http://arxiv.org/abs/2506.19798v1)
+- 2025-06-24, **Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2506.19777v1](http://arxiv.org/abs/2506.19777v1)
+- 2025-06-24, **Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**, Jun Wang et.al., Paper: [http://arxiv.org/abs/2506.19774v1](http://arxiv.org/abs/2506.19774v1)
+- 2025-06-24, **Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**, Yihong Luo et.al., Paper: [http://arxiv.org/abs/2506.19741v1](http://arxiv.org/abs/2506.19741v1)
+- 2025-06-24, **Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales**, Seyedmorteza Sadat et.al., Paper: [http://arxiv.org/abs/2506.19713v1](http://arxiv.org/abs/2506.19713v1)
+- 2025-06-24, **Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders**, Matyas Bohacek et.al., Paper: [http://arxiv.org/abs/2506.19708v1](http://arxiv.org/abs/2506.19708v1)
+- 2025-06-24, **Impact of the ambipolar diffusion in the structuration of the magnetic Rayleigh Taylor instability with oblique magnetic field**, E. Callies et.al., Paper: [http://arxiv.org/abs/2506.19672v1](http://arxiv.org/abs/2506.19672v1)
+- 2025-06-24, **Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**, Sha Zhang et.al., Paper: [http://arxiv.org/abs/2506.19613v1](http://arxiv.org/abs/2506.19613v1)
+- 2025-06-24, **Sparse and low-rank approximations of parametric elliptic PDEs: the best of both worlds**, Markus Bachmayr et.al., Paper: [http://arxiv.org/abs/2506.19584v1](http://arxiv.org/abs/2506.19584v1)
+- 2025-06-24, **Regularity of the score function in generative models**, Arthur Stéphanovitch et.al., Paper: [http://arxiv.org/abs/2506.19559v1](http://arxiv.org/abs/2506.19559v1)
+- 2025-06-24, **Elastic heterogeneity governs anomalous scaling in a soft porous crystal**, Kota Mitsumoto et.al., Paper: [http://arxiv.org/abs/2506.19546v1](http://arxiv.org/abs/2506.19546v1)
+- 2025-06-24, **Long-term atomistic finite-temperature substitutional diffusion**, Shashank Saxena et.al., Paper: [http://arxiv.org/abs/2506.19543v1](http://arxiv.org/abs/2506.19543v1)
+- 2025-06-24, **SceneCrafter: Controllable Multi-View Driving Scene Editing**, Zehao Zhu et.al., Paper: [http://arxiv.org/abs/2506.19488v1](http://arxiv.org/abs/2506.19488v1)
 - 2025-06-23, **Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**, Kiymet Akdemir et.al., Paper: [http://arxiv.org/abs/2506.18900v1](http://arxiv.org/abs/2506.18900v1)
 - 2025-06-23, **Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**, Jiaming Han et.al., Paper: [http://arxiv.org/abs/2506.18898v1](http://arxiv.org/abs/2506.18898v1)
 - 2025-06-23, **MinD: Unified Visual Imagination and Control via Hierarchical World Models**, Xiaowei Chi et.al., Paper: [http://arxiv.org/abs/2506.18897v1](http://arxiv.org/abs/2506.18897v1)
@@ -14398,6 +14418,8 @@
 
 ## Diffusion_Segment
 
+- 2025-06-24, **AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**, Ziyan Zhao et.al., Paper: [http://arxiv.org/abs/2506.19269v1](http://arxiv.org/abs/2506.19269v1)
+- 2025-06-23, **DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**, Zhe Dong et.al., Paper: [http://arxiv.org/abs/2506.18946v1](http://arxiv.org/abs/2506.18946v1)
 - 2025-06-20, **BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**, Jiacheng Chen et.al., Paper: [http://arxiv.org/abs/2506.17450v1](http://arxiv.org/abs/2506.17450v1)
 - 2025-06-20, **FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2506.16806v1](http://arxiv.org/abs/2506.16806v1)
 - 2025-06-18, **D2Diff : A Dual Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis**, Sanuwani Dayarathna et.al., Paper: [http://arxiv.org/abs/2506.15750v1](http://arxiv.org/abs/2506.15750v1)
