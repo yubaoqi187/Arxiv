@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-25, **DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**, Sungjae Park et.al., Paper: [http://arxiv.org/abs/2506.20668v1](http://arxiv.org/abs/2506.20668v1)
+- 2025-06-25, **EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**, Roi Bar-On et.al., Paper: [http://arxiv.org/abs/2506.20652v1](http://arxiv.org/abs/2506.20652v1)
+- 2025-06-25, **Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**, Alessandro Cermenati et.al., Paper: [http://arxiv.org/abs/2506.20646v1](http://arxiv.org/abs/2506.20646v1)
+- 2025-06-25, **Telegrapher's Generative Model via Kac Flows**, Richard Duong et.al., Paper: [http://arxiv.org/abs/2506.20641v1](http://arxiv.org/abs/2506.20641v1)
+- 2025-06-25, **DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**, Shansan Gong et.al., Paper: [http://arxiv.org/abs/2506.20639v1](http://arxiv.org/abs/2506.20639v1)
+- 2025-06-25, **Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**, Clément Forray et.al., Paper: [http://arxiv.org/abs/2506.20638v1](http://arxiv.org/abs/2506.20638v1)
+- 2025-06-25, **MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**, Fardad Vakilipoor et.al., Paper: [http://arxiv.org/abs/2506.20637v1](http://arxiv.org/abs/2506.20637v1)
+- 2025-06-25, **rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**, Sandy H. S. Herho et.al., Paper: [http://arxiv.org/abs/2506.20633v1](http://arxiv.org/abs/2506.20633v1), Code: **[https://github.com/sandyherho/rd_spiral](https://github.com/sandyherho/rd_spiral)**
+- 2025-06-25, **Shape2Animal: Creative Animal Generation from Natural Silhouettes**, Quoc-Duy Tran et.al., Paper: [http://arxiv.org/abs/2506.20616v1](http://arxiv.org/abs/2506.20616v1)
+- 2025-06-25, **Depinning and activated motion of chiral self-propelled robots**, Juan Pablo Carrillo-Mora et.al., Paper: [http://arxiv.org/abs/2506.20610v1](http://arxiv.org/abs/2506.20610v1)
+- 2025-06-25, **Micromagnetic structure of oxidized magnetite nanoparticles: sharp structural versus diffuse magnetic interface**, Elizabeth M. Jefremovas et.al., Paper: [http://arxiv.org/abs/2506.20571v1](http://arxiv.org/abs/2506.20571v1)
+- 2025-06-25, **DeepQuark: deep-neural-network approach to multiquark bound states**, Wei-Lin Wu et.al., Paper: [http://arxiv.org/abs/2506.20555v1](http://arxiv.org/abs/2506.20555v1)
+- 2025-06-25, **Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**, Manyi Li et.al., Paper: [http://arxiv.org/abs/2506.20548v1](http://arxiv.org/abs/2506.20548v1)
+- 2025-06-25, **Comparison between Causal and Acausal Diffusion: a Schwinger-Keldysh Effective Field Theory Perspective**, Navid Abbasi et.al., Paper: [http://arxiv.org/abs/2506.20500v1](http://arxiv.org/abs/2506.20500v1)
+- 2025-06-25, **HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**, Tobias Vontobel et.al., Paper: [http://arxiv.org/abs/2506.20452v1](http://arxiv.org/abs/2506.20452v1)
+- 2025-06-25, **Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**, Changlu Guo et.al., Paper: [http://arxiv.org/abs/2506.20449v1](http://arxiv.org/abs/2506.20449v1)
+- 2025-06-25, **Multiscale modeling of hydrogen diffusion in iron considering the effect of dislocations**, Gonzalo Álvarez et.al., Paper: [http://arxiv.org/abs/2506.20439v1](http://arxiv.org/abs/2506.20439v1)
+- 2025-06-25, **Impact of the damping function in dispersion-corrected density functional theory on the properties of liquid water**, K. Nikolas Lausch et.al., Paper: [http://arxiv.org/abs/2506.20371v1](http://arxiv.org/abs/2506.20371v1)
+- 2025-06-25, **The mixing of internal gravity waves and lithium production in intermediate-mass AGB stars**, Zhijun Wang et.al., Paper: [http://arxiv.org/abs/2506.20360v1](http://arxiv.org/abs/2506.20360v1)
+- 2025-06-25, **Evidence of Time-Dependent Diffusive Shock Acceleration in the 2022 September 5 Solar Energetic Particle Event**, Xiaohang Chen et.al., Paper: [http://arxiv.org/abs/2506.20322v1](http://arxiv.org/abs/2506.20322v1)
 - 2025-06-24, **Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**, Xingyang Li et.al., Paper: [http://arxiv.org/abs/2506.19852v1](http://arxiv.org/abs/2506.19852v1)
 - 2025-06-24, **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Zehuan Huang et.al., Paper: [http://arxiv.org/abs/2506.19851v1](http://arxiv.org/abs/2506.19851v1)
 - 2025-06-24, **GenHSI: Controllable Generation of Human-Scene Interaction Videos**, Zekun Li et.al., Paper: [http://arxiv.org/abs/2506.19840v1](http://arxiv.org/abs/2506.19840v1)
@@ -14418,6 +14438,7 @@
 
 ## Diffusion_Segment
 
+- 2025-06-25, **Shape2Animal: Creative Animal Generation from Natural Silhouettes**, Quoc-Duy Tran et.al., Paper: [http://arxiv.org/abs/2506.20616v1](http://arxiv.org/abs/2506.20616v1)
 - 2025-06-25, **AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**, Ziyan Zhao et.al., Paper: [http://arxiv.org/abs/2506.19269v2](http://arxiv.org/abs/2506.19269v2)
 - 2025-06-23, **DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**, Zhe Dong et.al., Paper: [http://arxiv.org/abs/2506.18946v1](http://arxiv.org/abs/2506.18946v1)
 - 2025-06-20, **BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**, Jiacheng Chen et.al., Paper: [http://arxiv.org/abs/2506.17450v1](http://arxiv.org/abs/2506.17450v1)
