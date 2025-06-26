@@ -1,4 +1,4 @@
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 
 ## Diffusion
 
@@ -4883,12 +4883,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269v1](http://arxiv.org/abs/2506.19269v1)|null|
+|**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269v2](http://arxiv.org/abs/2506.19269v2)|null|
 |**2025-06-23**|**DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**|Zhe Dong et.al.|[2506.18946v1](http://arxiv.org/abs/2506.18946v1)|null|
 |**2025-06-20**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450v1](http://arxiv.org/abs/2506.17450v1)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806v1](http://arxiv.org/abs/2506.16806v1)|null|
 |**2025-06-18**|**D2Diff : A Dual Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis**|Sanuwani Dayarathna et.al.|[2506.15750v1](http://arxiv.org/abs/2506.15750v1)|null|
-|**2025-06-18**|**CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**|Farheen Ramzan et.al.|[2506.15549v1](http://arxiv.org/abs/2506.15549v1)|null|
+|**2025-06-25**|**CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**|Farheen Ramzan et.al.|[2506.15549v2](http://arxiv.org/abs/2506.15549v2)|null|
 |**2025-06-18**|**Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**|Abdur Rahman et.al.|[2506.15166v1](http://arxiv.org/abs/2506.15166v1)|null|
 |**2025-06-22**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429v2](http://arxiv.org/abs/2506.14429v2)|null|
 |**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579v1](http://arxiv.org/abs/2506.13579v1)|null|
