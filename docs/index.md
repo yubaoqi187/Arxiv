@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 
 ## Diffusion
 
@@ -12,7 +12,7 @@ layout: default
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652v1](http://arxiv.org/abs/2506.20652v1)|null|
 |**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646v1](http://arxiv.org/abs/2506.20646v1)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641v1](http://arxiv.org/abs/2506.20641v1)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639v1](http://arxiv.org/abs/2506.20639v1)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639v2](http://arxiv.org/abs/2506.20639v2)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638v1](http://arxiv.org/abs/2506.20638v1)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637v1](http://arxiv.org/abs/2506.20637v1)|null|
 |**2025-06-25**|**rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**|Sandy H. S. Herho et.al.|[2506.20633v1](http://arxiv.org/abs/2506.20633v1)|**[link](https://github.com/sandyherho/rd_spiral)**|
@@ -4910,7 +4910,7 @@ layout: default
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616v1](http://arxiv.org/abs/2506.20616v1)|null|
 |**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269v2](http://arxiv.org/abs/2506.19269v2)|null|
 |**2025-06-23**|**DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**|Zhe Dong et.al.|[2506.18946v1](http://arxiv.org/abs/2506.18946v1)|null|
-|**2025-06-20**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450v1](http://arxiv.org/abs/2506.17450v1)|null|
+|**2025-06-26**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450v2](http://arxiv.org/abs/2506.17450v2)|null|
 |**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Fan Yang et.al.|[2506.16806v1](http://arxiv.org/abs/2506.16806v1)|null|
 |**2025-06-18**|**D2Diff : A Dual Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis**|Sanuwani Dayarathna et.al.|[2506.15750v1](http://arxiv.org/abs/2506.15750v1)|null|
 |**2025-06-25**|**CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation**|Farheen Ramzan et.al.|[2506.15549v2](http://arxiv.org/abs/2506.15549v2)|null|
