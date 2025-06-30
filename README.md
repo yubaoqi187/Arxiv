@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 ## Diffusion
 
@@ -17,10 +17,10 @@
 |**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298v1](http://arxiv.org/abs/2506.21298v1)|null|
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287v1](http://arxiv.org/abs/2506.21287v1)|null|
 |**2025-06-26**|**Hiding behind a curtain of dust: Gas and dust properties of an ultra-luminous strongly-lensed z = 3.75 galaxy behind the Milky Way disk**|Belén Alcalde Pampliega et.al.|[2506.21283v1](http://arxiv.org/abs/2506.21283v1)|null|
-|**2025-06-26**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272v1](http://arxiv.org/abs/2506.21272v1)|null|
+|**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272v2](http://arxiv.org/abs/2506.21272v2)|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270v1](http://arxiv.org/abs/2506.21270v1)|null|
 |**2025-06-26**|**BitMark for Infinity: Watermarking Bitwise Autoregressive Image Generative Models**|Louis Kerner et.al.|[2506.21209v1](http://arxiv.org/abs/2506.21209v1)|null|
-|**2025-06-26**|**AC-driven Spin Valves: Capacitive Behavior and Resonator Applications**|Yunwen Liu et.al.|[2506.21176v1](http://arxiv.org/abs/2506.21176v1)|null|
+|**2025-06-27**|**Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications**|Yunwen Liu et.al.|[2506.21176v2](http://arxiv.org/abs/2506.21176v2)|null|
 |**2025-06-26**|**Compressed and Smooth Latent Space for Text Diffusion Modeling**|Viacheslav Meshchaninov et.al.|[2506.21170v1](http://arxiv.org/abs/2506.21170v1)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152v1](http://arxiv.org/abs/2506.21152v1)|null|
 |**2025-06-26**|**Learning to See in the Extremely Dark**|Hai Jiang et.al.|[2506.21132v1](http://arxiv.org/abs/2506.21132v1)|null|
@@ -4924,9 +4924,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287v1](http://arxiv.org/abs/2506.21287v1)|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v1](http://arxiv.org/abs/2506.21034v1)|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v2](http://arxiv.org/abs/2506.21034v2)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969v1](http://arxiv.org/abs/2506.20969v1)|null|
-|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616v1](http://arxiv.org/abs/2506.20616v1)|null|
+|**2025-06-27**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616v2](http://arxiv.org/abs/2506.20616v2)|null|
 |**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269v2](http://arxiv.org/abs/2506.19269v2)|null|
 |**2025-06-23**|**DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models**|Zhe Dong et.al.|[2506.18946v1](http://arxiv.org/abs/2506.18946v1)|null|
 |**2025-06-26**|**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing**|Jiacheng Chen et.al.|[2506.17450v2](http://arxiv.org/abs/2506.17450v2)|null|
