@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-27, **Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**, Yuhao Liu et.al., Paper: [http://arxiv.org/abs/2506.22432v1](http://arxiv.org/abs/2506.22432v1)
+- 2025-06-27, **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2506.22362v1](http://arxiv.org/abs/2506.22362v1)
+- 2025-06-27, **Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**, Erkan Turan et.al., Paper: [http://arxiv.org/abs/2506.22304v1](http://arxiv.org/abs/2506.22304v1)
+- 2025-06-27, **OutDreamer: Video Outpainting with a Diffusion Transformer**, Linhao Zhong et.al., Paper: [http://arxiv.org/abs/2506.22298v1](http://arxiv.org/abs/2506.22298v1)
+- 2025-06-27, **The Effect of Network Topology on the Equilibria of Influence-Opinion Games**, Yigit Ege Bayiz et.al., Paper: [http://arxiv.org/abs/2506.22293v1](http://arxiv.org/abs/2506.22293v1)
+- 2025-06-27, **The evasion of tipping: pattern formation near a Turing-fold bifurcation**, Dock Staal et.al., Paper: [http://arxiv.org/abs/2506.22251v1](http://arxiv.org/abs/2506.22251v1)
+- 2025-06-27, **Relaxation enhancement by controlling incompressible fluid flows**, Kai Koike et.al., Paper: [http://arxiv.org/abs/2506.22233v1](http://arxiv.org/abs/2506.22233v1)
+- 2025-06-27, **Existence and uniqueness results of unsteady reactive flows in porous media**, Pankaj Roy et.al., Paper: [http://arxiv.org/abs/2506.22225v1](http://arxiv.org/abs/2506.22225v1)
+- 2025-06-27, **Pattern formation in a Swift-Hohenberg equation with spatially periodic coefficients**, Jolien Kamphuis et.al., Paper: [http://arxiv.org/abs/2506.22211v1](http://arxiv.org/abs/2506.22211v1)
+- 2025-06-27, **Scale-resolved turbulent Prandtl number for Rayleigh-Bénard convection at $\boldsymbol{Pr =10^{-3}}$**, Shashwat Bhattacharya et.al., Paper: [http://arxiv.org/abs/2506.22110v1](http://arxiv.org/abs/2506.22110v1)
+- 2025-06-27, **A gradient flow that is none: Heat flow with Wentzell boundary condition**, Marie Bormann et.al., Paper: [http://arxiv.org/abs/2506.22093v1](http://arxiv.org/abs/2506.22093v1)
+- 2025-06-27, **Sharp mean-field estimates for the repulsive log gas in any dimension**, Matias G. Delgadino et.al., Paper: [http://arxiv.org/abs/2506.22083v1](http://arxiv.org/abs/2506.22083v1)
+- 2025-06-27, **Design of Silicon Photonic microring resonators with complex waveguide cross-sections and minimal non-linearity**, Stefania Cucco et.al., Paper: [http://arxiv.org/abs/2506.22077v1](http://arxiv.org/abs/2506.22077v1)
+- 2025-06-27, **The dynamical lineage of ultra-diffuse galaxies from TNG50-1**, Nilanjana Nandi et.al., Paper: [http://arxiv.org/abs/2506.22074v1](http://arxiv.org/abs/2506.22074v1)
+- 2025-06-27, **Dynamics and pattern formation in a diffusive Beddington-DeAngelis predator-prey model with fear effect**, Aung Zaw Myint et.al., Paper: [http://arxiv.org/abs/2506.22070v1](http://arxiv.org/abs/2506.22070v1)
+- 2025-06-27, **MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**, Dechao Meng et.al., Paper: [http://arxiv.org/abs/2506.22065v1](http://arxiv.org/abs/2506.22065v1)
+- 2025-06-27, **Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion**, Ying Zhang et.al., Paper: [http://arxiv.org/abs/2506.22036v1](http://arxiv.org/abs/2506.22036v1)
+- 2025-06-27, **Norm-dependent Lamperti-type MAP representations of stable processes and Brownian motions in the orthant**, Andreas E. Kyprianou et.al., Paper: [http://arxiv.org/abs/2506.22020v1](http://arxiv.org/abs/2506.22020v1)
+- 2025-06-27, **Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**, Qi Gao et.al., Paper: [http://arxiv.org/abs/2506.22012v1](http://arxiv.org/abs/2506.22012v1)
+- 2025-06-27, **RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2506.22007v1](http://arxiv.org/abs/2506.22007v1)
 - 2025-06-26, **Whole-Body Conditioned Egocentric Video Prediction**, Yutong Bai et.al., Paper: [http://arxiv.org/abs/2506.21552v1](http://arxiv.org/abs/2506.21552v1)
 - 2025-06-26, **DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**, Yansong Qu et.al., Paper: [http://arxiv.org/abs/2506.21544v1](http://arxiv.org/abs/2506.21544v1)
 - 2025-06-26, **SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**, Kehan Sui et.al., Paper: [http://arxiv.org/abs/2506.21478v1](http://arxiv.org/abs/2506.21478v1)
@@ -14458,6 +14478,8 @@
 
 ## Diffusion_Segment
 
+- 2025-06-27, **Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**, Qi Gao et.al., Paper: [http://arxiv.org/abs/2506.22012v1](http://arxiv.org/abs/2506.22012v1)
+- 2025-06-27, **UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**, Fabian Perez et.al., Paper: [http://arxiv.org/abs/2506.21884v1](http://arxiv.org/abs/2506.21884v1)
 - 2025-06-26, **HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**, Diego Biagini et.al., Paper: [http://arxiv.org/abs/2506.21287v1](http://arxiv.org/abs/2506.21287v1)
 - 2025-06-27, **DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**, Wenzhou Lyu et.al., Paper: [http://arxiv.org/abs/2506.21034v2](http://arxiv.org/abs/2506.21034v2)
 - 2025-06-26, **ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**, Shruti Bansal et.al., Paper: [http://arxiv.org/abs/2506.20969v1](http://arxiv.org/abs/2506.20969v1)
