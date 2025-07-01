@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-06-30, **Calligrapher: Freestyle Text Image Customization**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2506.24123v1](http://arxiv.org/abs/2506.24123v1)
+- 2025-06-30, **TextMesh4D: High-Quality Text-to-4D Mesh Generation**, Sisi Dai et.al., Paper: [http://arxiv.org/abs/2506.24121v1](http://arxiv.org/abs/2506.24121v1)
+- 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113v1](http://arxiv.org/abs/2506.24113v1)
+- 2025-06-30, **Navigating with Annealing Guidance Scale in Diffusion Space**, Shai Yehezkel et.al., Paper: [http://arxiv.org/abs/2506.24108v1](http://arxiv.org/abs/2506.24108v1)
+- 2025-06-30, **Ruelle-Pollicott resonances of diffusive U(1)-invariant qubit circuits**, Urban Duh et.al., Paper: [http://arxiv.org/abs/2506.24097v1](http://arxiv.org/abs/2506.24097v1)
+- 2025-06-30, **MotionGPT3: Human Motion as a Second Modality**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2506.24086v1](http://arxiv.org/abs/2506.24086v1)
+- 2025-06-30, **Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**, Wonwoong Cho et.al., Paper: [http://arxiv.org/abs/2506.24085v1](http://arxiv.org/abs/2506.24085v1)
+- 2025-06-30, **Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**, Deng Li et.al., Paper: [http://arxiv.org/abs/2506.24063v1](http://arxiv.org/abs/2506.24063v1)
+- 2025-06-30, **Faster Diffusion Models via Higher-Order Approximation**, Gen Li et.al., Paper: [http://arxiv.org/abs/2506.24042v1](http://arxiv.org/abs/2506.24042v1)
+- 2025-06-30, **Supervised Diffusion-Model-Based PET Image Reconstruction**, George Webber et.al., Paper: [http://arxiv.org/abs/2506.24034v1](http://arxiv.org/abs/2506.24034v1)
+- 2025-06-30, **StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**, Dake Guo et.al., Paper: [http://arxiv.org/abs/2506.23986v1](http://arxiv.org/abs/2506.23986v1)
+- 2025-06-30, **Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance**, Yuliia Kaidashova et.al., Paper: [http://arxiv.org/abs/2506.23975v1](http://arxiv.org/abs/2506.23975v1)
+- 2025-06-30, **Explicit modified Euler approximations of the Aït-Sahalia type model with Poisson jumps**, Yingsong Jiang et.al., Paper: [http://arxiv.org/abs/2506.23947v1](http://arxiv.org/abs/2506.23947v1)
+- 2025-06-30, **Diffusion and heat dissipation in marginally stable linear time-delayed Langevin systems**, Xin Wang et.al., Paper: [http://arxiv.org/abs/2506.23939v1](http://arxiv.org/abs/2506.23939v1)
+- 2025-06-30, **Decoding Noise in Nanofluidic Systems: Adsorption versus Diffusion Signatures in Power Spectra**, Anna Drummond Young et.al., Paper: [http://arxiv.org/abs/2506.23867v1](http://arxiv.org/abs/2506.23867v1)
+- 2025-06-30, **VMoBA: Mixture-of-Block Attention for Video Diffusion Models**, Jianzong Wu et.al., Paper: [http://arxiv.org/abs/2506.23858v1](http://arxiv.org/abs/2506.23858v1)
+- 2025-06-30, **Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**, Ce Wang et.al., Paper: [http://arxiv.org/abs/2506.23801v1](http://arxiv.org/abs/2506.23801v1)
+- 2025-06-30, **Diffusion in the Inverted Triangular Soft Lorentz Gas**, Esko Toivonen et.al., Paper: [http://arxiv.org/abs/2506.23792v1](http://arxiv.org/abs/2506.23792v1)
+- 2025-06-30, **ISI-Aware Code Design: A Linear Approach Towards Reliable Molecular Communication**, Tamoghno Nath et.al., Paper: [http://arxiv.org/abs/2506.23787v1](http://arxiv.org/abs/2506.23787v1)
+- 2025-06-30, **Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**, Annika Mütze et.al., Paper: [http://arxiv.org/abs/2506.23751v1](http://arxiv.org/abs/2506.23751v1)
 - 2025-06-27, **Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**, Yuhao Liu et.al., Paper: [http://arxiv.org/abs/2506.22432v1](http://arxiv.org/abs/2506.22432v1)
 - 2025-06-27, **DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**, Yang Yang et.al., Paper: [http://arxiv.org/abs/2506.22362v1](http://arxiv.org/abs/2506.22362v1)
 - 2025-06-27, **Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**, Erkan Turan et.al., Paper: [http://arxiv.org/abs/2506.22304v1](http://arxiv.org/abs/2506.22304v1)
@@ -14478,6 +14498,15 @@
 
 ## Diffusion_Segment
 
+- 2025-06-30, **StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**, Dake Guo et.al., Paper: [http://arxiv.org/abs/2506.23986v1](http://arxiv.org/abs/2506.23986v1)
+- 2025-06-30, **Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**, Ce Wang et.al., Paper: [http://arxiv.org/abs/2506.23801v1](http://arxiv.org/abs/2506.23801v1)
+- 2025-06-30, **Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2506.23664v1](http://arxiv.org/abs/2506.23664v1)
+- 2025-06-30, **SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**, Zhengkang Xiang et.al., Paper: [http://arxiv.org/abs/2506.23606v1](http://arxiv.org/abs/2506.23606v1)
+- 2025-06-30, **Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**, Dewen Zeng et.al., Paper: [http://arxiv.org/abs/2506.23460v1](http://arxiv.org/abs/2506.23460v1)
+- 2025-06-30, **PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions**, Mahesh Bhosale et.al., Paper: [http://arxiv.org/abs/2506.23440v1](http://arxiv.org/abs/2506.23440v1)
+- 2025-06-29, **FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**, Quang-Huy Che et.al., Paper: [http://arxiv.org/abs/2506.23323v1](http://arxiv.org/abs/2506.23323v1)
+- 2025-06-28, **Inpainting is All You Need: A Diffusion-based Augmentation Method for Semi-supervised Medical Image Segmentation**, Xinrong Hu et.al., Paper: [http://arxiv.org/abs/2506.23038v1](http://arxiv.org/abs/2506.23038v1)
+- 2025-06-28, **CA-Diff: Collaborative Anatomy Diffusion for Brain Tissue Segmentation**, Qilong Xing et.al., Paper: [http://arxiv.org/abs/2506.22882v1](http://arxiv.org/abs/2506.22882v1)
 - 2025-06-27, **Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**, Qi Gao et.al., Paper: [http://arxiv.org/abs/2506.22012v1](http://arxiv.org/abs/2506.22012v1)
 - 2025-06-27, **UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**, Fabian Perez et.al., Paper: [http://arxiv.org/abs/2506.21884v1](http://arxiv.org/abs/2506.21884v1)
 - 2025-06-26, **HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**, Diego Biagini et.al., Paper: [http://arxiv.org/abs/2506.21287v1](http://arxiv.org/abs/2506.21287v1)
