@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 
 ## Diffusion
 
@@ -14,10 +14,10 @@
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063v1](http://arxiv.org/abs/2506.24063v1)|null|
 |**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042v1](http://arxiv.org/abs/2506.24042v1)|null|
 |**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034v1](http://arxiv.org/abs/2506.24034v1)|null|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v1](http://arxiv.org/abs/2506.23986v1)|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|null|
 |**2025-06-30**|**Toward Simple and Robust Contrastive Explanations for Image Classification by Leveraging Instance Similarity and Concept Relevance**|Yuliia Kaidashova et.al.|[2506.23975v1](http://arxiv.org/abs/2506.23975v1)|null|
 |**2025-06-30**|**Explicit modified Euler approximations of the Aït-Sahalia type model with Poisson jumps**|Yingsong Jiang et.al.|[2506.23947v1](http://arxiv.org/abs/2506.23947v1)|null|
-|**2025-06-30**|**Diffusion and heat dissipation in marginally stable linear time-delayed Langevin systems**|Xin Wang et.al.|[2506.23939v1](http://arxiv.org/abs/2506.23939v1)|null|
+|**2025-07-01**|**Diffusion and heat dissipation in marginally stable linear time-delayed Langevin systems**|Xin Wang et.al.|[2506.23939v2](http://arxiv.org/abs/2506.23939v2)|null|
 |**2025-06-30**|**Decoding Noise in Nanofluidic Systems: Adsorption versus Diffusion Signatures in Power Spectra**|Anna Drummond Young et.al.|[2506.23867v1](http://arxiv.org/abs/2506.23867v1)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858v1](http://arxiv.org/abs/2506.23858v1)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801v1](http://arxiv.org/abs/2506.23801v1)|null|
@@ -4963,7 +4963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v1](http://arxiv.org/abs/2506.23986v1)|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986v2](http://arxiv.org/abs/2506.23986v2)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801v1](http://arxiv.org/abs/2506.23801v1)|null|
 |**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664v1](http://arxiv.org/abs/2506.23664v1)|null|
 |**2025-06-30**|**SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**|Zhengkang Xiang et.al.|[2506.23606v1](http://arxiv.org/abs/2506.23606v1)|null|
