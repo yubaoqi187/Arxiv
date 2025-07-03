@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-02, **AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**, Sixiang Chen et.al., Paper: [http://arxiv.org/abs/2507.01961v1](http://arxiv.org/abs/2507.01961v1)
+- 2025-07-02, **FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2507.01953v1](http://arxiv.org/abs/2507.01953v1)
+- 2025-07-02, **Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**, Aaron J. Romanowsky et.al., Paper: [http://arxiv.org/abs/2507.01942v1](http://arxiv.org/abs/2507.01942v1)
+- 2025-07-02, **Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**, Anderson L. R. Barbosa et.al., Paper: [http://arxiv.org/abs/2507.01941v1](http://arxiv.org/abs/2507.01941v1)
+- 2025-07-02, **Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**, Qingdong He et.al., Paper: [http://arxiv.org/abs/2507.01908v1](http://arxiv.org/abs/2507.01908v1)
+- 2025-07-02, **Measurement of the diffuse astrophysical neutrino flux over six seasons using cascade events from the Baikal-GVD expanding telescope**, Baikal-GVD Collaboration et.al., Paper: [http://arxiv.org/abs/2507.01893v1](http://arxiv.org/abs/2507.01893v1)
+- 2025-07-02, **Schauder-type estimates and applications**, Satyanad Kichenassamy et.al., Paper: [http://arxiv.org/abs/2507.01818v1](http://arxiv.org/abs/2507.01818v1)
+- 2025-07-02, **Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2507.01773v1](http://arxiv.org/abs/2507.01773v1)
+- 2025-07-02, **Mind the jumps: when 2BSDEs meet semi-martingales**, Dylan Possamaï et.al., Paper: [http://arxiv.org/abs/2507.01767v1](http://arxiv.org/abs/2507.01767v1)
+- 2025-07-02, **HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**, Lin Wu et.al., Paper: [http://arxiv.org/abs/2507.01737v1](http://arxiv.org/abs/2507.01737v1)
+- 2025-07-02, **SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**, Xupeng Zhu et.al., Paper: [http://arxiv.org/abs/2507.01723v1](http://arxiv.org/abs/2507.01723v1)
+- 2025-07-02, **Entropic optimal transport beyond product reference couplings: the Gaussian case on Euclidean space**, Paul Freulon et.al., Paper: [http://arxiv.org/abs/2507.01709v1](http://arxiv.org/abs/2507.01709v1)
+- 2025-07-02, **RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**, Yuran Wang et.al., Paper: [http://arxiv.org/abs/2507.01653v1](http://arxiv.org/abs/2507.01653v1)
+- 2025-07-02, **A Dynamical Cartography of the Epistemic Diffusion of Artificial Intelligence in Neuroscience**, Sylvain Fontaine et.al., Paper: [http://arxiv.org/abs/2507.01651v1](http://arxiv.org/abs/2507.01651v1)
+- 2025-07-02, **Patterns and Dynamics of Netflix TV Show Popularity**, Nahyeon Lee et.al., Paper: [http://arxiv.org/abs/2507.01620v1](http://arxiv.org/abs/2507.01620v1)
+- 2025-07-02, **A Thermodynamically Consistent Free Boundary Model for Two-Phase Flows in an Evolving Domain with Moving Contact Lines, Variable Contact Angles and Bulk-Surface Interaction**, Patrik Knopf et.al., Paper: [http://arxiv.org/abs/2507.01618v1](http://arxiv.org/abs/2507.01618v1)
+- 2025-07-02, **DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**, Yue-Jiang Dong et.al., Paper: [http://arxiv.org/abs/2507.01603v1](http://arxiv.org/abs/2507.01603v1)
+- 2025-07-02, **SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation**, Bryan Constantine Sadihin et.al., Paper: [http://arxiv.org/abs/2507.01586v1](http://arxiv.org/abs/2507.01586v1)
+- 2025-07-02, **Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**, Yulan Gao et.al., Paper: [http://arxiv.org/abs/2507.01574v1](http://arxiv.org/abs/2507.01574v1)
+- 2025-07-02, **A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2507.01573v1](http://arxiv.org/abs/2507.01573v1)
 - 2025-06-30, **Calligrapher: Freestyle Text Image Customization**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2506.24123v1](http://arxiv.org/abs/2506.24123v1)
 - 2025-06-30, **TextMesh4D: High-Quality Text-to-4D Mesh Generation**, Sisi Dai et.al., Paper: [http://arxiv.org/abs/2506.24121v1](http://arxiv.org/abs/2506.24121v1)
 - 2025-06-30, **Epona: Autoregressive Diffusion World Model for Autonomous Driving**, Kaiwen Zhang et.al., Paper: [http://arxiv.org/abs/2506.24113v1](http://arxiv.org/abs/2506.24113v1)
@@ -14498,6 +14518,13 @@
 
 ## Diffusion_Segment
 
+- 2025-07-02, **A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2507.01573v1](http://arxiv.org/abs/2507.01573v1)
+- 2025-07-02, **UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis**, Yuanrui Wang et.al., Paper: [http://arxiv.org/abs/2507.00992v2](http://arxiv.org/abs/2507.00992v2)
+- 2025-07-01, **DMCIE: Diffusion Model with Concatenation of Inputs and Errors to Improve the Accuracy of the Segmentation of Brain Tumors in MRI Images**, Sara Yavari et.al., Paper: [http://arxiv.org/abs/2507.00983v1](http://arxiv.org/abs/2507.00983v1)
+- 2025-07-01, **TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency**, Minye Shao et.al., Paper: [http://arxiv.org/abs/2507.00802v1](http://arxiv.org/abs/2507.00802v1)
+- 2025-07-01, **Process-aware and high-fidelity microstructure generation using stable diffusion**, Hoang Cuong Phan et.al., Paper: [http://arxiv.org/abs/2507.00459v1](http://arxiv.org/abs/2507.00459v1)
+- 2025-07-01, **MedDiff-FT: Data-Efficient Diffusion Model Fine-tuning with Structural Guidance for Controllable Medical Image Synthesis**, Jianhao Xie et.al., Paper: [http://arxiv.org/abs/2507.00377v1](http://arxiv.org/abs/2507.00377v1)
+- 2025-06-30, **Diffusion-Based Image Augmentation for Semantic Segmentation in Outdoor Robotics**, Peter Mortimer et.al., Paper: [http://arxiv.org/abs/2507.00153v1](http://arxiv.org/abs/2507.00153v1)
 - 2025-07-01, **StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**, Dake Guo et.al., Paper: [http://arxiv.org/abs/2506.23986v2](http://arxiv.org/abs/2506.23986v2)
 - 2025-06-30, **Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**, Ce Wang et.al., Paper: [http://arxiv.org/abs/2506.23801v1](http://arxiv.org/abs/2506.23801v1)
 - 2025-06-30, **Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**, Fangyijie Wang et.al., Paper: [http://arxiv.org/abs/2506.23664v1](http://arxiv.org/abs/2506.23664v1)
