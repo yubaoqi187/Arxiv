@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-03, **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2507.02860v1](http://arxiv.org/abs/2507.02860v1)
+- 2025-07-03, **AnyI2V: Animating Any Conditional Image with Motion Control**, Ziye Li et.al., Paper: [http://arxiv.org/abs/2507.02857v1](http://arxiv.org/abs/2507.02857v1)
+- 2025-07-03, **USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**, Ying Yu et.al., Paper: [http://arxiv.org/abs/2507.02827v1](http://arxiv.org/abs/2507.02827v1)
+- 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813v1](http://arxiv.org/abs/2507.02813v1)
+- 2025-07-03, **Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations**, Monoswini Majumdar et.al., Paper: [http://arxiv.org/abs/2507.02809v1](http://arxiv.org/abs/2507.02809v1)
+- 2025-07-03, **Random Flights and Anomalous Diffusion: A Non-Markovian Take on Lorentz Processes**, Lorenzo Facciaroni et.al., Paper: [http://arxiv.org/abs/2507.02796v1](http://arxiv.org/abs/2507.02796v1)
+- 2025-07-03, **Boosting the NOx production in microwave air plasma: A synergy of chemistry and vibrational kinetics**, Qinghao Shen et.al., Paper: [http://arxiv.org/abs/2507.02795v1](http://arxiv.org/abs/2507.02795v1)
+- 2025-07-03, **RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**, Liheng Zhang et.al., Paper: [http://arxiv.org/abs/2507.02792v1](http://arxiv.org/abs/2507.02792v1)
+- 2025-07-03, **Diffusive charge transport in the gapped 1D Hubbard model at all finite temperatures**, J. M. P. Carmelo et.al., Paper: [http://arxiv.org/abs/2507.02753v1](http://arxiv.org/abs/2507.02753v1)
+- 2025-07-03, **On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**, Alena Khokhriakova et.al., Paper: [http://arxiv.org/abs/2507.02750v1](http://arxiv.org/abs/2507.02750v1)
+- 2025-07-03, **FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2507.02714v1](http://arxiv.org/abs/2507.02714v1)
+- 2025-07-03, **UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**, Qin Guo et.al., Paper: [http://arxiv.org/abs/2507.02713v1](http://arxiv.org/abs/2507.02713v1)
+- 2025-07-03, **APT: Adaptive Personalized Training for Diffusion Models with Limited Data**, JungWoo Chae et.al., Paper: [http://arxiv.org/abs/2507.02687v1](http://arxiv.org/abs/2507.02687v1)
+- 2025-07-03, **Learning few-step posterior samplers by unfolding and distillation of diffusion models**, Charlesquin Kemajou Mbakam et.al., Paper: [http://arxiv.org/abs/2507.02686v1](http://arxiv.org/abs/2507.02686v1)
+- 2025-07-03, **Guided Generation for Developable Antibodies**, Siqi Zhao et.al., Paper: [http://arxiv.org/abs/2507.02670v1](http://arxiv.org/abs/2507.02670v1)
+- 2025-07-03, **Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**, François Rozet et.al., Paper: [http://arxiv.org/abs/2507.02608v1](http://arxiv.org/abs/2507.02608v1)
+- 2025-07-03, **AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models**, Chenhao Xue et.al., Paper: [http://arxiv.org/abs/2507.02598v1](http://arxiv.org/abs/2507.02598v1)
+- 2025-07-03, **Responsibility Gap and Diffusion in Sequential Decision-Making Mechanisms**, Junli Jiang et.al., Paper: [http://arxiv.org/abs/2507.02582v1](http://arxiv.org/abs/2507.02582v1)
+- 2025-07-03, **Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**, Buzhen Huang et.al., Paper: [http://arxiv.org/abs/2507.02565v1](http://arxiv.org/abs/2507.02565v1)
+- 2025-07-03, **Optimisation of amplification and gas mixture for directional Dark Matter searches with the CYGNO/INITIUM project**, Giorgio Dho et.al., Paper: [http://arxiv.org/abs/2507.02474v1](http://arxiv.org/abs/2507.02474v1)
 - 2025-07-03, **AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**, Sixiang Chen et.al., Paper: [http://arxiv.org/abs/2507.01961v2](http://arxiv.org/abs/2507.01961v2)
 - 2025-07-02, **FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2507.01953v1](http://arxiv.org/abs/2507.01953v1)
 - 2025-07-02, **Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**, Aaron J. Romanowsky et.al., Paper: [http://arxiv.org/abs/2507.01942v1](http://arxiv.org/abs/2507.01942v1)
@@ -14518,6 +14538,8 @@
 
 ## Diffusion_Segment
 
+- 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813v1](http://arxiv.org/abs/2507.02813v1)
+- 2025-07-03, **Optimisation of amplification and gas mixture for directional Dark Matter searches with the CYGNO/INITIUM project**, Giorgio Dho et.al., Paper: [http://arxiv.org/abs/2507.02474v1](http://arxiv.org/abs/2507.02474v1)
 - 2025-07-02, **A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2507.01573v1](http://arxiv.org/abs/2507.01573v1)
 - 2025-07-02, **UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis**, Yuanrui Wang et.al., Paper: [http://arxiv.org/abs/2507.00992v2](http://arxiv.org/abs/2507.00992v2)
 - 2025-07-01, **DMCIE: Diffusion Model with Concatenation of Inputs and Errors to Improve the Accuracy of the Segmentation of Brain Tumors in MRI Images**, Sara Yavari et.al., Paper: [http://arxiv.org/abs/2507.00983v1](http://arxiv.org/abs/2507.00983v1)
