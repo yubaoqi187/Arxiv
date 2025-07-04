@@ -1,10 +1,10 @@
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v1](http://arxiv.org/abs/2507.01961v1)|null|
+|**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961v2](http://arxiv.org/abs/2507.01961v2)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953v1](http://arxiv.org/abs/2507.01953v1)|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942v1](http://arxiv.org/abs/2507.01942v1)|null|
 |**2025-07-02**|**Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**|Anderson L. R. Barbosa et.al.|[2507.01941v1](http://arxiv.org/abs/2507.01941v1)|null|
@@ -13,7 +13,7 @@
 |**2025-07-02**|**Schauder-type estimates and applications**|Satyanad Kichenassamy et.al.|[2507.01818v1](http://arxiv.org/abs/2507.01818v1)|null|
 |**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773v1](http://arxiv.org/abs/2507.01773v1)|null|
 |**2025-07-02**|**Mind the jumps: when 2BSDEs meet semi-martingales**|Dylan Possamaï et.al.|[2507.01767v1](http://arxiv.org/abs/2507.01767v1)|null|
-|**2025-07-02**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737v1](http://arxiv.org/abs/2507.01737v1)|null|
+|**2025-07-03**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737v2](http://arxiv.org/abs/2507.01737v2)|null|
 |**2025-07-02**|**SE(3)-Equivariant Diffusion Policy in Spherical Fourier Space**|Xupeng Zhu et.al.|[2507.01723v1](http://arxiv.org/abs/2507.01723v1)|null|
 |**2025-07-02**|**Entropic optimal transport beyond product reference couplings: the Gaussian case on Euclidean space**|Paul Freulon et.al.|[2507.01709v1](http://arxiv.org/abs/2507.01709v1)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653v1](http://arxiv.org/abs/2507.01653v1)|null|
