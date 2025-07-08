@@ -1,4 +1,4 @@
-> Updated on 2025.07.07
+> Updated on 2025.07.08
 
 ## Video_Classification
 
@@ -9552,7 +9552,7 @@
 - 2025-07-03, **Diffusive charge transport in the gapped 1D Hubbard model at all finite temperatures**, J. M. P. Carmelo et.al., Paper: [http://arxiv.org/abs/2507.02753v1](http://arxiv.org/abs/2507.02753v1)
 - 2025-07-03, **On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**, Alena Khokhriakova et.al., Paper: [http://arxiv.org/abs/2507.02750v1](http://arxiv.org/abs/2507.02750v1)
 - 2025-07-03, **FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2507.02714v1](http://arxiv.org/abs/2507.02714v1)
-- 2025-07-03, **UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**, Qin Guo et.al., Paper: [http://arxiv.org/abs/2507.02713v1](http://arxiv.org/abs/2507.02713v1)
+- 2025-07-04, **UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**, Qin Guo et.al., Paper: [http://arxiv.org/abs/2507.02713v2](http://arxiv.org/abs/2507.02713v2)
 - 2025-07-03, **APT: Adaptive Personalized Training for Diffusion Models with Limited Data**, JungWoo Chae et.al., Paper: [http://arxiv.org/abs/2507.02687v1](http://arxiv.org/abs/2507.02687v1)
 - 2025-07-03, **Learning few-step posterior samplers by unfolding and distillation of diffusion models**, Charlesquin Kemajou Mbakam et.al., Paper: [http://arxiv.org/abs/2507.02686v1](http://arxiv.org/abs/2507.02686v1)
 - 2025-07-03, **Guided Generation for Developable Antibodies**, Siqi Zhao et.al., Paper: [http://arxiv.org/abs/2507.02670v1](http://arxiv.org/abs/2507.02670v1)
@@ -14553,7 +14553,7 @@
 - 2025-06-30, **SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion**, Zhengkang Xiang et.al., Paper: [http://arxiv.org/abs/2506.23606v1](http://arxiv.org/abs/2506.23606v1)
 - 2025-06-30, **Contrastive Learning with Diffusion Features for Weakly Supervised Medical Image Segmentation**, Dewen Zeng et.al., Paper: [http://arxiv.org/abs/2506.23460v1](http://arxiv.org/abs/2506.23460v1)
 - 2025-06-30, **PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions**, Mahesh Bhosale et.al., Paper: [http://arxiv.org/abs/2506.23440v1](http://arxiv.org/abs/2506.23440v1)
-- 2025-06-29, **FastSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**, Quang-Huy Che et.al., Paper: [http://arxiv.org/abs/2506.23323v1](http://arxiv.org/abs/2506.23323v1)
+- 2025-07-07, **SwiftSeg: Efficient Training-Free Open-Vocabulary Segmentation via Hierarchical Attention Refinement Method**, Quang-Huy Che et.al., Paper: [http://arxiv.org/abs/2506.23323v2](http://arxiv.org/abs/2506.23323v2)
 - 2025-06-28, **Inpainting is All You Need: A Diffusion-based Augmentation Method for Semi-supervised Medical Image Segmentation**, Xinrong Hu et.al., Paper: [http://arxiv.org/abs/2506.23038v1](http://arxiv.org/abs/2506.23038v1)
 - 2025-06-28, **CA-Diff: Collaborative Anatomy Diffusion for Brain Tissue Segmentation**, Qilong Xing et.al., Paper: [http://arxiv.org/abs/2506.22882v1](http://arxiv.org/abs/2506.22882v1)
 - 2025-06-27, **Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**, Qi Gao et.al., Paper: [http://arxiv.org/abs/2506.22012v1](http://arxiv.org/abs/2506.22012v1)
