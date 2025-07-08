@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-07, **Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**, Chun-Hsiao Yeh et.al., Paper: [http://arxiv.org/abs/2507.05259v1](http://arxiv.org/abs/2507.05259v1)
+- 2025-07-07, **Ultra-sensitive sizing of individual nanoparticles with an optofluidic microcavity**, Shalom Palkhivala et.al., Paper: [http://arxiv.org/abs/2507.05236v1](http://arxiv.org/abs/2507.05236v1)
+- 2025-07-07, **Quantitative Morphology of Galactic Cirrus in Deep Optical Imaging**, Qing Liu et.al., Paper: [http://arxiv.org/abs/2507.05217v1](http://arxiv.org/abs/2507.05217v1)
+- 2025-07-07, **EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**, Boyuan Wang et.al., Paper: [http://arxiv.org/abs/2507.05198v1](http://arxiv.org/abs/2507.05198v1)
+- 2025-07-07, **4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**, Yutian Chen et.al., Paper: [http://arxiv.org/abs/2507.05163v1](http://arxiv.org/abs/2507.05163v1)
+- 2025-07-07, **SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**, Chun Xie et.al., Paper: [http://arxiv.org/abs/2507.05148v1](http://arxiv.org/abs/2507.05148v1)
+- 2025-07-07, **VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**, Aadi Srivastava et.al., Paper: [http://arxiv.org/abs/2507.05146v1](http://arxiv.org/abs/2507.05146v1)
+- 2025-07-07, **VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**, Juyi Lin et.al., Paper: [http://arxiv.org/abs/2507.05116v1](http://arxiv.org/abs/2507.05116v1)
+- 2025-07-07, **MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**, Yucheng Wang et.al., Paper: [http://arxiv.org/abs/2507.05092v1](http://arxiv.org/abs/2507.05092v1)
+- 2025-07-07, **AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**, Jan Carreras Boada et.al., Paper: [http://arxiv.org/abs/2507.05063v1](http://arxiv.org/abs/2507.05063v1)
+- 2025-07-07, **Spin liquid state in a three-dimensional pyrochlore-like frustrated magnet**, U. Jena et.al., Paper: [http://arxiv.org/abs/2507.05061v1](http://arxiv.org/abs/2507.05061v1)
+- 2025-07-07, **A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**, Berkay Gunes et.al., Paper: [http://arxiv.org/abs/2507.05060v1](http://arxiv.org/abs/2507.05060v1)
+- 2025-07-07, **Fourier Spectral Method for Nonlocal Equations on Bounded Domains**, Ilyas Mustapha et.al., Paper: [http://arxiv.org/abs/2507.05034v1](http://arxiv.org/abs/2507.05034v1)
+- 2025-07-07, **A Generative Diffusion Model for Amorphous Materials**, Kai Yang et.al., Paper: [http://arxiv.org/abs/2507.05024v1](http://arxiv.org/abs/2507.05024v1)
+- 2025-07-07, **On the convergence of N-body simulations of the Solar System**, Hanno Rein et.al., Paper: [http://arxiv.org/abs/2507.04987v1](http://arxiv.org/abs/2507.04987v1)
+- 2025-07-07, **TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation**, Zonglin Lyu et.al., Paper: [http://arxiv.org/abs/2507.04984v1](http://arxiv.org/abs/2507.04984v1)
+- 2025-07-07, **Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading**, Qinkai Yu et.al., Paper: [http://arxiv.org/abs/2507.04978v1](http://arxiv.org/abs/2507.04978v1)
+- 2025-07-07, **Equilibrium-preserving Laplacian renormalization group**, Sudo Yi et.al., Paper: [http://arxiv.org/abs/2507.04977v1](http://arxiv.org/abs/2507.04977v1)
+- 2025-07-07, **Efficient implicit-explicit sparse stochastic method for high dimensional semi-linear nonlocal diffusion equations**, Changtao Sheng et.al., Paper: [http://arxiv.org/abs/2507.04973v1](http://arxiv.org/abs/2507.04973v1)
+- 2025-07-07, **A diffusion model for light scattering in ejecta**, J. A. Don Jayamanne et.al., Paper: [http://arxiv.org/abs/2507.04972v1](http://arxiv.org/abs/2507.04972v1)
 - 2025-07-03, **Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2507.02860v1](http://arxiv.org/abs/2507.02860v1)
 - 2025-07-03, **AnyI2V: Animating Any Conditional Image with Motion Control**, Ziye Li et.al., Paper: [http://arxiv.org/abs/2507.02857v1](http://arxiv.org/abs/2507.02857v1)
 - 2025-07-03, **USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**, Ying Yu et.al., Paper: [http://arxiv.org/abs/2507.02827v1](http://arxiv.org/abs/2507.02827v1)
@@ -14538,6 +14558,12 @@
 
 ## Diffusion_Segment
 
+- 2025-07-07, **Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**, Chun-Hsiao Yeh et.al., Paper: [http://arxiv.org/abs/2507.05259v1](http://arxiv.org/abs/2507.05259v1)
+- 2025-07-07, **VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**, Juyi Lin et.al., Paper: [http://arxiv.org/abs/2507.05116v1](http://arxiv.org/abs/2507.05116v1)
+- 2025-07-07, **TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation**, Changsong Lei et.al., Paper: [http://arxiv.org/abs/2507.04685v1](http://arxiv.org/abs/2507.04685v1)
+- 2025-07-07, **PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**, Daqi Huang et.al., Paper: [http://arxiv.org/abs/2507.04633v1](http://arxiv.org/abs/2507.04633v1)
+- 2025-07-05, **Differentiable High-Performance Ray Tracing-Based Simulation of Radio Propagation with Point Clouds**, Niklas Vaara et.al., Paper: [http://arxiv.org/abs/2507.04021v1](http://arxiv.org/abs/2507.04021v1)
+- 2025-07-04, **StreamDiT: Real-Time Streaming Text-to-Video Generation**, Akio Kodaira et.al., Paper: [http://arxiv.org/abs/2507.03745v1](http://arxiv.org/abs/2507.03745v1)
 - 2025-07-03, **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**, Fangfu Liu et.al., Paper: [http://arxiv.org/abs/2507.02813v1](http://arxiv.org/abs/2507.02813v1)
 - 2025-07-03, **Optimisation of amplification and gas mixture for directional Dark Matter searches with the CYGNO/INITIUM project**, Giorgio Dho et.al., Paper: [http://arxiv.org/abs/2507.02474v1](http://arxiv.org/abs/2507.02474v1)
 - 2025-07-02, **A Gift from the Integration of Discriminative and Diffusion-based Generative Learning: Boundary Refinement Remote Sensing Semantic Segmentation**, Hao Wang et.al., Paper: [http://arxiv.org/abs/2507.01573v1](http://arxiv.org/abs/2507.01573v1)
