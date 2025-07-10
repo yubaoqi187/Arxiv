@@ -1,4 +1,4 @@
-> Updated on 2025.07.09
+> Updated on 2025.07.10
 
 ## Video_Classification
 
@@ -9544,7 +9544,7 @@
 - 2025-07-08, **Modern Methods in Associative Memory**, Dmitry Krotov et.al., Paper: [http://arxiv.org/abs/2507.06211v1](http://arxiv.org/abs/2507.06211v1)
 - 2025-07-08, **CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**, Yuchen Huang et.al., Paper: [http://arxiv.org/abs/2507.06210v1](http://arxiv.org/abs/2507.06210v1)
 - 2025-07-08, **A Survey on Latent Reasoning**, Rui-Jie Zhu et.al., Paper: [http://arxiv.org/abs/2507.06203v1](http://arxiv.org/abs/2507.06203v1)
-- 2025-07-08, **A kinetic model to simulate charge flow through an electrochemical half cell**, Diego Veloza-Diaz et.al., Paper: [http://arxiv.org/abs/2507.06197v1](http://arxiv.org/abs/2507.06197v1)
+- 2025-07-09, **A kinetic model to simulate charge flow through an electrochemical half cell**, Diego Veloza-Diaz et.al., Paper: [http://arxiv.org/abs/2507.06197v2](http://arxiv.org/abs/2507.06197v2)
 - 2025-07-08, **Normalizing Diffusion Kernels with Optimal Transport**, Nathan Kessler et.al., Paper: [http://arxiv.org/abs/2507.06161v1](http://arxiv.org/abs/2507.06161v1)
 - 2025-07-08, **Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2507.06146v1](http://arxiv.org/abs/2507.06146v1)
 - 2025-07-08, **A Linear Generative Framework for Structure-Function Coupling in the Human Brain**, Sam Frank Kelemen et.al., Paper: [http://arxiv.org/abs/2507.06136v1](http://arxiv.org/abs/2507.06136v1)
@@ -9552,7 +9552,7 @@
 - 2025-07-08, **Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**, Jaewan Park et.al., Paper: [http://arxiv.org/abs/2507.06133v1](http://arxiv.org/abs/2507.06133v1)
 - 2025-07-08, **The HI-to-H2 transition in the Draco cloud**, Nicola Schneider et.al., Paper: [http://arxiv.org/abs/2507.06131v1](http://arxiv.org/abs/2507.06131v1)
 - 2025-07-08, **Unconditional Diffusion for Generative Sequential Recommendation**, Yimeng Bai et.al., Paper: [http://arxiv.org/abs/2507.06121v1](http://arxiv.org/abs/2507.06121v1)
-- 2025-07-08, **Omni-Video: Democratizing Unified Video Understanding and Generation**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2507.06119v1](http://arxiv.org/abs/2507.06119v1)
+- 2025-07-09, **Omni-Video: Democratizing Unified Video Understanding and Generation**, Zhiyu Tan et.al., Paper: [http://arxiv.org/abs/2507.06119v2](http://arxiv.org/abs/2507.06119v2)
 - 2025-07-08, **Constraining the contribution of Seyfert galaxies to the diffuse neutrino flux in light of point source observations**, Lena Saurenhaus et.al., Paper: [http://arxiv.org/abs/2507.06110v1](http://arxiv.org/abs/2507.06110v1)
 - 2025-07-08, **Combining IceCube Muon Tracks and Cascades to measure the Galactic Diffuse Neutrino Flux**, Jonas Hellrung et.al., Paper: [http://arxiv.org/abs/2507.06089v1](http://arxiv.org/abs/2507.06089v1)
 - 2025-07-08, **Dynamical and structural properties of an absorbing phase transition: a case study from granular systems**, Raphael Maire et.al., Paper: [http://arxiv.org/abs/2507.06083v1](http://arxiv.org/abs/2507.06083v1)
