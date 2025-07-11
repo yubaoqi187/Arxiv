@@ -1,4 +1,4 @@
-> Updated on 2025.07.10
+> Updated on 2025.07.11
 
 ## Video_Classification
 
@@ -9545,7 +9545,7 @@
 - 2025-07-09, **Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**, Tiezheng Zhang et.al., Paper: [http://arxiv.org/abs/2507.07104v1](http://arxiv.org/abs/2507.07104v1)
 - 2025-07-09, **The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**, Pedro De La Torre Luque et.al., Paper: [http://arxiv.org/abs/2507.07083v1](http://arxiv.org/abs/2507.07083v1)
 - 2025-07-09, **Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**, Emile Pierret et.al., Paper: [http://arxiv.org/abs/2507.07008v1](http://arxiv.org/abs/2507.07008v1)
-- 2025-07-09, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v1](http://arxiv.org/abs/2507.06971v1)
+- 2025-07-10, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v2](http://arxiv.org/abs/2507.06971v2)
 - 2025-07-09, **Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**, Yuli Wang et.al., Paper: [http://arxiv.org/abs/2507.06937v1](http://arxiv.org/abs/2507.06937v1)
 - 2025-07-09, **Search for High Energy Neutrinos from Infrared Flares**, Teresa Pernice et.al., Paper: [http://arxiv.org/abs/2507.06934v1](http://arxiv.org/abs/2507.06934v1)
 - 2025-07-09, **Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations**, Randolf Altmeyer et.al., Paper: [http://arxiv.org/abs/2507.06857v1](http://arxiv.org/abs/2507.06857v1)
@@ -14598,7 +14598,7 @@
 
 ## Diffusion_Segment
 
-- 2025-07-09, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v1](http://arxiv.org/abs/2507.06971v1)
+- 2025-07-10, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v2](http://arxiv.org/abs/2507.06971v2)
 - 2025-07-09, **Democratizing High-Fidelity Co-Speech Gesture Video Generation**, Xu Yang et.al., Paper: [http://arxiv.org/abs/2507.06812v1](http://arxiv.org/abs/2507.06812v1)
 - 2025-07-09, **Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**, Xinyu Wu et.al., Paper: [http://arxiv.org/abs/2507.06605v1](http://arxiv.org/abs/2507.06605v1)
 - 2025-07-08, **The HI-to-H2 transition in the Draco cloud**, Nicola Schneider et.al., Paper: [http://arxiv.org/abs/2507.06131v1](http://arxiv.org/abs/2507.06131v1)
@@ -14606,7 +14606,7 @@
 - 2025-07-08, **DreamArt: Generating Interactable Articulated Objects from a Single Image**, Ruijie Lu et.al., Paper: [http://arxiv.org/abs/2507.05763v1](http://arxiv.org/abs/2507.05763v1)
 - 2025-07-08, **Modeling and Reversing Brain Lesions Using Diffusion Models**, Omar Zamzam et.al., Paper: [http://arxiv.org/abs/2507.05670v1](http://arxiv.org/abs/2507.05670v1)
 - 2025-07-07, **Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**, Chun-Hsiao Yeh et.al., Paper: [http://arxiv.org/abs/2507.05259v1](http://arxiv.org/abs/2507.05259v1)
-- 2025-07-07, **VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**, Juyi Lin et.al., Paper: [http://arxiv.org/abs/2507.05116v1](http://arxiv.org/abs/2507.05116v1)
+- 2025-07-10, **VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**, Juyi Lin et.al., Paper: [http://arxiv.org/abs/2507.05116v2](http://arxiv.org/abs/2507.05116v2)
 - 2025-07-07, **TeethGenerator: A two-stage framework for paired pre- and post-orthodontic 3D dental data generation**, Changsong Lei et.al., Paper: [http://arxiv.org/abs/2507.04685v1](http://arxiv.org/abs/2507.04685v1)
 - 2025-07-07, **PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**, Daqi Huang et.al., Paper: [http://arxiv.org/abs/2507.04633v1](http://arxiv.org/abs/2507.04633v1)
 - 2025-07-05, **Differentiable High-Performance Ray Tracing-Based Simulation of Radio Propagation with Point Clouds**, Niklas Vaara et.al., Paper: [http://arxiv.org/abs/2507.04021v1](http://arxiv.org/abs/2507.04021v1)
