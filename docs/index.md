@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 ## Diffusion
 
@@ -13,7 +13,7 @@ layout: default
 |**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963v1](http://arxiv.org/abs/2507.07963v1)|null|
 |**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947v1](http://arxiv.org/abs/2507.07947v1)|null|
 |**2025-07-10**|**The Potential of Olfactory Stimuli in Stress Reduction through Virtual Reality**|Yasmin Elsaddik Valdivieso et.al.|[2507.07911v1](http://arxiv.org/abs/2507.07911v1)|null|
-|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878v1](http://arxiv.org/abs/2507.07878v1)|null|
+|**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878v2](http://arxiv.org/abs/2507.07878v2)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867v1](http://arxiv.org/abs/2507.07867v1)|null|
 |**2025-07-10**|**Predicting and generating antibiotics against future pathogens with ApexOracle**|Tianang Leng et.al.|[2507.07862v1](http://arxiv.org/abs/2507.07862v1)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828v1](http://arxiv.org/abs/2507.07828v1)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2025-07-10**|**Magnetic fields and cosmic rays in M31. II. Strength and distribution of the magnetic field components**|Rainer Beck et.al.|[2507.07719v1](http://arxiv.org/abs/2507.07719v1)|null|
 |**2025-07-10**|**A preconditioned boundary value method for advection-diffusion equations with half Laplacian via spectrum doubling**|Pu Yuan et.al.|[2507.07717v1](http://arxiv.org/abs/2507.07717v1)|null|
 |**2025-07-10**|**Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States**|Qi Gao et.al.|[2507.07648v1](http://arxiv.org/abs/2507.07648v1)|null|
-|**2025-07-10**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633v1](http://arxiv.org/abs/2507.07633v1)|null|
+|**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633v2](http://arxiv.org/abs/2507.07633v2)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106v1](http://arxiv.org/abs/2507.07106v1)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104v1](http://arxiv.org/abs/2507.07104v1)|null|
 |**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083v1](http://arxiv.org/abs/2507.07083v1)|null|
