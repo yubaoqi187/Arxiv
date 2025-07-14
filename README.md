@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801v1](http://arxiv.org/abs/2507.08801v1)|null|
+|**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800v1](http://arxiv.org/abs/2507.08800v1)|null|
+|**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
+|**2025-07-11**|**Unambiguous GeV gamma-rays from molecular clouds illuminated by particles diffusing from the adjacent supernova remnant G335.2+0.1 that is confined in an expanding bubble**|Chen Huang et.al.|[2507.08709v1](http://arxiv.org/abs/2507.08709v1)|null|
+|**2025-07-11**|**Metal-THINGS: gas metallicity gradients in nearby galaxies**|Guillermo Valé et.al.|[2507.08633v1](http://arxiv.org/abs/2507.08633v1)|null|
+|**2025-07-11**|**Local persistence exponent and its log-periodic oscillations**|Yilin Ye et.al.|[2507.08628v1](http://arxiv.org/abs/2507.08628v1)|null|
+|**2025-07-11**|**Pointwise explicit estimates for derivatives of solutions to linear parabolic PDEs with Neumann boundary conditions**|C Ciccarella et.al.|[2507.08622v1](http://arxiv.org/abs/2507.08622v1)|null|
+|**2025-07-11**|**Event reconstruction with the Radio detector of the Pierre Auger Observatory**|Simon Strähnz et.al.|[2507.08556v1](http://arxiv.org/abs/2507.08556v1)|null|
+|**2025-07-11**|**Emergent Softening and Stiffening Dictate Transport of Active Filaments**|Bipul Biswas et.al.|[2507.08535v1](http://arxiv.org/abs/2507.08535v1)|null|
+|**2025-07-11**|**Anisotropic Diffusion of $e^\pm$ in Pulsar Halos over Multiple Coherence of Magnetic Field**|Kai Yan et.al.|[2507.08526v1](http://arxiv.org/abs/2507.08526v1)|null|
+|**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513v1](http://arxiv.org/abs/2507.08513v1)|null|
+|**2025-07-11**|**Recent Highlights from the Auger Engineering Radio Array**|Marvin Gottowik et.al.|[2507.08510v1](http://arxiv.org/abs/2507.08510v1)|null|
+|**2025-07-11**|**Refraction corrected specular beamforming applied to cortical bone enhances interface visibility of bone-soft tissues interfaces**|Amadou S. Dia et.al.|[2507.08497v1](http://arxiv.org/abs/2507.08497v1)|null|
+|**2025-07-11**|**The viscoelastic rheology of transient diffusion creep**|John F. Rudge et.al.|[2507.08484v1](http://arxiv.org/abs/2507.08484v1)|null|
+|**2025-07-11**|**SynBridge: Bridging Reaction States via Discrete Flow for Bidirectional Reaction Prediction**|Haitao Lin et.al.|[2507.08475v1](http://arxiv.org/abs/2507.08475v1)|null|
+|**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422v1](http://arxiv.org/abs/2507.08422v1)|null|
+|**2025-07-11**|**Astrophysical neutrino flux measurement and search for tau neutrino induced cascades with 11 years of IceCube data**|Zheyang Chen et.al.|[2507.08421v1](http://arxiv.org/abs/2507.08421v1)|null|
+|**2025-07-11**|**Subject-Consistent and Pose-Diverse Text-to-Image Generation**|Zhanxin Gao et.al.|[2507.08396v1](http://arxiv.org/abs/2507.08396v1)|null|
+|**2025-07-11**|**Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling**|Meihua Dang et.al.|[2507.08390v1](http://arxiv.org/abs/2507.08390v1)|null|
+|**2025-07-11**|**Rigidity of an overdetermined heat equation and minimal helicoids in space-forms**|Andrea Bisterzo et.al.|[2507.08389v1](http://arxiv.org/abs/2507.08389v1)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982v1](http://arxiv.org/abs/2507.07982v1)|null|
 |**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963v1](http://arxiv.org/abs/2507.07963v1)|null|
@@ -5083,6 +5103,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
+|**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380v1](http://arxiv.org/abs/2507.08380v1)|null|
+|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333v1](http://arxiv.org/abs/2507.08333v1)|null|
+|**2025-07-07**|**Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation**|Nikita Mounier et.al.|[2507.08018v1](http://arxiv.org/abs/2507.08018v1)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578v1](http://arxiv.org/abs/2507.07578v1)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971v2](http://arxiv.org/abs/2507.06971v2)|null|
 |**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812v1](http://arxiv.org/abs/2507.06812v1)|null|
