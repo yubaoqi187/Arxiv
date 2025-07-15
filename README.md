@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 ## Diffusion
 
@@ -5105,11 +5105,11 @@
 |---|---|---|---|---|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380v1](http://arxiv.org/abs/2507.08380v1)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333v1](http://arxiv.org/abs/2507.08333v1)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333v2](http://arxiv.org/abs/2507.08333v2)|null|
 |**2025-07-07**|**Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation**|Nikita Mounier et.al.|[2507.08018v1](http://arxiv.org/abs/2507.08018v1)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578v1](http://arxiv.org/abs/2507.07578v1)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971v2](http://arxiv.org/abs/2507.06971v2)|null|
-|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812v1](http://arxiv.org/abs/2507.06812v1)|null|
+|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812v2](http://arxiv.org/abs/2507.06812v2)|null|
 |**2025-07-09**|**Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**|Xinyu Wu et.al.|[2507.06605v1](http://arxiv.org/abs/2507.06605v1)|null|
 |**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131v1](http://arxiv.org/abs/2507.06131v1)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798v1](http://arxiv.org/abs/2507.05798v1)|null|
