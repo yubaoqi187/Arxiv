@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543v1](http://arxiv.org/abs/2507.10543v1)|null|
+|**2025-07-14**|**Scaling limit of boundary random walks: A martingale problem approach**|Juan Carlos Arroyave et.al.|[2507.10528v1](http://arxiv.org/abs/2507.10528v1)|null|
+|**2025-07-14**|**A shape theorem for BBM in a periodic environment**|Louigi Addario-Berry et.al.|[2507.10515v1](http://arxiv.org/abs/2507.10515v1)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475v1](http://arxiv.org/abs/2507.10475v1)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463v1](http://arxiv.org/abs/2507.10463v1)|null|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393v1](http://arxiv.org/abs/2507.10393v1)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347v1](http://arxiv.org/abs/2507.10347v1)|null|
+|**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346v1](http://arxiv.org/abs/2507.10346v1)|null|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340v1](http://arxiv.org/abs/2507.10340v1)|null|
+|**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320v1](http://arxiv.org/abs/2507.10320v1)|null|
+|**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318v1](http://arxiv.org/abs/2507.10318v1)|null|
+|**2025-07-14**|**Identification problems for anisotropic time-fractional subdiffusion equations**|Simone Creo et.al.|[2507.10315v1](http://arxiv.org/abs/2507.10315v1)|null|
+|**2025-07-14**|**A Method for Testing Diffusive Shock Acceleration and Diffusion Propagation of 1-100 TeV Cosmic Electron with Multi-wavelength Observation of Geminga Halo and Pulsar Wind Nebula**|Weikang Gao et.al.|[2507.10276v1](http://arxiv.org/abs/2507.10276v1)|null|
+|**2025-07-14**|**Kernel-Adaptive PI-ELMs for Forward and Inverse Problems in PDEs with Sharp Gradients**|Vikas Dwivedi et.al.|[2507.10241v1](http://arxiv.org/abs/2507.10241v1)|null|
+|**2025-07-14**|**Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection**|Jinglun Li et.al.|[2507.10225v1](http://arxiv.org/abs/2507.10225v1)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217v1](http://arxiv.org/abs/2507.10217v1)|null|
+|**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Shuyu Yang et.al.|[2507.10195v1](http://arxiv.org/abs/2507.10195v1)|null|
+|**2025-07-14**|**Active anisotropic diffusion of microparticles in nematic lyotropic chromonic liquid crystal powered by light**|Patrycja Kadzialka et.al.|[2507.10147v1](http://arxiv.org/abs/2507.10147v1)|null|
+|**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095v1](http://arxiv.org/abs/2507.10095v1)|null|
+|**2025-07-14**|**Frequency Regulation for Exposure Bias Mitigation in Diffusion Models**|Meng Yu et.al.|[2507.10072v1](http://arxiv.org/abs/2507.10072v1)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801v1](http://arxiv.org/abs/2507.08801v1)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800v1](http://arxiv.org/abs/2507.08800v1)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
@@ -5107,6 +5127,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026v1](http://arxiv.org/abs/2507.10026v1)|null|
+|**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[2507.09915v1](http://arxiv.org/abs/2507.09915v1)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772v1](http://arxiv.org/abs/2507.08772v1)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380v1](http://arxiv.org/abs/2507.08380v1)|null|
 |**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333v2](http://arxiv.org/abs/2507.08333v2)|null|
