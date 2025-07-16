@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-15, **CATVis: Context-Aware Thought Visualization**, Tariq Mehmood et.al., Paper: [http://arxiv.org/abs/2507.11522v1](http://arxiv.org/abs/2507.11522v1)
+- 2025-07-15, **AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**, Shiyi Yang et.al., Paper: [http://arxiv.org/abs/2507.11515v1](http://arxiv.org/abs/2507.11515v1)
+- 2025-07-15, **Exploring the robustness of TractOracle methods in RL-based tractography**, Jeremi Levesque et.al., Paper: [http://arxiv.org/abs/2507.11486v1](http://arxiv.org/abs/2507.11486v1)
+- 2025-07-15, **HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**, Pan Du et.al., Paper: [http://arxiv.org/abs/2507.11474v1](http://arxiv.org/abs/2507.11474v1)
+- 2025-07-15, **Timescales for stochastic barrier crossing: inferring the potential from nonequilibrium data**, A. J. Archer et.al., Paper: [http://arxiv.org/abs/2507.11456v1](http://arxiv.org/abs/2507.11456v1)
+- 2025-07-15, **Implementing Adaptations for Vision AutoRegressive Model**, Kaif Shaikh et.al., Paper: [http://arxiv.org/abs/2507.11441v1](http://arxiv.org/abs/2507.11441v1)
+- 2025-07-15, **A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**, Michele Coti Zelati et.al., Paper: [http://arxiv.org/abs/2507.11422v1](http://arxiv.org/abs/2507.11422v1)
+- 2025-07-15, **Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**, Nicoletta Sanvitale et.al., Paper: [http://arxiv.org/abs/2507.11320v1](http://arxiv.org/abs/2507.11320v1)
+- 2025-07-15, **Diffusion-Based Imaginative Coordination for Bimanual Manipulation**, Huilin Xu et.al., Paper: [http://arxiv.org/abs/2507.11296v1](http://arxiv.org/abs/2507.11296v1)
+- 2025-07-15, **Markov approximation for controlled Hawkes Jump-Diffusions with general kernels**, Mahmoud Khabou et.al., Paper: [http://arxiv.org/abs/2507.11294v1](http://arxiv.org/abs/2507.11294v1)
+- 2025-07-15, **Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers**, An-Lun Liu et.al., Paper: [http://arxiv.org/abs/2507.11287v1](http://arxiv.org/abs/2507.11287v1)
+- 2025-07-15, **Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**, Weiyi Liu et.al., Paper: [http://arxiv.org/abs/2507.11283v1](http://arxiv.org/abs/2507.11283v1)
+- 2025-07-15, **Improved sampling algorithms and Poincaré inequalities for non-log-concave distributions**, Yuchen He et.al., Paper: [http://arxiv.org/abs/2507.11236v1](http://arxiv.org/abs/2507.11236v1)
+- 2025-07-15, **Evidence for protons accelerated and escaped from the Puppis A region using \textit{Fermi}-LAT observations**, Roberta Giuffrida et.al., Paper: [http://arxiv.org/abs/2507.11208v1](http://arxiv.org/abs/2507.11208v1)
+- 2025-07-15, **Hydrodynamical simulations of the vertical shear instability with dynamic dust and cooling rates in protoplanetary disks**, Yuya Fukuhara et.al., Paper: [http://arxiv.org/abs/2507.11156v1](http://arxiv.org/abs/2507.11156v1)
+- 2025-07-15, **Latent Space Consistency for Sparse-View CT Reconstruction**, Duoyou Chen et.al., Paper: [http://arxiv.org/abs/2507.11152v1](http://arxiv.org/abs/2507.11152v1)
+- 2025-07-15, **Convergence of a finite-volume scheme for aggregation-diffusion equations with saturation**, David Gómez-Castro et.al., Paper: [http://arxiv.org/abs/2507.11132v1](http://arxiv.org/abs/2507.11132v1)
+- 2025-07-15, **Adaptive Reduced Basis Trust Region Methods for Parabolic Inverse Problems**, Michael Kartmann et.al., Paper: [http://arxiv.org/abs/2507.11130v1](http://arxiv.org/abs/2507.11130v1)
+- 2025-07-15, **Near transform-limited single photons from rapid-thermal annealed quantum dots**, Hendrik Mannel et.al., Paper: [http://arxiv.org/abs/2507.11108v1](http://arxiv.org/abs/2507.11108v1)
+- 2025-07-15, **The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs**, Zichen Wen et.al., Paper: [http://arxiv.org/abs/2507.11097v1](http://arxiv.org/abs/2507.11097v1)
 - 2025-07-14, **MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**, Juyi Sheng et.al., Paper: [http://arxiv.org/abs/2507.10543v1](http://arxiv.org/abs/2507.10543v1)
 - 2025-07-14, **Scaling limit of boundary random walks: A martingale problem approach**, Juan Carlos Arroyave et.al., Paper: [http://arxiv.org/abs/2507.10528v1](http://arxiv.org/abs/2507.10528v1)
 - 2025-07-14, **A shape theorem for BBM in a periodic environment**, Louigi Addario-Berry et.al., Paper: [http://arxiv.org/abs/2507.10515v1](http://arxiv.org/abs/2507.10515v1)
@@ -14658,6 +14678,9 @@
 
 ## Diffusion_Segment
 
+- 2025-07-15, **HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**, Pan Du et.al., Paper: [http://arxiv.org/abs/2507.11474v1](http://arxiv.org/abs/2507.11474v1)
+- 2025-07-15, **Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**, Nicoletta Sanvitale et.al., Paper: [http://arxiv.org/abs/2507.11320v1](http://arxiv.org/abs/2507.11320v1)
+- 2025-07-15, **Diffusion Decoding for Peptide De Novo Sequencing**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2507.10955v1](http://arxiv.org/abs/2507.10955v1)
 - 2025-07-14, **EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**, Zhifei Xu et.al., Paper: [http://arxiv.org/abs/2507.10026v1](http://arxiv.org/abs/2507.10026v1)
 - 2025-07-14, **Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**, Siyue Yao et.al., Paper: [http://arxiv.org/abs/2507.09915v1](http://arxiv.org/abs/2507.09915v1)
 - 2025-07-11, **From One to More: Contextual Part Latents for 3D Generation**, Shaocong Dong et.al., Paper: [http://arxiv.org/abs/2507.08772v1](http://arxiv.org/abs/2507.08772v1)
