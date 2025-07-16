@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 
 ## Diffusion
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393v1](http://arxiv.org/abs/2507.10393v1)|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347v1](http://arxiv.org/abs/2507.10347v1)|null|
 |**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346v1](http://arxiv.org/abs/2507.10346v1)|null|
-|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340v1](http://arxiv.org/abs/2507.10340v1)|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340v2](http://arxiv.org/abs/2507.10340v2)|null|
 |**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320v1](http://arxiv.org/abs/2507.10320v1)|null|
 |**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318v1](http://arxiv.org/abs/2507.10318v1)|null|
 |**2025-07-14**|**Identification problems for anisotropic time-fractional subdiffusion equations**|Simone Creo et.al.|[2507.10315v1](http://arxiv.org/abs/2507.10315v1)|null|
