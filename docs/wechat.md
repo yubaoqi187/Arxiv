@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-17, **The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**, Adam Smercina et.al., Paper: [http://arxiv.org/abs/2507.13349v1](http://arxiv.org/abs/2507.13349v1)
+- 2025-07-17, **Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**, Yudong Jin et.al., Paper: [http://arxiv.org/abs/2507.13344v1](http://arxiv.org/abs/2507.13344v1)
+- 2025-07-17, **Taming Diffusion Transformer for Real-Time Mobile Video Generation**, Yushu Wu et.al., Paper: [http://arxiv.org/abs/2507.13343v1](http://arxiv.org/abs/2507.13343v1)
+- 2025-07-17, **Where is the Supervirial Gas? III. Insights from X-ray Shadow Observations and a revised Model for the Soft Diffuse X-ray Background**, Anjali Gupta et.al., Paper: [http://arxiv.org/abs/2507.13331v1](http://arxiv.org/abs/2507.13331v1)
+- 2025-07-17, **FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**, Chuancheng Shi et.al., Paper: [http://arxiv.org/abs/2507.13311v1](http://arxiv.org/abs/2507.13311v1)
+- 2025-07-17, **DiffClean: Diffusion-based Makeup Removal for Accurate Age Estimation**, Ekta Balkrishna Gavas et.al., Paper: [http://arxiv.org/abs/2507.13292v1](http://arxiv.org/abs/2507.13292v1)
+- 2025-07-17, **The Directed Spanning Forest: coalescence versus dimension**, Tom Garcia-Sanchez et.al., Paper: [http://arxiv.org/abs/2507.13289v1](http://arxiv.org/abs/2507.13289v1)
+- 2025-07-17, **The pulsar wind nebula around B1853+01 in X-rays**, Xiying Zhang et.al., Paper: [http://arxiv.org/abs/2507.13278v1](http://arxiv.org/abs/2507.13278v1)
+- 2025-07-17, **Two-sided heat kernel bounds for $\sqrt{8/3}$-Liouville Brownian motion**, Sebastian Andres et.al., Paper: [http://arxiv.org/abs/2507.13269v1](http://arxiv.org/abs/2507.13269v1)
+- 2025-07-17, **On Accelerated Mixing of the No-U-turn Sampler**, Stefan Oberdörster et.al., Paper: [http://arxiv.org/abs/2507.13259v1](http://arxiv.org/abs/2507.13259v1)
+- 2025-07-17, **VITA: Vision-to-Action Flow Matching Policy**, Dechen Gao et.al., Paper: [http://arxiv.org/abs/2507.13231v1](http://arxiv.org/abs/2507.13231v1)
+- 2025-07-17, **Multi-wavelength study of the high Galactic latitude supernova remnant candidate \snr\ associated with the Calvera pulsar**, Emanuele Greco et.al., Paper: [http://arxiv.org/abs/2507.13210v1](http://arxiv.org/abs/2507.13210v1)
+- 2025-07-17, **fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**, Alicia Durrer et.al., Paper: [http://arxiv.org/abs/2507.13146v1](http://arxiv.org/abs/2507.13146v1)
+- 2025-07-17, **Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**, Christian Brand et.al., Paper: [http://arxiv.org/abs/2507.13109v1](http://arxiv.org/abs/2507.13109v1)
+- 2025-07-17, **Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**, Zhennan Xiao et.al., Paper: [http://arxiv.org/abs/2507.13106v1](http://arxiv.org/abs/2507.13106v1)
+- 2025-07-17, **GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training**, Adithyavairavan Murali et.al., Paper: [http://arxiv.org/abs/2507.13097v1](http://arxiv.org/abs/2507.13097v1)
+- 2025-07-17, **DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**, Han Zhang et.al., Paper: [http://arxiv.org/abs/2507.13087v1](http://arxiv.org/abs/2507.13087v1)
+- 2025-07-17, **Label-Consistent Dataset Distillation with Detector-Guided Refinement**, Yawen Zou et.al., Paper: [http://arxiv.org/abs/2507.13074v1](http://arxiv.org/abs/2507.13074v1)
+- 2025-07-17, **Exponential convergence for ultrafast diffusion equations with log-concave weights**, Max Fathi et.al., Paper: [http://arxiv.org/abs/2507.13060v1](http://arxiv.org/abs/2507.13060v1)
+- 2025-07-17, **Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**, Liuyi Wang et.al., Paper: [http://arxiv.org/abs/2507.13019v1](http://arxiv.org/abs/2507.13019v1)
 - 2025-07-16, **Revealing the impact of chemical short-range order on radiation damage in MoNbTaVW high-entropy alloys using a machine-learning potential**, Jiahui Liu et.al., Paper: [http://arxiv.org/abs/2507.12388v1](http://arxiv.org/abs/2507.12388v1)
 - 2025-07-16, **Convergence of drift-diffusion PDEs arising as Wasserstein gradient flows of convex functions**, Lénaïc Chizat et.al., Paper: [http://arxiv.org/abs/2507.12385v1](http://arxiv.org/abs/2507.12385v1)
 - 2025-07-16, **Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**, Subin Jeon et.al., Paper: [http://arxiv.org/abs/2507.12336v1](http://arxiv.org/abs/2507.12336v1)
@@ -14698,6 +14718,10 @@
 
 ## Diffusion_Segment
 
+- 2025-07-17, **Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**, Zhennan Xiao et.al., Paper: [http://arxiv.org/abs/2507.13106v1](http://arxiv.org/abs/2507.13106v1)
+- 2025-07-17, **DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**, Han Zhang et.al., Paper: [http://arxiv.org/abs/2507.13087v1](http://arxiv.org/abs/2507.13087v1)
+- 2025-07-17, **From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**, Jinseo An et.al., Paper: [http://arxiv.org/abs/2507.12985v1](http://arxiv.org/abs/2507.12985v1)
+- 2025-07-17, **LoViC: Efficient Long Video Generation with Context Compression**, Jiaxiu Jiang et.al., Paper: [http://arxiv.org/abs/2507.12952v1](http://arxiv.org/abs/2507.12952v1)
 - 2025-07-15, **HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**, Pan Du et.al., Paper: [http://arxiv.org/abs/2507.11474v1](http://arxiv.org/abs/2507.11474v1)
 - 2025-07-15, **Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**, Nicoletta Sanvitale et.al., Paper: [http://arxiv.org/abs/2507.11320v1](http://arxiv.org/abs/2507.11320v1)
 - 2025-07-15, **Diffusion Decoding for Peptide De Novo Sequencing**, Chi-en Amy Tai et.al., Paper: [http://arxiv.org/abs/2507.10955v1](http://arxiv.org/abs/2507.10955v1)
