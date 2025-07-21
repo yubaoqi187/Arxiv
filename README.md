@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Global $q$-dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106v1](http://arxiv.org/abs/2507.14106v1)|null|
+|**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058v1](http://arxiv.org/abs/2507.14058v1)|null|
+|**2025-07-18**|**CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models**|Quang-Binh Nguyen et.al.|[2507.13984v1](http://arxiv.org/abs/2507.13984v1)|null|
+|**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942v1](http://arxiv.org/abs/2507.13942v1)|null|
+|**2025-07-18**|**DiViD: Disentangled Video Diffusion for Static-Dynamic Factorization**|Marzieh Gheisari et.al.|[2507.13934v1](http://arxiv.org/abs/2507.13934v1)|null|
+|**2025-07-18**|**Linear response and exact hydrodynamic projections in Lindblad equations with decoupled Bogoliubov hierarchies**|Patrik Penc et.al.|[2507.13867v1](http://arxiv.org/abs/2507.13867v1)|null|
+|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813v1](http://arxiv.org/abs/2507.13813v1)|null|
+|**2025-07-18**|**Modulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase**|Simon Gabriel et.al.|[2507.13799v1](http://arxiv.org/abs/2507.13799v1)|null|
+|**2025-07-18**|**DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance**|Huu-Phu Do et.al.|[2507.13797v1](http://arxiv.org/abs/2507.13797v1)|null|
+|**2025-07-18**|**MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development**|Mykola Glybovets et.al.|[2507.13785v1](http://arxiv.org/abs/2507.13785v1)|null|
+|**2025-07-18**|**Learning Spectral Diffusion Prior for Hyperspectral Image Reconstruction**|Mingyang Yu et.al.|[2507.13769v1](http://arxiv.org/abs/2507.13769v1)|null|
+|**2025-07-18**|**Robust Surface-Induced Enhancement of Exciton Transport in Magic-Angle-Oriented Molecular Aggregates**|Siwei Wang et.al.|[2507.13755v1](http://arxiv.org/abs/2507.13755v1)|null|
+|**2025-07-18**|**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis**|Tongtong Su et.al.|[2507.13753v1](http://arxiv.org/abs/2507.13753v1)|null|
+|**2025-07-18**|**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2507.13739v1](http://arxiv.org/abs/2507.13739v1)|null|
+|**2025-07-18**|**PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement**|Sofia Jamil et.al.|[2507.13708v1](http://arxiv.org/abs/2507.13708v1)|null|
+|**2025-07-18**|**The Double-Episode Jet Genesis of the eROSITA and Fermi Bubbles**|Ruiyu Zhang et.al.|[2507.13665v1](http://arxiv.org/abs/2507.13665v1)|null|
+|**2025-07-18**|**A Generalized Multinodal Model for Plasma Particle and Energy Transport**|Zefang Liu et.al.|[2507.13627v1](http://arxiv.org/abs/2507.13627v1)|null|
+|**2025-07-18**|**Efficient Burst Super-Resolution with One-step Diffusion**|Kento Kawai et.al.|[2507.13607v1](http://arxiv.org/abs/2507.13607v1)|null|
+|**2025-07-18**|**Learning Deblurring Texture Prior from Unpaired Data with Diffusion Model**|Chengxu Liu et.al.|[2507.13599v1](http://arxiv.org/abs/2507.13599v1)|null|
+|**2025-07-18**|**GIFT: Gradient-aware Immunization of diffusion models against malicious Fine-Tuning with safe concepts retention**|Amro Abdalla et.al.|[2507.13598v1](http://arxiv.org/abs/2507.13598v1)|null|
 |**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349v1](http://arxiv.org/abs/2507.13349v1)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
 |**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343v1](http://arxiv.org/abs/2507.13343v1)|null|
