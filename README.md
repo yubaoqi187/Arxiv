@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 
 ## Diffusion
 
@@ -17,7 +17,7 @@
 |**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231v1](http://arxiv.org/abs/2507.13231v1)|null|
 |**2025-07-17**|**Multi-wavelength study of the high Galactic latitude supernova remnant candidate \snr\ associated with the Calvera pulsar**|Emanuele Greco et.al.|[2507.13210v1](http://arxiv.org/abs/2507.13210v1)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146v1](http://arxiv.org/abs/2507.13146v1)|null|
-|**2025-07-17**|**Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**|Christian Brand et.al.|[2507.13109v1](http://arxiv.org/abs/2507.13109v1)|null|
+|**2025-07-18**|**Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)**|Christian Brand et.al.|[2507.13109v2](http://arxiv.org/abs/2507.13109v2)|null|
 |**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106v1](http://arxiv.org/abs/2507.13106v1)|null|
 |**2025-07-17**|**GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training**|Adithyavairavan Murali et.al.|[2507.13097v1](http://arxiv.org/abs/2507.13097v1)|null|
 |**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087v1](http://arxiv.org/abs/2507.13087v1)|null|
