@@ -4,6 +4,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857v1](http://arxiv.org/abs/2507.15857v1)|null|
+|**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809v1](http://arxiv.org/abs/2507.15809v1)|null|
+|**2025-07-21**|**Deterministic Quantum Search via Recursive Oracle Expansion**|John Burke et.al.|[2507.15797v1](http://arxiv.org/abs/2507.15797v1)|null|
+|**2025-07-21**|**DiffuMeta: Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers**|Li Zheng et.al.|[2507.15753v1](http://arxiv.org/abs/2507.15753v1)|null|
+|**2025-07-21**|**Relationship between Structure and Dynamics of an Icosahedral Quasicrystal using Unsupervised Machine Learning**|Edwin A. Bedolla-Montiel et.al.|[2507.15731v1](http://arxiv.org/abs/2507.15731v1)|null|
+|**2025-07-21**|**Qualitative properties of solutions to parabolic anisotropic equations: Part II -- The anisotropic Trudinger's equation**|Simone Ciani et.al.|[2507.15730v1](http://arxiv.org/abs/2507.15730v1)|null|
+|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728v1](http://arxiv.org/abs/2507.15728v1)|null|
+|**2025-07-21**|**A Practical Investigation of Spatially-Controlled Image Generation with Transformers**|Guoxuan Xia et.al.|[2507.15724v1](http://arxiv.org/abs/2507.15724v1)|null|
+|**2025-07-21**|**Schauder estimates for parabolic $p$-Laplace systems**|Verena Bögelein et.al.|[2507.15722v1](http://arxiv.org/abs/2507.15722v1)|null|
+|**2025-07-21**|**DiffPF: Differentiable Particle Filtering with Generative Sampling via Conditional Diffusion Models**|Ziyu Wan et.al.|[2507.15716v1](http://arxiv.org/abs/2507.15716v1)|null|
+|**2025-07-21**|**Evaluation of hydrogen diffusion and trapping in ferritic steels containing (Ti,Cr)C particles using electrochemical permeation and thermal desorption spectroscopy**|Nicholas Winzer et.al.|[2507.15711v1](http://arxiv.org/abs/2507.15711v1)|null|
+|**2025-07-21**|**SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models**|Giordano d'Aloisio et.al.|[2507.15663v1](http://arxiv.org/abs/2507.15663v1)|null|
+|**2025-07-21**|**Mathematical modeling and sensitivity analysis of hypoxia-activated drugs**|Alessandro Coclite et.al.|[2507.15642v1](http://arxiv.org/abs/2507.15642v1)|null|
+|**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595v1](http://arxiv.org/abs/2507.15595v1)|null|
+|**2025-07-21**|**Three-dimensional numerical study on hydrogen bubble growth at electrode**|Wei Qin et.al.|[2507.15582v1](http://arxiv.org/abs/2507.15582v1)|null|
+|**2025-07-21**|**Ultrafast Spatial Hole Burning Dynamics in Monolayer WS2: Insights from Time-resolved Photoluminescence Spectroscopy**|Yichun Pan et.al.|[2507.15538v1](http://arxiv.org/abs/2507.15538v1)|null|
+|**2025-07-21**|**Strategy Evolution in the Adoption of Conservation Tillage Technology under Time Preference Heterogeneity and Lemon Market: Insights from Evolutionary Dynamics**|Dingyi Wang et.al.|[2507.15497v1](http://arxiv.org/abs/2507.15497v1)|null|
+|**2025-07-21**|**An Adaptive Random Fourier Features approach Applied to Learning Stochastic Differential Equations**|Owen Douglas et.al.|[2507.15442v1](http://arxiv.org/abs/2507.15442v1)|null|
+|**2025-07-21**|**Blended Point Cloud Diffusion for Localized Text-guided Shape Editing**|Etai Sella et.al.|[2507.15399v1](http://arxiv.org/abs/2507.15399v1)|null|
+|**2025-07-21**|**Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**|Muhammad Aqeel et.al.|[2507.15361v1](http://arxiv.org/abs/2507.15361v1)|null|
 |**2025-07-18**|**Global $q$-dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106v1](http://arxiv.org/abs/2507.14106v1)|null|
 |**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058v1](http://arxiv.org/abs/2507.14058v1)|null|
 |**2025-07-18**|**CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models**|Quang-Binh Nguyen et.al.|[2507.13984v1](http://arxiv.org/abs/2507.13984v1)|null|
@@ -5203,6 +5223,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595v1](http://arxiv.org/abs/2507.15595v1)|null|
+|**2025-07-21**|**Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**|Muhammad Aqeel et.al.|[2507.15361v1](http://arxiv.org/abs/2507.15361v1)|null|
+|**2025-07-20**|**Paired Image Generation with Diffusion-Guided Diffusion Models**|Haoxuan Zhang et.al.|[2507.14833v1](http://arxiv.org/abs/2507.14833v1)|null|
+|**2025-07-20**|**SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**|Jiaji Zhang et.al.|[2507.14811v1](http://arxiv.org/abs/2507.14811v1)|null|
 |**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106v1](http://arxiv.org/abs/2507.13106v1)|null|
 |**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087v1](http://arxiv.org/abs/2507.13087v1)|null|
 |**2025-07-17**|**From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**|Jinseo An et.al.|[2507.12985v1](http://arxiv.org/abs/2507.12985v1)|null|
