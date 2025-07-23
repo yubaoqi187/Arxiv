@@ -9541,6 +9541,26 @@
 
 ## Diffusion
 
+- 2025-07-22, **Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**, Dayu Fan et.al., Paper: [http://arxiv.org/abs/2507.16733v1](http://arxiv.org/abs/2507.16733v1)
+- 2025-07-22, **HarmonPaint: Harmonized Training-Free Diffusion Inpainting**, Ying Li et.al., Paper: [http://arxiv.org/abs/2507.16732v1](http://arxiv.org/abs/2507.16732v1)
+- 2025-07-22, **A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**, Tolga Çukur et.al., Paper: [http://arxiv.org/abs/2507.16715v1](http://arxiv.org/abs/2507.16715v1)
+- 2025-07-22, **Existence and Uniqueness of Solutions to Nonlinear Diffusion with Memory in Random Media**, Yixian Chen et.al., Paper: [http://arxiv.org/abs/2507.16659v1](http://arxiv.org/abs/2507.16659v1)
+- 2025-07-22, **Time integration of dissipative stochastic PDEs**, Helena Biščević et.al., Paper: [http://arxiv.org/abs/2507.16658v1](http://arxiv.org/abs/2507.16658v1)
+- 2025-07-22, **Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis**, Xiaojiao Xiao et.al., Paper: [http://arxiv.org/abs/2507.16579v1](http://arxiv.org/abs/2507.16579v1)
+- 2025-07-22, **Low D/H ratio for benzonitrile in TMC-1: Implication for the origin of polycyclic aromatic hydrocarbons in cold dark clouds**, A. L. Steber et.al., Paper: [http://arxiv.org/abs/2507.16552v1](http://arxiv.org/abs/2507.16552v1)
+- 2025-07-22, **Exploring the properties of newborn pulsars with high-energy neutrinos**, Zi-Zhuo Xiao et.al., Paper: [http://arxiv.org/abs/2507.16551v1](http://arxiv.org/abs/2507.16551v1)
+- 2025-07-22, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v1](http://arxiv.org/abs/2507.16535v1)
+- 2025-07-22, **Revisiting boundary-driven method for transport: Finite-size effects and the role of system-bath coupling**, Mariel Kempa et.al., Paper: [http://arxiv.org/abs/2507.16528v1](http://arxiv.org/abs/2507.16528v1)
+- 2025-07-22, **Fast magneto-acoustic waves in the solar chromosphere: Comparison of single-fluid and two-fluid approximations**, M. M. Gómez Míguez et.al., Paper: [http://arxiv.org/abs/2507.16460v1](http://arxiv.org/abs/2507.16460v1)
+- 2025-07-22, **On the existence of a singular limit equation for a model of a self-propelled object motion**, Masaharu Nagayama et.al., Paper: [http://arxiv.org/abs/2507.16447v1](http://arxiv.org/abs/2507.16447v1)
+- 2025-07-22, **Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**, Lin Xi et.al., Paper: [http://arxiv.org/abs/2507.16429v1](http://arxiv.org/abs/2507.16429v1)
+- 2025-07-22, **Observation of VER J2019+368 with the SST-1M stereoscopic system**, Jakub Juryšek et.al., Paper: [http://arxiv.org/abs/2507.16408v1](http://arxiv.org/abs/2507.16408v1)
+- 2025-07-22, **Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**, Tanveer Younis et.al., Paper: [http://arxiv.org/abs/2507.16406v1](http://arxiv.org/abs/2507.16406v1)
+- 2025-07-22, **Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**, Xian Mo et.al., Paper: [http://arxiv.org/abs/2507.16396v1](http://arxiv.org/abs/2507.16396v1)
+- 2025-07-22, **Diff-ANO: Towards Fast High-Resolution Ultrasound Computed Tomography via Conditional Consistency Models and Adjoint Neural Operators**, Xiang Cao et.al., Paper: [http://arxiv.org/abs/2507.16344v1](http://arxiv.org/abs/2507.16344v1)
+- 2025-07-22, **Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**, Mingtao Guo et.al., Paper: [http://arxiv.org/abs/2507.16341v1](http://arxiv.org/abs/2507.16341v1)
+- 2025-07-22, **Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**, Boheng Li et.al., Paper: [http://arxiv.org/abs/2507.16302v1](http://arxiv.org/abs/2507.16302v1)
+- 2025-07-22, **Pontryagin Maximum Principle for McKean-Vlasov Reaction-Diffusion Equations**, Johan Benedikt Spille et.al., Paper: [http://arxiv.org/abs/2507.16288v1](http://arxiv.org/abs/2507.16288v1)
 - 2025-07-21, **Diffusion Beats Autoregressive in Data-Constrained Settings**, Mihir Prabhudesai et.al., Paper: [http://arxiv.org/abs/2507.15857v1](http://arxiv.org/abs/2507.15857v1)
 - 2025-07-21, **Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**, Roberto Miele et.al., Paper: [http://arxiv.org/abs/2507.15809v1](http://arxiv.org/abs/2507.15809v1)
 - 2025-07-21, **Deterministic Quantum Search via Recursive Oracle Expansion**, John Burke et.al., Paper: [http://arxiv.org/abs/2507.15797v1](http://arxiv.org/abs/2507.15797v1)
@@ -14758,6 +14778,8 @@
 
 ## Diffusion_Segment
 
+- 2025-07-22, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v1](http://arxiv.org/abs/2507.16535v1)
+- 2025-07-22, **Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**, Lin Xi et.al., Paper: [http://arxiv.org/abs/2507.16429v1](http://arxiv.org/abs/2507.16429v1)
 - 2025-07-21, **SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**, Salah Eddine Bekhouche et.al., Paper: [http://arxiv.org/abs/2507.15595v1](http://arxiv.org/abs/2507.15595v1)
 - 2025-07-21, **Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**, Muhammad Aqeel et.al., Paper: [http://arxiv.org/abs/2507.15361v1](http://arxiv.org/abs/2507.15361v1)
 - 2025-07-20, **Paired Image Generation with Diffusion-Guided Diffusion Models**, Haoxuan Zhang et.al., Paper: [http://arxiv.org/abs/2507.14833v1](http://arxiv.org/abs/2507.14833v1)
