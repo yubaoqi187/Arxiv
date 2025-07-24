@@ -1,4 +1,4 @@
-> Updated on 2025.07.23
+> Updated on 2025.07.24
 
 ## Video_Classification
 
@@ -9549,7 +9549,7 @@
 - 2025-07-22, **Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis**, Xiaojiao Xiao et.al., Paper: [http://arxiv.org/abs/2507.16579v1](http://arxiv.org/abs/2507.16579v1)
 - 2025-07-22, **Low D/H ratio for benzonitrile in TMC-1: Implication for the origin of polycyclic aromatic hydrocarbons in cold dark clouds**, A. L. Steber et.al., Paper: [http://arxiv.org/abs/2507.16552v1](http://arxiv.org/abs/2507.16552v1)
 - 2025-07-22, **Exploring the properties of newborn pulsars with high-energy neutrinos**, Zi-Zhuo Xiao et.al., Paper: [http://arxiv.org/abs/2507.16551v1](http://arxiv.org/abs/2507.16551v1)
-- 2025-07-22, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v1](http://arxiv.org/abs/2507.16535v1)
+- 2025-07-23, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v2](http://arxiv.org/abs/2507.16535v2)
 - 2025-07-22, **Revisiting boundary-driven method for transport: Finite-size effects and the role of system-bath coupling**, Mariel Kempa et.al., Paper: [http://arxiv.org/abs/2507.16528v1](http://arxiv.org/abs/2507.16528v1)
 - 2025-07-22, **Fast magneto-acoustic waves in the solar chromosphere: Comparison of single-fluid and two-fluid approximations**, M. M. Gómez Míguez et.al., Paper: [http://arxiv.org/abs/2507.16460v1](http://arxiv.org/abs/2507.16460v1)
 - 2025-07-22, **On the existence of a singular limit equation for a model of a self-propelled object motion**, Masaharu Nagayama et.al., Paper: [http://arxiv.org/abs/2507.16447v1](http://arxiv.org/abs/2507.16447v1)
@@ -14778,12 +14778,12 @@
 
 ## Diffusion_Segment
 
-- 2025-07-22, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v1](http://arxiv.org/abs/2507.16535v1)
+- 2025-07-23, **EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**, Shang Liu et.al., Paper: [http://arxiv.org/abs/2507.16535v2](http://arxiv.org/abs/2507.16535v2)
 - 2025-07-22, **Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**, Lin Xi et.al., Paper: [http://arxiv.org/abs/2507.16429v1](http://arxiv.org/abs/2507.16429v1)
 - 2025-07-21, **SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**, Salah Eddine Bekhouche et.al., Paper: [http://arxiv.org/abs/2507.15595v1](http://arxiv.org/abs/2507.15595v1)
 - 2025-07-21, **Latent Space Synergy: Text-Guided Data Augmentation for Direct Diffusion Biomedical Segmentation**, Muhammad Aqeel et.al., Paper: [http://arxiv.org/abs/2507.15361v1](http://arxiv.org/abs/2507.15361v1)
 - 2025-07-20, **Paired Image Generation with Diffusion-Guided Diffusion Models**, Haoxuan Zhang et.al., Paper: [http://arxiv.org/abs/2507.14833v1](http://arxiv.org/abs/2507.14833v1)
-- 2025-07-20, **SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**, Jiaji Zhang et.al., Paper: [http://arxiv.org/abs/2507.14811v1](http://arxiv.org/abs/2507.14811v1)
+- 2025-07-23, **SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models**, Jiaji Zhang et.al., Paper: [http://arxiv.org/abs/2507.14811v2](http://arxiv.org/abs/2507.14811v2)
 - 2025-07-17, **Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**, Zhennan Xiao et.al., Paper: [http://arxiv.org/abs/2507.13106v1](http://arxiv.org/abs/2507.13106v1)
 - 2025-07-17, **DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**, Han Zhang et.al., Paper: [http://arxiv.org/abs/2507.13087v1](http://arxiv.org/abs/2507.13087v1)
 - 2025-07-17, **From Variability To Accuracy: Conditional Bernoulli Diffusion Models with Consensus-Driven Correction for Thin Structure Segmentation**, Jinseo An et.al., Paper: [http://arxiv.org/abs/2507.12985v1](http://arxiv.org/abs/2507.12985v1)
@@ -14797,7 +14797,7 @@
 - 2025-07-11, **From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**, Sen Wang et.al., Paper: [http://arxiv.org/abs/2507.08380v1](http://arxiv.org/abs/2507.08380v1)
 - 2025-07-14, **Token-based Audio Inpainting via Discrete Diffusion**, Tali Dror et.al., Paper: [http://arxiv.org/abs/2507.08333v2](http://arxiv.org/abs/2507.08333v2)
 - 2025-07-07, **Review, Remask, Refine (R3): Process-Guided Block Diffusion for Text Generation**, Nikita Mounier et.al., Paper: [http://arxiv.org/abs/2507.08018v1](http://arxiv.org/abs/2507.08018v1)
-- 2025-07-10, **Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**, Chunyan Wang et.al., Paper: [http://arxiv.org/abs/2507.07578v1](http://arxiv.org/abs/2507.07578v1)
+- 2025-07-23, **Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**, Chunyan Wang et.al., Paper: [http://arxiv.org/abs/2507.07578v2](http://arxiv.org/abs/2507.07578v2)
 - 2025-07-10, **Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**, Fei Teng et.al., Paper: [http://arxiv.org/abs/2507.06971v2](http://arxiv.org/abs/2507.06971v2)
 - 2025-07-14, **Democratizing High-Fidelity Co-Speech Gesture Video Generation**, Xu Yang et.al., Paper: [http://arxiv.org/abs/2507.06812v2](http://arxiv.org/abs/2507.06812v2)
 - 2025-07-22, **Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**, Xinyu Wu et.al., Paper: [http://arxiv.org/abs/2507.06605v2](http://arxiv.org/abs/2507.06605v2)
