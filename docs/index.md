@@ -8,6 +8,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745v1](http://arxiv.org/abs/2507.17745v1)|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744v1](http://arxiv.org/abs/2507.17744v1)|null|
+|**2025-07-23**|**Beyond the Dot: an LRD-like nucleus at the Heart of an IR-Bright Galaxy and its implications for high-redshift LRDs**|Pierluigi Rinaldi et.al.|[2507.17738v1](http://arxiv.org/abs/2507.17738v1)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731v1](http://arxiv.org/abs/2507.17731v1)|null|
+|**2025-07-23**|**From Fiber Tracts to Tumor Spread: Biophysical Modeling of Butterfly Glioma Growth Using Diffusion Tensor Imaging**|Jonas Weidner et.al.|[2507.17707v1](http://arxiv.org/abs/2507.17707v1)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651v1](http://arxiv.org/abs/2507.17651v1)|null|
+|**2025-07-23**|**Minimal Dark Matter in the sky: updated Indirect Detection probes**|Mohammad Aghaie et.al.|[2507.17607v1](http://arxiv.org/abs/2507.17607v1)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[2507.17596v1](http://arxiv.org/abs/2507.17596v1)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588v1](http://arxiv.org/abs/2507.17588v1)|null|
+|**2025-07-23**|**Atomistic modeling of uranium monocarbide with a machine learning interatomic potential**|Lorena Alzate-Vargas et.al.|[2507.17576v1](http://arxiv.org/abs/2507.17576v1)|null|
+|**2025-07-23**|**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization**|Xide Xu et.al.|[2507.17554v1](http://arxiv.org/abs/2507.17554v1)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511v1](http://arxiv.org/abs/2507.17511v1)|null|
+|**2025-07-23**|**Exact results for active particle models: from long-range interactions to first-passage properties**|Léo Touzo et.al.|[2507.17504v1](http://arxiv.org/abs/2507.17504v1)|null|
+|**2025-07-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al.|[2507.17486v1](http://arxiv.org/abs/2507.17486v1)|null|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416v1](http://arxiv.org/abs/2507.17416v1)|null|
+|**2025-07-23**|**PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining**|Xuanyu Lin et.al.|[2507.17296v1](http://arxiv.org/abs/2507.17296v1)|null|
+|**2025-07-23**|**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**|Jianxin Bi et.al.|[2507.17294v1](http://arxiv.org/abs/2507.17294v1)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268v1](http://arxiv.org/abs/2507.17268v1)|null|
+|**2025-07-23**|**Restricted Boltzmann machine as a probabilistic Enigma**|Bin Chen et.al.|[2507.17236v1](http://arxiv.org/abs/2507.17236v1)|null|
+|**2025-07-23**|**Asymptotic stability of the $2D$ temperature-dependent tropical climate model with the sharp decay rates**|Hyunjin In et.al.|[2507.17197v1](http://arxiv.org/abs/2507.17197v1)|null|
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733v1](http://arxiv.org/abs/2507.16733v1)|null|
 |**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732v1](http://arxiv.org/abs/2507.16732v1)|null|
 |**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715v1](http://arxiv.org/abs/2507.16715v1)|null|
@@ -5247,6 +5267,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416v1](http://arxiv.org/abs/2507.17416v1)|null|
+|**2025-07-23**|**PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining**|Xuanyu Lin et.al.|[2507.17296v1](http://arxiv.org/abs/2507.17296v1)|null|
+|**2025-07-22**|**DDFEM: A Python Package for Diffuse Domain Methods**|Luke Benfield et.al.|[2507.16964v1](http://arxiv.org/abs/2507.16964v1)|null|
 |**2025-07-23**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535v2](http://arxiv.org/abs/2507.16535v2)|null|
 |**2025-07-22**|**Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**|Lin Xi et.al.|[2507.16429v1](http://arxiv.org/abs/2507.16429v1)|null|
 |**2025-07-21**|**SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging**|Salah Eddine Bekhouche et.al.|[2507.15595v1](http://arxiv.org/abs/2507.15595v1)|null|
